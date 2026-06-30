@@ -1,0 +1,148 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 1.6944444444444446
+    },
+    {
+      "university": "VNU University of Law",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "University of Law Ho Chi Minh City",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.2
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Law University": [
+      {
+        "author": "Huong Thi Lan Phan",
+        "contribution": 0.31770833333333337,
+        "percent": 0.1875
+      },
+      {
+        "author": "Kien Trung Doan",
+        "contribution": 0.31770833333333337,
+        "percent": 0.1875
+      },
+      {
+        "author": "Uyen To Doan",
+        "contribution": 0.31770833333333337,
+        "percent": 0.1875
+      },
+      {
+        "author": "Hung Manh Chu",
+        "contribution": 0.31770833333333337,
+        "percent": 0.1875
+      },
+      {
+        "author": "Thi Hong Yen Nguyen",
+        "contribution": 0.31770833333333337,
+        "percent": 0.1875
+      },
+      {
+        "author": "QUY VAN DUONG",
+        "contribution": 0.10590277777777779,
+        "percent": 0.0625
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Nguyen Thi Hai Van",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "University of Law Ho Chi Minh City": [
+      {
+        "author": "Chu Van Ninh",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Tran Quoc Viet",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Law": [
+      {
+        "author": "Xuan Hai Bui",
+        "contribution": 0.625,
+        "percent": 0.7500000000000001
+      },
+      {
+        "author": "Ngo Thi Minh Huong",
+        "contribution": 0.10416666666666666,
+        "percent": 0.125
+      },
+      {
+        "author": "Vu Cong Giao",
+        "contribution": 0.10416666666666666,
+        "percent": 0.125
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "LIEM VAN DINH",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "THANG NGOC DINH",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Law University": {
+      "Constitutional law": 1.6944444444444446,
+      "Human rights law": 1.6944444444444446,
+      "International law": 0.9166666666666666,
+      "Public Law": 0.6666666666666666,
+      "Administrative law": 0.3611111111111111
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Constitutional law": 0.25,
+      "Comparative law": 0.25
+    },
+    "University of Law Ho Chi Minh City": {
+      "Constitutional law": 0.25,
+      "Comparative law": 0.25
+    },
+    "Vietnam National University, Hanoi": {
+      "Constitutional law": 0.2,
+      "Human rights law": 0.2,
+      "Public Administration": 0.2,
+      "Policy analysis and Policy studies": 0.2,
+      "International law": 0.2
+    },
+    "VNU University of Law": {
+      "Constitutional law": 0.8333333333333333,
+      "Human rights law": 0.8333333333333333,
+      "International law": 0.8333333333333333,
+      "Political theory and philosophy": 0.16666666666666666
+    },
+    "Vinh University": {
+      "Administrative law": 0.2222222222222222,
+      "Constitutional law": 0.2222222222222222,
+      "Human rights law": 0.2222222222222222
+    }
+  },
+  "totalPapers": 31334
+}

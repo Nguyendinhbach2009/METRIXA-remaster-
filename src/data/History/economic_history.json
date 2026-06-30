@@ -1,0 +1,94 @@
+{
+  "ranking": [
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "University of Science and Education - The University of Da Nang",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.3333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Thu Dau Mot University": [
+      {
+        "author": "Pham Van Thinh",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Thi Mai Linh Trinh",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Education - The University of Da Nang": [
+      {
+        "author": "N. V. Sang",
+        "contribution": 0.1458333333333333,
+        "percent": 0.24999999999999994
+      },
+      {
+        "author": "L. Trang",
+        "contribution": 0.1458333333333333,
+        "percent": 0.24999999999999994
+      },
+      {
+        "author": "Nguyen Van Sang",
+        "contribution": 0.04861111111111109,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Luu Trang",
+        "contribution": 0.04861111111111109,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Phan Nguyen Huy Chinh",
+        "contribution": 0.04861111111111109,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Phan Truong Hoang My",
+        "contribution": 0.04861111111111109,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Nguyen Thi Kim Tien",
+        "contribution": 0.04861111111111109,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Nguyen Thi Hong Yen",
+        "contribution": 0.04861111111111109,
+        "percent": 0.08333333333333331
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Thu Dau Mot University": {
+      "Cultural history": 0.6666666666666666,
+      "Economic history": 0.6666666666666666,
+      "History of science": 0.3333333333333333,
+      "Historiography": 0.3333333333333333
+    },
+    "HCMC University of Technology and Education": {
+      "Economic history": 0.3333333333333333,
+      "Political history": 0.3333333333333333,
+      "Policy analysis and Policy studies": 0.3333333333333333
+    },
+    "University of Science and Education - The University of Da Nang": {
+      "Economic history": 0.5833333333333333,
+      "Diplomatic history": 0.5833333333333333,
+      "Political history": 0.5833333333333333,
+      "Military history": 0.24999999999999997
+    }
+  },
+  "totalPapers": 31334
+}

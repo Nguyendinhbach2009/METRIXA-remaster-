@@ -1,0 +1,173 @@
+{
+  "ranking": [
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.26986670736670737
+    },
+    {
+      "university": "Vietnam Petroleum Institute",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Medicine and Pharmacy, Hue University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Vietnam Institute of Geosciences and Mineral Resources",
+      "totalContribution": 0.061742424242424244
+    },
+    {
+      "university": "Vietnam Petroleum Institute - VPI",
+      "totalContribution": 0.04
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Medicine and Pharmacy, Hue University": [
+      {
+        "author": "Ba Hoang Anh Mai",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Petroleum Institute": [
+      {
+        "author": "Mai Hoang Dam",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Tham",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Quang Tuan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Truong Van Do",
+        "contribution": 0.1037210120840014,
+        "percent": 0.38434163701067614
+      },
+      {
+        "author": "Nguyen Trung Minh",
+        "contribution": 0.04085979263915207,
+        "percent": 0.1514073115496603
+      },
+      {
+        "author": "Phan Dong Pha",
+        "contribution": 0.031779838719340495,
+        "percent": 0.11776124231640245
+      },
+      {
+        "author": "ザン ディン フン",
+        "contribution": 0.023834879039505374,
+        "percent": 0.08832093173730185
+      },
+      {
+        "author": "グエン バ フン",
+        "contribution": 0.023834879039505374,
+        "percent": 0.08832093173730185
+      },
+      {
+        "author": "グエン チュン ミン",
+        "contribution": 0.023834879039505374,
+        "percent": 0.08832093173730185
+      },
+      {
+        "author": "Hung Ba Nguyen",
+        "contribution": 0.02200142680569727,
+        "percent": 0.08152701391135556
+      }
+    ],
+    "Vietnam Petroleum Institute - VPI": [
+      {
+        "author": "L H Nga",
+        "contribution": 0.013333333333333332,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "N T T Thuy",
+        "contribution": 0.013333333333333332,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "D M Toan",
+        "contribution": 0.013333333333333332,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Institute of Geosciences and Mineral Resources": [
+      {
+        "author": "Phong Duc Nguyen",
+        "contribution": 0.04233766233766234,
+        "percent": 0.6857142857142857
+      },
+      {
+        "author": "グエン ダック フォン",
+        "contribution": 0.019404761904761904,
+        "percent": 0.3142857142857143
+      }
+    ],
+    "VNU University of Science": [
+      {
+        "author": "Ta Hoa Phuong",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Medicine and Pharmacy, Hue University": {
+      "Microbiology": 0.06666666666666667,
+      "Paleontology": 0.06666666666666667,
+      "Anatomy": 0.06666666666666667,
+      "Molecular Biology": 0.06666666666666667,
+      "Pathology": 0.06666666666666667
+    },
+    "Vietnam Petroleum Institute": {
+      "Petroleum geology": 0.25,
+      "Sedimentology": 0.25,
+      "Paleontology": 0.25,
+      "Stratigraphy": 0.25
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Paleontology": 0.26986670736670737,
+      "Botany": 0.0989010989010989,
+      "Climatology": 0.05128205128205128,
+      "Biogeography": 0.08465608465608465,
+      "Sedimentology": 0.13392857142857142,
+      "Historical geology": 0.13392857142857142,
+      "Ecology": 0.07142857142857142,
+      "Stratigraphy": 0.0625,
+      "Evolutionary Biology": 0.037037037037037035
+    },
+    "Vietnam Petroleum Institute - VPI": {
+      "Geochemistry": 0.04,
+      "Sedimentology": 0.04,
+      "Petroleum geology": 0.04,
+      "Stratigraphy": 0.04,
+      "Paleontology": 0.04
+    },
+    "Vietnam Institute of Geosciences and Mineral Resources": {
+      "Paleontology": 0.061742424242424244,
+      "Stratigraphy": 0.061742424242424244,
+      "Sedimentology": 0.061742424242424244,
+      "Evolutionary Biology": 0.04090909090909091,
+      "Historical geology": 0.03901515151515152
+    },
+    "VNU University of Science": {
+      "Paleontology": 0.08333333333333333,
+      "Biogeography": 0.08333333333333333,
+      "Stratigraphy": 0.08333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

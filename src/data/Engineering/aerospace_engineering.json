@@ -1,0 +1,1880 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 6.209126984126983
+    },
+    {
+      "university": "University of Technology - Thai Nguyen University",
+      "totalContribution": 2.5174603174603174
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 2.0847222222222226
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 1.767857142857143
+    },
+    {
+      "university": "VNUHCM - University of Technology",
+      "totalContribution": 1.6722222222222225
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 1.5506944444444442
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 1.4720238095238098
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 1.0958333333333332
+    },
+    {
+      "university": "Vietnam Maritime University",
+      "totalContribution": 0.8083333333333333
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.7896825396825397
+    },
+    {
+      "university": "VNU University of Engineering and Technology",
+      "totalContribution": 0.6666666666666667
+    },
+    {
+      "university": "Viet Nam Aviation Academy",
+      "totalContribution": 0.6333333333333333
+    },
+    {
+      "university": "University of Transport and Communications",
+      "totalContribution": 0.5555555555555556
+    },
+    {
+      "university": "University of Information and Communication Technology - Thai Nguyen University",
+      "totalContribution": 0.5182539682539682
+    },
+    {
+      "university": "Fulbright University Vietnam",
+      "totalContribution": 0.5111111111111111
+    },
+    {
+      "university": "Lac Hong University",
+      "totalContribution": 0.4817460317460317
+    },
+    {
+      "university": "Hanoi University of Mining and Geology",
+      "totalContribution": 0.45833333333333326
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.45
+    },
+    {
+      "university": "Posts and Telecommunications Institute of Technology",
+      "totalContribution": 0.41666666666666663
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.3611111111111111
+    },
+    {
+      "university": "Institute of Mathematics",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Transport Technology",
+      "totalContribution": 0.3261904761904762
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.3
+    },
+    {
+      "university": "Vietnam National University, Ho Chi Minh City",
+      "totalContribution": 0.2777777777777778
+    },
+    {
+      "university": "Electric Power University",
+      "totalContribution": 0.2698412698412698
+    },
+    {
+      "university": "VNUHCM - University of Information Technology",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "University of Technology and Education - The University of Da Nang",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Hanoi University of Industry",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "University of Finance – Marketing",
+      "totalContribution": 0.19444444444444442
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.16
+    },
+    {
+      "university": "Ho Chi Minh City University of Transport",
+      "totalContribution": 0.15000000000000002
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.1468253968253968
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.14583333333333331
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.1125
+    },
+    {
+      "university": "Thai Binh University",
+      "totalContribution": 0.08888888888888888
+    },
+    {
+      "university": "Kien Giang University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi Achitectural University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "Vietnamese - German University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Dong Nai University of Technology",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "Hung Yen University of Technology and Education",
+      "totalContribution": 0.044444444444444446
+    },
+    {
+      "university": "Nha Trang University",
+      "totalContribution": 0.04
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.03571428571428571
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Sciences, Hue University": [
+      {
+        "author": "Tho C. Mai",
+        "contribution": 0.04,
+        "percent": 0.25
+      },
+      {
+        "author": "Cuong Q. Nguyen",
+        "contribution": 0.04,
+        "percent": 0.25
+      },
+      {
+        "author": "Le Huu Binh",
+        "contribution": 0.04,
+        "percent": 0.25
+      },
+      {
+        "author": "Tu T. Vo",
+        "contribution": 0.04,
+        "percent": 0.25
+      }
+    ],
+    "Nha Trang University": [
+      {
+        "author": "Ly T. H. Nguyen",
+        "contribution": 0.04,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Tien Hoa Nguyen",
+        "contribution": 0.4948450347881088,
+        "percent": 0.07969639468690703
+      },
+      {
+        "author": "Trinh Van Chien",
+        "contribution": 0.4398622531449856,
+        "percent": 0.07084123972169515
+      },
+      {
+        "author": "Duc-An Pham",
+        "contribution": 0.3298966898587392,
+        "percent": 0.05313092979127136
+      },
+      {
+        "author": "Duc-Toan Nguyen",
+        "contribution": 0.3298966898587392,
+        "percent": 0.05313092979127136
+      },
+      {
+        "author": "Hoang Thi Kim Dung",
+        "contribution": 0.3298966898587392,
+        "percent": 0.05313092979127136
+      },
+      {
+        "author": "Nguyen Phu Hung",
+        "contribution": 0.2474225173940544,
+        "percent": 0.03984819734345352
+      },
+      {
+        "author": "Luong Van Nguyen",
+        "contribution": 0.2199311265724928,
+        "percent": 0.035420619860847574
+      },
+      {
+        "author": "Dinh Quang Nguyen",
+        "contribution": 0.2199311265724928,
+        "percent": 0.035420619860847574
+      },
+      {
+        "author": "Nguyen Minh Quan",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Nguyen Van Nghi",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Vu Ngoc Long",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Luu Hong Quan",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Tan N. Nguyen",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Thu Nga Nguyen",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Trong Binh Nguyen",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "He Ngo Van",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Thuan Truong Van",
+        "contribution": 0.1649483449293696,
+        "percent": 0.02656546489563568
+      },
+      {
+        "author": "Mai Dinh Cong",
+        "contribution": 0.1099655632862464,
+        "percent": 0.017710309930423787
+      },
+      {
+        "author": "Tuan Anh Bui",
+        "contribution": 0.1099655632862464,
+        "percent": 0.017710309930423787
+      },
+      {
+        "author": "Minh Duc Pham",
+        "contribution": 0.1099655632862464,
+        "percent": 0.017710309930423787
+      },
+      {
+        "author": "Son Tung Dao",
+        "contribution": 0.1099655632862464,
+        "percent": 0.017710309930423787
+      },
+      {
+        "author": "Nguyen Doan Phuoc",
+        "contribution": 0.1099655632862464,
+        "percent": 0.017710309930423787
+      },
+      {
+        "author": "Thinh Tran Ich",
+        "contribution": 0.1099655632862464,
+        "percent": 0.017710309930423787
+      },
+      {
+        "author": "Sheng Hu",
+        "contribution": 0.09425619710249691,
+        "percent": 0.01518026565464896
+      },
+      {
+        "author": "Zhengqi Hu",
+        "contribution": 0.09425619710249691,
+        "percent": 0.01518026565464896
+      },
+      {
+        "author": "Ngo Van He",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Ngo Van Hien",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Van-Thuan Truong",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Ngoc-Tam Bui",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Nguyen Van Quang",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Nguyen Xuan Hung",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Pham Van Minh",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Tran Thi Minh Kieu",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Le Thi Tuyet Nhung",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Nguyen Van Y",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Dinh Cong Truong",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Vu Dinh Quy",
+        "contribution": 0.0824741724646848,
+        "percent": 0.01328273244781784
+      },
+      {
+        "author": "Duc Manh Le",
+        "contribution": 0.0549827816431232,
+        "percent": 0.008855154965211894
+      },
+      {
+        "author": "Anh Tuan Nguyen",
+        "contribution": 0.0549827816431232,
+        "percent": 0.008855154965211894
+      },
+      {
+        "author": "Thi Phuong Nguyen",
+        "contribution": 0.0549827816431232,
+        "percent": 0.008855154965211894
+      },
+      {
+        "author": "Minh Duc Khuong",
+        "contribution": 0.0549827816431232,
+        "percent": 0.008855154965211894
+      },
+      {
+        "author": "Duc Anh Nguyen",
+        "contribution": 0.0549827816431232,
+        "percent": 0.008855154965211894
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Van-Dinh Nguyen",
+        "contribution": 0.1125,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Nguyen Phu Khanh",
+        "contribution": 0.41093749999999996,
+        "percent": 0.375
+      },
+      {
+        "author": "Nguyen Cong Luong",
+        "contribution": 0.13697916666666665,
+        "percent": 0.125
+      },
+      {
+        "author": "Khoa Dang Nguyen",
+        "contribution": 0.13697916666666665,
+        "percent": 0.125
+      },
+      {
+        "author": "Minhhuy Le",
+        "contribution": 0.10273437499999999,
+        "percent": 0.09375
+      },
+      {
+        "author": "Duc Vu Le",
+        "contribution": 0.10273437499999999,
+        "percent": 0.09375
+      },
+      {
+        "author": "Tien Dat Le",
+        "contribution": 0.10273437499999999,
+        "percent": 0.09375
+      },
+      {
+        "author": "Hung Tran",
+        "contribution": 0.10273437499999999,
+        "percent": 0.09375
+      }
+    ],
+    "Posts and Telecommunications Institute of Technology": [
+      {
+        "author": "Phu Tran Gia Nguyen",
+        "contribution": 0.10416666666666666,
+        "percent": 0.25
+      },
+      {
+        "author": "Thang Nguyen",
+        "contribution": 0.078125,
+        "percent": 0.18750000000000003
+      },
+      {
+        "author": "Hoa Le",
+        "contribution": 0.078125,
+        "percent": 0.18750000000000003
+      },
+      {
+        "author": "Hien Pham",
+        "contribution": 0.078125,
+        "percent": 0.18750000000000003
+      },
+      {
+        "author": "Ngoc Dang",
+        "contribution": 0.078125,
+        "percent": 0.18750000000000003
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Anh-Tu Le",
+        "contribution": 0.19148936170212766,
+        "percent": 0.425531914893617
+      },
+      {
+        "author": "Quoc-Viet Luong",
+        "contribution": 0.07180851063829788,
+        "percent": 0.1595744680851064
+      },
+      {
+        "author": "Thi-My-Nu Ho",
+        "contribution": 0.07180851063829788,
+        "percent": 0.1595744680851064
+      },
+      {
+        "author": "Seung-Bok Choi",
+        "contribution": 0.057446808510638304,
+        "percent": 0.12765957446808512
+      },
+      {
+        "author": "Chi-Bao Le",
+        "contribution": 0.057446808510638304,
+        "percent": 0.12765957446808512
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Nhan Duc Nguyen",
+        "contribution": 0.18055555555555558,
+        "percent": 0.5000000000000001
+      },
+      {
+        "author": "Quoc Bao Diep",
+        "contribution": 0.18055555555555558,
+        "percent": 0.5000000000000001
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Nguyen Tho Thong",
+        "contribution": 0.25922431865828094,
+        "percent": 0.17610062893081757
+      },
+      {
+        "author": "Le Thi Hong Gam Lam",
+        "contribution": 0.25922431865828094,
+        "percent": 0.17610062893081757
+      },
+      {
+        "author": "Mohammad Yaghoub Abdollahzadeh Jamalabadi",
+        "contribution": 0.25922431865828094,
+        "percent": 0.17610062893081757
+      },
+      {
+        "author": "Dinh Thai Hoang",
+        "contribution": 0.10368972746331238,
+        "percent": 0.07044025157232704
+      },
+      {
+        "author": "Dinh-Thuan Do",
+        "contribution": 0.08640810621942698,
+        "percent": 0.05870020964360586
+      },
+      {
+        "author": "Nam V. Nguyen",
+        "contribution": 0.08640810621942698,
+        "percent": 0.05870020964360586
+      },
+      {
+        "author": "T. Nguyen-Thoi",
+        "contribution": 0.08640810621942698,
+        "percent": 0.05870020964360586
+      },
+      {
+        "author": "Ilyas Khan",
+        "contribution": 0.06480607966457023,
+        "percent": 0.04402515723270439
+      },
+      {
+        "author": "Shahaboddin Shamshirband",
+        "contribution": 0.05184486373165619,
+        "percent": 0.03522012578616352
+      },
+      {
+        "author": "Anh-Tu Le",
+        "contribution": 0.05184486373165619,
+        "percent": 0.03522012578616352
+      },
+      {
+        "author": "Phu Tran Tin",
+        "contribution": 0.05184486373165619,
+        "percent": 0.03522012578616352
+      },
+      {
+        "author": "Nguyen-Thoi Trung",
+        "contribution": 0.03703204552261156,
+        "percent": 0.02515723270440251
+      },
+      {
+        "author": "Thi Phuong Nguyen",
+        "contribution": 0.03703204552261156,
+        "percent": 0.02515723270440251
+      },
+      {
+        "author": "Hoang-Nam Nguyen",
+        "contribution": 0.03703204552261156,
+        "percent": 0.02515723270440251
+      }
+    ],
+    "VNUHCM - University of Technology": [
+      {
+        "author": "Hieu Khanh Ngo",
+        "contribution": 0.273015873015873,
+        "percent": 0.16326530612244894
+      },
+      {
+        "author": "Bao Anh Dinh",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Thien Hoang Nguyen",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Nghia Trong Nguyen",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Kiem Van Huynh",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Quang Anh Nguyen",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Khanh Hieu Ngo",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Quoc Hung Pham",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Trung Tien Tran",
+        "contribution": 0.1365079365079365,
+        "percent": 0.08163265306122447
+      },
+      {
+        "author": "Nhat Huu Nguyen",
+        "contribution": 0.10238095238095238,
+        "percent": 0.06122448979591835
+      },
+      {
+        "author": "Trung Van Le",
+        "contribution": 0.10238095238095238,
+        "percent": 0.06122448979591835
+      },
+      {
+        "author": "Chon Trung Le",
+        "contribution": 0.10238095238095238,
+        "percent": 0.06122448979591835
+      }
+    ],
+    "Vietnam Maritime University": [
+      {
+        "author": "Nguyen Hoang Thuy Trang",
+        "contribution": 0.27019498607242337,
+        "percent": 0.33426183844011137
+      },
+      {
+        "author": "Trang Nguyen Hoang Thuy",
+        "contribution": 0.09006499535747445,
+        "percent": 0.11142061281337044
+      },
+      {
+        "author": "Stanislav Shidlovskiy Viktorovich",
+        "contribution": 0.09006499535747445,
+        "percent": 0.11142061281337044
+      },
+      {
+        "author": "Cuong Nguyen The",
+        "contribution": 0.09006499535747445,
+        "percent": 0.11142061281337044
+      },
+      {
+        "author": "Hau Vu Xuan",
+        "contribution": 0.09006499535747445,
+        "percent": 0.11142061281337044
+      },
+      {
+        "author": "Thach Nguyen Dinh",
+        "contribution": 0.09006499535747445,
+        "percent": 0.11142061281337044
+      },
+      {
+        "author": "Dinh Ba Pham",
+        "contribution": 0.0878133704735376,
+        "percent": 0.10863509749303621
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Duy-Nam Bui",
+        "contribution": 0.2333333333333333,
+        "percent": 0.7777777777777777
+      },
+      {
+        "author": "Thu Hang Khuat",
+        "contribution": 0.06666666666666667,
+        "percent": 0.22222222222222224
+      }
+    ],
+    "Fulbright University Vietnam": [
+      {
+        "author": "Manh Duong Phung",
+        "contribution": 0.5111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "M Fattahi",
+        "contribution": 0.10720115218434945,
+        "percent": 0.06913106096975515
+      },
+      {
+        "author": "P D Uyen",
+        "contribution": 0.10720115218434945,
+        "percent": 0.06913106096975515
+      },
+      {
+        "author": "H. Nguyen-Xuan",
+        "contribution": 0.08933429348695787,
+        "percent": 0.05760921747479595
+      },
+      {
+        "author": "Van-Dien Nguyen",
+        "contribution": 0.08933429348695787,
+        "percent": 0.05760921747479595
+      },
+      {
+        "author": "Viet-Hung Dang",
+        "contribution": 0.08933429348695787,
+        "percent": 0.05760921747479595
+      },
+      {
+        "author": "Mehdi Hosseinzadeh",
+        "contribution": 0.08710093614978393,
+        "percent": 0.056168987037926055
+      },
+      {
+        "author": "Dac-Binh Ha",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Van-Truong Truong",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Tien-Vu Truong",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Thanh-Canh Huynh",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Nhat-Duc Hoang",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Xuan-Linh Tran",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Van Vo Nhan",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Dang Ngoc Cuong",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Tran Ban Thach",
+        "contribution": 0.0670007201152184,
+        "percent": 0.043206913106096964
+      },
+      {
+        "author": "Thuan-Hoang Tran",
+        "contribution": 0.05360057609217472,
+        "percent": 0.03456553048487757
+      },
+      {
+        "author": "Dong LT Tran",
+        "contribution": 0.05360057609217472,
+        "percent": 0.03456553048487757
+      },
+      {
+        "author": "Trang Le",
+        "contribution": 0.05360057609217472,
+        "percent": 0.03456553048487757
+      },
+      {
+        "author": "Tran Thuan Hoang",
+        "contribution": 0.05360057609217472,
+        "percent": 0.03456553048487757
+      },
+      {
+        "author": "Anand Nayyar",
+        "contribution": 0.044667146743478936,
+        "percent": 0.028804608737397975
+      },
+      {
+        "author": "Hoang T. Tran",
+        "contribution": 0.044667146743478936,
+        "percent": 0.028804608737397975
+      },
+      {
+        "author": "Amir Mosavi",
+        "contribution": 0.044667146743478936,
+        "percent": 0.028804608737397975
+      },
+      {
+        "author": "Quyet Van Le",
+        "contribution": 0.02977809782898596,
+        "percent": 0.019203072491598652
+      }
+    ],
+    "VNU University of Engineering and Technology": [
+      {
+        "author": "Duy Nam Bui",
+        "contribution": 0.2666666666666667,
+        "percent": 0.4
+      },
+      {
+        "author": "Hung Pham Duy",
+        "contribution": 0.13333333333333336,
+        "percent": 0.2
+      },
+      {
+        "author": "Thi Thanh Van Nguyen",
+        "contribution": 0.13333333333333336,
+        "percent": 0.2
+      },
+      {
+        "author": "Manh Duong Phung",
+        "contribution": 0.13333333333333336,
+        "percent": 0.2
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Huy Q. Tran",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5675675675675677
+      },
+      {
+        "author": "Van-Duc Phan",
+        "contribution": 0.03571428571428571,
+        "percent": 0.24324324324324326
+      },
+      {
+        "author": "Long H. Duong",
+        "contribution": 0.027777777777777776,
+        "percent": 0.1891891891891892
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Thanh-Thoai Le",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Information Technology": [
+      {
+        "author": "Le-Huy Trinh",
+        "contribution": 0.2222222222222222,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Mining and Geology": [
+      {
+        "author": "Tran Duc Trung",
+        "contribution": 0.3055555555555555,
+        "percent": 0.6666666666666667
+      },
+      {
+        "author": "Thao Phuong Thi Do",
+        "contribution": 0.07638888888888888,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Long Quoc Nguyen",
+        "contribution": 0.07638888888888888,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Lac Hong University": [
+      {
+        "author": "Tuan Tu Huynh",
+        "contribution": 0.25924889543446245,
+        "percent": 0.5381443298969073
+      },
+      {
+        "author": "Tien-Loc Le",
+        "contribution": 0.06257731958762887,
+        "percent": 0.12989690721649486
+      },
+      {
+        "author": "Nguyen Vu Quynh",
+        "contribution": 0.06257731958762887,
+        "percent": 0.12989690721649486
+      },
+      {
+        "author": "Ngo Kim Long",
+        "contribution": 0.06257731958762887,
+        "percent": 0.12989690721649486
+      },
+      {
+        "author": "Tien Nguyen",
+        "contribution": 0.034765177548682705,
+        "percent": 0.07216494845360825
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Le Thi Thanh",
+        "contribution": 0.7012987012987013,
+        "percent": 0.396694214876033
+      },
+      {
+        "author": "Xuan-Binh Lam",
+        "contribution": 0.35064935064935066,
+        "percent": 0.1983471074380165
+      },
+      {
+        "author": "Nguyen Ngoc Duong",
+        "contribution": 0.11688311688311688,
+        "percent": 0.06611570247933883
+      },
+      {
+        "author": "Nguyen Trung Kien",
+        "contribution": 0.11688311688311688,
+        "percent": 0.06611570247933883
+      },
+      {
+        "author": "Ha Le Nhu Ngoc Thanh",
+        "contribution": 0.10018552875695733,
+        "percent": 0.05667060212514757
+      },
+      {
+        "author": "Truong Nguyen Luan Vu",
+        "contribution": 0.10018552875695733,
+        "percent": 0.05667060212514757
+      },
+      {
+        "author": "Thinh Huynh",
+        "contribution": 0.08766233766233766,
+        "percent": 0.04958677685950413
+      },
+      {
+        "author": "Le Nhu Ngoc Thanh Ha",
+        "contribution": 0.05009276437847866,
+        "percent": 0.028335301062573787
+      },
+      {
+        "author": "Tan-Y Nguyen",
+        "contribution": 0.05009276437847866,
+        "percent": 0.028335301062573787
+      },
+      {
+        "author": "Truong-Thinh Nguyen",
+        "contribution": 0.05009276437847866,
+        "percent": 0.028335301062573787
+      },
+      {
+        "author": "Thanh Ha Le Nhu Ngoc",
+        "contribution": 0.04383116883116883,
+        "percent": 0.024793388429752063
+      }
+    ],
+    "University of Transport Technology": [
+      {
+        "author": "Duong Thi Ngoc Thu",
+        "contribution": 0.1053846153846154,
+        "percent": 0.3230769230769231
+      },
+      {
+        "author": "Vu Thanh Long",
+        "contribution": 0.07025641025641026,
+        "percent": 0.2153846153846154
+      },
+      {
+        "author": "Tho Hung Vu",
+        "contribution": 0.03010989010989011,
+        "percent": 0.09230769230769231
+      },
+      {
+        "author": "Hoai Nam Vu",
+        "contribution": 0.03010989010989011,
+        "percent": 0.09230769230769231
+      },
+      {
+        "author": "Thuy Dong Dang",
+        "contribution": 0.03010989010989011,
+        "percent": 0.09230769230769231
+      },
+      {
+        "author": "Ngoc Ly Le",
+        "contribution": 0.03010989010989011,
+        "percent": 0.09230769230769231
+      },
+      {
+        "author": "Thi Thanh Xuan Nguyen",
+        "contribution": 0.03010989010989011,
+        "percent": 0.09230769230769231
+      }
+    ],
+    "Viet Nam Aviation Academy": [
+      {
+        "author": "Le Doan Quang",
+        "contribution": 0.18095238095238098,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Thuần Văn Lưu",
+        "contribution": 0.12063492063492065,
+        "percent": 0.19047619047619052
+      },
+      {
+        "author": "Hiền Hồ Thị Vũ",
+        "contribution": 0.12063492063492065,
+        "percent": 0.19047619047619052
+      },
+      {
+        "author": "Vương Phạm Minh",
+        "contribution": 0.12063492063492065,
+        "percent": 0.19047619047619052
+      },
+      {
+        "author": "Thanh-Minh Phan",
+        "contribution": 0.09047619047619049,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "P.M.Tuan",
+        "contribution": 0.2022357723577236,
+        "percent": 0.2560975609756098
+      },
+      {
+        "author": "N. D. Tan",
+        "contribution": 0.2022357723577236,
+        "percent": 0.2560975609756098
+      },
+      {
+        "author": "Sang Le Quang",
+        "contribution": 0.1348238482384824,
+        "percent": 0.17073170731707318
+      },
+      {
+        "author": "Dao Nhu Mai",
+        "contribution": 0.1348238482384824,
+        "percent": 0.17073170731707318
+      },
+      {
+        "author": "Le Quang Sang",
+        "contribution": 0.05778164924506388,
+        "percent": 0.07317073170731708
+      },
+      {
+        "author": "Quynh T. Tran",
+        "contribution": 0.05778164924506388,
+        "percent": 0.07317073170731708
+      }
+    ],
+    "University of Technology - Thai Nguyen University": [
+      {
+        "author": "Nguyễn Tiến Hưng",
+        "contribution": 0.31393507521773534,
+        "percent": 0.12470308788598566
+      },
+      {
+        "author": "Minh T. Nguyen",
+        "contribution": 0.28403649662557,
+        "percent": 0.11282660332541558
+      },
+      {
+        "author": "Hoa T. Nguyen",
+        "contribution": 0.19434076084907426,
+        "percent": 0.07719714964370541
+      },
+      {
+        "author": "Toan V. Quyen",
+        "contribution": 0.19434076084907426,
+        "percent": 0.07719714964370541
+      },
+      {
+        "author": "Anh M. Le",
+        "contribution": 0.19434076084907426,
+        "percent": 0.07719714964370541
+      },
+      {
+        "author": "Hai Do",
+        "contribution": 0.12557403008709414,
+        "percent": 0.04988123515439427
+      },
+      {
+        "author": "Hoa Nguyen",
+        "contribution": 0.12557403008709414,
+        "percent": 0.04988123515439427
+      },
+      {
+        "author": "Mui Nguyen",
+        "contribution": 0.12557403008709414,
+        "percent": 0.04988123515439427
+      },
+      {
+        "author": "Minh Nguyen",
+        "contribution": 0.12557403008709414,
+        "percent": 0.04988123515439427
+      },
+      {
+        "author": "Minh Tuan Nguyen",
+        "contribution": 0.1151095275798363,
+        "percent": 0.045724465558194746
+      },
+      {
+        "author": "Dam Bao Loc",
+        "contribution": 0.10464502507257845,
+        "percent": 0.04156769596199522
+      },
+      {
+        "author": "Nguyen Duy Cuong",
+        "contribution": 0.10464502507257845,
+        "percent": 0.04156769596199522
+      },
+      {
+        "author": "Hai T. Do",
+        "contribution": 0.08969573577649581,
+        "percent": 0.035629453681710194
+      },
+      {
+        "author": "Hoang T. Hua",
+        "contribution": 0.08969573577649581,
+        "percent": 0.035629453681710194
+      },
+      {
+        "author": "Nga TT. Nguyen",
+        "contribution": 0.08969573577649581,
+        "percent": 0.035629453681710194
+      },
+      {
+        "author": "Toan Van Quyen",
+        "contribution": 0.06278701504354707,
+        "percent": 0.024940617577197136
+      },
+      {
+        "author": "Anh My Le",
+        "contribution": 0.06278701504354707,
+        "percent": 0.024940617577197136
+      },
+      {
+        "author": "Linh Hoang Truong",
+        "contribution": 0.06278701504354707,
+        "percent": 0.024940617577197136
+      },
+      {
+        "author": "Hoa T. T. Nguyen",
+        "contribution": 0.05232251253628922,
+        "percent": 0.02078384798099761
+      }
+    ],
+    "University of Information and Communication Technology - Thai Nguyen University": [
+      {
+        "author": "Cuong V. Nguyen",
+        "contribution": 0.3322140822140822,
+        "percent": 0.6410256410256411
+      },
+      {
+        "author": "Cuong Nguyen",
+        "contribution": 0.12402659069325737,
+        "percent": 0.23931623931623938
+      },
+      {
+        "author": "Cuong Van Nguyen",
+        "contribution": 0.06201329534662869,
+        "percent": 0.11965811965811969
+      }
+    ],
+    "Thai Binh University": [
+      {
+        "author": "Hoa T. Tran",
+        "contribution": 0.08888888888888888,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Duc N. M. Hoang",
+        "contribution": 0.16244588744588748,
+        "percent": 0.07792207792207792
+      },
+      {
+        "author": "Duc M. Tran",
+        "contribution": 0.16244588744588748,
+        "percent": 0.07792207792207792
+      },
+      {
+        "author": "Thanh-Sang Tran",
+        "contribution": 0.16244588744588748,
+        "percent": 0.07792207792207792
+      },
+      {
+        "author": "Hoang-Anh Pham",
+        "contribution": 0.16244588744588748,
+        "percent": 0.07792207792207792
+      },
+      {
+        "author": "Truong Dang Khoa Nguyen",
+        "contribution": 0.16244588744588748,
+        "percent": 0.07792207792207792
+      },
+      {
+        "author": "Thanh-Long Le",
+        "contribution": 0.16244588744588748,
+        "percent": 0.07792207792207792
+      },
+      {
+        "author": "Hieu Thi Hong Le",
+        "contribution": 0.10829725829725831,
+        "percent": 0.051948051948051945
+      },
+      {
+        "author": "Cong Chi Nguyen",
+        "contribution": 0.10829725829725831,
+        "percent": 0.051948051948051945
+      },
+      {
+        "author": "Trong Huu Luong",
+        "contribution": 0.10829725829725831,
+        "percent": 0.051948051948051945
+      },
+      {
+        "author": "Thanh Long Le",
+        "contribution": 0.10829725829725831,
+        "percent": 0.051948051948051945
+      },
+      {
+        "author": "Thuy Hang Vuong",
+        "contribution": 0.10829725829725831,
+        "percent": 0.051948051948051945
+      },
+      {
+        "author": "Duc-Duy Ho",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      },
+      {
+        "author": "Nguyen Ngoc Minh",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      },
+      {
+        "author": "Nguyen Vuong Tri",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      },
+      {
+        "author": "Nguyen Thanh Nha",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      },
+      {
+        "author": "Truong Tich Thien",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      },
+      {
+        "author": "Thong D Hong",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      },
+      {
+        "author": "Quang-Ngoc Le",
+        "contribution": 0.08122294372294374,
+        "percent": 0.03896103896103896
+      }
+    ],
+    "Kien Giang University": [
+      {
+        "author": "Nguyen Thien Nhan",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Nai University of Technology": [
+      {
+        "author": "Dao N. Ngoc",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Electric Power University": [
+      {
+        "author": "Duc Nguyen Huu",
+        "contribution": 0.15873015873015872,
+        "percent": 0.5882352941176471
+      },
+      {
+        "author": "Thin Dinh Van",
+        "contribution": 0.1111111111111111,
+        "percent": 0.4117647058823529
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Hoang M. Luong",
+        "contribution": 0.3846153846153846,
+        "percent": 0.6923076923076922
+      },
+      {
+        "author": "Long Ngo",
+        "contribution": 0.1282051282051282,
+        "percent": 0.23076923076923073
+      },
+      {
+        "author": "Mien L. Trinh",
+        "contribution": 0.04273504273504273,
+        "percent": 0.07692307692307691
+      }
+    ],
+    "Ho Chi Minh City University of Transport": [
+      {
+        "author": "Nguyen Thi Thu Hien",
+        "contribution": 0.10714285714285716,
+        "percent": 0.7142857142857143
+      },
+      {
+        "author": "Sang Quang Nguyen",
+        "contribution": 0.04285714285714287,
+        "percent": 0.28571428571428575
+      }
+    ],
+    "University of Technology and Education - The University of Da Nang": [
+      {
+        "author": "Hoang Vu Tran",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "University of Finance – Marketing": [
+      {
+        "author": "Thanh-Cong Truong",
+        "contribution": 0.19444444444444442,
+        "percent": 1.0
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Vinh Truong Hoang",
+        "contribution": 0.03571428571428571,
+        "percent": 1.0
+      }
+    ],
+    "Institute of Mathematics": [
+      {
+        "author": "Le Dung Muu",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Tan Van Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5714285714285715
+      },
+      {
+        "author": "Nguyen Anh Tuan",
+        "contribution": 0.0625,
+        "percent": 0.4285714285714286
+      }
+    ],
+    "Hung Yen University of Technology and Education": [
+      {
+        "author": "Vu Khanh Quy",
+        "contribution": 0.022222222222222223,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Minh Quy",
+        "contribution": 0.022222222222222223,
+        "percent": 0.5
+      }
+    ],
+    "Vietnamese - German University": [
+      {
+        "author": "Xuan Phu Do",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Achitectural University": [
+      {
+        "author": "Hoang Van Tung",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Tran Nhut Khai Hoan",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Toan V. Quyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Cuong V. Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Anh M. Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Minh T. Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "Vietnam National University, Ho Chi Minh City": [
+      {
+        "author": "Duc-Thong Hong",
+        "contribution": 0.16666666666666669,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Trung Nghia Tran",
+        "contribution": 0.11111111111111112,
+        "percent": 0.4
+      }
+    ],
+    "Hanoi University of Industry": [
+      {
+        "author": "Thuc Kieu-Xuan",
+        "contribution": 0.1,
+        "percent": 0.5
+      },
+      {
+        "author": "Anh Le-Thi",
+        "contribution": 0.1,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Sciences, Hue University": {
+      "Networking": 0.16,
+      "Aerospace Engineering": 0.16,
+      "Computer Engineering": 0.16,
+      "Robotics": 0.16,
+      "Systems Engineering": 0.16
+    },
+    "Nha Trang University": {
+      "Networking": 0.04,
+      "Aerospace Engineering": 0.04,
+      "Computer Engineering": 0.04,
+      "Robotics": 0.04,
+      "Systems Engineering": 0.04
+    },
+    "Hanoi University of Science and Technology": {
+      "Algorithms": 0.43690476190476185,
+      "Artificial intelligence": 1.5027777777777782,
+      "Aerospace Engineering": 6.209126984126983,
+      "Telecommunications Engineering": 0.5654761904761905,
+      "Robotics": 2.3992063492063496,
+      "Mechanical Engineering": 2.4611111111111112,
+      "Computational Physics": 1.4166666666666665,
+      "Electrical Engineering": 0.3285714285714286,
+      "Applied Mathematics": 0.5833333333333333,
+      "Mathematical Modeling": 0.3333333333333333,
+      "Systems Engineering": 0.3611111111111111,
+      "Structural Engineering": 0.18333333333333335,
+      "Composites": 0.18333333333333335,
+      "Materials Engineering": 0.1,
+      "Networking": 0.3238095238095238,
+      "Cybersecurity": 0.2,
+      "Environmental Engineering": 0.5,
+      "Chemical Engineering": 0.3333333333333333,
+      "Cloud computing": 0.06666666666666667,
+      "Renewable Energy Systems": 0.3333333333333333
+    },
+    "Vin, University": {
+      "Algorithms": 0.1125,
+      "Artificial intelligence": 0.1125,
+      "Aerospace Engineering": 0.1125,
+      "Telecommunications Engineering": 0.1125,
+      "Robotics": 0.05
+    },
+    "Phenikaa University": {
+      "Aerospace Engineering": 1.0958333333333332,
+      "Robotics": 0.075,
+      "Algorithms": 0.041666666666666664,
+      "Telecommunications Engineering": 0.125,
+      "Artificial intelligence": 0.22083333333333333,
+      "Acoustics": 0.1875,
+      "Corrosion and Degradation": 0.1875,
+      "Networking": 0.11666666666666667,
+      "Cloud computing": 0.03333333333333333,
+      "Mechanical Engineering": 0.25,
+      "Computational Physics": 0.16666666666666666,
+      "Electrical Engineering": 0.08333333333333333,
+      "Systems Engineering": 0.08333333333333333
+    },
+    "Posts and Telecommunications Institute of Technology": {
+      "Atmospheric Science": 0.3333333333333333,
+      "Optics": 0.3333333333333333,
+      "Aerospace Engineering": 0.41666666666666663,
+      "Telecommunications Engineering": 0.08333333333333333,
+      "Electrical Engineering": 0.08333333333333333,
+      "Networking": 0.08333333333333333
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Aerospace Engineering": 0.45,
+      "Telecommunications Engineering": 0.21666666666666665,
+      "Networking": 0.175,
+      "Electrical Engineering": 0.21666666666666665,
+      "Mechanical Engineering": 0.23333333333333334,
+      "Applied Mathematics": 0.10833333333333334,
+      "Artificial intelligence": 0.16666666666666666
+    },
+    "Van Lang University": {
+      "Aerospace Engineering": 0.3611111111111111,
+      "Telecommunications Engineering": 0.16666666666666666,
+      "Networking": 0.125,
+      "Electrical Engineering": 0.16666666666666666,
+      "Robotics": 0.19444444444444442,
+      "Artificial intelligence": 0.19444444444444442,
+      "Applied Mathematics": 0.041666666666666664,
+      "Algorithms": 0.08333333333333333
+    },
+    "Ton Duc Thang University": {
+      "Aerospace Engineering": 1.4720238095238098,
+      "Telecommunications Engineering": 0.31666666666666665,
+      "Networking": 0.18333333333333335,
+      "Electrical Engineering": 0.5166666666666666,
+      "Mechanical Engineering": 0.7595238095238094,
+      "Structural Engineering": 0.5095238095238095,
+      "Composites": 0.2595238095238095,
+      "Nano-Materials": 0.11964285714285713,
+      "Robotics": 0.5833333333333333,
+      "Systems Engineering": 0.5333333333333333,
+      "Artificial intelligence": 0.05,
+      "Civil Engineering": 0.25,
+      "Applied Mathematics": 0.0625,
+      "Chemical Engineering": 0.0625
+    },
+    "VNUHCM - University of Technology": {
+      "Aerospace Engineering": 1.6722222222222225,
+      "Civil Engineering": 0.25,
+      "Transport Engineering": 0.25,
+      "Mechanical Engineering": 0.5333333333333333,
+      "Electrical Engineering": 0.2,
+      "Robotics": 0.4222222222222222,
+      "Software Engineering": 0.4222222222222222,
+      "Renewable Energy Systems": 0.3333333333333333
+    },
+    "Vietnam Maritime University": {
+      "Aerospace Engineering": 0.8083333333333333,
+      "Robotics": 0.6416666666666666,
+      "Artificial intelligence": 0.2,
+      "Computer Engineering": 0.7000000000000001,
+      "Algorithms": 0.2,
+      "Mechanical Engineering": 0.041666666666666664,
+      "Electrical Engineering": 0.16666666666666666,
+      "Applied Physics": 0.16666666666666666,
+      "Systems Engineering": 0.06666666666666667
+    },
+    "Vietnam National University, Hanoi": {
+      "Aerospace Engineering": 0.3,
+      "Robotics": 0.3,
+      "Systems Engineering": 0.13333333333333333,
+      "Artificial intelligence": 0.16666666666666666
+    },
+    "Fulbright University Vietnam": {
+      "Aerospace Engineering": 0.5111111111111111,
+      "Robotics": 0.5111111111111111,
+      "Systems Engineering": 0.06666666666666667,
+      "Mechanical Engineering": 0.1111111111111111,
+      "Artificial intelligence": 0.16666666666666666
+    },
+    "Duy Tan University": {
+      "Aerospace Engineering": 1.5506944444444442,
+      "Robotics": 0.33888888888888885,
+      "Systems Engineering": 0.18333333333333335,
+      "Plasma Physics": 0.06666666666666667,
+      "Computational Physics": 0.2,
+      "Telecommunications Engineering": 0.4833333333333333,
+      "Networking": 0.6145833333333334,
+      "Cloud computing": 0.15000000000000002,
+      "Algorithms": 0.31666666666666665,
+      "Civil Engineering": 0.19166666666666668,
+      "Mechanical Engineering": 0.5777777777777777,
+      "Structural Engineering": 0.23333333333333334,
+      "Artificial Intelligence": 0.15000000000000002,
+      "Composites": 0.10555555555555556,
+      "Electrical Engineering": 0.13333333333333333,
+      "Materials Processing and Synthesis": 0.022222222222222223,
+      "Materials Engineering": 0.022222222222222223,
+      "Chemical Engineering": 0.13333333333333333,
+      "Artificial intelligence": 0.13125,
+      "Agricultural Engineering": 0.06666666666666667,
+      "Transport Engineering": 0.041666666666666664,
+      "Environmental Engineering": 0.07291666666666666
+    },
+    "VNU University of Engineering and Technology": {
+      "Aerospace Engineering": 0.6666666666666667,
+      "Robotics": 0.6666666666666667,
+      "Mechanical Engineering": 0.2222222222222222,
+      "Systems Engineering": 0.1111111111111111
+    },
+    "Nguyen Tat Thanh University": {
+      "Chemical Engineering": 0.027777777777777776,
+      "Aerospace Engineering": 0.1468253968253968,
+      "Mechanical Engineering": 0.1468253968253968,
+      "Environmental Engineering": 0.027777777777777776,
+      "Structural Engineering": 0.03571428571428571,
+      "Composites": 0.03571428571428571,
+      "Electrical Engineering": 0.08333333333333333,
+      "Systems Engineering": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Education": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Aerospace Engineering": 0.16666666666666666,
+      "Atmospheric Science": 0.16666666666666666
+    },
+    "VNUHCM - University of Information Technology": {
+      "Aerospace Engineering": 0.2222222222222222,
+      "Electrical Engineering": 0.2222222222222222,
+      "Telecommunications Engineering": 0.2222222222222222
+    },
+    "Hanoi University of Mining and Geology": {
+      "Mining Engineering": 0.125,
+      "Robotics": 0.125,
+      "Aerospace Engineering": 0.45833333333333326,
+      "Environmental Engineering": 0.125,
+      "Mechanical Engineering": 0.3333333333333333,
+      "Renewable Energy Systems": 0.3333333333333333
+    },
+    "Lac Hong University": {
+      "Artificial intelligence": 0.28888888888888886,
+      "Robotics": 0.4595238095238095,
+      "Aerospace Engineering": 0.4817460317460317,
+      "Systems Engineering": 0.19285714285714284,
+      "Quantum Information Science": 0.022222222222222223,
+      "Telecommunications Engineering": 0.022222222222222223,
+      "Networking": 0.022222222222222223,
+      "Mechanical Engineering": 0.05
+    },
+    "HCMC University of Technology and Education": {
+      "Mechanical Engineering": 1.5297619047619047,
+      "Aerospace Engineering": 1.767857142857143,
+      "Robotics": 0.3630952380952381,
+      "Structural Engineering": 0.23809523809523808,
+      "Composites": 0.23809523809523808,
+      "Applied Mathematics": 0.3333333333333333,
+      "Electrical Engineering": 0.047619047619047616,
+      "Systems Engineering": 0.19047619047619047,
+      "Algorithms": 0.3333333333333333
+    },
+    "University of Transport Technology": {
+      "Mechanical Engineering": 0.3261904761904762,
+      "Structural Engineering": 0.22619047619047616,
+      "Aerospace Engineering": 0.3261904761904762,
+      "Composites": 0.3261904761904762,
+      "Nano-Materials": 0.24285714285714285,
+      "Materials Engineering": 0.1
+    },
+    "Viet Nam Aviation Academy": {
+      "Aerospace Engineering": 0.6333333333333333,
+      "Telecommunications Engineering": 0.05,
+      "Networking": 0.05,
+      "Cloud computing": 0.05,
+      "Algorithms": 0.05,
+      "Software Engineering": 0.25,
+      "Computer Graphics": 0.25,
+      "Educational technology": 0.25,
+      "Applied Mathematics": 0.08333333333333333,
+      "Computational Physics": 0.08333333333333333
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Optics": 0.5,
+      "Aerospace Engineering": 0.7896825396825397,
+      "Mechanical Engineering": 0.28968253968253965,
+      "Renewable Energy Systems": 0.20634920634920634,
+      "Composites": 0.08333333333333333,
+      "Structural Engineering": 0.08333333333333333
+    },
+    "University of Technology - Thai Nguyen University": {
+      "Aerospace Engineering": 2.5174603174603174,
+      "Robotics": 1.40952380952381,
+      "Mechanical Engineering": 0.8,
+      "Electrical Engineering": 0.6857142857142857,
+      "Algorithms": 0.8095238095238098,
+      "Renewable Energy Systems": 0.26666666666666666,
+      "Systems Engineering": 0.7777777777777779,
+      "Electromagnetism": 0.2857142857142857,
+      "Discrete Mathematics": 0.4666666666666666
+    },
+    "University of Information and Communication Technology - Thai Nguyen University": {
+      "Aerospace Engineering": 0.5182539682539682,
+      "Robotics": 0.35634920634920636,
+      "Mechanical Engineering": 0.08888888888888888,
+      "Electrical Engineering": 0.19523809523809524,
+      "Algorithms": 0.17857142857142855,
+      "Renewable Energy Systems": 0.06666666666666667,
+      "Electromagnetism": 0.09523809523809523,
+      "Discrete Mathematics": 0.11666666666666667,
+      "Systems Engineering": 0.05555555555555555
+    },
+    "Thai Binh University": {
+      "Aerospace Engineering": 0.08888888888888888,
+      "Robotics": 0.08888888888888888,
+      "Mechanical Engineering": 0.03333333333333333,
+      "Electrical Engineering": 0.03333333333333333,
+      "Algorithms": 0.03333333333333333,
+      "Systems Engineering": 0.05555555555555555
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Aerospace Engineering": 2.0847222222222226,
+      "Civil Engineering": 0.05,
+      "Mechanical Engineering": 1.4180555555555558,
+      "Structural Engineering": 0.3,
+      "Artificial Intelligence": 0.05,
+      "Composites": 0.25,
+      "Chemical Engineering": 0.0625,
+      "Environmental Engineering": 0.0625,
+      "Renewable Energy Systems": 0.3333333333333333,
+      "Artificial intelligence": 0.75,
+      "Robotics": 0.8888888888888891,
+      "Computational Physics": 0.16666666666666666
+    },
+    "Kien Giang University": {
+      "Structural Engineering": 0.08333333333333333,
+      "Mechanical Engineering": 0.08333333333333333,
+      "Composites": 0.08333333333333333,
+      "Aerospace Engineering": 0.08333333333333333
+    },
+    "Dong Nai University of Technology": {
+      "Aerospace Engineering": 0.047619047619047616,
+      "Robotics": 0.047619047619047616,
+      "Systems Engineering": 0.047619047619047616
+    },
+    "Electric Power University": {
+      "Aerospace Engineering": 0.2698412698412698,
+      "Mechanical Engineering": 0.2698412698412698,
+      "Renewable Energy Systems": 0.2698412698412698
+    },
+    "University of Transport and Communications": {
+      "Civil Engineering": 0.5,
+      "Structural Engineering": 0.5,
+      "Robotics": 0.3055555555555556,
+      "Aerospace Engineering": 0.5555555555555556,
+      "Mechanical Engineering": 0.05555555555555555,
+      "Artificial intelligence": 0.25
+    },
+    "Ho Chi Minh City University of Transport": {
+      "Mechanical Engineering": 0.1,
+      "Structural Engineering": 0.1,
+      "Aerospace Engineering": 0.15000000000000002,
+      "Composites": 0.1,
+      "Materials Engineering": 0.1,
+      "Electrical Engineering": 0.05,
+      "Telecommunications Engineering": 0.05,
+      "Networking": 0.05
+    },
+    "University of Technology and Education - The University of Da Nang": {
+      "Aerospace Engineering": 0.2,
+      "Robotics": 0.2,
+      "Telecommunications Engineering": 0.1,
+      "Networking": 0.2,
+      "Cybersecurity": 0.2,
+      "Electrical Engineering": 0.1
+    },
+    "University of Finance – Marketing": {
+      "Aerospace Engineering": 0.19444444444444442,
+      "Robotics": 0.19444444444444442,
+      "Artificial intelligence": 0.19444444444444442,
+      "Algorithms": 0.08333333333333333
+    },
+    "FPT University": {
+      "Artificial intelligence": 0.03571428571428571,
+      "Networking": 0.03571428571428571,
+      "Aerospace Engineering": 0.03571428571428571,
+      "Biomedical Engineering": 0.03571428571428571
+    },
+    "Institute of Mathematics": {
+      "Aerospace Engineering": 0.3333333333333333,
+      "Mechanical Engineering": 0.3333333333333333,
+      "Renewable Energy Systems": 0.3333333333333333
+    },
+    "Thu Dau Mot University": {
+      "Aerospace Engineering": 0.14583333333333331,
+      "Mechanical Engineering": 0.14583333333333331,
+      "Materials Engineering": 0.0625,
+      "Applied Mathematics": 0.0625,
+      "Electrical Engineering": 0.08333333333333333,
+      "Systems Engineering": 0.08333333333333333
+    },
+    "Hung Yen University of Technology and Education": {
+      "Artificial intelligence": 0.044444444444444446,
+      "Quantum Information Science": 0.044444444444444446,
+      "Telecommunications Engineering": 0.044444444444444446,
+      "Networking": 0.044444444444444446,
+      "Aerospace Engineering": 0.044444444444444446
+    },
+    "Vietnamese - German University": {
+      "Aerospace Engineering": 0.05,
+      "Robotics": 0.05,
+      "Mechanical Engineering": 0.05,
+      "Systems Engineering": 0.05
+    },
+    "Hanoi Achitectural University": {
+      "Composites": 0.08333333333333333,
+      "Aerospace Engineering": 0.08333333333333333,
+      "Mechanical Engineering": 0.08333333333333333,
+      "Structural Engineering": 0.08333333333333333
+    },
+    "Can Tho University": {
+      "Aerospace Engineering": 0.0625,
+      "Electrical Engineering": 0.0625,
+      "Telecommunications Engineering": 0.0625,
+      "Artificial intelligence": 0.0625
+    },
+    "Thai Nguyen University": {
+      "Aerospace Engineering": 0.3333333333333333,
+      "Electrical Engineering": 0.3333333333333333,
+      "Renewable Energy Systems": 0.3333333333333333
+    },
+    "Vietnam National University, Ho Chi Minh City": {
+      "Mechanical Engineering": 0.2777777777777778,
+      "Aerospace Engineering": 0.2777777777777778,
+      "Computational Physics": 0.16666666666666666,
+      "Robotics": 0.1111111111111111
+    },
+    "Hanoi University of Industry": {
+      "Aerospace Engineering": 0.2,
+      "Electrical Engineering": 0.2,
+      "Telecommunications Engineering": 0.2,
+      "Networking": 0.2,
+      "Algorithms": 0.2
+    }
+  },
+  "totalPapers": 31334
+}

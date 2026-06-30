@@ -1,0 +1,155 @@
+{
+  "ranking": [
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.7777777777777779
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.25555555555555554
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.21944444444444444
+    },
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.05555555555555555
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Medical University": [
+      {
+        "author": "Bach Xuan Tran",
+        "contribution": 0.12222222222222223,
+        "percent": 0.5569620253164558
+      },
+      {
+        "author": "Bach X Tran",
+        "contribution": 0.05555555555555555,
+        "percent": 0.2531645569620253
+      },
+      {
+        "author": "Osman A Sankoh",
+        "contribution": 0.041666666666666664,
+        "percent": 0.18987341772151897
+      }
+    ],
+    "Hanoi University of Public Health": [
+      {
+        "author": "Ha Thu Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Long Hoang Nguyen",
+        "contribution": 0.06666666666666665,
+        "percent": 0.26086956521739124
+      },
+      {
+        "author": "Nam Ba Nguyen",
+        "contribution": 0.06666666666666665,
+        "percent": 0.26086956521739124
+      },
+      {
+        "author": "Son Hoang Nguyen",
+        "contribution": 0.06666666666666665,
+        "percent": 0.26086956521739124
+      },
+      {
+        "author": "Giang T Vu",
+        "contribution": 0.05555555555555554,
+        "percent": 0.21739130434782603
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Anh Kim Dang",
+        "contribution": 0.3333333333333334,
+        "percent": 0.4285714285714286
+      },
+      {
+        "author": "Huyen Phuc Do",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Cuong Tat Nguyen",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Quyen Le Nguyen",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Trang Huyen Nguyen",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Vuong Minh Nong",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Cuong T Nguyen",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Huong L T Nguyen",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      },
+      {
+        "author": "Mehdi Hosseinzadeh",
+        "contribution": 0.055555555555555566,
+        "percent": 0.07142857142857142
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Dinh-Toi Chu",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Medical University": {
+      "Epidemiology": 0.21944444444444444,
+      "Biostatistics": 0.21944444444444444,
+      "Demography": 0.21944444444444444
+    },
+    "Hanoi University of Public Health": {
+      "Epidemiology": 0.06666666666666667,
+      "Biostatistics": 0.06666666666666667,
+      "Demography": 0.06666666666666667
+    },
+    "Nguyen Tat Thanh University": {
+      "Epidemiology": 0.25555555555555554,
+      "Biostatistics": 0.25555555555555554,
+      "Demography": 0.25555555555555554
+    },
+    "Duy Tan University": {
+      "Epidemiology": 0.7777777777777779,
+      "Demography": 0.7777777777777779,
+      "Biostatistics": 0.44444444444444453,
+      "Global Health": 0.3333333333333333
+    },
+    "Hanoi National University of Education": {
+      "Epidemiology": 0.05555555555555555,
+      "Biostatistics": 0.05555555555555555,
+      "Demography": 0.05555555555555555
+    }
+  },
+  "totalPapers": 31334
+}

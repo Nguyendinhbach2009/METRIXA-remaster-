@@ -1,0 +1,399 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Procuratorate University",
+      "totalContribution": 1.6388888888888888
+    },
+    {
+      "university": "VNU University of Law",
+      "totalContribution": 0.8666666666666666
+    },
+    {
+      "university": "Univeristy of Law, Hue University",
+      "totalContribution": 0.7777777777777779
+    },
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Vietnam Youth Academy",
+      "totalContribution": 0.45833333333333337
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.25925925925925924
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Graduate Academy of Social Sciences",
+      "totalContribution": 0.20833333333333331
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "VNUHCM - University of Economics and Law",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "VNUHCM - An Giang University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.06481481481481481
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.06428571428571428
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.041666666666666664
+    }
+  ],
+  "authorsByUniversity": {
+    "VNUHCM - University of Economics and Law": [
+      {
+        "author": "NGUYEN THI MY LINH",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "DUONG VAN KHANH",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - An Giang University": [
+      {
+        "author": "PHAM THI TUYET GIANG",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Graduate Academy of Social Sciences": [
+      {
+        "author": "Thi Mai Dinh",
+        "contribution": 0.20833333333333331,
+        "percent": 1.0
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Hai Thanh Luong",
+        "contribution": 0.06428571428571428,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Youth Academy": [
+      {
+        "author": "Khanh Linh Vo",
+        "contribution": 0.3055555555555555,
+        "percent": 0.6666666666666665
+      },
+      {
+        "author": "Hoang Minh Tuan",
+        "contribution": 0.050925925925925916,
+        "percent": 0.11111111111111108
+      },
+      {
+        "author": "Tran Thi Tuyet Nhung",
+        "contribution": 0.050925925925925916,
+        "percent": 0.11111111111111108
+      },
+      {
+        "author": "Ngoc Ha Do",
+        "contribution": 0.050925925925925916,
+        "percent": 0.11111111111111108
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Le Anh Thuan",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Procuratorate University": [
+      {
+        "author": "Duc Hanh Nguyen",
+        "contribution": 0.6344086021505377,
+        "percent": 0.3870967741935485
+      },
+      {
+        "author": "Khoat Van Nguyen",
+        "contribution": 0.6344086021505377,
+        "percent": 0.3870967741935485
+      },
+      {
+        "author": "Mai Dac Bien",
+        "contribution": 0.31720430107526887,
+        "percent": 0.19354838709677424
+      },
+      {
+        "author": "Yen Hai Hoang",
+        "contribution": 0.05286738351254481,
+        "percent": 0.03225806451612904
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Ngoc Thang Dinh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Thi Phuong Quynh Bui",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Pham Thi Thanh Thuy",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Univeristy of Law, Hue University": [
+      {
+        "author": "Ha Le Thuy",
+        "contribution": 0.3333333333333334,
+        "percent": 0.4285714285714286
+      },
+      {
+        "author": "Ngoc Hong Nguyen Le",
+        "contribution": 0.22222222222222227,
+        "percent": 0.2857142857142857
+      },
+      {
+        "author": "Yen Thi Nguyen",
+        "contribution": 0.22222222222222227,
+        "percent": 0.2857142857142857
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Thang The Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Hai Thanh Luong",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Law": [
+      {
+        "author": "L. C. Le",
+        "contribution": 0.5777777777777777,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Hoang Anh Nguyen",
+        "contribution": 0.14444444444444443,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Viet Phuong Nguyen",
+        "contribution": 0.14444444444444443,
+        "percent": 0.16666666666666666
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Mai Thi Ngoc Tran",
+        "contribution": 0.0648148148148148,
+        "percent": 0.24999999999999994
+      },
+      {
+        "author": "Giang Minh Le",
+        "contribution": 0.0648148148148148,
+        "percent": 0.24999999999999994
+      },
+      {
+        "author": "Hoe Dinh Han",
+        "contribution": 0.0648148148148148,
+        "percent": 0.24999999999999994
+      },
+      {
+        "author": "Trang Thu Nguyen",
+        "contribution": 0.0648148148148148,
+        "percent": 0.24999999999999994
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Michael P Dunne",
+        "contribution": 0.06481481481481481,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Lan Chi Le",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      },
+      {
+        "author": "Duc Quang Nguyen",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi Law University": [
+      {
+        "author": "Oanh Thi Cao",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Tuan Van Vu",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "VNUHCM - University of Economics and Law": {
+      "Human rights law": 0.08333333333333333,
+      "Family law": 0.08333333333333333,
+      "Civil law": 0.08333333333333333,
+      "Criminal law": 0.08333333333333333
+    },
+    "Dong Thap University": {
+      "Human rights law": 0.08333333333333333,
+      "Family law": 0.08333333333333333,
+      "Civil law": 0.08333333333333333,
+      "Criminal law": 0.08333333333333333
+    },
+    "VNUHCM - An Giang University": {
+      "Human rights law": 0.08333333333333333,
+      "Family law": 0.08333333333333333,
+      "Civil law": 0.08333333333333333,
+      "Criminal law": 0.08333333333333333
+    },
+    "Graduate Academy of Social Sciences": {
+      "Criminal law": 0.20833333333333331,
+      "Environmental law": 0.20833333333333331,
+      "Environmental Policy and Planning": 0.125,
+      "Sustainability Science": 0.125,
+      "Corporate and commercial law": 0.08333333333333333
+    },
+    "Ton Duc Thang University": {
+      "Criminal law": 0.06428571428571428,
+      "Health law": 0.06428571428571428,
+      "Policy analysis and Policy studies": 0.06428571428571428,
+      "Public Administration": 0.06428571428571428,
+      "Sociology of health and illness": 0.02857142857142857
+    },
+    "Vietnam Youth Academy": {
+      "Criminal law": 0.45833333333333337,
+      "Environmental law": 0.3333333333333333,
+      "Environmental Policy and Planning": 0.3333333333333333,
+      "Human rights law": 0.125,
+      "International law": 0.125,
+      "Public Administration": 0.125
+    },
+    "National Academy of Public Administration": {
+      "Criminal law": 0.08333333333333333,
+      "Comparative law": 0.08333333333333333,
+      "Legal theory and jurisprudence": 0.08333333333333333
+    },
+    "Hanoi Procuratorate University": {
+      "Criminal law": 1.6388888888888888,
+      "Environmental law": 0.6666666666666666,
+      "International law": 1.25,
+      "Human rights law": 0.3333333333333333,
+      "Legal theory and jurisprudence": 0.3333333333333333,
+      "Corporate and commercial law": 0.5833333333333333,
+      "Comparative law": 0.3055555555555556,
+      "Law and society": 0.05555555555555555
+    },
+    "Vinh University": {
+      "Environmental law": 0.16666666666666666,
+      "Criminal law": 0.16666666666666666,
+      "Corporate and commercial law": 0.16666666666666666
+    },
+    "Hanoi National University of Education": {
+      "Criminal law": 0.3333333333333333,
+      "Family law": 0.3333333333333333,
+      "Human rights law": 0.3333333333333333
+    },
+    "Univeristy of Law, Hue University": {
+      "Criminal law": 0.7777777777777779,
+      "Comparative law": 0.7777777777777779,
+      "Corporate and commercial law": 0.3333333333333333,
+      "Law and society": 0.4444444444444444
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Criminal law": 0.041666666666666664,
+      "Human rights law": 0.041666666666666664,
+      "International law": 0.041666666666666664,
+      "Public Administration": 0.041666666666666664
+    },
+    "Duy Tan University": {
+      "Criminal law": 0.25,
+      "Human rights law": 0.25,
+      "Environmental law": 0.25,
+      "Cybersecurity": 0.25
+    },
+    "VNU University of Law": {
+      "Criminal law": 0.8666666666666666,
+      "Comparative law": 0.8666666666666666,
+      "Legal theory and jurisprudence": 0.6666666666666666,
+      "Administrative law": 0.2,
+      "Human rights law": 0.2,
+      "Public Administration": 0.2
+    },
+    "Hanoi Medical University": {
+      "Policy analysis and Policy studies": 0.25925925925925924,
+      "Criminal law": 0.25925925925925924,
+      "Sociology of health and illness": 0.25925925925925924,
+      "Medical sociology": 0.1111111111111111
+    },
+    "Hue University": {
+      "Policy analysis and Policy studies": 0.06481481481481481,
+      "Criminal law": 0.06481481481481481,
+      "Sociology of health and illness": 0.06481481481481481,
+      "Medical sociology": 0.027777777777777776
+    },
+    "Vietnam National University, Hanoi": {
+      "Criminal law": 0.1111111111111111,
+      "Comparative law": 0.1111111111111111,
+      "Law and society": 0.1111111111111111
+    },
+    "Hanoi Law University": {
+      "Comparative law": 0.5,
+      "Criminal law": 0.5
+    }
+  },
+  "totalPapers": 31334
+}

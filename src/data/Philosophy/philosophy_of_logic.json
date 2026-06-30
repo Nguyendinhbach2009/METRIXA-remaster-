@@ -1,0 +1,25 @@
+{
+  "ranking": [
+    {
+      "university": "Institute of Mathematics",
+      "totalContribution": 0.1111111111111111
+    }
+  ],
+  "authorsByUniversity": {
+    "Institute of Mathematics": [
+      {
+        "author": "Luong Hoang Nguyen",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Institute of Mathematics": {
+      "Mathematical Logic and Foundations": 0.1111111111111111,
+      "Non-classical logic": 0.1111111111111111,
+      "Philosophy of logic": 0.1111111111111111
+    }
+  },
+  "totalPapers": 31334
+}

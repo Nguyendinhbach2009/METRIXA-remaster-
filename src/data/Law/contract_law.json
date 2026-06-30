@@ -1,0 +1,86 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "University of Agriculture and Forestry Ho Chi Minh City",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.45
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Pham Vu Hong Son",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Pham Ngoc Lien",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Lê Thị Tuyết Hà",
+        "contribution": 0.38888888888888884,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Thi My Hanh Nguyen",
+        "contribution": 0.19444444444444442,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Nguyen Thi My Loc",
+        "contribution": 0.45,
+        "percent": 1.0
+      }
+    ],
+    "University of Agriculture and Forestry Ho Chi Minh City": [
+      {
+        "author": "Nguyen Thi Nhat Linh",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh City University of Technology": {
+      "Civil Engineering": 0.6666666666666666,
+      "Contract law": 0.6666666666666666,
+      "Software Engineering": 0.6666666666666666
+    },
+    "Ho Chi Minh City Open University": {
+      "Property law": 0.25,
+      "Contract law": 0.5833333333333333,
+      "Civil law": 0.3333333333333333,
+      "Corporate and commercial law": 0.3333333333333333
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Civil law": 0.45,
+      "Property law": 0.25,
+      "Contract law": 0.45,
+      "International law": 0.45,
+      "Corporate and commercial law": 0.2,
+      "Tax law": 0.2
+    },
+    "University of Agriculture and Forestry Ho Chi Minh City": {
+      "Contract law": 0.5,
+      "Language education and linguistics": 0.5
+    }
+  },
+  "totalPapers": 31334
+}

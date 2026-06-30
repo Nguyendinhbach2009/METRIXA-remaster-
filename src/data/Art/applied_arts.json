@@ -1,0 +1,104 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh city University of Fine Arts",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Saigon Technology University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi University of Industry",
+      "totalContribution": 0.26666666666666666
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.06666666666666667
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Industry": [
+      {
+        "author": "Ngo Thi Thu Huong",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Mai Huong",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Thu Thao",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Nguyet Que",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Pham Thi Thu Hien",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh city University of Fine Arts": [
+      {
+        "author": "Vu Thuy Van",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Saigon Technology University": [
+      {
+        "author": "Do Lenh Hung Tu",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Nguyen Thi Viet Ha",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Industry": {
+      "Art history": 0.26666666666666666,
+      "Applied arts": 0.26666666666666666,
+      "Aesthetics": 0.26666666666666666
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Art history": 0.06666666666666667,
+      "Applied arts": 0.06666666666666667,
+      "Aesthetics": 0.06666666666666667
+    },
+    "Ho Chi Minh city University of Fine Arts": {
+      "Drawing": 0.6666666666666666,
+      "Art history": 0.6666666666666666,
+      "Applied arts": 0.6666666666666666
+    },
+    "Saigon Technology University": {
+      "Applied arts": 0.3333333333333333,
+      "Architecture": 0.3333333333333333,
+      "Urban Environmental Studies": 0.3333333333333333
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Urban geography": 0.6666666666666666,
+      "Marketing": 0.6666666666666666,
+      "Applied arts": 0.6666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

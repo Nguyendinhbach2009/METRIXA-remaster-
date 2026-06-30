@@ -1,0 +1,150 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Diplomatic Academy of Viet Nam",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Academy of Politics - Public Administration Region I",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "Univeristy of Law, Hue University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Academy of Journalism and Communication",
+      "totalContribution": 0.16666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "Diplomatic Academy of Viet Nam": [
+      {
+        "author": "Pham Thi Quyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Politics - Public Administration Region I": [
+      {
+        "author": "Anh Thi Que Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 0.5
+      },
+      {
+        "author": "Thuc Thi Le",
+        "contribution": 0.14583333333333331,
+        "percent": 0.5
+      }
+    ],
+    "Univeristy of Law, Hue University": [
+      {
+        "author": "Le Thi Nga",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Doan Le Minh Chau",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Bùi Thị Hương Giang",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Trần Văn Điền",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Đặng Quang Huy",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Nguyễn Thị Thùy Chi",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Vũ Thị Quỳnh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      }
+    ],
+    "Academy of Journalism and Communication": [
+      {
+        "author": "Huong Thi Tran",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Nguyễn Thị Minh",
+        "contribution": 0.5833333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Diplomatic Academy of Viet Nam": {
+      "Language education and linguistics": 0.3333333333333333,
+      "Gender and politics": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333
+    },
+    "Academy of Politics - Public Administration Region I": {
+      "Gender and politics": 0.29166666666666663,
+      "Public Administration": 0.125,
+      "Political theory and philosophy": 0.125,
+      "Educational leadership and administration": 0.125,
+      "Political behavior": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666
+    },
+    "Univeristy of Law, Hue University": {
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666,
+      "Human rights law": 0.16666666666666666
+    },
+    "Hue University": {
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666,
+      "Human rights law": 0.16666666666666666
+    },
+    "Thai Nguyen University": {
+      "Gender and politics": 0.3333333333333333,
+      "Policy analysis and Policy studies": 0.3333333333333333,
+      "Development studies": 0.3333333333333333
+    },
+    "Academy of Journalism and Communication": {
+      "Political behavior": 0.16666666666666666,
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666
+    },
+    "Ho Chi Minh City University of Education": {
+      "Literature": 0.5833333333333333,
+      "Gender and politics": 0.5833333333333333,
+      "Political theory and philosophy": 0.5833333333333333,
+      "Cultural history": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

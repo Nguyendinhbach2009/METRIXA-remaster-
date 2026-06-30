@@ -1,0 +1,30 @@
+{
+  "ranking": [
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Nguyễn Khánh Như",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyễn Hoàng Linh Trang",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Education - Thai Nguyen University": {
+      "Curriculum and instruction": 0.3333333333333333,
+      "Elementary and secondary education": 0.3333333333333333,
+      "World history": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,210 @@
+{
+  "ranking": [
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.2777777777777778
+    },
+    {
+      "university": "University of Economics - The University of Da Nang",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "VNUHCM - International University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "National Economic University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.06666666666666667
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Thi My Duyen Nguyen",
+        "contribution": 0.11111111111111112,
+        "percent": 0.4
+      },
+      {
+        "author": "Vo Kim Nhan",
+        "contribution": 0.08333333333333334,
+        "percent": 0.30000000000000004
+      },
+      {
+        "author": "Ho Tien Dung",
+        "contribution": 0.08333333333333334,
+        "percent": 0.30000000000000004
+      }
+    ],
+    "National Economic University": [
+      {
+        "author": "Le Thanh Tam",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Nguyen Thanh Vu",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "Thai-Ngoc Pham",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Thi Thu Hien Phan",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - International University": [
+      {
+        "author": "Hoang Nam Le",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Nam P. Ngoc",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Cuong T. Pham",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics - The University of Da Nang": [
+      {
+        "author": "Ngo Thi Khue Thu",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Huynh Thi Ngoc Quyen",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang": [
+      {
+        "author": "Nguyen Thanh Hoai",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Truong My Ngoc",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Do Thi Xuan Quyen",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thai Cong Dan",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Economics Ho Chi Minh City": {
+      "Human–computer interaction": 0.2777777777777778,
+      "Cognitive Psychology": 0.16666666666666666,
+      "User experience design": 0.2777777777777778,
+      "Marketing": 0.1111111111111111
+    },
+    "National Economic University": {
+      "Human–computer interaction": 0.08333333333333333,
+      "Cognitive Psychology": 0.08333333333333333,
+      "User experience design": 0.08333333333333333
+    },
+    "Nguyen Tat Thanh University": {
+      "Human–computer interaction": 0.08333333333333333,
+      "Cognitive Psychology": 0.08333333333333333,
+      "User experience design": 0.08333333333333333
+    },
+    "Dong Thap University": {
+      "Hospitality and Tourism Management": 0.6666666666666666,
+      "Human–computer interaction": 0.6666666666666666,
+      "User experience design": 0.6666666666666666
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Marketing": 0.1111111111111111,
+      "Human–computer interaction": 0.1111111111111111,
+      "User experience design": 0.1111111111111111
+    },
+    "VNUHCM - International University": {
+      "Marketing": 0.1111111111111111,
+      "Human–computer interaction": 0.1111111111111111,
+      "User experience design": 0.1111111111111111
+    },
+    "Vin, University": {
+      "Human–computer interaction": 0.06666666666666667,
+      "User experience design": 0.06666666666666667,
+      "Computer graphics": 0.06666666666666667
+    },
+    "Hanoi University of Science and Technology": {
+      "Human–computer interaction": 0.06666666666666667,
+      "User experience design": 0.06666666666666667,
+      "Computer graphics": 0.06666666666666667
+    },
+    "University of Economics - The University of Da Nang": {
+      "Marketing": 0.2222222222222222,
+      "Business Analytics": 0.2222222222222222,
+      "User experience design": 0.2222222222222222
+    },
+    "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang": {
+      "Marketing": 0.1111111111111111,
+      "Business Analytics": 0.1111111111111111,
+      "User experience design": 0.1111111111111111
+    },
+    "Can Tho University": {
+      "Human–computer interaction": 0.5,
+      "User experience design": 0.5
+    }
+  },
+  "totalPapers": 31334
+}

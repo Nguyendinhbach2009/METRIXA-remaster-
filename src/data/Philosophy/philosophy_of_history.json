@@ -1,0 +1,46 @@
+{
+  "ranking": [
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Finance – Accounting",
+      "totalContribution": 0.3333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Duy Cuong",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Finance – Accounting": [
+      {
+        "author": "Do Thi Thuy Trang",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Le Thi Nhu Quỳnh",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "VNU University of Social Sciences and Humanities": {
+      "History of science": 0.3333333333333333,
+      "Philosophy of science": 0.3333333333333333,
+      "Philosophy of history": 0.3333333333333333
+    },
+    "University of Finance – Accounting": {
+      "Political theory and philosophy": 0.3333333333333333,
+      "Philosophy of history": 0.3333333333333333,
+      "Political history": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

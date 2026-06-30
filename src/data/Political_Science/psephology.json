@@ -1,0 +1,42 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.25
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University": [
+      {
+        "author": "James Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Science": [
+      {
+        "author": "Nguyen Thanh Trung",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University": {
+      "Political behavior": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333,
+      "Psephology": 0.3333333333333333
+    },
+    "VNU University of Science": {
+      "Applied Mathematics": 0.25,
+      "Mathematical Modeling": 0.25,
+      "Probability and Statistics": 0.25,
+      "Psephology": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

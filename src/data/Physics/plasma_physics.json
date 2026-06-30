@@ -1,0 +1,553 @@
+{
+  "ranking": [
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 1.2724358974358976
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 1.041666666666667
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.7507936507936509
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hung Yen University of Technology and Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.275
+    },
+    {
+      "university": "VNUHCM - University of Technology",
+      "totalContribution": 0.21666666666666665
+    },
+    {
+      "university": "Electric Power University",
+      "totalContribution": 0.13095238095238093
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Ho Chi Minh City University for Natural Resources and Environment",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Sai Gon University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi University of Mining and Geology",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Hanoi University of Natural Resource and Environment",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "University of Technology - Thai Nguyen University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "University of Information and Communication Technology - Thai Nguyen University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "University of Medicine and Pharmacy - Thai Nguyen University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Posts and Telecommunications Institute of Technology",
+      "totalContribution": 0.041666666666666664
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Anh-Tuan Vu",
+        "contribution": 0.37391304347826093,
+        "percent": 0.4980237154150198
+      },
+      {
+        "author": "Huy Le PHAN",
+        "contribution": 0.09347826086956523,
+        "percent": 0.12450592885375494
+      },
+      {
+        "author": "Van Hanh BUI",
+        "contribution": 0.09347826086956523,
+        "percent": 0.12450592885375494
+      },
+      {
+        "author": "Trung Hieu Tran",
+        "contribution": 0.05341614906832299,
+        "percent": 0.07114624505928854
+      },
+      {
+        "author": "The Vinh Phan",
+        "contribution": 0.05341614906832299,
+        "percent": 0.07114624505928854
+      },
+      {
+        "author": "Hanh Van Bui",
+        "contribution": 0.04154589371980677,
+        "percent": 0.05533596837944664
+      },
+      {
+        "author": "Ngoc Quang Trinh",
+        "contribution": 0.04154589371980677,
+        "percent": 0.05533596837944664
+      }
+    ],
+    "Electric Power University": [
+      {
+        "author": "Dang, Viet-Hung",
+        "contribution": 0.09166666666666665,
+        "percent": 0.7
+      },
+      {
+        "author": "Van Thang Nguyen",
+        "contribution": 0.03928571428571428,
+        "percent": 0.3
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "T N G Trinh",
+        "contribution": 0.2976190476190477,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Nguyen Van Luong",
+        "contribution": 0.14880952380952386,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Dung Van Nguyen",
+        "contribution": 0.14880952380952386,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Le Vinh Chuong",
+        "contribution": 0.14880952380952386,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Quoc Phong Ho",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      },
+      {
+        "author": "Nam Truong-Hoang",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      },
+      {
+        "author": "Thong Lam-Phuc",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      },
+      {
+        "author": "Thi Bich Thuyen Nguyen",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      },
+      {
+        "author": "Dung Nguyen-Van",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      },
+      {
+        "author": "Huu Ha Giang Pham",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      },
+      {
+        "author": "Lien Huong Huynh",
+        "contribution": 0.0425170068027211,
+        "percent": 0.04081632653061225
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Nguyen Xuan Thao",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Duc Hoang Nguyen",
+        "contribution": 0.16666666666666669,
+        "percent": 0.6060606060606061
+      },
+      {
+        "author": "Trang Le",
+        "contribution": 0.06666666666666668,
+        "percent": 0.24242424242424246
+      },
+      {
+        "author": "Duc Ba Nguyen",
+        "contribution": 0.04166666666666667,
+        "percent": 0.15151515151515152
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Pham Thien Huu",
+        "contribution": 0.13037766830870276,
+        "percent": 0.10246305418719208
+      },
+      {
+        "author": "Quang Toan Tran",
+        "contribution": 0.13037766830870276,
+        "percent": 0.10246305418719208
+      },
+      {
+        "author": "Nguyen Phuoc Cham",
+        "contribution": 0.13037766830870276,
+        "percent": 0.10246305418719208
+      },
+      {
+        "author": "Dinh Thien Nguyen",
+        "contribution": 0.13037766830870276,
+        "percent": 0.10246305418719208
+      },
+      {
+        "author": "H. Pham Thi Thu",
+        "contribution": 0.13037766830870276,
+        "percent": 0.10246305418719208
+      },
+      {
+        "author": "M. Le Huy",
+        "contribution": 0.13037766830870276,
+        "percent": 0.10246305418719208
+      },
+      {
+        "author": "Ngoc Lam Tran",
+        "contribution": 0.06518883415435138,
+        "percent": 0.05123152709359604
+      },
+      {
+        "author": "Duy Le Nguyen",
+        "contribution": 0.06518883415435138,
+        "percent": 0.05123152709359604
+      },
+      {
+        "author": "Minh Triet Tran",
+        "contribution": 0.06518883415435138,
+        "percent": 0.05123152709359604
+      },
+      {
+        "author": "Hieu T. Nguyen",
+        "contribution": 0.06518883415435138,
+        "percent": 0.05123152709359604
+      },
+      {
+        "author": "Pham Ngoc Diep",
+        "contribution": 0.060174308450170515,
+        "percent": 0.04729064039408866
+      },
+      {
+        "author": "Nguyen Bich Ngoc",
+        "contribution": 0.060174308450170515,
+        "percent": 0.04729064039408866
+      },
+      {
+        "author": "Nguyen Thi Phuong",
+        "contribution": 0.060174308450170515,
+        "percent": 0.04729064039408866
+      },
+      {
+        "author": "Hoang Tung Do",
+        "contribution": 0.04889162561576354,
+        "percent": 0.038423645320197035
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Ha Thu Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Technology - Thai Nguyen University": [
+      {
+        "author": "Nguyen Van Truong",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Nguyen Quoc Dung",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Technology": [
+      {
+        "author": "Nguyen Nhat Huy",
+        "contribution": 0.06190476190476191,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Ngo Thi Minh Hien",
+        "contribution": 0.051587301587301584,
+        "percent": 0.2380952380952381
+      },
+      {
+        "author": "Nguyen Duy Phuong",
+        "contribution": 0.051587301587301584,
+        "percent": 0.2380952380952381
+      },
+      {
+        "author": "Lam Nguyen Ngan Ha",
+        "contribution": 0.051587301587301584,
+        "percent": 0.2380952380952381
+      }
+    ],
+    "University of Information and Communication Technology - Thai Nguyen University": [
+      {
+        "author": "Pham Van Hao",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "University of Medicine and Pharmacy - Thai Nguyen University": [
+      {
+        "author": "Dang Van Thanh",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University for Natural Resources and Environment": [
+      {
+        "author": "Duc Trung Vo",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Tam Huynh Thanh Le",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Duc Trung Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Nga Thi Dinh",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Posts and Telecommunications Institute of Technology": [
+      {
+        "author": "Lan Thi Phan",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Sai Gon University": [
+      {
+        "author": "Bui Ha Manh",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Mining and Geology": [
+      {
+        "author": "Chinh Thai Nguyen",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Natural Resource and Environment": [
+      {
+        "author": "Nhung Thi Le",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Kien Chi Le",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hung Yen University of Technology and Education": [
+      {
+        "author": "Phan Thi Tuoi",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Pham Xuan Hien",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Do Anh Tuan",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Science and Technology": {
+      "Electrical Engineering": 0.09523809523809523,
+      "Electromagnetism": 0.09523809523809523,
+      "Plasma Physics": 0.7507936507936509,
+      "Mathematical Physics": 0.5,
+      "Mechanical Engineering": 0.15555555555555556,
+      "Materials Engineering": 0.1,
+      "Materials Processing and Synthesis": 0.15555555555555556,
+      "Metals and Alloys": 0.15555555555555556
+    },
+    "Electric Power University": {
+      "Electrical Engineering": 0.13095238095238093,
+      "Electromagnetism": 0.047619047619047616,
+      "Plasma Physics": 0.13095238095238093,
+      "Applied Physics": 0.08333333333333333,
+      "Computational Physics": 0.08333333333333333
+    },
+    "Can Tho University": {
+      "Plasma Physics": 1.041666666666667,
+      "Environmental Chemistry": 0.125,
+      "Atmospheric Science": 0.4583333333333333,
+      "Chemical Engineering": 0.4583333333333333,
+      "Electromagnetism": 0.5833333333333333,
+      "Electrical Engineering": 0.25,
+      "Computational Physics": 0.25,
+      "Environmental Engineering": 0.3333333333333333
+    },
+    "Vinh University": {
+      "Plasma Physics": 0.125,
+      "Environmental Chemistry": 0.125,
+      "Atmospheric Science": 0.125,
+      "Chemical Engineering": 0.125
+    },
+    "Duy Tan University": {
+      "Plasma Physics": 0.275,
+      "Computational Physics": 0.06666666666666667,
+      "Aerospace Engineering": 0.06666666666666667,
+      "Chemical Engineering": 0.041666666666666664,
+      "Environmental Engineering": 0.041666666666666664,
+      "Quantum Physics": 0.16666666666666666,
+      "Particle Physics": 0.16666666666666666
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Plasma Physics": 1.2724358974358976,
+      "Computational Physics": 0.3333333333333333,
+      "Astrophysics and Cosmology": 0.23076923076923078,
+      "Chemical Engineering": 0.15277777777777776,
+      "Environmental Engineering": 0.15277777777777776,
+      "Optics": 0.3333333333333333,
+      "Applied Physics": 0.3333333333333333,
+      "Atmospheric Science": 0.2222222222222222,
+      "Geophysics": 0.2222222222222222
+    },
+    "Hanoi National University of Education": {
+      "Plasma Physics": 0.08333333333333333,
+      "Computational Physics": 0.08333333333333333
+    },
+    "University of Technology - Thai Nguyen University": {
+      "Electrochemistry": 0.05,
+      "Nano-Materials": 0.05,
+      "Materials Processing and Synthesis": 0.05,
+      "Plasma Physics": 0.05
+    },
+    "University of Education - Thai Nguyen University": {
+      "Electrochemistry": 0.05,
+      "Nano-Materials": 0.05,
+      "Materials Processing and Synthesis": 0.05,
+      "Plasma Physics": 0.05
+    },
+    "VNUHCM - University of Technology": {
+      "Electrochemistry": 0.05,
+      "Nano-Materials": 0.05,
+      "Materials Processing and Synthesis": 0.05,
+      "Plasma Physics": 0.21666666666666665,
+      "Dermatology": 0.16666666666666666,
+      "Biomedical Engineering": 0.16666666666666666
+    },
+    "University of Information and Communication Technology - Thai Nguyen University": {
+      "Electrochemistry": 0.05,
+      "Nano-Materials": 0.05,
+      "Materials Processing and Synthesis": 0.05,
+      "Plasma Physics": 0.05
+    },
+    "University of Medicine and Pharmacy - Thai Nguyen University": {
+      "Electrochemistry": 0.05,
+      "Nano-Materials": 0.05,
+      "Materials Processing and Synthesis": 0.05,
+      "Plasma Physics": 0.05
+    },
+    "Ho Chi Minh City University for Natural Resources and Environment": {
+      "Plasma Physics": 0.125,
+      "Chemical Engineering": 0.125,
+      "Environmental Engineering": 0.125
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Plasma Physics": 0.041666666666666664,
+      "Chemical Engineering": 0.041666666666666664,
+      "Environmental Engineering": 0.041666666666666664
+    },
+    "Posts and Telecommunications Institute of Technology": {
+      "Plasma Physics": 0.041666666666666664,
+      "Chemical Engineering": 0.041666666666666664,
+      "Environmental Engineering": 0.041666666666666664
+    },
+    "Sai Gon University": {
+      "Chemical Engineering": 0.1111111111111111,
+      "Environmental Engineering": 0.1111111111111111,
+      "Plasma Physics": 0.1111111111111111
+    },
+    "Hanoi University of Mining and Geology": {
+      "Atmospheric Science": 0.05555555555555555,
+      "Geophysics": 0.05555555555555555,
+      "Plasma Physics": 0.05555555555555555
+    },
+    "Hanoi University of Natural Resource and Environment": {
+      "Atmospheric Science": 0.05555555555555555,
+      "Geophysics": 0.05555555555555555,
+      "Plasma Physics": 0.05555555555555555
+    },
+    "HCMC University of Technology and Education": {
+      "Plasma Physics": 0.3333333333333333,
+      "Electrical Engineering": 0.3333333333333333,
+      "Thermodynamics and Statistical Mechanics": 0.3333333333333333
+    },
+    "Hung Yen University of Technology and Education": {
+      "Plasma Physics": 0.3333333333333333,
+      "Atomic Physics and Molecular Physics": 0.3333333333333333,
+      "Computational Physics": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

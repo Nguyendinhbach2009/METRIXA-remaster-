@@ -1,0 +1,151 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 1.1388888888888888
+    },
+    {
+      "university": "VNUHCM - University of Information Technology",
+      "totalContribution": 0.3111111111111111
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Sai Gon University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Vietnam National University, Ho Chi Minh City",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "VNUHCM - University of Science",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.16666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Tru H. Cao",
+        "contribution": 0.5694444444444443,
+        "percent": 0.4999999999999999
+      },
+      {
+        "author": "Vuong M. Ngo",
+        "contribution": 0.5694444444444443,
+        "percent": 0.4999999999999999
+      }
+    ],
+    "Sai Gon University": [
+      {
+        "author": "Vuong T. Pham",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Ho Chi Minh City": [
+      {
+        "author": "Hien D. Nguyen",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Information Technology": [
+      {
+        "author": "Thinh Le",
+        "contribution": 0.16969696969696968,
+        "percent": 0.5454545454545454
+      },
+      {
+        "author": "Hien D. Nguyen",
+        "contribution": 0.14141414141414138,
+        "percent": 0.4545454545454544
+      }
+    ],
+    "VNUHCM - University of Science": [
+      {
+        "author": "Binh T. Nguyen",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Nhon V. Do",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Thanh T. Mai",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Thi Ngoc Quan",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Hoang Viet Minh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh City University of Technology": {
+      "Artificial intelligence": 1.1388888888888888,
+      "Ontology": 1.1388888888888888,
+      "Algorithms": 0.4722222222222222,
+      "Data Science": 0.5833333333333333,
+      "Databases": 0.3333333333333333
+    },
+    "Sai Gon University": {
+      "Artificial intelligence": 0.2,
+      "Ontology": 0.2
+    },
+    "Vietnam National University, Ho Chi Minh City": {
+      "Artificial intelligence": 0.2,
+      "Ontology": 0.2
+    },
+    "VNUHCM - University of Information Technology": {
+      "Artificial intelligence": 0.3111111111111111,
+      "Ontology": 0.3111111111111111,
+      "Mathematical Modeling": 0.1111111111111111
+    },
+    "VNUHCM - University of Science": {
+      "Artificial intelligence": 0.2,
+      "Ontology": 0.2
+    },
+    "Ho Chi Minh City Open University": {
+      "Artificial intelligence": 0.2222222222222222,
+      "Ontology": 0.2222222222222222,
+      "Mathematical Modeling": 0.2222222222222222
+    },
+    "Hanoi University of Science and Technology": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Ontology": 0.16666666666666666,
+      "Data Science": 0.16666666666666666
+    },
+    "Vietnam National University, Hanoi": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Ontology": 0.16666666666666666,
+      "Data Science": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

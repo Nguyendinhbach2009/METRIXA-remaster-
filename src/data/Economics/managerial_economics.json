@@ -1,0 +1,767 @@
+{
+  "ranking": [
+    {
+      "university": "Academy of Finance",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.7777777777777779
+    },
+    {
+      "university": "University of Labour and Social Affairs",
+      "totalContribution": 0.6
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.5944444444444443
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.5499999999999999
+    },
+    {
+      "university": "University of Finance – Marketing",
+      "totalContribution": 0.4833333333333333
+    },
+    {
+      "university": "Banking Academy of Vietnam",
+      "totalContribution": 0.4666666666666666
+    },
+    {
+      "university": "Trade Union University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNU University of Economics and Business",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 0.2847222222222222
+    },
+    {
+      "university": "Ba Ria - Vung Tau University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.23333333333333334
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Vietnam National University, Ho Chi Minh City",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.19999999999999998
+    },
+    {
+      "university": "VNUHCM - International University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Van Hien University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "National Economic University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "The University of Da Nang",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Economics - The University of Da Nang",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Eastern International University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hanoi Achitectural University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "VNUHCM - University of Economics and Law",
+      "totalContribution": 0.13333333333333333
+    },
+    {
+      "university": "Thuongmai University",
+      "totalContribution": 0.11666666666666667
+    },
+    {
+      "university": "Hoa Sen University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "The Banking University of Ho Chi Minh City",
+      "totalContribution": 0.08333333333333334
+    },
+    {
+      "university": "Hung Yen University of Technology and Education",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi Open University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Transport and Communications",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Nam Can Tho University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Hai Phong University",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Thi Anh Nhu Nguyen",
+        "contribution": 0.15714285714285714,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Duc Hong Vo",
+        "contribution": 0.15714285714285714,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Nguyen Minh Ha",
+        "contribution": 0.07857142857142857,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Bao Ngoc Do",
+        "contribution": 0.07857142857142857,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Trung Thanh Ngo",
+        "contribution": 0.07857142857142857,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "University of Finance – Marketing": [
+      {
+        "author": "Nguyen Thi Thu Ha",
+        "contribution": 0.29,
+        "percent": 0.6
+      },
+      {
+        "author": "Van Hong Nguyen",
+        "contribution": 0.1933333333333333,
+        "percent": 0.39999999999999997
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Son Tung Bui",
+        "contribution": 0.2070707070707071,
+        "percent": 0.7272727272727274
+      },
+      {
+        "author": "Thi-Hanh Vu",
+        "contribution": 0.07765151515151517,
+        "percent": 0.27272727272727276
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Manh-Tung Ho",
+        "contribution": 0.07291666666666666,
+        "percent": 0.25
+      },
+      {
+        "author": "Quan-Hoang Vuong",
+        "contribution": 0.07291666666666666,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Mo",
+        "contribution": 0.07291666666666666,
+        "percent": 0.25
+      },
+      {
+        "author": "Hoang Le Huyen",
+        "contribution": 0.07291666666666666,
+        "percent": 0.25
+      }
+    ],
+    "VNUHCM - International University": [
+      {
+        "author": "Vo Thi Quy",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Van Hien University": [
+      {
+        "author": "Le Thi Minh Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Tran Van Hieu",
+        "contribution": 0.28533333333333327,
+        "percent": 0.48
+      },
+      {
+        "author": "Quang Hung Doan",
+        "contribution": 0.09511111111111109,
+        "percent": 0.16
+      },
+      {
+        "author": "Dinh Cong Thanh",
+        "contribution": 0.07133333333333332,
+        "percent": 0.12
+      },
+      {
+        "author": "Le Tan Nghiem",
+        "contribution": 0.07133333333333332,
+        "percent": 0.12
+      },
+      {
+        "author": "Pham Le Hong Nhung",
+        "contribution": 0.07133333333333332,
+        "percent": 0.12
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Phuong Thi Ngoc Le",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Thuy Thi Le",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Hoa Sen University": [
+      {
+        "author": "Lam Van Nguyen",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "National Economic University": [
+      {
+        "author": "Van Cong Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Thanh Hang Pham",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Academy of Finance": [
+      {
+        "author": "Ngoc Ha Dao",
+        "contribution": 0.3184713375796178,
+        "percent": 0.3821656050955414
+      },
+      {
+        "author": "Quynh Mai Pham",
+        "contribution": 0.1592356687898089,
+        "percent": 0.1910828025477707
+      },
+      {
+        "author": "Thi Hoai Thu Ho",
+        "contribution": 0.1592356687898089,
+        "percent": 0.1910828025477707
+      },
+      {
+        "author": "Ly Lan Yen",
+        "contribution": 0.11677282377919321,
+        "percent": 0.14012738853503187
+      },
+      {
+        "author": "Song Hoa Vu",
+        "contribution": 0.07961783439490445,
+        "percent": 0.09554140127388536
+      }
+    ],
+    "The University of Da Nang": [
+      {
+        "author": "Van Hai Hoang",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics - The University of Da Nang": [
+      {
+        "author": "Truong Son Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Labour and Social Affairs": [
+      {
+        "author": "Tran Thi Du",
+        "contribution": 0.22222222222222224,
+        "percent": 0.3703703703703704
+      },
+      {
+        "author": "Vu Thi Thanh Thuy",
+        "contribution": 0.13333333333333336,
+        "percent": 0.22222222222222227
+      },
+      {
+        "author": "Bui Thi Thu",
+        "contribution": 0.13333333333333336,
+        "percent": 0.22222222222222227
+      },
+      {
+        "author": "Hoang Khanh Van",
+        "contribution": 0.11111111111111112,
+        "percent": 0.1851851851851852
+      }
+    ],
+    "Trade Union University": [
+      {
+        "author": "Vu Thuy Duong",
+        "contribution": 0.2222222222222222,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Dinh Thi Ngoc Mai",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Thao Tran",
+        "contribution": 0.22222222222222227,
+        "percent": 0.2857142857142857
+      },
+      {
+        "author": "Nguyen Thanh Hung",
+        "contribution": 0.1666666666666667,
+        "percent": 0.2142857142857143
+      },
+      {
+        "author": "Thanh Su Dinh",
+        "contribution": 0.1666666666666667,
+        "percent": 0.2142857142857143
+      },
+      {
+        "author": "Thi Ngoc Lan Nguyen",
+        "contribution": 0.11111111111111113,
+        "percent": 0.14285714285714285
+      },
+      {
+        "author": "Quang Khai Nguyen",
+        "contribution": 0.11111111111111113,
+        "percent": 0.14285714285714285
+      }
+    ],
+    "Vietnam National University, Ho Chi Minh City": [
+      {
+        "author": "Duc Hong Vo",
+        "contribution": 0.2222222222222222,
+        "percent": 1.0
+      }
+    ],
+    "Ba Ria - Vung Tau University": [
+      {
+        "author": "Nguyen Duc Dat",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Nam Can Tho University": [
+      {
+        "author": "Nguyen Hong Gam",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Luc Phan Tan",
+        "contribution": 0.16666666666666669,
+        "percent": 0.7142857142857143
+      },
+      {
+        "author": "Van Chien Nguyen",
+        "contribution": 0.06666666666666668,
+        "percent": 0.28571428571428575
+      }
+    ],
+    "Eastern International University": [
+      {
+        "author": "Thu-Hang Le",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Thuongmai University": [
+      {
+        "author": "Le Thi Viet Nga",
+        "contribution": 0.043750000000000004,
+        "percent": 0.37500000000000006
+      },
+      {
+        "author": "Nguyen Duy Dat",
+        "contribution": 0.03645833333333333,
+        "percent": 0.31249999999999994
+      },
+      {
+        "author": "Pham Minh Dat",
+        "contribution": 0.03645833333333333,
+        "percent": 0.31249999999999994
+      }
+    ],
+    "The Banking University of Ho Chi Minh City": [
+      {
+        "author": "Dinh Tran Ngoc Huy",
+        "contribution": 0.08333333333333334,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Hong Khanh",
+        "contribution": 0.15,
+        "percent": 0.75
+      },
+      {
+        "author": "Nguyen Tien Dung",
+        "contribution": 0.049999999999999996,
+        "percent": 0.25
+      }
+    ],
+    "Hai Phong University": [
+      {
+        "author": "Do Minh Thuy",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Economics and Business": [
+      {
+        "author": "Do Nam Hung",
+        "contribution": 0.11764705882352942,
+        "percent": 0.3529411764705883
+      },
+      {
+        "author": "Vu Thi Anh Tuyet",
+        "contribution": 0.11764705882352942,
+        "percent": 0.3529411764705883
+      },
+      {
+        "author": "Thanh Ngo",
+        "contribution": 0.09803921568627451,
+        "percent": 0.29411764705882354
+      }
+    ],
+    "Banking Academy of Vietnam": [
+      {
+        "author": "Nguyen Thi Ngoc Thuy",
+        "contribution": 0.3333333333333333,
+        "percent": 0.7142857142857143
+      },
+      {
+        "author": "Le Thi Tu Oanh",
+        "contribution": 0.13333333333333333,
+        "percent": 0.28571428571428575
+      }
+    ],
+    "Hung Yen University of Technology and Education": [
+      {
+        "author": "Hoang Van Hue",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Open University": [
+      {
+        "author": "Dinh Thi Hang",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Pham Van Hung",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Achitectural University": [
+      {
+        "author": "Nguyen Thi Tuyet Dung",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Dinh Tuan Hai",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Nguyen Huu Dung",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Economics and Law": [
+      {
+        "author": "Tu D. Q. Le",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5
+      },
+      {
+        "author": "Dat T. Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh City Open University": {
+      "Innovation and Technology Management": 0.3,
+      "Econometrics": 0.5499999999999999,
+      "Development Economics": 0.3,
+      "Business Strategy": 0.13333333333333333,
+      "Managerial Economics": 0.5499999999999999,
+      "Corporate Governance": 0.25,
+      "Finance": 0.25
+    },
+    "University of Finance – Marketing": {
+      "Innovation and Technology Management": 0.15,
+      "Econometrics": 0.4833333333333333,
+      "Development Economics": 0.15,
+      "Business Strategy": 0.06666666666666667,
+      "Managerial Economics": 0.4833333333333333,
+      "Finance": 0.3333333333333333
+    },
+    "Foreign Trade University": {
+      "Econometrics": 0.2847222222222222,
+      "Finance": 0.0625,
+      "Managerial Economics": 0.2847222222222222,
+      "Development Economics": 0.0625,
+      "Business Ethics and Social Responsibility": 0.2222222222222222
+    },
+    "Phenikaa University": {
+      "Econometrics": 0.125,
+      "Finance": 0.29166666666666663,
+      "Managerial Economics": 0.29166666666666663,
+      "Development Economics": 0.125,
+      "Business Strategy": 0.16666666666666666
+    },
+    "VNUHCM - International University": {
+      "Finance": 0.16666666666666666,
+      "Econometrics": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "Van Hien University": {
+      "Finance": 0.16666666666666666,
+      "Econometrics": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "Can Tho University": {
+      "Operations Management": 0.4833333333333333,
+      "Supply Chain and Logistics": 0.3333333333333333,
+      "Managerial Economics": 0.5944444444444443,
+      "Entrepreneurship": 0.15000000000000002,
+      "Business Strategy": 0.2611111111111111,
+      "Human Resources": 0.15000000000000002,
+      "Econometrics": 0.1111111111111111
+    },
+    "Van Lang University": {
+      "Accounting": 0.2222222222222222,
+      "Hospitality and Tourism Management": 0.2222222222222222,
+      "Managerial Economics": 0.2222222222222222
+    },
+    "Hoa Sen University": {
+      "Accounting": 0.1111111111111111,
+      "Hospitality and Tourism Management": 0.1111111111111111,
+      "Managerial Economics": 0.1111111111111111
+    },
+    "National Economic University": {
+      "Econometrics": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666,
+      "Business Strategy": 0.16666666666666666
+    },
+    "Academy of Finance": {
+      "Econometrics": 0.5,
+      "Managerial Economics": 0.8333333333333333,
+      "Business Strategy": 0.44999999999999996,
+      "Accounting": 0.41666666666666663,
+      "Macroeconomics": 0.03333333333333333,
+      "Financial Economics": 0.05,
+      "Finance": 0.3333333333333333
+    },
+    "The University of Da Nang": {
+      "Supply Chain and Logistics": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "University of Economics - The University of Da Nang": {
+      "Supply Chain and Logistics": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "University of Labour and Social Affairs": {
+      "Accounting": 0.3333333333333333,
+      "Managerial Economics": 0.6,
+      "Agricultural and Natural Resource Economics": 0.1111111111111111,
+      "Marketing": 0.2222222222222222,
+      "Business Strategy": 0.26666666666666666,
+      "Management": 0.26666666666666666
+    },
+    "Trade Union University": {
+      "Accounting": 0.3333333333333333,
+      "Managerial Economics": 0.3333333333333333,
+      "Agricultural and Natural Resource Economics": 0.2222222222222222,
+      "Marketing": 0.1111111111111111
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Business Ethics and Social Responsibility": 0.2222222222222222,
+      "Econometrics": 0.7777777777777779,
+      "Managerial Economics": 0.7777777777777779,
+      "Financial Economics": 0.3333333333333333,
+      "Business Strategy": 0.2222222222222222
+    },
+    "Vietnam National University, Ho Chi Minh City": {
+      "Business Ethics and Social Responsibility": 0.2222222222222222,
+      "Econometrics": 0.2222222222222222,
+      "Managerial Economics": 0.2222222222222222
+    },
+    "Ba Ria - Vung Tau University": {
+      "Finance": 0.25,
+      "Financial Economics": 0.25,
+      "Econometrics": 0.25,
+      "Managerial Economics": 0.25
+    },
+    "Nam Can Tho University": {
+      "Entrepreneurship": 0.05,
+      "Business Strategy": 0.05,
+      "Operations Management": 0.05,
+      "Human Resources": 0.05,
+      "Managerial Economics": 0.05
+    },
+    "Thu Dau Mot University": {
+      "Econometrics": 0.06666666666666667,
+      "Financial Economics": 0.06666666666666667,
+      "Managerial Economics": 0.23333333333333334,
+      "Marketing": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666
+    },
+    "Eastern International University": {
+      "Marketing": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "Thuongmai University": {
+      "Macroeconomics": 0.06666666666666667,
+      "Econometrics": 0.11666666666666667,
+      "Business Strategy": 0.06666666666666667,
+      "Managerial Economics": 0.11666666666666667,
+      "Accounting": 0.11666666666666667,
+      "Financial Economics": 0.05
+    },
+    "The Banking University of Ho Chi Minh City": {
+      "Macroeconomics": 0.03333333333333333,
+      "Econometrics": 0.08333333333333334,
+      "Business Strategy": 0.03333333333333333,
+      "Managerial Economics": 0.08333333333333334,
+      "Accounting": 0.08333333333333334,
+      "Financial Economics": 0.05
+    },
+    "Hanoi University of Science and Technology": {
+      "Macroeconomics": 0.03333333333333333,
+      "Econometrics": 0.03333333333333333,
+      "Business Strategy": 0.19999999999999998,
+      "Managerial Economics": 0.19999999999999998,
+      "Accounting": 0.03333333333333333,
+      "Finance": 0.16666666666666666
+    },
+    "Hai Phong University": {
+      "Accounting": 0.05,
+      "Econometrics": 0.05,
+      "Financial Economics": 0.05,
+      "Managerial Economics": 0.05
+    },
+    "VNU University of Economics and Business": {
+      "Business Strategy": 0.26666666666666666,
+      "Management": 0.26666666666666666,
+      "Managerial Economics": 0.3333333333333333,
+      "Behavioral Economics": 0.06666666666666667,
+      "Corporate Governance": 0.06666666666666667,
+      "Finance": 0.06666666666666667,
+      "Organizational Behavior": 0.06666666666666667
+    },
+    "Banking Academy of Vietnam": {
+      "Business Strategy": 0.13333333333333333,
+      "Management": 0.13333333333333333,
+      "Managerial Economics": 0.4666666666666666,
+      "Finance": 0.3333333333333333,
+      "Business Policy and Governance": 0.3333333333333333
+    },
+    "Hung Yen University of Technology and Education": {
+      "Finance": 0.08333333333333333,
+      "Business Strategy": 0.08333333333333333,
+      "Managerial Economics": 0.08333333333333333
+    },
+    "Hanoi Open University": {
+      "Finance": 0.08333333333333333,
+      "Business Strategy": 0.08333333333333333,
+      "Managerial Economics": 0.08333333333333333
+    },
+    "Thai Nguyen University": {
+      "Finance": 0.16666666666666666,
+      "Business Strategy": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "Hanoi Achitectural University": {
+      "Public Economics": 0.16666666666666666,
+      "Policy analysis and Policy studies": 0.16666666666666666,
+      "Transport Engineering": 0.16666666666666666,
+      "Managerial Economics": 0.16666666666666666
+    },
+    "University of Transport and Communications": {
+      "Public Economics": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333,
+      "Transport Engineering": 0.08333333333333333,
+      "Managerial Economics": 0.08333333333333333
+    },
+    "VNUHCM - University of Economics and Law": {
+      "Behavioral Economics": 0.13333333333333333,
+      "Corporate Governance": 0.13333333333333333,
+      "Finance": 0.13333333333333333,
+      "Organizational Behavior": 0.13333333333333333,
+      "Managerial Economics": 0.13333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,436 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 1.5833333333333333
+    },
+    {
+      "university": "Hanoi Procuratorate University",
+      "totalContribution": 1.25
+    },
+    {
+      "university": "Diplomatic Academy of Viet Nam",
+      "totalContribution": 0.9166666666666666
+    },
+    {
+      "university": "VNU University of Law",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Univeristy of Law, Hue University",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.45
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Thuongmai University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.1875
+    },
+    {
+      "university": "The University of Da Nang",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Vietnam Youth Academy",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "National Institute of Nutrition",
+      "totalContribution": 0.03571428571428571
+    }
+  ],
+  "authorsByUniversity": {
+    "Van Lang University": [
+      {
+        "author": "Le Ho Trung Hieu",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Yen",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Le Thi Thao",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "Nguyễn Tất Hùng",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyễn Thị Huyền",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Tố Trang Lâm",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Diplomatic Academy of Viet Nam": [
+      {
+        "author": "Nguyen Thi Thu Ha",
+        "contribution": 0.611111111111111,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Bui Ngoc Linh",
+        "contribution": 0.3055555555555555,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hanoi Law University": [
+      {
+        "author": "Kien Trung Doan",
+        "contribution": 0.95,
+        "percent": 0.6
+      },
+      {
+        "author": "Huong Thi Lan Phan",
+        "contribution": 0.31666666666666665,
+        "percent": 0.2
+      },
+      {
+        "author": "Thi Hong Yen Nguyen",
+        "contribution": 0.31666666666666665,
+        "percent": 0.2
+      }
+    ],
+    "Hanoi Procuratorate University": [
+      {
+        "author": "Duc Hanh Nguyen",
+        "contribution": 0.625,
+        "percent": 0.5
+      },
+      {
+        "author": "Khoat Van Nguyen",
+        "contribution": 0.625,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Tran Quoc Viet",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Univeristy of Law, Hue University": [
+      {
+        "author": "Ha Nguyen Son",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      },
+      {
+        "author": "Thuong Mai Thi",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Law": [
+      {
+        "author": "Xuan Hai Bui",
+        "contribution": 0.625,
+        "percent": 0.7500000000000001
+      },
+      {
+        "author": "Ngo Thi Minh Huong",
+        "contribution": 0.10416666666666666,
+        "percent": 0.125
+      },
+      {
+        "author": "Vu Cong Giao",
+        "contribution": 0.10416666666666666,
+        "percent": 0.125
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Nguyen Thi My Loc",
+        "contribution": 0.45,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Hạ Nguyễn Quang Trần",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "The University of Da Nang": [
+      {
+        "author": "Nguyen Van Sang",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Tuan T Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Public Health": [
+      {
+        "author": "Linh Bui Phuong",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Youth Academy": [
+      {
+        "author": "Hoang Minh Tuan",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Tran Thi Tuyet Nhung",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Ngoc Ha Do",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Thang The Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Thuongmai University": [
+      {
+        "author": "Do Hong Quyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Thi Ngoc Tuyet",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Thu Trang",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Mai Hoa",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Nguyen Xuan Phuong",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "National Institute of Nutrition": [
+      {
+        "author": "Phuong Huynh",
+        "contribution": 0.03571428571428571,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Van Lang University": {
+      "Family law": 0.3333333333333333,
+      "International law": 0.3333333333333333,
+      "Comparative law": 0.3333333333333333
+    },
+    "Hue University": {
+      "Tax law": 0.2,
+      "International law": 0.2,
+      "Law and Economics": 0.2,
+      "Public Economics": 0.2,
+      "Policy analysis and Policy studies": 0.2
+    },
+    "Dong Thap University": {
+      "International law": 0.25,
+      "International relations": 0.25,
+      "Maritime and aviation law": 0.25,
+      "Strategic studies": 0.25
+    },
+    "Ho Chi Minh City Open University": {
+      "Comparative law": 0.25,
+      "Human rights law": 0.25,
+      "International law": 0.25,
+      "Family law": 0.25
+    },
+    "Diplomatic Academy of Viet Nam": {
+      "International law": 0.9166666666666666,
+      "International relations": 0.5833333333333333,
+      "Strategic studies": 0.5833333333333333,
+      "Comparative law": 0.3333333333333333,
+      "Corporate and commercial law": 0.3333333333333333,
+      "Political geography": 0.25
+    },
+    "Hanoi Law University": {
+      "Constitutional law": 0.9166666666666666,
+      "Human rights law": 0.9166666666666666,
+      "International law": 1.5833333333333333,
+      "Tax law": 0.6666666666666666,
+      "Comparative law": 0.6666666666666666,
+      "Administrative law": 0.25
+    },
+    "Hanoi Procuratorate University": {
+      "Criminal law": 1.25,
+      "Environmental law": 0.6666666666666666,
+      "International law": 1.25,
+      "Corporate and commercial law": 0.5833333333333333,
+      "Comparative law": 0.25
+    },
+    "Vietnam National University, Hanoi": {
+      "Constitutional law": 0.2,
+      "Human rights law": 0.2,
+      "Public Administration": 0.2,
+      "Policy analysis and Policy studies": 0.2,
+      "International law": 0.2
+    },
+    "Univeristy of Law, Hue University": {
+      "International law": 0.5833333333333333,
+      "Tax law": 0.5833333333333333,
+      "Corporate Governance": 0.5833333333333333,
+      "Law and Economics": 0.25
+    },
+    "VNU University of Law": {
+      "Constitutional law": 0.8333333333333333,
+      "Human rights law": 0.8333333333333333,
+      "International law": 0.8333333333333333,
+      "Political theory and philosophy": 0.16666666666666666
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Civil law": 0.45,
+      "Property law": 0.25,
+      "Contract law": 0.45,
+      "International law": 0.45,
+      "Corporate and commercial law": 0.2,
+      "Tax law": 0.2
+    },
+    "Nguyen Tat Thanh University": {
+      "Labor and employment law": 0.3333333333333333,
+      "International law": 0.3333333333333333,
+      "Corporate Governance": 0.3333333333333333
+    },
+    "The University of Da Nang": {
+      "Diplomatic history": 0.125,
+      "Political history": 0.125,
+      "International law": 0.125,
+      "International relations": 0.125
+    },
+    "Vin, University": {
+      "Health law": 0.041666666666666664,
+      "Labor and employment law": 0.041666666666666664,
+      "International law": 0.041666666666666664,
+      "Policy analysis and Policy studies": 0.041666666666666664
+    },
+    "Hanoi University of Public Health": {
+      "Health law": 0.041666666666666664,
+      "Human rights law": 0.041666666666666664,
+      "International law": 0.041666666666666664
+    },
+    "Vietnam Youth Academy": {
+      "Criminal law": 0.125,
+      "Human rights law": 0.125,
+      "International law": 0.125,
+      "Public Administration": 0.125
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Criminal law": 0.041666666666666664,
+      "Human rights law": 0.041666666666666664,
+      "International law": 0.041666666666666664,
+      "Public Administration": 0.041666666666666664
+    },
+    "Thuongmai University": {
+      "Comparative law": 0.3333333333333333,
+      "International law": 0.3333333333333333,
+      "Corporate and commercial law": 0.3333333333333333
+    },
+    "Hanoi University of Science and Technology": {
+      "Comparative law": 0.1875,
+      "International law": 0.1875,
+      "Legal theory and jurisprudence": 0.1875,
+      "Law and society": 0.1875
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Comparative law": 0.0625,
+      "International law": 0.0625,
+      "Legal theory and jurisprudence": 0.0625,
+      "Law and society": 0.0625
+    },
+    "National Institute of Nutrition": {
+      "Policy analysis and Policy studies": 0.03571428571428571,
+      "International law": 0.03571428571428571,
+      "Political economy": 0.03571428571428571,
+      "Development studies": 0.03571428571428571
+    }
+  },
+  "totalPapers": 31334
+}

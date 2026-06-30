@@ -1,0 +1,26 @@
+{
+  "ranking": [
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.25
+    }
+  ],
+  "authorsByUniversity": {
+    "Van Lang University": [
+      {
+        "author": "Vo Van Lac",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Van Lang University": {
+      "Sculpture": 0.25,
+      "Higher education": 0.25,
+      "Curriculum and instruction": 0.25,
+      "Comparative and international education": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

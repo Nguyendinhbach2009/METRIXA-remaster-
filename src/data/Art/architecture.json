@@ -1,0 +1,563 @@
+{
+  "ranking": [
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 6.151388888888887
+    },
+    {
+      "university": "Hanoi Achitectural University",
+      "totalContribution": 1.8541666666666667
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Hanoi University of Civil Engineering",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.41666666666666663
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.4
+    },
+    {
+      "university": "University of Economics, Hue University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNUHCM - University of Technology",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Saigon Technology University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vietnam Institute of Architecture",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "University of Science and Technology - The University of Da Nang",
+      "totalContribution": 0.2777777777777778
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.26666666666666666
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.2569444444444444
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hong Bang University International",
+      "totalContribution": 0.14583333333333331
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Phuong Dong University",
+      "totalContribution": 0.0625
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Achitectural University": [
+      {
+        "author": "Dung Ngo Thi Kim",
+        "contribution": 0.7063492063492064,
+        "percent": 0.380952380952381
+      },
+      {
+        "author": "Hung Tan Khuat",
+        "contribution": 0.3531746031746032,
+        "percent": 0.1904761904761905
+      },
+      {
+        "author": "Anh Tuan Nguyen",
+        "contribution": 0.1765873015873016,
+        "percent": 0.09523809523809525
+      },
+      {
+        "author": "Trang Nguyen Thi Nhu",
+        "contribution": 0.1765873015873016,
+        "percent": 0.09523809523809525
+      },
+      {
+        "author": "Nguyen Minh Ngoc",
+        "contribution": 0.11772486772486773,
+        "percent": 0.06349206349206349
+      },
+      {
+        "author": "Tran Thanh Son",
+        "contribution": 0.11772486772486773,
+        "percent": 0.06349206349206349
+      },
+      {
+        "author": "Mai Vu",
+        "contribution": 0.11772486772486773,
+        "percent": 0.06349206349206349
+      },
+      {
+        "author": "Long T. Nguyen",
+        "contribution": 0.0882936507936508,
+        "percent": 0.04761904761904762
+      }
+    ],
+    "Phuong Dong University": [
+      {
+        "author": "Tuan Quoc Nguyen",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Nguyen Thi Bich Vân",
+        "contribution": 0.6418840579710141,
+        "percent": 0.10434782608695649
+      },
+      {
+        "author": "Thanh Son Le",
+        "contribution": 0.6418840579710141,
+        "percent": 0.10434782608695649
+      },
+      {
+        "author": "Hong Loan Nguyen",
+        "contribution": 0.6418840579710141,
+        "percent": 0.10434782608695649
+      },
+      {
+        "author": "Thi Hanh Nguyen Nguyen",
+        "contribution": 0.6418840579710141,
+        "percent": 0.10434782608695649
+      },
+      {
+        "author": "Pham Anh Dung",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Duc Tran",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Nguyen Thi Bich Ngoc",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Ly The Dan",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "An Nguyen Thi Tam",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Van Tin Nguyen",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Vu Thi Hong Hanh",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Viet Duong",
+        "contribution": 0.32094202898550706,
+        "percent": 0.052173913043478244
+      },
+      {
+        "author": "Hoang Nguyen",
+        "contribution": 0.16047101449275353,
+        "percent": 0.026086956521739122
+      },
+      {
+        "author": "Anh Viet Vu",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Thi Ai Thuy Pham",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Tu Pham",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Anh Tuan Vo",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Thi Thanh Binh Le",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Nguyen Hoang Long Truong",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Ngoc Huan Giang",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      },
+      {
+        "author": "Trong Binh Duong",
+        "contribution": 0.10698067632850235,
+        "percent": 0.01739130434782608
+      }
+    ],
+    "University of Economics, Hue University": [
+      {
+        "author": "Nguyen Thi Tuyet Mai",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Ngo Thuy Trang",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Le-Minh Ngo",
+        "contribution": 0.14583333333333331,
+        "percent": 0.5
+      },
+      {
+        "author": "Hai-Binh Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 0.5
+      }
+    ],
+    "Hong Bang University International": [
+      {
+        "author": "Thi-Minh Dieu Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Technology": [
+      {
+        "author": "Nam Hoang",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Social Sciences and Humanities": [
+      {
+        "author": "Thi Loi Tran",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Saigon Technology University": [
+      {
+        "author": "Do Lenh Hung Tu",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Anh T. H. Nguyen",
+        "contribution": 0.15416666666666667,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Tan Hai Dang Nguyen",
+        "contribution": 0.10277777777777777,
+        "percent": 0.4
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Duy Thinh Do",
+        "contribution": 0.4,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Nguyen Nguyen Thi Hanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Pham Vu Hong Son",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      },
+      {
+        "author": "Vo Thi Bich Huyen",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      }
+    ],
+    "University of Science and Technology - The University of Da Nang": [
+      {
+        "author": "Tran Dinh Hieu",
+        "contribution": 0.16666666666666669,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Ngoc Hong Nguyen",
+        "contribution": 0.11111111111111112,
+        "percent": 0.4
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Nguyen Quang Giai",
+        "contribution": 0.27777777777777773,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Nguyen Quoc Truc",
+        "contribution": 0.13888888888888887,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Institute of Architecture": [
+      {
+        "author": "Phuong Thi-Lan Le",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Hoang Quoc Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Nguyen Ngoc Tung",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Phan Thi Ngoc Anh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Huynh Ngo Tri Dung",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Hoang Van Thanh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      }
+    ],
+    "Hanoi University of Civil Engineering": [
+      {
+        "author": "Doan Minh Khoi",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Doan Minh Thu",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Doan Thanh Binh",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Nguyen Thi Ngoc Lan",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Doan Quang Hung",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Achitectural University": {
+      "Architecture": 1.8541666666666667,
+      "Environmental Engineering": 0.125,
+      "Sustainability Science": 0.125,
+      "Environmental Policy and Planning": 0.625,
+      "Civil Engineering": 0.5,
+      "Cultural history": 0.5625,
+      "Cultural geography": 0.5,
+      "Urban geography": 0.6666666666666666,
+      "Art history": 0.0625,
+      "Diplomatic history": 0.0625,
+      "Urban history": 0.16666666666666666
+    },
+    "Phuong Dong University": {
+      "Urban geography": 0.0625,
+      "Architecture": 0.0625,
+      "Environmental Policy and Planning": 0.0625,
+      "Transportation geography": 0.0625
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Architecture": 6.151388888888887,
+      "Urban geography": 1.5333333333333332,
+      "Urban Environmental Studies": 0.3333333333333333,
+      "Sustainability Science": 2.5125,
+      "Environmental history": 1.0,
+      "Civil Engineering": 0.8055555555555555,
+      "Higher education": 0.2222222222222222,
+      "Environmental geography": 0.3333333333333333,
+      "Urban sociology": 0.9791666666666666,
+      "Environmental Policy and Planning": 1.7625,
+      "Phenomenology": 0.5,
+      "Data Science": 0.2,
+      "Urban history": 0.5,
+      "Cultural geography": 0.75,
+      "Environmental Psychology": 0.3333333333333333,
+      "Development studies": 0.5,
+      "Human geography": 0.5,
+      "Economic geography": 0.25
+    },
+    "University of Economics, Hue University": {
+      "Architecture": 0.3333333333333333,
+      "Marketing": 0.3333333333333333,
+      "Environmental Psychology": 0.3333333333333333
+    },
+    "Ton Duc Thang University": {
+      "Architecture": 0.29166666666666663,
+      "Urban geography": 0.29166666666666663,
+      "Urban sociology": 0.29166666666666663,
+      "Environmental Policy and Planning": 0.125
+    },
+    "Hong Bang University International": {
+      "Architecture": 0.14583333333333331,
+      "Urban geography": 0.14583333333333331,
+      "Urban sociology": 0.14583333333333331,
+      "Environmental Policy and Planning": 0.0625
+    },
+    "VNUHCM - University of Technology": {
+      "Architecture": 0.3333333333333333,
+      "Architectural Engineering": 0.3333333333333333,
+      "Civil Engineering": 0.3333333333333333
+    },
+    "VNUHCM - University of Social Sciences and Humanities": {
+      "Architecture": 0.1111111111111111,
+      "Civil Engineering": 0.1111111111111111,
+      "Higher education": 0.1111111111111111
+    },
+    "Saigon Technology University": {
+      "Applied arts": 0.3333333333333333,
+      "Architecture": 0.3333333333333333,
+      "Urban Environmental Studies": 0.3333333333333333
+    },
+    "Duy Tan University": {
+      "Architecture": 0.2569444444444444,
+      "Urban sociology": 0.14583333333333331,
+      "Environmental Policy and Planning": 0.14583333333333331,
+      "Sustainability Science": 0.0625,
+      "Civil Engineering": 0.1111111111111111,
+      "Architectural Engineering": 0.1111111111111111
+    },
+    "HCMC University of Technology and Education": {
+      "Urban geography": 0.4,
+      "Hospitality and Tourism Management": 0.4,
+      "Architecture": 0.4,
+      "Urban sociology": 0.4,
+      "Cultural geography": 0.2,
+      "Environmental Policy and Planning": 0.2
+    },
+    "Nguyen Tat Thanh University": {
+      "Architecture": 0.16666666666666666,
+      "Urban history": 0.16666666666666666,
+      "Urban geography": 0.16666666666666666
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Architecture": 0.5833333333333333,
+      "Architectural Engineering": 0.5833333333333333,
+      "Sustainability Science": 0.5833333333333333,
+      "Environmental Engineering": 0.25
+    },
+    "University of Science and Technology - The University of Da Nang": {
+      "Urban geography": 0.1111111111111111,
+      "Architecture": 0.2777777777777778,
+      "Transportation geography": 0.1111111111111111,
+      "Art history": 0.16666666666666666,
+      "Cultural history": 0.16666666666666666
+    },
+    "Thu Dau Mot University": {
+      "Architecture": 0.41666666666666663,
+      "Sustainability Science": 0.25,
+      "Environmental Policy and Planning": 0.25,
+      "Urban Environmental Studies": 0.25,
+      "Art history": 0.16666666666666666,
+      "Cultural history": 0.16666666666666666
+    },
+    "Vietnam Institute of Architecture": {
+      "Architecture": 0.3333333333333333,
+      "Sustainability Science": 0.3333333333333333,
+      "Environmental Policy and Planning": 0.3333333333333333
+    },
+    "University of Sciences, Hue University": {
+      "Architecture": 0.26666666666666666,
+      "Art history": 0.26666666666666666,
+      "Urban history": 0.26666666666666666
+    },
+    "Hanoi University of Civil Engineering": {
+      "Architecture": 0.5,
+      "Sustainability Science": 0.5
+    },
+    "Vietnam National University of Agriculture": {
+      "Urban geography": 0.125,
+      "Architecture": 0.125,
+      "Urban sociology": 0.125,
+      "Urban history": 0.125
+    },
+    "Phenikaa University": {
+      "Urban geography": 0.125,
+      "Architecture": 0.125,
+      "Urban sociology": 0.125,
+      "Urban history": 0.125
+    }
+  },
+  "totalPapers": 31334
+}

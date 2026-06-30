@@ -1,0 +1,45 @@
+{
+  "ranking": [
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.03333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Ton Duc Thang University": [
+      {
+        "author": "Hoang Chinh Nguyen",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Nguyen Phuong Vi Truong",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ton Duc Thang University": {
+      "Biochemical Engineering": 0.03333333333333333,
+      "Chemical Engineering": 0.03333333333333333,
+      "Green Chemistry": 0.03333333333333333,
+      "Biotechnology": 0.03333333333333333,
+      "Biochemistry": 0.03333333333333333
+    },
+    "Thu Dau Mot University": {
+      "Agricultural Engineering": 0.1,
+      "Biochemical Engineering": 0.1,
+      "Biotechnology": 0.1,
+      "Chemical Engineering": 0.1,
+      "Biochemistry": 0.1
+    }
+  },
+  "totalPapers": 31334
+}

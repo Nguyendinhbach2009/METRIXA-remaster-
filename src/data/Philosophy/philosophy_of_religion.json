@@ -1,0 +1,149 @@
+{
+  "ranking": [
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.15151515151515152
+    },
+    {
+      "university": "University of Transport and Communications",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Ho Chi Minh City University for Natural Resources and Environment",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.11363636363636363
+    },
+    {
+      "university": "Vietnam Academy for Ethnic Minorities",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "The Vietnam National Institute of Education Sciences",
+      "totalContribution": 0.030303030303030304
+    }
+  ],
+  "authorsByUniversity": {
+    "Duy Tan University": [
+      {
+        "author": "Po-Ju Chen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.7333333333333333
+      },
+      {
+        "author": "Khanh-Linh Hoang",
+        "contribution": 0.030303030303030304,
+        "percent": 0.26666666666666666
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Vu Hong Van",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University for Natural Resources and Environment": [
+      {
+        "author": "Nguyen Trong Long",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Quan-Hoang Vuong",
+        "contribution": 0.030303030303030304,
+        "percent": 0.2
+      },
+      {
+        "author": "Manh-Tung Ho",
+        "contribution": 0.030303030303030304,
+        "percent": 0.2
+      },
+      {
+        "author": "Hong-Kong T. Nguyen",
+        "contribution": 0.030303030303030304,
+        "percent": 0.2
+      },
+      {
+        "author": "Manh-Toan Ho",
+        "contribution": 0.030303030303030304,
+        "percent": 0.2
+      },
+      {
+        "author": "Viet-Phuong La",
+        "contribution": 0.030303030303030304,
+        "percent": 0.2
+      }
+    ],
+    "Vietnam Academy for Ethnic Minorities": [
+      {
+        "author": "Trung Tran",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Thi-Hanh Vu",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "The Vietnam National Institute of Education Sciences": [
+      {
+        "author": "Phuong-Hanh Hoang",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Duy Tan University": {
+      "Hospitality and Tourism Management": 0.08333333333333333,
+      "Philosophy of religion": 0.11363636363636363,
+      "Sociology of religion": 0.11363636363636363,
+      "Cultural sociology": 0.030303030303030304
+    },
+    "University of Transport and Communications": {
+      "Cultural sociology": 0.125,
+      "Sociology of religion": 0.125,
+      "Cultural history": 0.125,
+      "Philosophy of religion": 0.125
+    },
+    "Ho Chi Minh City University for Natural Resources and Environment": {
+      "Cultural sociology": 0.125,
+      "Sociology of religion": 0.125,
+      "Cultural history": 0.125,
+      "Philosophy of religion": 0.125
+    },
+    "Phenikaa University": {
+      "Sociology of religion": 0.15151515151515152,
+      "Cultural sociology": 0.15151515151515152,
+      "Philosophy of religion": 0.15151515151515152
+    },
+    "Vietnam Academy for Ethnic Minorities": {
+      "Sociology of religion": 0.030303030303030304,
+      "Cultural sociology": 0.030303030303030304,
+      "Philosophy of religion": 0.030303030303030304
+    },
+    "Foreign Trade University": {
+      "Sociology of religion": 0.030303030303030304,
+      "Cultural sociology": 0.030303030303030304,
+      "Philosophy of religion": 0.030303030303030304
+    },
+    "The Vietnam National Institute of Education Sciences": {
+      "Sociology of religion": 0.030303030303030304,
+      "Cultural sociology": 0.030303030303030304,
+      "Philosophy of religion": 0.030303030303030304
+    }
+  },
+  "totalPapers": 31334
+}

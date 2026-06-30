@@ -1,0 +1,317 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Procuratorate University",
+      "totalContribution": 0.9166666666666665
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Graduate Academy of Social Sciences",
+      "totalContribution": 0.7916666666666666
+    },
+    {
+      "university": "Vietnam Youth Academy",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.225
+    },
+    {
+      "university": "University of Agriculture and Forestry Ho Chi Minh City",
+      "totalContribution": 0.18333333333333335
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "PetroVietnam University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "VNU University of Economics and Business",
+      "totalContribution": 0.05277777777777778
+    },
+    {
+      "university": "Diplomatic Academy of Viet Nam",
+      "totalContribution": 0.05277777777777778
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.025
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Nguyen Huu Chat",
+        "contribution": 0.225,
+        "percent": 1.0
+      }
+    ],
+    "Graduate Academy of Social Sciences": [
+      {
+        "author": "Thi Mai Dinh",
+        "contribution": 0.5037878787878787,
+        "percent": 0.6363636363636362
+      },
+      {
+        "author": "Minh Duc Tran",
+        "contribution": 0.28787878787878785,
+        "percent": 0.3636363636363636
+      }
+    ],
+    "PetroVietnam University": [
+      {
+        "author": "Huyen Thi Le",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Procuratorate University": [
+      {
+        "author": "Duc Hanh Nguyen",
+        "contribution": 0.9166666666666665,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Youth Academy": [
+      {
+        "author": "Khanh Linh Vo",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Law University": [
+      {
+        "author": "Vu Thi Duyen Thuy",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Ngoc Thang Dinh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Thi Phuong Quynh Bui",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Pham Huu Ty",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Agriculture and Forestry Ho Chi Minh City": [
+      {
+        "author": "Thi Kim Hong Tang",
+        "contribution": 0.027777777777777776,
+        "percent": 0.1515151515151515
+      },
+      {
+        "author": "Hai Phuong Dang",
+        "contribution": 0.027777777777777776,
+        "percent": 0.1515151515151515
+      },
+      {
+        "author": "Thi Kieu Nuong Nguyen",
+        "contribution": 0.027777777777777776,
+        "percent": 0.1515151515151515
+      },
+      {
+        "author": "Hong Thi Kim Tang",
+        "contribution": 0.025,
+        "percent": 0.13636363636363635
+      },
+      {
+        "author": "Nuong Thi Kieu Nguyen",
+        "contribution": 0.025,
+        "percent": 0.13636363636363635
+      },
+      {
+        "author": "Phuong Hai Dang",
+        "contribution": 0.025,
+        "percent": 0.13636363636363635
+      },
+      {
+        "author": "Quang Nhat Nguyen",
+        "contribution": 0.025,
+        "percent": 0.13636363636363635
+      }
+    ],
+    "VNU University of Economics and Business": [
+      {
+        "author": "Thi Van Anh Nguyen",
+        "contribution": 0.027777777777777776,
+        "percent": 0.5263157894736842
+      },
+      {
+        "author": "Anh Thi Van Nguyen",
+        "contribution": 0.025,
+        "percent": 0.4736842105263158
+      }
+    ],
+    "Diplomatic Academy of Viet Nam": [
+      {
+        "author": "Thi Thuy Anh Nguyen",
+        "contribution": 0.027777777777777776,
+        "percent": 0.5263157894736842
+      },
+      {
+        "author": "Anh Thi Thuy Nguyen",
+        "contribution": 0.025,
+        "percent": 0.4736842105263158
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Duyen Nhat Lam Tran",
+        "contribution": 0.025,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Tien Dinh Nguyen",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Hai Thanh Luong",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Thi Thu Ha Chu",
+        "contribution": 0.8333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh National Academy of Politics": {
+      "Hydrogeology": 0.225,
+      "Hydrology": 0.225,
+      "Environmental Policy and Planning": 0.225,
+      "Environmental law": 0.225,
+      "Natural Resource Management": 0.1
+    },
+    "Graduate Academy of Social Sciences": {
+      "Criminal law": 0.20833333333333331,
+      "Environmental law": 0.7916666666666666,
+      "Environmental Policy and Planning": 0.7083333333333333,
+      "Sustainability Science": 0.125,
+      "Natural Resource Management": 0.25,
+      "Agricultural and Natural Resource Economics": 0.25,
+      "Corporate and commercial law": 0.08333333333333333,
+      "Waste Management": 0.3333333333333333
+    },
+    "PetroVietnam University": {
+      "Environmental Policy and Planning": 0.06666666666666667,
+      "Environmental law": 0.06666666666666667,
+      "Petroleum Engineering": 0.06666666666666667,
+      "Mining Engineering": 0.06666666666666667,
+      "Natural Resource Management": 0.06666666666666667
+    },
+    "Hanoi Procuratorate University": {
+      "Environmental law": 0.9166666666666665,
+      "Environmental Policy and Planning": 0.25,
+      "Natural Resource Management": 0.25,
+      "Agricultural and Natural Resource Economics": 0.25,
+      "Criminal law": 0.6666666666666666,
+      "International law": 0.6666666666666666
+    },
+    "Vietnam Youth Academy": {
+      "Criminal law": 0.3333333333333333,
+      "Environmental law": 0.3333333333333333,
+      "Environmental Policy and Planning": 0.3333333333333333
+    },
+    "Hanoi Law University": {
+      "Environmental law": 0.3333333333333333,
+      "Comparative law": 0.3333333333333333,
+      "Tort law": 0.3333333333333333
+    },
+    "Vinh University": {
+      "Environmental law": 0.16666666666666666,
+      "Criminal law": 0.16666666666666666,
+      "Corporate and commercial law": 0.16666666666666666
+    },
+    "Hue University": {
+      "Environmental Policy and Planning": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333,
+      "Environmental law": 0.08333333333333333,
+      "Public Administration": 0.08333333333333333
+    },
+    "University of Agriculture and Forestry Ho Chi Minh City": {
+      "Conservation Biology": 0.18333333333333335,
+      "Environmental Policy and Planning": 0.18333333333333335,
+      "Natural Resource Management": 0.18333333333333335,
+      "Environmental law": 0.18333333333333335
+    },
+    "VNU University of Economics and Business": {
+      "Conservation Biology": 0.05277777777777778,
+      "Environmental Policy and Planning": 0.05277777777777778,
+      "Natural Resource Management": 0.05277777777777778,
+      "Environmental law": 0.05277777777777778
+    },
+    "Diplomatic Academy of Viet Nam": {
+      "Conservation Biology": 0.05277777777777778,
+      "Environmental Policy and Planning": 0.05277777777777778,
+      "Natural Resource Management": 0.05277777777777778,
+      "Environmental law": 0.05277777777777778
+    },
+    "Vietnam National University, Hanoi": {
+      "Conservation Biology": 0.025,
+      "Environmental Policy and Planning": 0.025,
+      "Natural Resource Management": 0.025,
+      "Environmental law": 0.025
+    },
+    "Vietnam National University of Agriculture": {
+      "Environmental Policy and Planning": 0.037037037037037035,
+      "Environmental law": 0.037037037037037035,
+      "Natural Resource Management": 0.037037037037037035
+    },
+    "Duy Tan University": {
+      "Criminal law": 0.25,
+      "Human rights law": 0.25,
+      "Environmental law": 0.25,
+      "Cybersecurity": 0.25
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Environmental Policy and Planning": 0.8333333333333333,
+      "Environmental law": 0.8333333333333333,
+      "Environmental sociology": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,476 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Mining and Geology",
+      "totalContribution": 1.3951388888888894
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Vietnam Institute of Geosciences and Mineral Resources",
+      "totalContribution": 0.33333333333333326
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.32222222222222224
+    },
+    {
+      "university": "Vietnam Petroleum Institute - VPI",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Vietnam Atomic Energy Institute",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.11458333333333333
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.08125
+    },
+    {
+      "university": "University of Transport and Communications",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "National Institute of Hygiene and Epidemiology",
+      "totalContribution": 0.05555555555555555
+    }
+  ],
+  "authorsByUniversity": {
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Hung Viet Quang Nguyen",
+        "contribution": 0.04715447154471544,
+        "percent": 0.1463414634146341
+      },
+      {
+        "author": "Phan Dong Pha",
+        "contribution": 0.03929539295392953,
+        "percent": 0.12195121951219509
+      },
+      {
+        "author": "Ngoc Tung Quach",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Can Pham-Ngoc",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Thi Lien Bui",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Trong Hoa Tran",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Thi Phuong Ngo",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Van The Nguyen",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Thi Hanh Nguyen Vu",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Tuan Anh Tran",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Hoang Ha Chu",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      },
+      {
+        "author": "Quyet-Tien Phi",
+        "contribution": 0.02357723577235772,
+        "percent": 0.07317073170731705
+      }
+    ],
+    "Hanoi University of Mining and Geology": [
+      {
+        "author": "Khuong The Hung",
+        "contribution": 0.28079031438321356,
+        "percent": 0.2012633413199738
+      },
+      {
+        "author": "Hung The Khuong",
+        "contribution": 0.1367485297320845,
+        "percent": 0.09801786103245477
+      },
+      {
+        "author": "Pham Nhu Sang",
+        "contribution": 0.07293254919044506,
+        "percent": 0.05227619255064254
+      },
+      {
+        "author": "Nguyen Thi Cuc",
+        "contribution": 0.07293254919044506,
+        "percent": 0.05227619255064254
+      },
+      {
+        "author": "Bac Hoang Bui",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Thanh Xuan Ngo",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Dung Tien Nguyen",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Nguyen Thi Nu",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Do Minh Toan",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Bui Truong Son",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Tuan Quang Tran",
+        "contribution": 0.06381598054163944,
+        "percent": 0.04574166848181222
+      },
+      {
+        "author": "Hoang Van Long",
+        "contribution": 0.04254398702775962,
+        "percent": 0.03049444565454148
+      },
+      {
+        "author": "Phuong Thao Dang",
+        "contribution": 0.04254398702775962,
+        "percent": 0.03049444565454148
+      },
+      {
+        "author": "Qui-Thao Le",
+        "contribution": 0.03190799027081972,
+        "percent": 0.02287083424090611
+      },
+      {
+        "author": "Hoang-Bac Bui",
+        "contribution": 0.03190799027081972,
+        "percent": 0.02287083424090611
+      },
+      {
+        "author": "Xuan-Nam Bui",
+        "contribution": 0.03190799027081972,
+        "percent": 0.02287083424090611
+      },
+      {
+        "author": "Bui Hoang Bac",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Nguyen Tien Dung",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Luong Quang Khang",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Nguyen Van Lam",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Do Manh An",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Phan Viet Son",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Tran Thi Van Anh",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      },
+      {
+        "author": "Bui Thanh Tinh",
+        "contribution": 0.025526392216655775,
+        "percent": 0.01829666739272489
+      }
+    ],
+    "Vietnam Institute of Geosciences and Mineral Resources": [
+      {
+        "author": "Ta Dinh Tung",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25000000000000006
+      },
+      {
+        "author": "Do Quoc Binh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25000000000000006
+      },
+      {
+        "author": "Nguyen Thi Hoang Linh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25000000000000006
+      },
+      {
+        "author": "Quach Duc Tin",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25000000000000006
+      }
+    ],
+    "Vietnam Petroleum Institute - VPI": [
+      {
+        "author": "Toan Minh Ho",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Phuong Kim Lieu",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Thuy Thi Doan",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Phuong Thi Ngoc Bui",
+        "contribution": 0.0625,
+        "percent": 0.25
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "H Fayaz",
+        "contribution": 0.05,
+        "percent": 0.6153846153846154
+      },
+      {
+        "author": "Trung Nguyen-Thoi",
+        "contribution": 0.03125,
+        "percent": 0.3846153846153846
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Nguyen Tien Hoang",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Nguyen Thi Thuy",
+        "contribution": 0.25,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Le Huyen",
+        "contribution": 0.25,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Ngoc Tram",
+        "contribution": 0.25,
+        "percent": 0.25
+      },
+      {
+        "author": "Le Hai Nghia",
+        "contribution": 0.25,
+        "percent": 0.25
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Hong Thinh Phi",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Science": [
+      {
+        "author": "Thao Hoang-Minh",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Atomic Energy Institute": [
+      {
+        "author": "Thuy T Nguyen",
+        "contribution": 0.03125,
+        "percent": 0.25
+      },
+      {
+        "author": "Tung V Nguyen",
+        "contribution": 0.03125,
+        "percent": 0.25
+      },
+      {
+        "author": "Hung T Nguyen",
+        "contribution": 0.03125,
+        "percent": 0.25
+      },
+      {
+        "author": "Thuan Ba Le",
+        "contribution": 0.03125,
+        "percent": 0.25
+      }
+    ],
+    "National Institute of Hygiene and Epidemiology": [
+      {
+        "author": "Thuy Nguyen Thanh",
+        "contribution": 0.027777777777777776,
+        "percent": 0.5
+      },
+      {
+        "author": "Huy Tran Quang",
+        "contribution": 0.027777777777777776,
+        "percent": 0.5
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Mahdi Ghadiri",
+        "contribution": 0.08333333333333333,
+        "percent": 0.7272727272727273
+      },
+      {
+        "author": "Hoang Nguyen",
+        "contribution": 0.03125,
+        "percent": 0.27272727272727276
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Vietnam Academy of Science and Technology": {
+      "Mineralogy": 0.32222222222222224,
+      "Petrology": 0.06666666666666667,
+      "Geochemistry": 0.32222222222222224,
+      "Sedimentology": 0.05555555555555555,
+      "Biotechnology": 0.19999999999999998,
+      "Microbiology": 0.19999999999999998,
+      "Mining Engineering": 0.19999999999999998
+    },
+    "Hanoi University of Mining and Geology": {
+      "Geochemistry": 1.1138888888888894,
+      "Economic geology": 0.6270833333333333,
+      "Mineralogy": 1.3951388888888894,
+      "Structural geology": 0.3571428571428571,
+      "Petrology": 0.5083333333333335,
+      "Soil Science": 0.1875,
+      "Sedimentology": 0.24305555555555555,
+      "Engineering geology": 0.22083333333333333,
+      "Nano-Materials": 0.22499999999999998,
+      "Mining geology": 0.25,
+      "Environmental Geology": 0.05,
+      "Hydrogeology": 0.05,
+      "Environmental Chemistry": 0.05,
+      "Artificial intelligence": 0.09375,
+      "Data Science": 0.09375
+    },
+    "Vietnam Institute of Geosciences and Mineral Resources": {
+      "Geochemistry": 0.33333333333333326,
+      "Economic geology": 0.33333333333333326,
+      "Mineralogy": 0.33333333333333326,
+      "Structural geology": 0.14285714285714285
+    },
+    "Vietnam Petroleum Institute - VPI": {
+      "Petroleum geology": 0.25,
+      "Sedimentology": 0.25,
+      "Petrology": 0.25,
+      "Mineralogy": 0.25
+    },
+    "Ton Duc Thang University": {
+      "Chemical Engineering": 0.05,
+      "Geochemistry": 0.05,
+      "Mineralogy": 0.08125,
+      "Environmental Engineering": 0.05,
+      "Artificial intelligence": 0.03125,
+      "Data Science": 0.03125,
+      "Economic geology": 0.03125
+    },
+    "Hue University": {
+      "Economic geology": 0.16666666666666666,
+      "Mineralogy": 0.16666666666666666,
+      "Environmental Geology": 0.16666666666666666
+    },
+    "University of Sciences, Hue University": {
+      "Mineralogy": 1.0,
+      "Petrology": 1.0
+    },
+    "University of Transport and Communications": {
+      "Soil Science": 0.0625,
+      "Sedimentology": 0.0625,
+      "Mineralogy": 0.0625,
+      "Engineering geology": 0.0625
+    },
+    "VNU University of Science": {
+      "Geochemistry": 0.0625,
+      "Hydrogeology": 0.03125,
+      "Mineralogy": 0.0625,
+      "Petrology": 0.0625,
+      "Sedimentology": 0.03125
+    },
+    "Vietnam Atomic Energy Institute": {
+      "Mineralogy": 0.125,
+      "Geochemistry": 0.125,
+      "Economic geology": 0.125,
+      "Analytical Chemistry": 0.125
+    },
+    "National Institute of Hygiene and Epidemiology": {
+      "Microbiology": 0.05555555555555555,
+      "Mineralogy": 0.05555555555555555,
+      "Biogeology": 0.05555555555555555,
+      "Geochemistry": 0.05555555555555555
+    },
+    "Duy Tan University": {
+      "Mining Engineering": 0.08333333333333333,
+      "Chemical Engineering": 0.08333333333333333,
+      "Mineralogy": 0.11458333333333333,
+      "Geochemistry": 0.08333333333333333,
+      "Artificial intelligence": 0.03125,
+      "Data Science": 0.03125,
+      "Economic geology": 0.03125
+    }
+  },
+  "totalPapers": 31334
+}

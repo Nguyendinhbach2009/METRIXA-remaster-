@@ -1,0 +1,367 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.955952380952381
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.3888888888888889
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "PetroVietnam University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Hanoi Pedagogical University 2",
+      "totalContribution": 0.20833333333333331
+    },
+    {
+      "university": "VNUHCM - University of Science",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.15833333333333333
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.15
+    },
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University for Natural Resources and Environment",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.0625
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Thanh Hai Nguyen",
+        "contribution": 0.12464105549088085,
+        "percent": 0.13038416763678692
+      },
+      {
+        "author": "Phuong Thao Dang",
+        "contribution": 0.12464105549088085,
+        "percent": 0.13038416763678692
+      },
+      {
+        "author": "Tuan Hung Nguyen",
+        "contribution": 0.12464105549088085,
+        "percent": 0.13038416763678692
+      },
+      {
+        "author": "Chuong V. Nguyen",
+        "contribution": 0.12464105549088085,
+        "percent": 0.13038416763678692
+      },
+      {
+        "author": "Tran Thi Thuy",
+        "contribution": 0.07790065968180053,
+        "percent": 0.08149010477299183
+      },
+      {
+        "author": "L N Anh",
+        "contribution": 0.044514662675314585,
+        "percent": 0.04656577415599533
+      },
+      {
+        "author": "Nguyen Thi Hong Loan",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "Pham Van Hieu",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "Doan Thi Lan Anh",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "Nguyen Thi Thuy Duong",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "Bui Avay Thanh",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "Le Thi Thu",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "Pham Van Lam",
+        "contribution": 0.038950329840900265,
+        "percent": 0.040745052386495915
+      },
+      {
+        "author": "M. B. T. Nguyen",
+        "contribution": 0.020773509248480142,
+        "percent": 0.021730694606131157
+      },
+      {
+        "author": "L. V. Tue",
+        "contribution": 0.020773509248480142,
+        "percent": 0.021730694606131157
+      },
+      {
+        "author": "N. Q. Vinh",
+        "contribution": 0.020773509248480142,
+        "percent": 0.021730694606131157
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Thi Trang Pham",
+        "contribution": 0.12063492063492064,
+        "percent": 0.761904761904762
+      },
+      {
+        "author": "Nguyen Hoang Giang",
+        "contribution": 0.037698412698412696,
+        "percent": 0.23809523809523808
+      }
+    ],
+    "PetroVietnam University": [
+      {
+        "author": "Huy Thanh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Cuong Duc Dao",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "An Tu Bui",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Thu Thanh Vu",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5555555555555556
+      },
+      {
+        "author": "H Q Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.4444444444444445
+      }
+    ],
+    "VNUHCM - University of Science": [
+      {
+        "author": "Thi Minh Hanh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Van Hong Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Ngoc Lam To",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University for Natural Resources and Environment": [
+      {
+        "author": "Thi Thu Huong Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Pedagogical University 2": [
+      {
+        "author": "Thai-Hoang Vinh",
+        "contribution": 0.041666666666666664,
+        "percent": 0.2
+      },
+      {
+        "author": "Pham Thi Trang",
+        "contribution": 0.041666666666666664,
+        "percent": 0.2
+      },
+      {
+        "author": "Nguyen Luong Ngan",
+        "contribution": 0.041666666666666664,
+        "percent": 0.2
+      },
+      {
+        "author": "Dang Phuong Thao",
+        "contribution": 0.041666666666666664,
+        "percent": 0.2
+      },
+      {
+        "author": "Le Thai Hung",
+        "contribution": 0.041666666666666664,
+        "percent": 0.2
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Thi Ly Mai",
+        "contribution": 0.16666666666666669,
+        "percent": 0.4285714285714286
+      },
+      {
+        "author": "Truong-Tho Pham",
+        "contribution": 0.11111111111111112,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Duc-Long Nguyen",
+        "contribution": 0.11111111111111112,
+        "percent": 0.28571428571428575
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "B.D. Tinh",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "L.M. Thu",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "L.V. Hoa",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Nguyen Van Dung",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Thanh Dam Pham",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Viet-Ha Chu",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Science and Technology": {
+      "Condensed Matter Physics": 0.8726190476190476,
+      "Superconducting Materials": 0.955952380952381,
+      "Quantum Materials": 0.11428571428571428,
+      "Computational Materials Science": 0.4666666666666666,
+      "Ceramics": 0.29166666666666663,
+      "Materials Processing and Synthesis": 0.08333333333333333,
+      "Materials Chemistry": 0.08333333333333333,
+      "Computational Physics": 0.2
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Condensed Matter Physics": 0.15833333333333333,
+      "Superconducting Materials": 0.15833333333333333,
+      "Computational Materials Science": 0.11666666666666667,
+      "Ceramics": 0.041666666666666664,
+      "Computational Physics": 0.05
+    },
+    "PetroVietnam University": {
+      "Condensed Matter Physics": 0.25,
+      "Superconducting Materials": 0.25,
+      "Magnetic Materials": 0.25
+    },
+    "Vietnam National University, Hanoi": {
+      "Condensed Matter Physics": 0.15,
+      "Superconducting Materials": 0.15,
+      "Magnetic Materials": 0.08333333333333333,
+      "Quantum Materials": 0.06666666666666667
+    },
+    "VNUHCM - University of Science": {
+      "Applied Physics": 0.16666666666666666,
+      "Condensed Matter Physics": 0.16666666666666666,
+      "Superconducting Materials": 0.16666666666666666
+    },
+    "Ho Chi Minh City University of Education": {
+      "Applied Physics": 0.08333333333333333,
+      "Condensed Matter Physics": 0.08333333333333333,
+      "Superconducting Materials": 0.08333333333333333
+    },
+    "Ho Chi Minh City University for Natural Resources and Environment": {
+      "Applied Physics": 0.08333333333333333,
+      "Condensed Matter Physics": 0.08333333333333333,
+      "Superconducting Materials": 0.08333333333333333
+    },
+    "Hanoi Pedagogical University 2": {
+      "Condensed Matter Physics": 0.20833333333333331,
+      "Superconducting Materials": 0.20833333333333331,
+      "Computational Materials Science": 0.20833333333333331,
+      "Quantum Physics": 0.20833333333333331
+    },
+    "Van Lang University": {
+      "Condensed Matter Physics": 0.3888888888888889,
+      "Computational Materials Science": 0.3888888888888889,
+      "Superconducting Materials": 0.3888888888888889
+    },
+    "Hanoi National University of Education": {
+      "Condensed Matter Physics": 0.3333333333333333,
+      "Superconducting Materials": 0.3333333333333333,
+      "Quantum Physics": 0.3333333333333333
+    },
+    "Can Tho University": {
+      "Electrical Engineering": 0.16666666666666666,
+      "Polymers": 0.16666666666666666,
+      "Superconducting Materials": 0.16666666666666666
+    },
+    "Duy Tan University": {
+      "Mechanical Engineering": 0.0625,
+      "Renewable Energy Systems": 0.0625,
+      "Superconducting Materials": 0.0625,
+      "Structural Engineering": 0.0625
+    },
+    "University of Education - Thai Nguyen University": {
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Computational Materials Science": 0.1111111111111111,
+      "Superconducting Materials": 0.1111111111111111
+    }
+  },
+  "totalPapers": 31334
+}

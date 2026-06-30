@@ -1,0 +1,192 @@
+{
+  "ranking": [
+    {
+      "university": "The Banking University of Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "The SaiGon International Univeristy",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Diplomatic Academy of Viet Nam",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi University of Natural Resource and Environment",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.08333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Thi Anh Nhu Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Thanh Quang Ngo",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "The Banking University of Ho Chi Minh City": [
+      {
+        "author": "Ha Van Dung",
+        "contribution": 0.26666666666666666,
+        "percent": 0.8
+      },
+      {
+        "author": "Dinh Tran Ngoc Huy",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      }
+    ],
+    "Hanoi University of Natural Resource and Environment": [
+      {
+        "author": "Bui Thi Thu",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Dinh Tran Ngoc Hien",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Tran Van Long",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Trieu Hoa",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Anh",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Thanh Hang Pham",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "The SaiGon International Univeristy": [
+      {
+        "author": "Nguyen Hoang Tien",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Thi Oanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Diplomatic Academy of Viet Nam": [
+      {
+        "author": "Vu Minh Hung",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Science and Technology": {
+      "Political economy": 0.08333333333333333,
+      "International Economics": 0.08333333333333333,
+      "Development studies": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333
+    },
+    "Vietnam National University of Agriculture": {
+      "Political economy": 0.08333333333333333,
+      "International Economics": 0.08333333333333333,
+      "Development studies": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333
+    },
+    "The Banking University of Ho Chi Minh City": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Comparative politics": 0.3333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333,
+      "International relations": 0.25,
+      "Strategic studies": 0.25,
+      "Political economy": 0.25
+    },
+    "Hanoi University of Natural Resource and Environment": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Public Administration": 0.3333333333333333,
+      "Comparative politics": 0.3333333333333333,
+      "Political economy": 0.3333333333333333
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Development studies": 0.125,
+      "Policy analysis and Policy studies": 0.125,
+      "Comparative politics": 0.125,
+      "Public Administration": 0.125
+    },
+    "The SaiGon International Univeristy": {
+      "International relations": 0.25,
+      "Strategic studies": 0.25,
+      "Political economy": 0.25,
+      "Comparative politics": 0.25
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "International relations": 0.16666666666666666,
+      "Strategic studies": 0.16666666666666666,
+      "Comparative politics": 0.16666666666666666
+    },
+    "Diplomatic Academy of Viet Nam": {
+      "International relations": 0.25,
+      "Comparative politics": 0.25,
+      "Strategic studies": 0.25,
+      "Political geography": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

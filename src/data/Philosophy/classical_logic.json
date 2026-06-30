@@ -1,0 +1,24 @@
+{
+  "ranking": [
+    {
+      "university": "Dong A University",
+      "totalContribution": 0.5
+    }
+  ],
+  "authorsByUniversity": {
+    "Dong A University": [
+      {
+        "author": "Keehang Kwon",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Dong A University": {
+      "Mathematical Logic and Foundations": 0.5,
+      "Classical logic": 0.5
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,218 @@
+{
+  "ranking": [
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.9999999999999999
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.625
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.2916666666666667
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City University of Food Industry",
+      "totalContribution": 0.10416666666666666
+    },
+    {
+      "university": "University of Medicine and Pharmacy, Hue University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi University of Pharmacy",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.041666666666666664
+    }
+  ],
+  "authorsByUniversity": {
+    "VNU University of Science": [
+      {
+        "author": "Anh Duc Hoang",
+        "contribution": 0.08333333333333334,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Minh Binh Tu",
+        "contribution": 0.08333333333333334,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Thi Thao Ta",
+        "contribution": 0.08333333333333334,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Le Van Vu",
+        "contribution": 0.04166666666666667,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Minh Truong Ngoc",
+        "contribution": 0.10416666666666667,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Le Tuan Anh Hoang",
+        "contribution": 0.10416666666666667,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Viet Anh Le",
+        "contribution": 0.10416666666666667,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Van Nhan Le",
+        "contribution": 0.10416666666666667,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Ha Minh Duc Tran",
+        "contribution": 0.10416666666666667,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Tien Dat Nguyen",
+        "contribution": 0.10416666666666667,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Ho Chi Minh City University of Food Industry": [
+      {
+        "author": "Van Thinh Pham",
+        "contribution": 0.10416666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Medicine and Pharmacy, Hue University": [
+      {
+        "author": "Dao Thi Cam Minh",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      },
+      {
+        "author": "Le Thi Bao Tram",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Nguyen Hai Phong",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Le Anh Thi",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Pharmacy": [
+      {
+        "author": "Nguyen Thi Kieu Anh",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      },
+      {
+        "author": "Pham Thi Thanh Ha",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Dinh-Vu Le",
+        "contribution": 0.3333333333333333,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "Trong-Tuan Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "Van-Trong Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 0.33333333333333337
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Duy Le Nguyen Doan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Quoc Cuong Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "VNU University of Science": {
+      "Analytical Chemistry": 0.2916666666666667,
+      "Forensic Chemistry": 0.2916666666666667,
+      "Green Chemistry": 0.25,
+      "Pharmacology": 0.041666666666666664
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Analytical Chemistry": 0.625,
+      "Forensic Chemistry": 0.625,
+      "Data analysis": 0.24999999999999997
+    },
+    "Ho Chi Minh City University of Food Industry": {
+      "Analytical Chemistry": 0.10416666666666666,
+      "Forensic Chemistry": 0.10416666666666666,
+      "Data analysis": 0.041666666666666664
+    },
+    "University of Medicine and Pharmacy, Hue University": {
+      "Analytical Chemistry": 0.08333333333333333,
+      "Forensic Chemistry": 0.08333333333333333,
+      "Pharmacology": 0.08333333333333333
+    },
+    "University of Sciences, Hue University": {
+      "Analytical Chemistry": 0.041666666666666664,
+      "Forensic Chemistry": 0.041666666666666664,
+      "Pharmacology": 0.041666666666666664
+    },
+    "Duy Tan University": {
+      "Analytical Chemistry": 0.041666666666666664,
+      "Forensic Chemistry": 0.041666666666666664,
+      "Pharmacology": 0.041666666666666664
+    },
+    "Hanoi University of Pharmacy": {
+      "Analytical Chemistry": 0.08333333333333333,
+      "Forensic Chemistry": 0.08333333333333333,
+      "Pharmacology": 0.08333333333333333
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Analytical Chemistry": 0.9999999999999999,
+      "Forensic Chemistry": 0.9999999999999999
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Analytical Chemistry": 0.16666666666666666,
+      "Forensic Chemistry": 0.16666666666666666,
+      "Data analysis": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

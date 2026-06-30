@@ -1,0 +1,43 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 1.0
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Medical University": [
+      {
+        "author": "Trang Huyen Tran",
+        "contribution": 0.2,
+        "percent": 0.2
+      },
+      {
+        "author": "Trang Thi Huong Ta",
+        "contribution": 0.2,
+        "percent": 0.2
+      },
+      {
+        "author": "Lan Thi Ngoc Nguyen",
+        "contribution": 0.2,
+        "percent": 0.2
+      },
+      {
+        "author": "Huyen Thi Thanh Vu",
+        "contribution": 0.2,
+        "percent": 0.2
+      },
+      {
+        "author": "Hung Van Nguyen",
+        "contribution": 0.2,
+        "percent": 0.2
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Medical University": {
+      "Rheumatology": 1.0
+    }
+  },
+  "totalPapers": 31334
+}

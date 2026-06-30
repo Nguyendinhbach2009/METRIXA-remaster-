@@ -1,0 +1,148 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.45
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNUHCM - University of Economics and Law",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "VNUHCM - An Giang University",
+      "totalContribution": 0.08333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "VNUHCM - University of Economics and Law": [
+      {
+        "author": "NGUYEN THI MY LINH",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "DUONG VAN KHANH",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - An Giang University": [
+      {
+        "author": "PHAM THI TUYET GIANG",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Nguyen Thi Thu Thuy",
+        "contribution": 0.6666666666666666,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Lê Thị Tuyết Hà",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Lê Duy Lượng",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Nguyen Thi My Loc",
+        "contribution": 0.45,
+        "percent": 1.0
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Khoi Trong Dao",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Le Minh Hung",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "VNUHCM - University of Economics and Law": {
+      "Human rights law": 0.08333333333333333,
+      "Family law": 0.08333333333333333,
+      "Civil law": 0.08333333333333333,
+      "Criminal law": 0.08333333333333333
+    },
+    "Dong Thap University": {
+      "Human rights law": 0.08333333333333333,
+      "Family law": 0.08333333333333333,
+      "Civil law": 0.08333333333333333,
+      "Criminal law": 0.08333333333333333
+    },
+    "VNUHCM - An Giang University": {
+      "Human rights law": 0.08333333333333333,
+      "Family law": 0.08333333333333333,
+      "Civil law": 0.08333333333333333,
+      "Criminal law": 0.08333333333333333
+    },
+    "Ho Chi Minh City Open University": {
+      "Civil law": 1.0,
+      "Comparative law": 0.6666666666666666,
+      "Legal theory and jurisprudence": 0.6666666666666666,
+      "Contract law": 0.3333333333333333,
+      "Corporate and commercial law": 0.3333333333333333
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Civil law": 0.5,
+      "Property law": 0.5
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Civil law": 0.45,
+      "Property law": 0.25,
+      "Contract law": 0.45,
+      "International law": 0.45,
+      "Corporate and commercial law": 0.2,
+      "Tax law": 0.2
+    },
+    "FPT University": {
+      "Civil law": 0.5,
+      "Comparative law": 0.5
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Civil law": 0.3333333333333333,
+      "Property law": 0.3333333333333333,
+      "Comparative law": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,149 @@
+{
+  "ranking": [
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Quy Nhon University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Vietnam National University of Forestry",
+      "totalContribution": 0.08333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Van Tong",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Le Xuan Hung",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Thi Thoa",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Hoang Van Tuan",
+        "contribution": 0.0625,
+        "percent": 0.25
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Yen Thi Tran",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Quy Nhon University": [
+      {
+        "author": "Thanh Thi Cam Tran",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Trang Cam Hoang",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Dũng Duy Nguyễn",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Hạ Nguyễn Quang Trần",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi Law University": [
+      {
+        "author": "Uyen To Doan",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Hung Manh Chu",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam National University of Forestry": [
+      {
+        "author": "Mai T.T. Duong",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Science and Technology": {
+      "Public Law": 0.25,
+      "Public Administration": 0.25,
+      "Public Economics": 0.25,
+      "Accounting": 0.25
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Accounting": 0.1111111111111111,
+      "Public Administration": 0.1111111111111111,
+      "Public Law": 0.1111111111111111
+    },
+    "Quy Nhon University": {
+      "Accounting": 0.1111111111111111,
+      "Public Administration": 0.1111111111111111,
+      "Public Law": 0.1111111111111111
+    },
+    "Ton Duc Thang University": {
+      "Accounting": 0.1111111111111111,
+      "Public Administration": 0.1111111111111111,
+      "Public Law": 0.1111111111111111
+    },
+    "Nguyen Tat Thanh University": {
+      "Comparative law": 0.6666666666666666,
+      "Public Law": 0.6666666666666666,
+      "Law and society": 0.3333333333333333,
+      "Administrative law": 0.3333333333333333
+    },
+    "Hanoi Law University": {
+      "Human rights law": 0.6666666666666666,
+      "Constitutional law": 0.6666666666666666,
+      "Public Law": 0.6666666666666666
+    },
+    "Vietnam National University of Forestry": {
+      "Property law": 0.08333333333333333,
+      "Administrative law": 0.08333333333333333,
+      "Public Law": 0.08333333333333333,
+      "Environmental Policy and Planning": 0.08333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

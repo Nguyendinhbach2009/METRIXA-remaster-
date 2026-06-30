@@ -1,0 +1,63 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Civil Engineering",
+      "totalContribution": 0.17857142857142855
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.03571428571428571
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Civil Engineering": [
+      {
+        "author": "Quynh Duy Bui",
+        "contribution": 0.03571428571428571,
+        "percent": 0.2
+      },
+      {
+        "author": "Hang Ha",
+        "contribution": 0.03571428571428571,
+        "percent": 0.2
+      },
+      {
+        "author": "Dong Thanh Khuc",
+        "contribution": 0.03571428571428571,
+        "percent": 0.2
+      },
+      {
+        "author": "Lam Phuong Nguyen",
+        "contribution": 0.03571428571428571,
+        "percent": 0.2
+      },
+      {
+        "author": "Chinh Luu",
+        "contribution": 0.03571428571428571,
+        "percent": 0.2
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Dinh Quoc Nguyen",
+        "contribution": 0.03571428571428571,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Civil Engineering": {
+      "Engineering geology": 0.17857142857142855,
+      "Geomorphology": 0.17857142857142855,
+      "Environmental geology": 0.17857142857142855,
+      "Artificial intelligence": 0.17857142857142855
+    },
+    "Phenikaa University": {
+      "Engineering geology": 0.03571428571428571,
+      "Geomorphology": 0.03571428571428571,
+      "Environmental geology": 0.03571428571428571,
+      "Artificial intelligence": 0.03571428571428571
+    }
+  },
+  "totalPapers": 31334
+}

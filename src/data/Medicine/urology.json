@@ -1,0 +1,62 @@
+{
+  "ranking": [
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.08333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Duy Tan University": [
+      {
+        "author": "Linh Phuong Doan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Linh Gia Vu",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Son Hoang Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Bay Vo",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Duy Tan University": {
+      "Urology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Public Health": 0.16666666666666666
+    },
+    "Nguyen Tat Thanh University": {
+      "Urology": 0.08333333333333333,
+      "Epidemiology": 0.08333333333333333,
+      "Public Health": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Urology": 0.08333333333333333,
+      "Epidemiology": 0.08333333333333333,
+      "Public Health": 0.08333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

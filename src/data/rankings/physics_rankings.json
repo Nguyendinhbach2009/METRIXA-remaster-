@@ -1,0 +1,5627 @@
+{
+  "mainfieldRankings": {
+    "Mathematics": [],
+    "Medicine": [],
+    "Computer Science": [],
+    "Physics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 155.34854208169992,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 1
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 145.52440947940943,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 2
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 83.75685648277363,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 3
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 79.15919912053613,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 4
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 70.66107022607024,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 5
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 60.63333333333332,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 6
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 47.438658008657995,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 7
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 34.927023809523796,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 8
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 32.15124999999999,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 9
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 26.96631328403353,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 10
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 20.422826479076484,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 11
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 20.185344316989053,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 12
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 19.16844193817878,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 13
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 19.096507936507937,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 14
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 15.406394300144298,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 15
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 14.894444444444447,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 16
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 13.049179894179895,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 17
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 12.915079365079364,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 18
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 10.772195767195766,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 19
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 10.737301587301586,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 20
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 10.228415103415106,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 21
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 10.195537624140565,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 22
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 9.832865282865283,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 23
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 7.660317460317459,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 24
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 7.278075396825396,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 25
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 6.427372994652408,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 26
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 6.424768009768011,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 27
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 6.3583333333333325,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 28
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 6.254761904761904,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 29
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 6.218234126984128,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 30
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 6.178571428571429,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 31
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 5.89542328042328,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 32
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 5.650580808080807,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 33
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 5.438888888888889,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 34
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 5.215277777777778,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 35
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 5.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 36
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 5.010813492063492,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 37
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 4.954060846560846,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 38
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 4.687123015873016,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 39
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 4.636011904761904,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 40
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 4.634934960263907,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 41
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 4.474900793650793,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 42
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 4.309325396825396,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 43
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 4.228095238095238,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 44
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 3.9068253968253974,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 45
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 3.6144336219336224,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 46
+      },
+      {
+        "university": "Da Lat University",
+        "totalContribution": 3.3357142857142854,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 47
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 3.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 48
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 3.064126984126984,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 49
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 3.0579365079365077,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 50
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 2.9875,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 51
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 2.722751322751323,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 52
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 2.561111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 53
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 2.423611111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 54
+      },
+      {
+        "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "totalContribution": 2.415701659451659,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 55
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 1.85,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 56
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 1.8333333333333335,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 57
+      },
+      {
+        "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+        "totalContribution": 1.7857142857142856,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 58
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 1.7819444444444446,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 59
+      },
+      {
+        "university": "Tan Trao University",
+        "totalContribution": 1.7499999999999998,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 60
+      },
+      {
+        "university": "Dong Nai University",
+        "totalContribution": 1.6916666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 61
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 1.6150000000000002,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 62
+      },
+      {
+        "university": "Ho Chi Minh City University of Food Industry",
+        "totalContribution": 1.5922619047619049,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 63
+      },
+      {
+        "university": "University of Finance – Marketing",
+        "totalContribution": 1.583333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 64
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 1.5360119047619045,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 65
+      },
+      {
+        "university": "University of Technology and Education - The University of Da Nang",
+        "totalContribution": 1.476190476190476,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 66
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 1.44625,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 67
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 1.3534722222222222,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 68
+      },
+      {
+        "university": "Khanh Hoa University",
+        "totalContribution": 1.3194444444444444,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 69
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 1.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 70
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 1.1979166666666665,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 71
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 1.170238095238095,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 72
+      },
+      {
+        "university": "Hanoi University of Natural Resource and Environment",
+        "totalContribution": 1.1500000000000001,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 73
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 1.1018518518518519,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 74
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 1.0287878787878788,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 75
+      },
+      {
+        "university": "Nha Trang University",
+        "totalContribution": 0.982638888888889,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 76
+      },
+      {
+        "university": "Tra Vinh University",
+        "totalContribution": 0.95,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 77
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.9479166666666665,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 78
+      },
+      {
+        "university": "Nam Dinh College of Education",
+        "totalContribution": 0.875,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 79
+      },
+      {
+        "university": "VNU Vietnam - Japan University",
+        "totalContribution": 0.8666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 80
+      },
+      {
+        "university": "University of Economic and Technical Industries",
+        "totalContribution": 0.8333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 81
+      },
+      {
+        "university": "East Asia University of Technology",
+        "totalContribution": 0.8333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 82
+      },
+      {
+        "university": "University of Transport Technology",
+        "totalContribution": 0.8138888888888889,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 83
+      },
+      {
+        "university": "Hai Phong University",
+        "totalContribution": 0.7777777777777777,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 84
+      },
+      {
+        "university": "Tay Do University",
+        "totalContribution": 0.7333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 85
+      },
+      {
+        "university": "Quang Ninh University of Industry",
+        "totalContribution": 0.6666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 86
+      },
+      {
+        "university": "Vietnam Institute of Geodesy and Cartography",
+        "totalContribution": 0.6666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 87
+      },
+      {
+        "university": "Vinh University of Technology Education",
+        "totalContribution": 0.6111111111111112,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 88
+      },
+      {
+        "university": "Hung Vuong University",
+        "totalContribution": 0.6111111111111112,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 89
+      },
+      {
+        "university": "The Vietnam National Institute of Education Sciences",
+        "totalContribution": 0.5999999999999999,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 90
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.5916666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 91
+      },
+      {
+        "university": "Danang Architecture University",
+        "totalContribution": 0.5833333333333334,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 92
+      },
+      {
+        "university": "University of Agriculture and Forestry - Thai Nguyen University",
+        "totalContribution": 0.5833333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 93
+      },
+      {
+        "university": "The University of Finance and Business Administration",
+        "totalContribution": 0.5833333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 94
+      },
+      {
+        "university": "Academy of Policy and Development",
+        "totalContribution": 0.5666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 95
+      },
+      {
+        "university": "Hanoi Medical University",
+        "totalContribution": 0.5506944444444444,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 96
+      },
+      {
+        "university": "University of Information and Communication Technology - Thai Nguyen University",
+        "totalContribution": 0.5357142857142857,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 97
+      },
+      {
+        "university": "Hung Vuong University Ho Chi Minh City",
+        "totalContribution": 0.5,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 98
+      },
+      {
+        "university": "Quang Tri Teacher Training College",
+        "totalContribution": 0.5,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 99
+      },
+      {
+        "university": "Thua Thien Hue College of Education",
+        "totalContribution": 0.5,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 100
+      },
+      {
+        "university": "University of Agriculture and Forestry Ho Chi Minh City",
+        "totalContribution": 0.4856532356532356,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 101
+      },
+      {
+        "university": "Hanoi Open University",
+        "totalContribution": 0.47916666666666663,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 102
+      },
+      {
+        "university": "Hanoi University of Pharmacy",
+        "totalContribution": 0.47857142857142854,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 103
+      },
+      {
+        "university": "Thuongmai University",
+        "totalContribution": 0.41666666666666663,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 104
+      },
+      {
+        "university": "Tan Tao University",
+        "totalContribution": 0.39999999999999997,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 105
+      },
+      {
+        "university": "University of Architecture Ho Chi Minh City",
+        "totalContribution": 0.369047619047619,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 106
+      },
+      {
+        "university": "Vietnam Maritime University",
+        "totalContribution": 0.3666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 107
+      },
+      {
+        "university": "The Vietnam National Institute of Educational Sciences",
+        "totalContribution": 0.3333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 108
+      },
+      {
+        "university": "Tien Giang University",
+        "totalContribution": 0.3333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 109
+      },
+      {
+        "university": "University of Medicine and Pharmacy - Thai Nguyen University",
+        "totalContribution": 0.3265522875816993,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 110
+      },
+      {
+        "university": "Pham Ngoc Thach University of Medicine",
+        "totalContribution": 0.3238095238095238,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 111
+      },
+      {
+        "university": "Viet Tri University of Industry",
+        "totalContribution": 0.3055555555555556,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 112
+      },
+      {
+        "university": "Ho Chi Minh City University of Transport",
+        "totalContribution": 0.30277777777777776,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 113
+      },
+      {
+        "university": "Can Tho University of Technology",
+        "totalContribution": 0.2833333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 114
+      },
+      {
+        "university": "Vietnam Institute of Geosciences and Mineral Resources",
+        "totalContribution": 0.26785714285714285,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 115
+      },
+      {
+        "university": "PHENIKAA University",
+        "totalContribution": 0.26666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 116
+      },
+      {
+        "university": "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang",
+        "totalContribution": 0.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 117
+      },
+      {
+        "university": "Hanoi National University of Education - Hanoi National University of Education",
+        "totalContribution": 0.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 118
+      },
+      {
+        "university": "VNUHCM - University of Social Sciences and Humanities - VNUHCM - University of Social Sciences and Humanities - VNUHCM - University of Social Sciences and Humanities",
+        "totalContribution": 0.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 119
+      },
+      {
+        "university": "University of Labour and Social Affairs",
+        "totalContribution": 0.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 120
+      },
+      {
+        "university": "Binh Duong University",
+        "totalContribution": 0.23333333333333334,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 121
+      },
+      {
+        "university": "Universtiy of Economics and Finance",
+        "totalContribution": 0.2222222222222222,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 122
+      },
+      {
+        "university": "Can Tho University of Medicine - Pharmacy",
+        "totalContribution": 0.22045454545454546,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 123
+      },
+      {
+        "university": "Eastern International University",
+        "totalContribution": 0.21990740740740738,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 124
+      },
+      {
+        "university": "University of Agriculture and Forestry, Hue University",
+        "totalContribution": 0.1986111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 125
+      },
+      {
+        "university": "Hoa Binh University",
+        "totalContribution": 0.19047619047619047,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 126
+      },
+      {
+        "university": "National Institute of Medical Materials",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 127
+      },
+      {
+        "university": "Nam Dinh University of Technology Education",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 128
+      },
+      {
+        "university": "Quang Trung University",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 129
+      },
+      {
+        "university": "Vietnam Petroleum Institute",
+        "totalContribution": 0.14285714285714285,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 130
+      },
+      {
+        "university": "Thanh Do University",
+        "totalContribution": 0.13333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 131
+      },
+      {
+        "university": "Pham Van Dong University",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 132
+      },
+      {
+        "university": "Bac Giang Argriculture and Forestry University",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 133
+      },
+      {
+        "university": "Vietnam National University of Forestry",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 134
+      },
+      {
+        "university": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 135
+      },
+      {
+        "university": "Pasteur Institute in Ho Chi Minh City",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 136
+      },
+      {
+        "university": "Bac Lieu University",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 137
+      },
+      {
+        "university": "Hanoi University of Business and Technology",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 138
+      },
+      {
+        "university": "Hanoi University of Public Health",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 139
+      },
+      {
+        "university": "Banking Academy of Vietnam",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 140
+      },
+      {
+        "university": "Ca Mau Community College",
+        "totalContribution": 0.1,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 141
+      },
+      {
+        "university": "Vietnam Institute for Building Science and Technology",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 142
+      },
+      {
+        "university": "National Research Institute Of Mechanical Engineering",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 143
+      },
+      {
+        "university": "Viet Nam Aviation Academy",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 144
+      },
+      {
+        "university": "National Center for Technology Progress",
+        "totalContribution": 0.08055555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 145
+      },
+      {
+        "university": "Vietnam Institute of Architecture",
+        "totalContribution": 0.06666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 146
+      },
+      {
+        "university": "Hai Phong Medical University",
+        "totalContribution": 0.06425070028011204,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 147
+      },
+      {
+        "university": "Vietnam Petroleum Institute - VPI",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 148
+      },
+      {
+        "university": "Hanoi Community College",
+        "totalContribution": 0.047619047619047616,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 149
+      },
+      {
+        "university": "Hong Bang University International",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 150
+      },
+      {
+        "university": "Vinh Long University of Technology Education",
+        "totalContribution": 0.04,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 151
+      },
+      {
+        "university": "University of Phan Thiet",
+        "totalContribution": 0.03571428571428571,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 152
+      },
+      {
+        "university": "Vinh Medical University",
+        "totalContribution": 0.03571428571428571,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 153
+      },
+      {
+        "university": "Danang University of Medical Technology and Pharmacy",
+        "totalContribution": 0.03333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 154
+      },
+      {
+        "university": "Peace University",
+        "totalContribution": 0.03125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 155
+      },
+      {
+        "university": "Nam Can Tho University",
+        "totalContribution": 0.022727272727272728,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 156
+      },
+      {
+        "university": "Lac Hong University",
+        "totalContribution": 0.022222222222222223,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 157
+      },
+      {
+        "university": "Hoa Sen University",
+        "totalContribution": 0.01818181818181818,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 158
+      },
+      {
+        "university": "National Economic University",
+        "totalContribution": 0.014285714285714285,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 159
+      }
+    ],
+    "Biology": [],
+    "Materials Science": [],
+    "Chemistry": [],
+    "Business": [],
+    "Engineering": [],
+    "Psychology": [],
+    "Environmental Science": [],
+    "Economics": [],
+    "Geography": [],
+    "Political Science": [],
+    "Geology": [],
+    "Sociology": [],
+    "History": [],
+    "Philosophy": [],
+    "Art": [],
+    "Education": [],
+    "Law": [],
+    "Agricultural and Food Sciences": [],
+    "Linguistics": []
+  },
+  "selectedFields": [
+    "Mechanics",
+    "Electromagnetism",
+    "Thermodynamics and Statistical Mechanics",
+    "Optics",
+    "Acoustics",
+    "Classical Physics",
+    "Quantum Physics",
+    "Relativity",
+    "Atomic Physics and Molecular Physics",
+    "Nuclear Physics",
+    "Particle Physics",
+    "Condensed Matter Physics",
+    "Plasma Physics",
+    "Astrophysics and Cosmology",
+    "Geophysics",
+    "Biophysics",
+    "Computational Physics",
+    "Mathematical Physics",
+    "Applied Physics",
+    "Quantum Information Science"
+  ],
+  "mainFields": [
+    "Mathematics",
+    "Medicine",
+    "Computer Science",
+    "Physics",
+    "Biology",
+    "Materials Science",
+    "Chemistry",
+    "Business",
+    "Engineering",
+    "Psychology",
+    "Environmental Science",
+    "Economics",
+    "Geography",
+    "Political Science",
+    "Geology",
+    "Sociology",
+    "History",
+    "Philosophy",
+    "Art",
+    "Education",
+    "Law",
+    "Agricultural and Food Sciences",
+    "Linguistics"
+  ],
+  "subfieldRankings": {
+    "Mechanics": [
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 4.950396825396827,
+        "rank": 1
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 2.8944444444444444,
+        "rank": 2
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 2.472222222222222,
+        "rank": 3
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 2.458253968253968,
+        "rank": 4
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 2.423611111111111,
+        "rank": 5
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 2.3148809523809533,
+        "rank": 6
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 1.916666666666667,
+        "rank": 7
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 1.7259920634920638,
+        "rank": 8
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 1.4712301587301586,
+        "rank": 9
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.4444444444444442,
+        "rank": 10
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 1.239186507936508,
+        "rank": 11
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.1388888888888888,
+        "rank": 12
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 0.9277777777777777,
+        "rank": 13
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.8958333333333335,
+        "rank": 14
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.8583333333333334,
+        "rank": 15
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.8444444444444446,
+        "rank": 16
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.8333333333333333,
+        "rank": 17
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 0.8333333333333333,
+        "rank": 18
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.8250000000000001,
+        "rank": 19
+      },
+      {
+        "university": "University of Technology and Education - The University of Da Nang",
+        "totalContribution": 0.7999999999999999,
+        "rank": 20
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.7777777777777777,
+        "rank": 21
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 0.7380952380952381,
+        "rank": 22
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.6666666666666667,
+        "rank": 23
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.6666666666666666,
+        "rank": 24
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.65,
+        "rank": 25
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.6023809523809524,
+        "rank": 26
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.48611111111111105,
+        "rank": 27
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.4722222222222222,
+        "rank": 28
+      },
+      {
+        "university": "University of Transport Technology",
+        "totalContribution": 0.41666666666666663,
+        "rank": 29
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.41111111111111115,
+        "rank": 30
+      },
+      {
+        "university": "Nha Trang University",
+        "totalContribution": 0.39999999999999997,
+        "rank": 31
+      },
+      {
+        "university": "Vinh University of Technology Education",
+        "totalContribution": 0.3611111111111111,
+        "rank": 32
+      },
+      {
+        "university": "University of Architecture Ho Chi Minh City",
+        "totalContribution": 0.3333333333333333,
+        "rank": 33
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.3333333333333333,
+        "rank": 34
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.3194444444444444,
+        "rank": 35
+      },
+      {
+        "university": "Viet Tri University of Industry",
+        "totalContribution": 0.3055555555555556,
+        "rank": 36
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.29166666666666663,
+        "rank": 37
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.25,
+        "rank": 38
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 39
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 0.2222222222222222,
+        "rank": 40
+      },
+      {
+        "university": "Khanh Hoa University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 41
+      },
+      {
+        "university": "Vietnam Maritime University",
+        "totalContribution": 0.2,
+        "rank": 42
+      },
+      {
+        "university": "Danang Architecture University",
+        "totalContribution": 0.2,
+        "rank": 43
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 0.16666666666666666,
+        "rank": 44
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.16666666666666666,
+        "rank": 45
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.16666666666666666,
+        "rank": 46
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 47
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 48
+      },
+      {
+        "university": "National Institute of Medical Materials",
+        "totalContribution": 0.16666666666666666,
+        "rank": 49
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 0.16666666666666666,
+        "rank": 50
+      },
+      {
+        "university": "Quang Ninh University of Industry",
+        "totalContribution": 0.16666666666666666,
+        "rank": 51
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 52
+      },
+      {
+        "university": "University of Agriculture and Forestry - Thai Nguyen University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 53
+      },
+      {
+        "university": "Pham Van Dong University",
+        "totalContribution": 0.125,
+        "rank": 54
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 0.125,
+        "rank": 55
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 56
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 57
+      },
+      {
+        "university": "Vietnam Institute for Building Science and Technology",
+        "totalContribution": 0.08333333333333333,
+        "rank": 58
+      },
+      {
+        "university": "VNU Vietnam - Japan University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 59
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 60
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 61
+      },
+      {
+        "university": "National Research Institute Of Mechanical Engineering",
+        "totalContribution": 0.08333333333333333,
+        "rank": 62
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.047619047619047616,
+        "rank": 63
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.047619047619047616,
+        "rank": 64
+      }
+    ],
+    "Electromagnetism": [
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 9.03183621933621,
+        "rank": 1
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 3.0537037037037043,
+        "rank": 2
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 2.7718253968253985,
+        "rank": 3
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 2.422619047619048,
+        "rank": 4
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 1.4083333333333332,
+        "rank": 5
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 1.352380952380952,
+        "rank": 6
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.22797619047619,
+        "rank": 7
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 1.1611111111111112,
+        "rank": 8
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.861904761904762,
+        "rank": 9
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.8055555555555556,
+        "rank": 10
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.7777777777777778,
+        "rank": 11
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.7499999999999999,
+        "rank": 12
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.7466666666666666,
+        "rank": 13
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 0.680952380952381,
+        "rank": 14
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 0.6666666666666666,
+        "rank": 15
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.5869047619047618,
+        "rank": 16
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 0.4944444444444444,
+        "rank": 17
+      },
+      {
+        "university": "Hanoi Open University",
+        "totalContribution": 0.47916666666666663,
+        "rank": 18
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 0.43650793650793646,
+        "rank": 19
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.428888888888889,
+        "rank": 20
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.38055555555555554,
+        "rank": 21
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.3537037037037037,
+        "rank": 22
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.3333333333333333,
+        "rank": 23
+      },
+      {
+        "university": "Quang Ninh University of Industry",
+        "totalContribution": 0.3333333333333333,
+        "rank": 24
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 25
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 0.2857142857142857,
+        "rank": 26
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.27999999999999997,
+        "rank": 27
+      },
+      {
+        "university": "PHENIKAA University",
+        "totalContribution": 0.26666666666666666,
+        "rank": 28
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.2583333333333333,
+        "rank": 29
+      },
+      {
+        "university": "Ho Chi Minh City University of Food Industry",
+        "totalContribution": 0.23928571428571432,
+        "rank": 30
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.2222222222222222,
+        "rank": 31
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.21428571428571427,
+        "rank": 32
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 0.17261904761904762,
+        "rank": 33
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.16666666666666666,
+        "rank": 34
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 35
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.16190476190476188,
+        "rank": 36
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.14166666666666666,
+        "rank": 37
+      },
+      {
+        "university": "Ho Chi Minh City University of Transport",
+        "totalContribution": 0.125,
+        "rank": 38
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 0.125,
+        "rank": 39
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.125,
+        "rank": 40
+      },
+      {
+        "university": "Hai Phong University",
+        "totalContribution": 0.125,
+        "rank": 41
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.11666666666666667,
+        "rank": 42
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 43
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 44
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.09722222222222221,
+        "rank": 45
+      },
+      {
+        "university": "University of Information and Communication Technology - Thai Nguyen University",
+        "totalContribution": 0.09523809523809523,
+        "rank": 46
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.08928571428571427,
+        "rank": 47
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.06666666666666667,
+        "rank": 48
+      },
+      {
+        "university": "Thanh Do University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 49
+      },
+      {
+        "university": "Eastern International University",
+        "totalContribution": 0.037037037037037035,
+        "rank": 50
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.03571428571428571,
+        "rank": 51
+      }
+    ],
+    "Thermodynamics and Statistical Mechanics": [
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 3.5557142857142847,
+        "rank": 1
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 2.1259920634920633,
+        "rank": 2
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 1.936044973544973,
+        "rank": 3
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 1.6055555555555554,
+        "rank": 4
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 1.60123716153128,
+        "rank": 5
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 1.3166666666666664,
+        "rank": 6
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 1.2952380952380953,
+        "rank": 7
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 1.2222222222222223,
+        "rank": 8
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 1.0333333333333332,
+        "rank": 9
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.9074074074074068,
+        "rank": 10
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.8444444444444446,
+        "rank": 11
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.6055555555555556,
+        "rank": 12
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.5416666666666666,
+        "rank": 13
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.5,
+        "rank": 14
+      },
+      {
+        "university": "University of Technology and Education - The University of Da Nang",
+        "totalContribution": 0.47619047619047616,
+        "rank": 15
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.3888888888888889,
+        "rank": 16
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.3472222222222222,
+        "rank": 17
+      },
+      {
+        "university": "Tan Trao University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 18
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.3333333333333333,
+        "rank": 19
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.3333333333333333,
+        "rank": 20
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.25,
+        "rank": 21
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.2,
+        "rank": 22
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.2,
+        "rank": 23
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.2,
+        "rank": 24
+      },
+      {
+        "university": "University of Finance – Marketing",
+        "totalContribution": 0.19444444444444442,
+        "rank": 25
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 0.16666666666666666,
+        "rank": 26
+      },
+      {
+        "university": "Nam Dinh University of Technology Education",
+        "totalContribution": 0.16666666666666666,
+        "rank": 27
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 0.16666666666666666,
+        "rank": 28
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 0.1388888888888889,
+        "rank": 29
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.1111111111111111,
+        "rank": 30
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.09722222222222221,
+        "rank": 31
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 0.08333333333333333,
+        "rank": 32
+      },
+      {
+        "university": "Hai Phong University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 33
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 0.08333333333333333,
+        "rank": 34
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.05,
+        "rank": 35
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.0196078431372549,
+        "rank": 36
+      }
+    ],
+    "Optics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 9.188856421356425,
+        "rank": 1
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 7.735211640211632,
+        "rank": 2
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 3.287433862433863,
+        "rank": 3
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 3.202777777777777,
+        "rank": 4
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 2.342380952380953,
+        "rank": 5
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 2.3259259259259246,
+        "rank": 6
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 2.1059523809523815,
+        "rank": 7
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 2.0825925925925923,
+        "rank": 8
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 2.0524999999999993,
+        "rank": 9
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 2.0477777777777777,
+        "rank": 10
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 1.8959732397232394,
+        "rank": 11
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 1.6909722222222225,
+        "rank": 12
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.6199277574277575,
+        "rank": 13
+      },
+      {
+        "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "totalContribution": 1.4395833333333328,
+        "rank": 14
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 1.2083333333333333,
+        "rank": 15
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.9788888888888889,
+        "rank": 16
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.954133597883598,
+        "rank": 17
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.717092352092352,
+        "rank": 18
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.5840277777777778,
+        "rank": 19
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 0.5412698412698412,
+        "rank": 20
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.5407407407407407,
+        "rank": 21
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.5098290598290598,
+        "rank": 22
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 0.5,
+        "rank": 23
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.4416666666666666,
+        "rank": 24
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.4114087301587302,
+        "rank": 25
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 0.4047619047619047,
+        "rank": 26
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.38888888888888884,
+        "rank": 27
+      },
+      {
+        "university": "Ho Chi Minh City University of Food Industry",
+        "totalContribution": 0.34345238095238095,
+        "rank": 28
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.3329365079365079,
+        "rank": 29
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.3297619047619047,
+        "rank": 30
+      },
+      {
+        "university": "Hanoi Medical University",
+        "totalContribution": 0.31666666666666665,
+        "rank": 31
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.307849361967009,
+        "rank": 32
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 0.3055555555555556,
+        "rank": 33
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.3023809523809524,
+        "rank": 34
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.26550264550264546,
+        "rank": 35
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.25555555555555554,
+        "rank": 36
+      },
+      {
+        "university": "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang",
+        "totalContribution": 0.25,
+        "rank": 37
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.23333333333333334,
+        "rank": 38
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.1928571428571428,
+        "rank": 39
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 0.17777777777777776,
+        "rank": 40
+      },
+      {
+        "university": "The Vietnam National Institute of Education Sciences",
+        "totalContribution": 0.17777777777777776,
+        "rank": 41
+      },
+      {
+        "university": "Nha Trang University",
+        "totalContribution": 0.16782407407407407,
+        "rank": 42
+      },
+      {
+        "university": "VNU Vietnam - Japan University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 43
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 0.125,
+        "rank": 44
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.125,
+        "rank": 45
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 46
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 47
+      },
+      {
+        "university": "Hanoi University of Natural Resource and Environment",
+        "totalContribution": 0.1111111111111111,
+        "rank": 48
+      },
+      {
+        "university": "The Vietnam National Institute of Educational Sciences",
+        "totalContribution": 0.1111111111111111,
+        "rank": 49
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 50
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 0.10426587301587302,
+        "rank": 51
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.1,
+        "rank": 52
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.1,
+        "rank": 53
+      },
+      {
+        "university": "University of Medicine and Pharmacy - Thai Nguyen University",
+        "totalContribution": 0.07291666666666666,
+        "rank": 54
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 0.07142857142857142,
+        "rank": 55
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 0.06904761904761905,
+        "rank": 56
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.06666666666666667,
+        "rank": 57
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.041666666666666664,
+        "rank": 58
+      },
+      {
+        "university": "Vinh Long University of Technology Education",
+        "totalContribution": 0.04,
+        "rank": 59
+      },
+      {
+        "university": "Da Lat University",
+        "totalContribution": 0.03571428571428571,
+        "rank": 60
+      },
+      {
+        "university": "University of Phan Thiet",
+        "totalContribution": 0.03571428571428571,
+        "rank": 61
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.03125,
+        "rank": 62
+      },
+      {
+        "university": "University of Information and Communication Technology - Thai Nguyen University",
+        "totalContribution": 0.02857142857142857,
+        "rank": 63
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.02857142857142857,
+        "rank": 64
+      },
+      {
+        "university": "Pham Ngoc Thach University of Medicine",
+        "totalContribution": 0.02857142857142857,
+        "rank": 65
+      },
+      {
+        "university": "National Center for Technology Progress",
+        "totalContribution": 0.027777777777777776,
+        "rank": 66
+      },
+      {
+        "university": "University of Agriculture and Forestry Ho Chi Minh City",
+        "totalContribution": 0.02564102564102564,
+        "rank": 67
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 0.022222222222222223,
+        "rank": 68
+      },
+      {
+        "university": "Hoa Sen University",
+        "totalContribution": 0.01818181818181818,
+        "rank": 69
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.014285714285714285,
+        "rank": 70
+      },
+      {
+        "university": "National Economic University",
+        "totalContribution": 0.014285714285714285,
+        "rank": 71
+      }
+    ],
+    "Acoustics": [
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 5.633730158730156,
+        "rank": 1
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 2.012332112332112,
+        "rank": 2
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 1.0,
+        "rank": 3
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 0.7843253968253967,
+        "rank": 4
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.5833333333333333,
+        "rank": 5
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 0.5204545454545454,
+        "rank": 6
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.5055555555555555,
+        "rank": 7
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.49999999999999994,
+        "rank": 8
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.4642857142857143,
+        "rank": 9
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.4309523809523809,
+        "rank": 10
+      },
+      {
+        "university": "University of Agriculture and Forestry - Thai Nguyen University",
+        "totalContribution": 0.41666666666666663,
+        "rank": 11
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.3833333333333333,
+        "rank": 12
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 0.3733333333333334,
+        "rank": 13
+      },
+      {
+        "university": "University of Information and Communication Technology - Thai Nguyen University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 14
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.3277777777777778,
+        "rank": 15
+      },
+      {
+        "university": "Hanoi National University of Education - Hanoi National University of Education",
+        "totalContribution": 0.25,
+        "rank": 16
+      },
+      {
+        "university": "VNUHCM - University of Social Sciences and Humanities - VNUHCM - University of Social Sciences and Humanities - VNUHCM - University of Social Sciences and Humanities",
+        "totalContribution": 0.25,
+        "rank": 17
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.24999999999999994,
+        "rank": 18
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.2444444444444444,
+        "rank": 19
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.19444444444444442,
+        "rank": 20
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 0.19111111111111112,
+        "rank": 21
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.14444444444444443,
+        "rank": 22
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 0.125,
+        "rank": 23
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.125,
+        "rank": 24
+      },
+      {
+        "university": "Bac Giang Argriculture and Forestry University",
+        "totalContribution": 0.125,
+        "rank": 25
+      },
+      {
+        "university": "Vietnam National University of Forestry",
+        "totalContribution": 0.125,
+        "rank": 26
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.11805555555555555,
+        "rank": 27
+      },
+      {
+        "university": "Tra Vinh University",
+        "totalContribution": 0.11666666666666667,
+        "rank": 28
+      },
+      {
+        "university": "Bac Lieu University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 29
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 30
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.1111111111111111,
+        "rank": 31
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 32
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.1111111111111111,
+        "rank": 33
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.09523809523809523,
+        "rank": 34
+      },
+      {
+        "university": "Hoa Binh University",
+        "totalContribution": 0.09523809523809523,
+        "rank": 35
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.08333333333333333,
+        "rank": 36
+      },
+      {
+        "university": "Tan Tao University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 37
+      },
+      {
+        "university": "University of Agriculture and Forestry Ho Chi Minh City",
+        "totalContribution": 0.047619047619047616,
+        "rank": 38
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.047619047619047616,
+        "rank": 39
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 0.03333333333333333,
+        "rank": 40
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.03333333333333333,
+        "rank": 41
+      }
+    ],
+    "Classical Physics": [
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.25,
+        "rank": 1
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.08333333333333333,
+        "rank": 2
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 3
+      }
+    ],
+    "Quantum Physics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 16.75932539682539,
+        "rank": 1
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 7.852777777777773,
+        "rank": 2
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 7.520726495726493,
+        "rank": 3
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 5.969444444444442,
+        "rank": 4
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 4.511904761904761,
+        "rank": 5
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 3.386243386243386,
+        "rank": 6
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 3.1666666666666665,
+        "rank": 7
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 2.7513888888888896,
+        "rank": 8
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 2.738888888888889,
+        "rank": 9
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 2.3166666666666664,
+        "rank": 10
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 1.7222222222222223,
+        "rank": 11
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 1.6777777777777776,
+        "rank": 12
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 1.5,
+        "rank": 13
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 1.3485119047619045,
+        "rank": 14
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.1981684981684981,
+        "rank": 15
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 1.0166666666666668,
+        "rank": 16
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 0.9583333333333333,
+        "rank": 17
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 0.9416666666666667,
+        "rank": 18
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.9111111111111112,
+        "rank": 19
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.7916666666666666,
+        "rank": 20
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.725,
+        "rank": 21
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.673015873015873,
+        "rank": 22
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 0.625,
+        "rank": 23
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.4583333333333333,
+        "rank": 24
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 0.41666666666666663,
+        "rank": 25
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.41666666666666663,
+        "rank": 26
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.3472222222222222,
+        "rank": 27
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 0.3388888888888889,
+        "rank": 28
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 29
+      },
+      {
+        "university": "Ho Chi Minh City University of Food Industry",
+        "totalContribution": 0.28095238095238095,
+        "rank": 30
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.2568376068376068,
+        "rank": 31
+      },
+      {
+        "university": "University of Finance – Marketing",
+        "totalContribution": 0.25,
+        "rank": 32
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.25,
+        "rank": 33
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.21111111111111108,
+        "rank": 34
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.19166666666666665,
+        "rank": 35
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.18333333333333335,
+        "rank": 36
+      },
+      {
+        "university": "Hung Vuong University Ho Chi Minh City",
+        "totalContribution": 0.16666666666666666,
+        "rank": 37
+      },
+      {
+        "university": "The University of Finance and Business Administration",
+        "totalContribution": 0.16666666666666666,
+        "rank": 38
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 39
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 40
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.15555555555555556,
+        "rank": 41
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.11666666666666667,
+        "rank": 42
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 43
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 44
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 45
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.06666666666666667,
+        "rank": 46
+      },
+      {
+        "university": "The Vietnam National Institute of Education Sciences",
+        "totalContribution": 0.06666666666666667,
+        "rank": 47
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 0.05555555555555555,
+        "rank": 48
+      },
+      {
+        "university": "University of Agriculture and Forestry Ho Chi Minh City",
+        "totalContribution": 0.02564102564102564,
+        "rank": 49
+      }
+    ],
+    "Relativity": [
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 4.865277777777778,
+        "rank": 1
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 4.5888888888888895,
+        "rank": 2
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 2.6944444444444446,
+        "rank": 3
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 2.5916666666666686,
+        "rank": 4
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 1.3333333333333333,
+        "rank": 5
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 0.8333333333333335,
+        "rank": 6
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.7999999999999999,
+        "rank": 7
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.6944444444444443,
+        "rank": 8
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.6666666666666666,
+        "rank": 9
+      },
+      {
+        "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+        "totalContribution": 0.6388888888888888,
+        "rank": 10
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 0.5714285714285714,
+        "rank": 11
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 12
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 0.2833333333333333,
+        "rank": 13
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.2777777777777778,
+        "rank": 14
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.2222222222222222,
+        "rank": 15
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.2,
+        "rank": 16
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.2,
+        "rank": 17
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 18
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.06666666666666667,
+        "rank": 19
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.020833333333333332,
+        "rank": 20
+      }
+    ],
+    "Atomic Physics and Molecular Physics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 1.3666666666666665,
+        "rank": 1
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.1981684981684981,
+        "rank": 2
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 1.1666666666666665,
+        "rank": 3
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 0.9666666666666666,
+        "rank": 4
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 0.7222222222222222,
+        "rank": 5
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.5523809523809523,
+        "rank": 6
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.44166666666666665,
+        "rank": 7
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 0.41666666666666663,
+        "rank": 8
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.3619047619047619,
+        "rank": 9
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 10
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.29166666666666663,
+        "rank": 11
+      },
+      {
+        "university": "Ho Chi Minh City University of Food Industry",
+        "totalContribution": 0.28095238095238095,
+        "rank": 12
+      },
+      {
+        "university": "Dong Nai University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 13
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 0.125,
+        "rank": 14
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 15
+      },
+      {
+        "university": "University of Agriculture and Forestry Ho Chi Minh City",
+        "totalContribution": 0.02564102564102564,
+        "rank": 16
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.014492753623188406,
+        "rank": 17
+      }
+    ],
+    "Nuclear Physics": [
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 6.744444444444445,
+        "rank": 1
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 4.392925278219395,
+        "rank": 2
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 4.013888888888888,
+        "rank": 3
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 3.000000000000001,
+        "rank": 4
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 2.066666666666666,
+        "rank": 5
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 1.941666666666667,
+        "rank": 6
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.9027777777777777,
+        "rank": 7
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.8333333333333333,
+        "rank": 8
+      },
+      {
+        "university": "Da Lat University",
+        "totalContribution": 0.7999999999999999,
+        "rank": 9
+      },
+      {
+        "university": "Dong Nai University",
+        "totalContribution": 0.5805555555555555,
+        "rank": 10
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 0.5,
+        "rank": 11
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.5,
+        "rank": 12
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.49999999999999994,
+        "rank": 13
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.45833333333333326,
+        "rank": 14
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.41666666666666663,
+        "rank": 15
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 0.41666666666666663,
+        "rank": 16
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.3666666666666667,
+        "rank": 17
+      },
+      {
+        "university": "Khanh Hoa University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 18
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 19
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.29166666666666663,
+        "rank": 20
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.25,
+        "rank": 21
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.25,
+        "rank": 22
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.13333333333333333,
+        "rank": 23
+      },
+      {
+        "university": "Pham Ngoc Thach University of Medicine",
+        "totalContribution": 0.125,
+        "rank": 24
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.1,
+        "rank": 25
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.016666666666666666,
+        "rank": 26
+      }
+    ],
+    "Particle Physics": [
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 57.19444444444446,
+        "rank": 1
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 29.66944444444443,
+        "rank": 2
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 27.87083333333332,
+        "rank": 3
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 27.523924731182788,
+        "rank": 4
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 21.097222222222225,
+        "rank": 5
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 10.023809523809524,
+        "rank": 6
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 3.7083333333333335,
+        "rank": 7
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 3.2499999999999996,
+        "rank": 8
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 2.7249999999999996,
+        "rank": 9
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 2.297222222222222,
+        "rank": 10
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 2.0833333333333335,
+        "rank": 11
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 2.041666666666667,
+        "rank": 12
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 1.75,
+        "rank": 13
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 1.587301587301587,
+        "rank": 14
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 1.2444444444444445,
+        "rank": 15
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 0.8333333333333333,
+        "rank": 16
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.7611111111111111,
+        "rank": 17
+      },
+      {
+        "university": "University of Economic and Technical Industries",
+        "totalContribution": 0.5,
+        "rank": 18
+      },
+      {
+        "university": "Tay Do University",
+        "totalContribution": 0.5,
+        "rank": 19
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.5,
+        "rank": 20
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.5,
+        "rank": 21
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.4107142857142857,
+        "rank": 22
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.39166666666666666,
+        "rank": 23
+      },
+      {
+        "university": "Nam Dinh College of Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 24
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 25
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.29166666666666663,
+        "rank": 26
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.29166666666666663,
+        "rank": 27
+      },
+      {
+        "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+        "totalContribution": 0.2857142857142857,
+        "rank": 28
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.25,
+        "rank": 29
+      },
+      {
+        "university": "Hung Vuong University Ho Chi Minh City",
+        "totalContribution": 0.16666666666666666,
+        "rank": 30
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.1625,
+        "rank": 31
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.125,
+        "rank": 32
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 33
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 34
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.1111111111111111,
+        "rank": 35
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 36
+      }
+    ],
+    "Condensed Matter Physics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 12.519970076220082,
+        "rank": 1
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 8.03021552521552,
+        "rank": 2
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 5.292340761090762,
+        "rank": 3
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 4.856646825396822,
+        "rank": 4
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 4.16223544973545,
+        "rank": 5
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 3.7729437229437237,
+        "rank": 6
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 3.361228956228955,
+        "rank": 7
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 2.8933455433455424,
+        "rank": 8
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 2.731746031746032,
+        "rank": 9
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 2.5786568986568996,
+        "rank": 10
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 2.205079365079365,
+        "rank": 11
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 2.0354166666666678,
+        "rank": 12
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 1.7053746144922621,
+        "rank": 13
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 1.6777777777777776,
+        "rank": 14
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.6592592592592592,
+        "rank": 15
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 1.5393939393939395,
+        "rank": 16
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 1.3977272727272725,
+        "rank": 17
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 1.2988888888888894,
+        "rank": 18
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 1.1434722222222222,
+        "rank": 19
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 1.0930280830280834,
+        "rank": 20
+      },
+      {
+        "university": "Tan Trao University",
+        "totalContribution": 1.0833333333333333,
+        "rank": 21
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.9697871572871573,
+        "rank": 22
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.9166666666666667,
+        "rank": 23
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 0.8018849206349206,
+        "rank": 24
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.7379629629629629,
+        "rank": 25
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.625,
+        "rank": 26
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.5836309523809524,
+        "rank": 27
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.5750000000000001,
+        "rank": 28
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.5667989417989417,
+        "rank": 29
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.5666666666666667,
+        "rank": 30
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.5634920634920635,
+        "rank": 31
+      },
+      {
+        "university": "Nam Dinh College of Education",
+        "totalContribution": 0.5416666666666666,
+        "rank": 32
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.53125,
+        "rank": 33
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.4396825396825397,
+        "rank": 34
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.39488636363636365,
+        "rank": 35
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.3888888888888889,
+        "rank": 36
+      },
+      {
+        "university": "VNU Vietnam - Japan University",
+        "totalContribution": 0.36666666666666664,
+        "rank": 37
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 38
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.3319642857142857,
+        "rank": 39
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.30277777777777776,
+        "rank": 40
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.3,
+        "rank": 41
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.29791666666666666,
+        "rank": 42
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 0.29,
+        "rank": 43
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 0.26055555555555554,
+        "rank": 44
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 0.2534722222222222,
+        "rank": 45
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.25,
+        "rank": 46
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.25,
+        "rank": 47
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 48
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 0.2222222222222222,
+        "rank": 49
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.1964285714285714,
+        "rank": 50
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.19444444444444442,
+        "rank": 51
+      },
+      {
+        "university": "University of Finance – Marketing",
+        "totalContribution": 0.19444444444444442,
+        "rank": 52
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 0.18482142857142858,
+        "rank": 53
+      },
+      {
+        "university": "The Vietnam National Institute of Education Sciences",
+        "totalContribution": 0.17777777777777776,
+        "rank": 54
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 55
+      },
+      {
+        "university": "Binh Duong University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 56
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 57
+      },
+      {
+        "university": "Can Tho University of Medicine - Pharmacy",
+        "totalContribution": 0.15378787878787878,
+        "rank": 58
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.15,
+        "rank": 59
+      },
+      {
+        "university": "Can Tho University of Technology",
+        "totalContribution": 0.13333333333333333,
+        "rank": 60
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 0.125,
+        "rank": 61
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 0.11458333333333333,
+        "rank": 62
+      },
+      {
+        "university": "University of Agriculture and Forestry, Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 63
+      },
+      {
+        "university": "Universtiy of Economics and Finance",
+        "totalContribution": 0.1111111111111111,
+        "rank": 64
+      },
+      {
+        "university": "The Vietnam National Institute of Educational Sciences",
+        "totalContribution": 0.1111111111111111,
+        "rank": 65
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.1,
+        "rank": 66
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 0.08333333333333333,
+        "rank": 67
+      },
+      {
+        "university": "Hai Phong University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 68
+      },
+      {
+        "university": "Nha Trang University",
+        "totalContribution": 0.07407407407407407,
+        "rank": 69
+      },
+      {
+        "university": "Tay Do University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 70
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.0625,
+        "rank": 71
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.05,
+        "rank": 72
+      },
+      {
+        "university": "Hanoi University of Pharmacy",
+        "totalContribution": 0.047619047619047616,
+        "rank": 73
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 74
+      },
+      {
+        "university": "University of Architecture Ho Chi Minh City",
+        "totalContribution": 0.03571428571428571,
+        "rank": 75
+      },
+      {
+        "university": "Peace University",
+        "totalContribution": 0.03125,
+        "rank": 76
+      },
+      {
+        "university": "University of Information and Communication Technology - Thai Nguyen University",
+        "totalContribution": 0.02857142857142857,
+        "rank": 77
+      },
+      {
+        "university": "Nam Can Tho University",
+        "totalContribution": 0.022727272727272728,
+        "rank": 78
+      }
+    ],
+    "Plasma Physics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 1.2724358974358976,
+        "rank": 1
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 1.041666666666667,
+        "rank": 2
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 0.7507936507936509,
+        "rank": 3
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 4
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 5
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 0.275,
+        "rank": 6
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.21666666666666665,
+        "rank": 7
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.13095238095238093,
+        "rank": 8
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.125,
+        "rank": 9
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.125,
+        "rank": 10
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 11
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.08333333333333333,
+        "rank": 12
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.05555555555555555,
+        "rank": 13
+      },
+      {
+        "university": "Hanoi University of Natural Resource and Environment",
+        "totalContribution": 0.05555555555555555,
+        "rank": 14
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 0.05,
+        "rank": 15
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 0.05,
+        "rank": 16
+      },
+      {
+        "university": "University of Information and Communication Technology - Thai Nguyen University",
+        "totalContribution": 0.05,
+        "rank": 17
+      },
+      {
+        "university": "University of Medicine and Pharmacy - Thai Nguyen University",
+        "totalContribution": 0.05,
+        "rank": 18
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.041666666666666664,
+        "rank": 19
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.041666666666666664,
+        "rank": 20
+      }
+    ],
+    "Astrophysics and Cosmology": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 12.76688034188033,
+        "rank": 1
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 5.5875,
+        "rank": 2
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 2.571428571428571,
+        "rank": 3
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 2.5625,
+        "rank": 4
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 2.094444444444444,
+        "rank": 5
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 1.9583333333333333,
+        "rank": 6
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 1.5238095238095235,
+        "rank": 7
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 1.4666666666666668,
+        "rank": 8
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 1.0412912912912913,
+        "rank": 9
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 0.6666666666666666,
+        "rank": 10
+      },
+      {
+        "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+        "totalContribution": 0.6388888888888888,
+        "rank": 11
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.3402777777777778,
+        "rank": 12
+      },
+      {
+        "university": "Dong Nai University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 13
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 14
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 0.29166666666666663,
+        "rank": 15
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.2777777777777778,
+        "rank": 16
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 0.2111111111111111,
+        "rank": 17
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.2,
+        "rank": 18
+      },
+      {
+        "university": "Tay Do University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 19
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.13333333333333333,
+        "rank": 20
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.125,
+        "rank": 21
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.016666666666666666,
+        "rank": 22
+      }
+    ],
+    "Geophysics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 3.990000000000003,
+        "rank": 1
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 2.5704365079365084,
+        "rank": 2
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.0555555555555558,
+        "rank": 3
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 0.9742261904761906,
+        "rank": 4
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.9732142857142857,
+        "rank": 5
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.9687499999999999,
+        "rank": 6
+      },
+      {
+        "university": "Hanoi University of Natural Resource and Environment",
+        "totalContribution": 0.8722222222222222,
+        "rank": 7
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.8124999999999999,
+        "rank": 8
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 0.75,
+        "rank": 9
+      },
+      {
+        "university": "Vietnam Institute of Geodesy and Cartography",
+        "totalContribution": 0.6666666666666666,
+        "rank": 10
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 0.5487179487179487,
+        "rank": 11
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.5333333333333333,
+        "rank": 12
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.5,
+        "rank": 13
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 0.41666666666666663,
+        "rank": 14
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.3666666666666667,
+        "rank": 15
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 0.3645833333333333,
+        "rank": 16
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.35863095238095233,
+        "rank": 17
+      },
+      {
+        "university": "University of Transport Technology",
+        "totalContribution": 0.2916666666666667,
+        "rank": 18
+      },
+      {
+        "university": "Vietnam Institute of Geosciences and Mineral Resources",
+        "totalContribution": 0.26785714285714285,
+        "rank": 19
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.225,
+        "rank": 20
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.225,
+        "rank": 21
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 22
+      },
+      {
+        "university": "Vietnam Petroleum Institute",
+        "totalContribution": 0.14285714285714285,
+        "rank": 23
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.13333333333333333,
+        "rank": 24
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 25
+      },
+      {
+        "university": "Ho Chi Minh City University of Transport",
+        "totalContribution": 0.06666666666666667,
+        "rank": 26
+      },
+      {
+        "university": "Vietnam Institute of Architecture",
+        "totalContribution": 0.06666666666666667,
+        "rank": 27
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.06666666666666667,
+        "rank": 28
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.05555555555555555,
+        "rank": 29
+      },
+      {
+        "university": "Vietnam Petroleum Institute - VPI",
+        "totalContribution": 0.05555555555555555,
+        "rank": 30
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.05,
+        "rank": 31
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 0.05,
+        "rank": 32
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.05,
+        "rank": 33
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.05,
+        "rank": 34
+      }
+    ],
+    "Biophysics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 6.132908850408841,
+        "rank": 1
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 3.050562770562772,
+        "rank": 2
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 2.294775132275132,
+        "rank": 3
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 2.1202380952380957,
+        "rank": 4
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 1.8229166666666663,
+        "rank": 5
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 1.2690476190476192,
+        "rank": 6
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.199543650793651,
+        "rank": 7
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 1.1441666666666668,
+        "rank": 8
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 1.0197827635327636,
+        "rank": 9
+      },
+      {
+        "university": "Da Lat University",
+        "totalContribution": 0.8333333333333333,
+        "rank": 10
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 0.7843855218855218,
+        "rank": 11
+      },
+      {
+        "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "totalContribution": 0.6983405483405483,
+        "rank": 12
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.6316666666666667,
+        "rank": 13
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.625,
+        "rank": 14
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.5198412698412699,
+        "rank": 15
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.49040404040404045,
+        "rank": 16
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.44999999999999996,
+        "rank": 17
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.425,
+        "rank": 18
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 0.3645833333333333,
+        "rank": 19
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.3569444444444444,
+        "rank": 20
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.35000000000000003,
+        "rank": 21
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.3333333333333333,
+        "rank": 22
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.29166666666666663,
+        "rank": 23
+      },
+      {
+        "university": "Nha Trang University",
+        "totalContribution": 0.26666666666666666,
+        "rank": 24
+      },
+      {
+        "university": "Hanoi Medical University",
+        "totalContribution": 0.23402777777777778,
+        "rank": 25
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.2037037037037037,
+        "rank": 26
+      },
+      {
+        "university": "University of Medicine and Pharmacy - Thai Nguyen University",
+        "totalContribution": 0.20363562091503265,
+        "rank": 27
+      },
+      {
+        "university": "University of Technology and Education - The University of Da Nang",
+        "totalContribution": 0.2,
+        "rank": 28
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.19793447293447292,
+        "rank": 29
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 0.18333333333333335,
+        "rank": 30
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.14583333333333331,
+        "rank": 31
+      },
+      {
+        "university": "Eastern International University",
+        "totalContribution": 0.14583333333333331,
+        "rank": 32
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.125,
+        "rank": 33
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.11212121212121212,
+        "rank": 34
+      },
+      {
+        "university": "Hanoi University of Business and Technology",
+        "totalContribution": 0.1111111111111111,
+        "rank": 35
+      },
+      {
+        "university": "Hanoi University of Public Health",
+        "totalContribution": 0.1111111111111111,
+        "rank": 36
+      },
+      {
+        "university": "Ca Mau Community College",
+        "totalContribution": 0.1,
+        "rank": 37
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.1,
+        "rank": 38
+      },
+      {
+        "university": "University of Agriculture and Forestry, Hue University",
+        "totalContribution": 0.0875,
+        "rank": 39
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.07275132275132275,
+        "rank": 40
+      },
+      {
+        "university": "Can Tho University of Medicine - Pharmacy",
+        "totalContribution": 0.06666666666666667,
+        "rank": 41
+      },
+      {
+        "university": "Binh Duong University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 42
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 43
+      },
+      {
+        "university": "Hai Phong Medical University",
+        "totalContribution": 0.06425070028011204,
+        "rank": 44
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.05,
+        "rank": 45
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 0.05,
+        "rank": 46
+      },
+      {
+        "university": "Hanoi University of Pharmacy",
+        "totalContribution": 0.05,
+        "rank": 47
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.05,
+        "rank": 48
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 49
+      },
+      {
+        "university": "Hong Bang University International",
+        "totalContribution": 0.041666666666666664,
+        "rank": 50
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 51
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 0.041666666666666664,
+        "rank": 52
+      },
+      {
+        "university": "Pham Ngoc Thach University of Medicine",
+        "totalContribution": 0.041666666666666664,
+        "rank": 53
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.037037037037037035,
+        "rank": 54
+      },
+      {
+        "university": "Vinh Medical University",
+        "totalContribution": 0.03571428571428571,
+        "rank": 55
+      },
+      {
+        "university": "Danang University of Medical Technology and Pharmacy",
+        "totalContribution": 0.03333333333333333,
+        "rank": 56
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 0.03333333333333333,
+        "rank": 57
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 0.03333333333333333,
+        "rank": 58
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.03125,
+        "rank": 59
+      },
+      {
+        "university": "National Center for Technology Progress",
+        "totalContribution": 0.025,
+        "rank": 60
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.02,
+        "rank": 61
+      }
+    ],
+    "Computational Physics": [
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 7.119841269841262,
+        "rank": 1
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 6.7623677248677225,
+        "rank": 2
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 3.9234126984126982,
+        "rank": 3
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 3.1252391127391133,
+        "rank": 4
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 2.5166666666666666,
+        "rank": 5
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 2.1562698412698413,
+        "rank": 6
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.9742063492063495,
+        "rank": 7
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 1.602777777777778,
+        "rank": 8
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 1.5611111111111111,
+        "rank": 9
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 1.4339285714285719,
+        "rank": 10
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 1.3694444444444445,
+        "rank": 11
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 1.3513888888888892,
+        "rank": 12
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 1.1180555555555556,
+        "rank": 13
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 1.1101851851851852,
+        "rank": 14
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 0.9666666666666666,
+        "rank": 15
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.7777777777777779,
+        "rank": 16
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.7500000000000002,
+        "rank": 17
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.6870370370370371,
+        "rank": 18
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.6142857142857143,
+        "rank": 19
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.5,
+        "rank": 20
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.5,
+        "rank": 21
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.49227053140096605,
+        "rank": 22
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.41333333333333333,
+        "rank": 23
+      },
+      {
+        "university": "Dong Nai University",
+        "totalContribution": 0.38888888888888884,
+        "rank": 24
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.3555555555555555,
+        "rank": 25
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.35,
+        "rank": 26
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.33333333333333337,
+        "rank": 27
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 28
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.3333333333333333,
+        "rank": 29
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.3333333333333333,
+        "rank": 30
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.2708333333333333,
+        "rank": 31
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.26666666666666666,
+        "rank": 32
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.25,
+        "rank": 33
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 0.25,
+        "rank": 34
+      },
+      {
+        "university": "Danang Architecture University",
+        "totalContribution": 0.23333333333333334,
+        "rank": 35
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 36
+      },
+      {
+        "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+        "totalContribution": 0.2222222222222222,
+        "rank": 37
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.20833333333333331,
+        "rank": 38
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 0.19999999999999998,
+        "rank": 39
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 0.18253968253968253,
+        "rank": 40
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.17261904761904762,
+        "rank": 41
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.16666666666666666,
+        "rank": 42
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 43
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.16666666666666666,
+        "rank": 44
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 0.14583333333333331,
+        "rank": 45
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 0.125,
+        "rank": 46
+      },
+      {
+        "university": "Universtiy of Economics and Finance",
+        "totalContribution": 0.1111111111111111,
+        "rank": 47
+      },
+      {
+        "university": "The Vietnam National Institute of Educational Sciences",
+        "totalContribution": 0.1111111111111111,
+        "rank": 48
+      },
+      {
+        "university": "Ho Chi Minh City University of Transport",
+        "totalContribution": 0.1111111111111111,
+        "rank": 49
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.1,
+        "rank": 50
+      },
+      {
+        "university": "Pham Ngoc Thach University of Medicine",
+        "totalContribution": 0.1,
+        "rank": 51
+      },
+      {
+        "university": "University of Transport Technology",
+        "totalContribution": 0.08333333333333333,
+        "rank": 52
+      },
+      {
+        "university": "Viet Nam Aviation Academy",
+        "totalContribution": 0.08333333333333333,
+        "rank": 53
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 54
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 0.08,
+        "rank": 55
+      },
+      {
+        "university": "Nha Trang University",
+        "totalContribution": 0.07407407407407407,
+        "rank": 56
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.06666666666666667,
+        "rank": 57
+      },
+      {
+        "university": "Can Tho University of Technology",
+        "totalContribution": 0.06666666666666667,
+        "rank": 58
+      },
+      {
+        "university": "Thanh Do University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 59
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.05,
+        "rank": 60
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.04871794871794872,
+        "rank": 61
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 62
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.03333333333333333,
+        "rank": 63
+      }
+    ],
+    "Mathematical Physics": [
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 48.35833333333332,
+        "rank": 1
+      },
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 25.25833333333334,
+        "rank": 2
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 20.1452380952381,
+        "rank": 3
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 19.658630952380946,
+        "rank": 4
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 15.519444444444437,
+        "rank": 5
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 14.811706349206338,
+        "rank": 6
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 14.697222222222216,
+        "rank": 7
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 13.765972222222217,
+        "rank": 8
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 12.250000000000002,
+        "rank": 9
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 11.826388888888893,
+        "rank": 10
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 10.806944444444436,
+        "rank": 11
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 10.546230158730156,
+        "rank": 12
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 7.708333333333333,
+        "rank": 13
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 6.119444444444444,
+        "rank": 14
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 5.691666666666666,
+        "rank": 15
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 5.48611111111111,
+        "rank": 16
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 5.460317460317461,
+        "rank": 17
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 5.333564814814815,
+        "rank": 18
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 5.002777777777777,
+        "rank": 19
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 3.441666666666667,
+        "rank": 20
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 3.2222222222222228,
+        "rank": 21
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 2.9999999999999996,
+        "rank": 22
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 2.9380952380952383,
+        "rank": 23
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 2.138888888888889,
+        "rank": 24
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 2.0,
+        "rank": 25
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 1.9027777777777777,
+        "rank": 26
+      },
+      {
+        "university": "Tay Nguyen University",
+        "totalContribution": 1.7916666666666665,
+        "rank": 27
+      },
+      {
+        "university": "Quang Binh University",
+        "totalContribution": 1.75,
+        "rank": 28
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 1.611111111111111,
+        "rank": 29
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 1.5625,
+        "rank": 30
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 1.55,
+        "rank": 31
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 1.527777777777778,
+        "rank": 32
+      },
+      {
+        "university": "Viet Bac University",
+        "totalContribution": 1.3611111111111112,
+        "rank": 33
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 1.2531746031746032,
+        "rank": 34
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 1.2333333333333332,
+        "rank": 35
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 1.0555555555555556,
+        "rank": 36
+      },
+      {
+        "university": "VNU University of Education",
+        "totalContribution": 1.0,
+        "rank": 37
+      },
+      {
+        "university": "University of Finance – Marketing",
+        "totalContribution": 0.9444444444444443,
+        "rank": 38
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.8527777777777779,
+        "rank": 39
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 0.8333333333333333,
+        "rank": 40
+      },
+      {
+        "university": "East Asia University of Technology",
+        "totalContribution": 0.8333333333333333,
+        "rank": 41
+      },
+      {
+        "university": "Tra Vinh University",
+        "totalContribution": 0.8333333333333333,
+        "rank": 42
+      },
+      {
+        "university": "Khanh Hoa University",
+        "totalContribution": 0.7638888888888888,
+        "rank": 43
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.6666666666666666,
+        "rank": 44
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 0.6333333333333333,
+        "rank": 45
+      },
+      {
+        "university": "Hung Vuong University",
+        "totalContribution": 0.6111111111111112,
+        "rank": 46
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 0.5833333333333333,
+        "rank": 47
+      },
+      {
+        "university": "Academy of Policy and Development",
+        "totalContribution": 0.5666666666666667,
+        "rank": 48
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.5090277777777777,
+        "rank": 49
+      },
+      {
+        "university": "Da Lat University",
+        "totalContribution": 0.5,
+        "rank": 50
+      },
+      {
+        "university": "Quang Tri Teacher Training College",
+        "totalContribution": 0.5,
+        "rank": 51
+      },
+      {
+        "university": "Thua Thien Hue College of Education",
+        "totalContribution": 0.5,
+        "rank": 52
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.4694444444444444,
+        "rank": 53
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.4666666666666667,
+        "rank": 54
+      },
+      {
+        "university": "Thuongmai University",
+        "totalContribution": 0.41666666666666663,
+        "rank": 55
+      },
+      {
+        "university": "The University of Finance and Business Administration",
+        "totalContribution": 0.41666666666666663,
+        "rank": 56
+      },
+      {
+        "university": "University of Agriculture and Forestry Ho Chi Minh City",
+        "totalContribution": 0.3611111111111111,
+        "rank": 57
+      },
+      {
+        "university": "Hai Phong University",
+        "totalContribution": 0.3611111111111111,
+        "rank": 58
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 59
+      },
+      {
+        "university": "Hanoi University of Pharmacy",
+        "totalContribution": 0.3333333333333333,
+        "rank": 60
+      },
+      {
+        "university": "Tan Tao University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 61
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 0.3333333333333333,
+        "rank": 62
+      },
+      {
+        "university": "Tan Trao University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 63
+      },
+      {
+        "university": "University of Economic and Technical Industries",
+        "totalContribution": 0.3333333333333333,
+        "rank": 64
+      },
+      {
+        "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "totalContribution": 0.2777777777777778,
+        "rank": 65
+      },
+      {
+        "university": "University of Labour and Social Affairs",
+        "totalContribution": 0.25,
+        "rank": 66
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.25,
+        "rank": 67
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.19444444444444442,
+        "rank": 68
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 69
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 70
+      },
+      {
+        "university": "Hung Vuong University Ho Chi Minh City",
+        "totalContribution": 0.16666666666666666,
+        "rank": 71
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 72
+      },
+      {
+        "university": "Quang Trung University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 73
+      },
+      {
+        "university": "Quang Ninh University of Industry",
+        "totalContribution": 0.16666666666666666,
+        "rank": 74
+      },
+      {
+        "university": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+        "totalContribution": 0.125,
+        "rank": 75
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.125,
+        "rank": 76
+      },
+      {
+        "university": "Banking Academy of Vietnam",
+        "totalContribution": 0.1111111111111111,
+        "rank": 77
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 78
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.1111111111111111,
+        "rank": 79
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 0.1111111111111111,
+        "rank": 80
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.1,
+        "rank": 81
+      },
+      {
+        "university": "FPT University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 82
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 83
+      },
+      {
+        "university": "Can Tho University of Technology",
+        "totalContribution": 0.08333333333333333,
+        "rank": 84
+      }
+    ],
+    "Applied Physics": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 8.869986424394314,
+        "rank": 1
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 6.875872507122503,
+        "rank": 2
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 5.6478703703703665,
+        "rank": 3
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 3.2995004873294356,
+        "rank": 4
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 2.612341269841269,
+        "rank": 5
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 2.435986868881604,
+        "rank": 6
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 1.7398642439431917,
+        "rank": 7
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 1.3511111111111112,
+        "rank": 8
+      },
+      {
+        "university": "Hanoi University of Civil Engineering",
+        "totalContribution": 1.2083333333333333,
+        "rank": 9
+      },
+      {
+        "university": "Da Lat University",
+        "totalContribution": 1.1666666666666665,
+        "rank": 10
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.080753968253968,
+        "rank": 11
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 1.0188483395577217,
+        "rank": 12
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.9618055555555555,
+        "rank": 13
+      },
+      {
+        "university": "HCMC University of Technology and Education",
+        "totalContribution": 0.9034049175225646,
+        "rank": 14
+      },
+      {
+        "university": "University of Sciences, Hue University",
+        "totalContribution": 0.8944444444444445,
+        "rank": 15
+      },
+      {
+        "university": "Hanoi University of Industry",
+        "totalContribution": 0.8412698412698414,
+        "rank": 16
+      },
+      {
+        "university": "Electric Power University",
+        "totalContribution": 0.8333333333333333,
+        "rank": 17
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 0.7833333333333334,
+        "rank": 18
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.7823611111111111,
+        "rank": 19
+      },
+      {
+        "university": "University of Science and Technology - The University of Da Nang",
+        "totalContribution": 0.6455026455026455,
+        "rank": 20
+      },
+      {
+        "university": "Nguyen Tat Thanh University",
+        "totalContribution": 0.6138888888888889,
+        "rank": 21
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.5671626984126984,
+        "rank": 22
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.563157894736842,
+        "rank": 23
+      },
+      {
+        "university": "Van Lang University",
+        "totalContribution": 0.5299999999999999,
+        "rank": 24
+      },
+      {
+        "university": "University of Technology - Thai Nguyen University",
+        "totalContribution": 0.47916666666666663,
+        "rank": 25
+      },
+      {
+        "university": "Thu Dau Mot University",
+        "totalContribution": 0.4785714285714286,
+        "rank": 26
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.4722222222222222,
+        "rank": 27
+      },
+      {
+        "university": "Hong Duc University",
+        "totalContribution": 0.45185185185185184,
+        "rank": 28
+      },
+      {
+        "university": "Ho Chi Minh City University of Food Industry",
+        "totalContribution": 0.4476190476190476,
+        "rank": 29
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.4259259259259259,
+        "rank": 30
+      },
+      {
+        "university": "Tien Giang University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 31
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 32
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.3333333333333333,
+        "rank": 33
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.3047619047619047,
+        "rank": 34
+      },
+      {
+        "university": "Hanoi Achitectural University",
+        "totalContribution": 0.29166666666666663,
+        "rank": 35
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.2583333333333333,
+        "rank": 36
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.25,
+        "rank": 37
+      },
+      {
+        "university": "Vinh University of Technology Education",
+        "totalContribution": 0.25,
+        "rank": 38
+      },
+      {
+        "university": "VNU Vietnam - Japan University",
+        "totalContribution": 0.24999999999999997,
+        "rank": 39
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.22499999999999998,
+        "rank": 40
+      },
+      {
+        "university": "University of Education - Thai Nguyen University",
+        "totalContribution": 0.2226190476190476,
+        "rank": 41
+      },
+      {
+        "university": "VNUHCM - An Giang University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 42
+      },
+      {
+        "university": "Sai Gon University",
+        "totalContribution": 0.21666666666666667,
+        "rank": 43
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.19111111111111112,
+        "rank": 44
+      },
+      {
+        "university": "The Vietnam National Institute of Education Sciences",
+        "totalContribution": 0.17777777777777776,
+        "rank": 45
+      },
+      {
+        "university": "Dong Thap University",
+        "totalContribution": 0.17238095238095236,
+        "rank": 46
+      },
+      {
+        "university": "University of Sciences - Thai Nguyen University",
+        "totalContribution": 0.1705357142857143,
+        "rank": 47
+      },
+      {
+        "university": "The University of Da Nang",
+        "totalContribution": 0.16666666666666666,
+        "rank": 48
+      },
+      {
+        "university": "PetroVietnam University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 49
+      },
+      {
+        "university": "Vietnam Maritime University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 50
+      },
+      {
+        "university": "Dong Nai University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 51
+      },
+      {
+        "university": "Hanoi University of Mining and Geology",
+        "totalContribution": 0.16190476190476188,
+        "rank": 52
+      },
+      {
+        "university": "Water Resources University",
+        "totalContribution": 0.15625,
+        "rank": 53
+      },
+      {
+        "university": "Danang Architecture University",
+        "totalContribution": 0.15,
+        "rank": 54
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.14916666666666667,
+        "rank": 55
+      },
+      {
+        "university": "University of Science and Education - The University of Da Nang",
+        "totalContribution": 0.1468253968253968,
+        "rank": 56
+      },
+      {
+        "university": "Hai Phong University",
+        "totalContribution": 0.125,
+        "rank": 57
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.125,
+        "rank": 58
+      },
+      {
+        "university": "Pasteur Institute in Ho Chi Minh City",
+        "totalContribution": 0.125,
+        "rank": 59
+      },
+      {
+        "university": "Hanoi University of Natural Resource and Environment",
+        "totalContribution": 0.1111111111111111,
+        "rank": 60
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 61
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.09523809523809523,
+        "rank": 62
+      },
+      {
+        "university": "Hoa Binh University",
+        "totalContribution": 0.09523809523809523,
+        "rank": 63
+      },
+      {
+        "university": "University of Transport and Communications",
+        "totalContribution": 0.08928571428571427,
+        "rank": 64
+      },
+      {
+        "university": "Ho Chi Minh City University for Natural Resources and Environment",
+        "totalContribution": 0.08333333333333333,
+        "rank": 65
+      },
+      {
+        "university": "Dong Nai University of Technology",
+        "totalContribution": 0.08,
+        "rank": 66
+      },
+      {
+        "university": "Vietnamese - German University",
+        "totalContribution": 0.07870370370370369,
+        "rank": 67
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.06666666666666667,
+        "rank": 68
+      },
+      {
+        "university": "University of Medicine and Pharmacy, Hue University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 69
+      },
+      {
+        "university": "Hanoi Community College",
+        "totalContribution": 0.047619047619047616,
+        "rank": 70
+      },
+      {
+        "university": "Hanoi University of Pharmacy",
+        "totalContribution": 0.047619047619047616,
+        "rank": 71
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 0.039473684210526314,
+        "rank": 72
+      },
+      {
+        "university": "Eastern International University",
+        "totalContribution": 0.037037037037037035,
+        "rank": 73
+      },
+      {
+        "university": "Pham Ngoc Thach University of Medicine",
+        "totalContribution": 0.02857142857142857,
+        "rank": 74
+      },
+      {
+        "university": "National Center for Technology Progress",
+        "totalContribution": 0.027777777777777776,
+        "rank": 75
+      },
+      {
+        "university": "University of Transport Technology",
+        "totalContribution": 0.022222222222222223,
+        "rank": 76
+      }
+    ],
+    "Quantum Information Science": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 6.617460317460315,
+        "rank": 1
+      },
+      {
+        "university": "Hanoi University of Science and Technology",
+        "totalContribution": 4.1722222222222225,
+        "rank": 2
+      },
+      {
+        "university": "Phenikaa University",
+        "totalContribution": 2.2611111111111115,
+        "rank": 3
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 1.533333333333333,
+        "rank": 4
+      },
+      {
+        "university": "VNUHCM - University of Science",
+        "totalContribution": 1.4047619047619049,
+        "rank": 5
+      },
+      {
+        "university": "Posts and Telecommunications Institute of Technology",
+        "totalContribution": 0.9027777777777779,
+        "rank": 6
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.8686507936507936,
+        "rank": 7
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.638888888888889,
+        "rank": 8
+      },
+      {
+        "university": "VNUHCM - University of Information Technology",
+        "totalContribution": 0.6111111111111112,
+        "rank": 9
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.4043650793650794,
+        "rank": 10
+      },
+      {
+        "university": "VNU University of Engineering and Technology",
+        "totalContribution": 0.375,
+        "rank": 11
+      },
+      {
+        "university": "Thang Long University",
+        "totalContribution": 0.34444444444444444,
+        "rank": 12
+      },
+      {
+        "university": "Vin, University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 13
+      },
+      {
+        "university": "Vietnam Atomic Energy Institute",
+        "totalContribution": 0.3333333333333333,
+        "rank": 14
+      },
+      {
+        "university": "University of Education, Hue University",
+        "totalContribution": 0.3333333333333333,
+        "rank": 15
+      },
+      {
+        "university": "Duy Tan University",
+        "totalContribution": 0.25,
+        "rank": 16
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.2222222222222222,
+        "rank": 17
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.16666666666666666,
+        "rank": 18
+      },
+      {
+        "university": "VNUHCM - International University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 19
+      },
+      {
+        "university": "Hung Yen University of Technology and Education",
+        "totalContribution": 0.15555555555555556,
+        "rank": 20
+      },
+      {
+        "university": "University of Science and Technology of Hanoi",
+        "totalContribution": 0.125,
+        "rank": 21
+      },
+      {
+        "university": "Vietnam National University, Ho Chi Minh City",
+        "totalContribution": 0.11666666666666667,
+        "rank": 22
+      },
+      {
+        "university": "VNUHCM - University of Technology",
+        "totalContribution": 0.1111111111111111,
+        "rank": 23
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 24
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 0.08333333333333333,
+        "rank": 25
+      },
+      {
+        "university": "Ho Chi Minh City University of Technology",
+        "totalContribution": 0.0625,
+        "rank": 26
+      },
+      {
+        "university": "Lac Hong University",
+        "totalContribution": 0.022222222222222223,
+        "rank": 27
+      }
+    ]
+  },
+  "mainField": "Physics",
+  "totalSubfields": 20
+}

@@ -1,0 +1,200 @@
+{
+  "ranking": [
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.26666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hanoi Achitectural University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Huu Son",
+        "contribution": 0.5833333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Amir Mosavi",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Nguyen Nguyen Thi Hanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Achitectural University": [
+      {
+        "author": "Trang Nguyen Thi Nhu",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Nguyen Thi Bich Ngoc",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Ly The Dan",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Nguyen Bao Thanh",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Nguyen Ngoc Tung",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Phan Thi Ngoc Anh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Huynh Ngo Tri Dung",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Hoang Van Thanh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      }
+    ],
+    "The Royal Melbourne Institute of Technology University in Vietnam": [
+      {
+        "author": "Hoang Nguyen",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Nguyen Thi Ngoc Lan",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Doan Quang Hung",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "VNU University of Social Sciences and Humanities": {
+      "Cultural sociology": 0.25,
+      "Economic sociology": 0.25,
+      "Urban history": 0.5833333333333333,
+      "Urban sociology": 0.25,
+      "Cultural history": 0.3333333333333333,
+      "Local history": 0.3333333333333333
+    },
+    "Duy Tan University": {
+      "Urban history": 0.05,
+      "Urban geography": 0.05,
+      "Climatology": 0.05,
+      "Environmental history": 0.05
+    },
+    "Nguyen Tat Thanh University": {
+      "Architecture": 0.16666666666666666,
+      "Urban history": 0.16666666666666666,
+      "Urban geography": 0.16666666666666666
+    },
+    "Hanoi Achitectural University": {
+      "Architecture": 0.16666666666666666,
+      "Urban history": 0.16666666666666666,
+      "Urban geography": 0.16666666666666666
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Architecture": 0.5,
+      "Urban geography": 0.5,
+      "Urban history": 0.5,
+      "Cultural geography": 0.25,
+      "Economic geography": 0.25
+    },
+    "Ho Chi Minh City Open University": {
+      "Urban geography": 0.2,
+      "Urban history": 0.2,
+      "Urban and Regional Economics": 0.2,
+      "Environmental Policy and Planning": 0.2,
+      "Transportation geography": 0.2
+    },
+    "University of Sciences, Hue University": {
+      "Architecture": 0.26666666666666666,
+      "Art history": 0.26666666666666666,
+      "Urban history": 0.26666666666666666
+    },
+    "The Royal Melbourne Institute of Technology University in Vietnam": {
+      "Urban history": 0.125,
+      "Political economy": 0.125,
+      "Urban geography": 0.125,
+      "Economic geography": 0.125
+    },
+    "Vietnam National University of Agriculture": {
+      "Urban geography": 0.125,
+      "Architecture": 0.125,
+      "Urban sociology": 0.125,
+      "Urban history": 0.125
+    },
+    "Phenikaa University": {
+      "Urban geography": 0.125,
+      "Architecture": 0.125,
+      "Urban sociology": 0.125,
+      "Urban history": 0.125
+    }
+  },
+  "totalPapers": 31334
+}

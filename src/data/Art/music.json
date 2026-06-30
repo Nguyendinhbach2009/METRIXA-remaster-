@@ -1,0 +1,152 @@
+{
+  "ranking": [
+    {
+      "university": "Viet Nam National Academy of Music",
+      "totalContribution": 1.5
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Hung Yen University of Technology and Education",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Transport and Communications",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.05714285714285714
+    }
+  ],
+  "authorsByUniversity": {
+    "Viet Nam National Academy of Music": [
+      {
+        "author": "Nguyen Thi Tan Nhan",
+        "contribution": 1.5,
+        "percent": 1.0
+      }
+    ],
+    "Hung Yen University of Technology and Education": [
+      {
+        "author": "Chu Ba Thanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Trinh Van Loan",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Dao Thi Le Thuy",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Social Sciences and Humanities": [
+      {
+        "author": "Thị Thu Hiền Phan",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Ngọc Thơ Nguyễn",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Nguyen Phuong Hong Phuc",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Dinh Thi Yen",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Vinh Truong Hoang",
+        "contribution": 0.02857142857142857,
+        "percent": 0.5
+      },
+      {
+        "author": "Kiet Tran-Trung",
+        "contribution": 0.02857142857142857,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Nguyen Dinh Lam",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Viet Nam National Academy of Music": {
+      "Music": 1.5,
+      "Cultural history": 0.5
+    },
+    "Hung Yen University of Technology and Education": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "Hanoi University of Science and Technology": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "University of Transport and Communications": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "VNUHCM - University of Social Sciences and Humanities": {
+      "Aesthetics": 0.25,
+      "Art history": 0.25,
+      "Literature": 0.25,
+      "Music": 0.25
+    },
+    "Thu Dau Mot University": {
+      "Cultural history": 0.25,
+      "Hospitality and Tourism Management": 0.25,
+      "Film": 0.25,
+      "Music": 0.25
+    },
+    "Ho Chi Minh City Open University": {
+      "Music": 0.05714285714285714,
+      "Clinical Psychology": 0.05714285714285714,
+      "Neuropsychology": 0.05714285714285714,
+      "Neurology": 0.05714285714285714,
+      "Artificial intelligence": 0.05714285714285714
+    },
+    "Vietnam National University, Hanoi": {
+      "Music": 0.3333333333333333,
+      "Cultural history": 0.3333333333333333,
+      "Social history": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

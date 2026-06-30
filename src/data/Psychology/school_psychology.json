@@ -1,0 +1,1274 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 2.572103174603174
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 1.8555555555555556
+    },
+    {
+      "university": "University of Medicine and Pharmacy, Hue University",
+      "totalContribution": 1.5502525252525263
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 1.4541666666666677
+    },
+    {
+      "university": "Can Tho University of Medicine - Pharmacy",
+      "totalContribution": 1.3916666666666666
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 1.0069444444444444
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.6611111111111112
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.6063034188034189
+    },
+    {
+      "university": "National Institute of Hygiene and Epidemiology",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Education, Hue University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.2358333333333333
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.18000000000000002
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.1527777777777778
+    },
+    {
+      "university": "Pham Ngoc Thach University of Medicine",
+      "totalContribution": 0.15000000000000002
+    },
+    {
+      "university": "University of Science and Education - The University of Da Nang",
+      "totalContribution": 0.15000000000000002
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.13589743589743591
+    },
+    {
+      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "totalContribution": 0.13333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.13012820512820514
+    },
+    {
+      "university": "Hung Vuong University",
+      "totalContribution": 0.09
+    },
+    {
+      "university": "VNU University of Education",
+      "totalContribution": 0.09
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "VNU University of Medicine and Pharmacy",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "Academy of Journalism and Communication",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Danang University of Medical Technology and Pharmacy",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Vietnam Youth Academy",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "The University of Da Nang",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Hanoi University of Pharmacy",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "National Institute of Education Management",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Ha Long University",
+      "totalContribution": 0.03333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Medicine and Pharmacy, Hue University": [
+      {
+        "author": "Hoang Thuy Linh Nguyen",
+        "contribution": 0.1796305271925668,
+        "percent": 0.11587178492955923
+      },
+      {
+        "author": "Xuan Minh Tri Tran",
+        "contribution": 0.11020277741875266,
+        "percent": 0.0710869846193615
+      },
+      {
+        "author": "Van Thang Vo",
+        "contribution": 0.10028452745106492,
+        "percent": 0.06468915600361896
+      },
+      {
+        "author": "Minh Tu Nguyen",
+        "contribution": 0.09677807544228643,
+        "percent": 0.06242729740209383
+      },
+      {
+        "author": "Binh Thang Tran",
+        "contribution": 0.09677807544228643,
+        "percent": 0.06242729740209383
+      },
+      {
+        "author": "Thao Vi Tran",
+        "contribution": 0.07934599974150192,
+        "percent": 0.05118262892594028
+      },
+      {
+        "author": "Thang Van Vo",
+        "contribution": 0.07934599974150192,
+        "percent": 0.05118262892594028
+      },
+      {
+        "author": "Hai Huu Hoang",
+        "contribution": 0.05049290892641031,
+        "percent": 0.032570763861962
+      },
+      {
+        "author": "Van Hung Nguyen",
+        "contribution": 0.05049290892641031,
+        "percent": 0.032570763861962
+      },
+      {
+        "author": "Thi Thanh Binh Nguyen",
+        "contribution": 0.05049290892641031,
+        "percent": 0.032570763861962
+      },
+      {
+        "author": "Thi Anh Phuong Nguyen",
+        "contribution": 0.05049290892641031,
+        "percent": 0.032570763861962
+      },
+      {
+        "author": "Dinh Duong Le",
+        "contribution": 0.05049290892641031,
+        "percent": 0.032570763861962
+      },
+      {
+        "author": "Michael P Dunne",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Le Duc Huy",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Nguyen Tuan Linh",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Dinh Thanh Tra",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Nguyen Vu Phuong Thao",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Tran Xuan Tien",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Vo Van Khoa",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Nguyen Thi Anh Phuong",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Minh Tam Nguyen",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Thanh Gia Nguyen",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Vo Nu Hong Duc",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      },
+      {
+        "author": "Thi Tra My Tran",
+        "contribution": 0.046285166515876115,
+        "percent": 0.02985653354013183
+      }
+    ],
+    "National Institute of Hygiene and Epidemiology": [
+      {
+        "author": "Trang Thu Vu",
+        "contribution": 0.06666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Khanh Cong Nguyen",
+        "contribution": 0.06666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Nghia Duy Ngu",
+        "contribution": 0.06666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Duong Nhu Tran",
+        "contribution": 0.06666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Thai Quang Pham",
+        "contribution": 0.06666666666666668,
+        "percent": 0.20000000000000004
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Quynh Anh Tran",
+        "contribution": 0.10096966462058538,
+        "percent": 0.16653322658126501
+      },
+      {
+        "author": "Vu Thuy Huong Le",
+        "contribution": 0.10096966462058538,
+        "percent": 0.16653322658126501
+      },
+      {
+        "author": "Thi Kim Anh Nguyen",
+        "contribution": 0.07572724846543903,
+        "percent": 0.12489991993594876
+      },
+      {
+        "author": "Bach Xuan Tran",
+        "contribution": 0.07252340333805507,
+        "percent": 0.11961569255404324
+      },
+      {
+        "author": "Nguyen Thanh Long",
+        "contribution": 0.06058179877235123,
+        "percent": 0.09991993594875902
+      },
+      {
+        "author": "Van T H Hoang",
+        "contribution": 0.06058179877235123,
+        "percent": 0.09991993594875902
+      },
+      {
+        "author": "Pham Thanh Tung",
+        "contribution": 0.05048483231029269,
+        "percent": 0.08326661329063251
+      },
+      {
+        "author": "Anh Toan Ngo",
+        "contribution": 0.04223250395187946,
+        "percent": 0.06965572457966374
+      },
+      {
+        "author": "Anh Quynh Tran",
+        "contribution": 0.023300691835519704,
+        "percent": 0.038430744595676546
+      },
+      {
+        "author": "Kiet Tuan Huy Pham",
+        "contribution": 0.018931812116359758,
+        "percent": 0.03122497998398719
+      }
+    ],
+    "Hanoi University of Public Health": [
+      {
+        "author": "Huong Nguyen",
+        "contribution": 0.19662415061230584,
+        "percent": 0.0764448924731183
+      },
+      {
+        "author": "Nga Nguyen",
+        "contribution": 0.19662415061230584,
+        "percent": 0.0764448924731183
+      },
+      {
+        "author": "Nguyen Thuy Linh",
+        "contribution": 0.16637428128733575,
+        "percent": 0.06468413978494626
+      },
+      {
+        "author": "Vu Thi Hoang Lan",
+        "contribution": 0.15427433355734768,
+        "percent": 0.05997983870967744
+      },
+      {
+        "author": "Nga La",
+        "contribution": 0.1361244119623656,
+        "percent": 0.05292338709677421
+      },
+      {
+        "author": "Ha Thi Hai Le",
+        "contribution": 0.1361244119623656,
+        "percent": 0.05292338709677421
+      },
+      {
+        "author": "Huong Thanh Nguyen",
+        "contribution": 0.1361244119623656,
+        "percent": 0.05292338709677421
+      },
+      {
+        "author": "Hoang Van Minh",
+        "contribution": 0.10673882461810888,
+        "percent": 0.0414986559139785
+      },
+      {
+        "author": "Luong Nguyen Thanh",
+        "contribution": 0.0907496079749104,
+        "percent": 0.03528225806451614
+      },
+      {
+        "author": "Thanh Pham Quoc",
+        "contribution": 0.0907496079749104,
+        "percent": 0.03528225806451614
+      },
+      {
+        "author": "Cuong Pham Viet",
+        "contribution": 0.0907496079749104,
+        "percent": 0.03528225806451614
+      },
+      {
+        "author": "Duc Duong Minh",
+        "contribution": 0.0907496079749104,
+        "percent": 0.03528225806451614
+      },
+      {
+        "author": "Anh Le Thi Kim",
+        "contribution": 0.0907496079749104,
+        "percent": 0.03528225806451614
+      },
+      {
+        "author": "Khuong Quynh Long",
+        "contribution": 0.07648895529313877,
+        "percent": 0.029737903225806463
+      },
+      {
+        "author": "Khonesavanh Inthavong",
+        "contribution": 0.0680622059811828,
+        "percent": 0.026461693548387104
+      },
+      {
+        "author": "Le Thi Hai Ha",
+        "contribution": 0.0680622059811828,
+        "percent": 0.026461693548387104
+      },
+      {
+        "author": "Le Thi Kim Anh",
+        "contribution": 0.0680622059811828,
+        "percent": 0.026461693548387104
+      },
+      {
+        "author": "Bich Ngoc Nguyen",
+        "contribution": 0.0680622059811828,
+        "percent": 0.026461693548387104
+      },
+      {
+        "author": "Nga Linh La",
+        "contribution": 0.060499738649940266,
+        "percent": 0.023521505376344093
+      },
+      {
+        "author": "Do Van Vuong",
+        "contribution": 0.058339033698156684,
+        "percent": 0.022681451612903233
+      },
+      {
+        "author": "Nguyen Manh Hung",
+        "contribution": 0.058339033698156684,
+        "percent": 0.022681451612903233
+      },
+      {
+        "author": "Tran Thi Tuyet Hanh",
+        "contribution": 0.058339033698156684,
+        "percent": 0.022681451612903233
+      },
+      {
+        "author": "Le Duong Minh Anh",
+        "contribution": 0.038892689132104453,
+        "percent": 0.015120967741935488
+      },
+      {
+        "author": "Kim Bao Giang",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Phan Thi Hai",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Trinh Dinh Hoang",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Doan Thu Huyen",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Luong Ngoc Khue",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Nguyen Tuan Lam",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Pham Thi Quynh Nga",
+        "contribution": 0.030249869324970133,
+        "percent": 0.011760752688172046
+      },
+      {
+        "author": "Hoang Thi Ngoc-Anh",
+        "contribution": 0.01814992159498208,
+        "percent": 0.007056451612903228
+      },
+      {
+        "author": "Tran Thi Tuyet-Hanh",
+        "contribution": 0.01814992159498208,
+        "percent": 0.007056451612903228
+      },
+      {
+        "author": "Ong Phuc Thinh",
+        "contribution": 0.01814992159498208,
+        "percent": 0.007056451612903228
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Pham Thi Thanh Thuy",
+        "contribution": 0.5859649122807017,
+        "percent": 0.31578947368421045
+      },
+      {
+        "author": "Đặng Bùi Anh Đào",
+        "contribution": 0.29298245614035084,
+        "percent": 0.15789473684210523
+      },
+      {
+        "author": "Le Minh Nguyet",
+        "contribution": 0.24415204678362568,
+        "percent": 0.13157894736842102
+      },
+      {
+        "author": "Phan Trong Ngo",
+        "contribution": 0.14649122807017542,
+        "percent": 0.07894736842105261
+      },
+      {
+        "author": "Phan Trong Ng",
+        "contribution": 0.09766081871345028,
+        "percent": 0.05263157894736841
+      },
+      {
+        "author": "Vu Thi Khanh Linh",
+        "contribution": 0.09766081871345028,
+        "percent": 0.05263157894736841
+      },
+      {
+        "author": "Hoang Thanh Thuy",
+        "contribution": 0.09766081871345028,
+        "percent": 0.05263157894736841
+      },
+      {
+        "author": "Nguyen Thi Tinh",
+        "contribution": 0.09766081871345028,
+        "percent": 0.05263157894736841
+      },
+      {
+        "author": "Nguyen Hiep Thuong",
+        "contribution": 0.09766081871345028,
+        "percent": 0.05263157894736841
+      },
+      {
+        "author": "Nguyen Van Hieu",
+        "contribution": 0.09766081871345028,
+        "percent": 0.05263157894736841
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Vinh-Long Tran-Chi",
+        "contribution": 0.2398625429553266,
+        "percent": 0.1649484536082474
+      },
+      {
+        "author": "Thien-Vu Giang",
+        "contribution": 0.22487113402061867,
+        "percent": 0.15463917525773194
+      },
+      {
+        "author": "Tat-Thien Do",
+        "contribution": 0.14991408934707912,
+        "percent": 0.10309278350515462
+      },
+      {
+        "author": "Son-Van Huynh",
+        "contribution": 0.09994272623138607,
+        "percent": 0.06872852233676974
+      },
+      {
+        "author": "Vy Truc Le",
+        "contribution": 0.09994272623138607,
+        "percent": 0.06872852233676974
+      },
+      {
+        "author": "Bao-Tran Nguyen-Duong",
+        "contribution": 0.07995418098510886,
+        "percent": 0.05498281786941579
+      },
+      {
+        "author": "Van-Son Huynh",
+        "contribution": 0.07495704467353956,
+        "percent": 0.05154639175257731
+      },
+      {
+        "author": "Thi-Tu Nguyen",
+        "contribution": 0.07495704467353956,
+        "percent": 0.05154639175257731
+      },
+      {
+        "author": "Huyen-Trang Luu-Thi",
+        "contribution": 0.049971363115693036,
+        "percent": 0.03436426116838487
+      },
+      {
+        "author": "Thuy-Trinh Ngo-Thi",
+        "contribution": 0.049971363115693036,
+        "percent": 0.03436426116838487
+      },
+      {
+        "author": "My-Tien Nguyen-Thi",
+        "contribution": 0.049971363115693036,
+        "percent": 0.03436426116838487
+      },
+      {
+        "author": "Thanh Thao-Ly",
+        "contribution": 0.049971363115693036,
+        "percent": 0.03436426116838487
+      },
+      {
+        "author": "Duc Tin Le",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      },
+      {
+        "author": "Son Van Huynh",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      },
+      {
+        "author": "Nhu-Thuyen Dang-Thi",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      },
+      {
+        "author": "Kiet Anh Duong",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      },
+      {
+        "author": "Tan Ngan Mai",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      },
+      {
+        "author": "Thanh Nhon Huynh",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      },
+      {
+        "author": "Phuc Tan Mai",
+        "contribution": 0.029982817869415826,
+        "percent": 0.020618556701030924
+      }
+    ],
+    "Pham Ngoc Thach University of Medicine": [
+      {
+        "author": "Hong K Tang",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Ngoc-Minh Nguyen",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Trang H H D Nguyen",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Youth Academy": [
+      {
+        "author": "Le Thi Thanh Thuy",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University of Medicine - Pharmacy": [
+      {
+        "author": "Dat Tan Nguyen",
+        "contribution": 0.6958333333333332,
+        "percent": 0.49999999999999994
+      },
+      {
+        "author": "Tam Thi Pham",
+        "contribution": 0.6958333333333332,
+        "percent": 0.49999999999999994
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Giang Hai Ha",
+        "contribution": 0.04415997322623829,
+        "percent": 0.3393574297188755
+      },
+      {
+        "author": "Hai Quang Pham",
+        "contribution": 0.02717536813922356,
+        "percent": 0.20883534136546184
+      },
+      {
+        "author": "Men Thi Hoang",
+        "contribution": 0.02090412933786428,
+        "percent": 0.1606425702811245
+      },
+      {
+        "author": "Trang Huyen Thi Nguyen",
+        "contribution": 0.02090412933786428,
+        "percent": 0.1606425702811245
+      },
+      {
+        "author": "Hai Thanh Phan",
+        "contribution": 0.016984605087014725,
+        "percent": 0.13052208835341364
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Roger C M Ho",
+        "contribution": 0.04399744572158366,
+        "percent": 0.32375478927203066
+      },
+      {
+        "author": "Thao Phuong Nguyen",
+        "contribution": 0.02707535121328225,
+        "percent": 0.19923371647509577
+      },
+      {
+        "author": "Linh Phuong Doan",
+        "contribution": 0.02707535121328225,
+        "percent": 0.19923371647509577
+      },
+      {
+        "author": "Giang Thu Vu",
+        "contribution": 0.020827193240986346,
+        "percent": 0.1532567049808429
+      },
+      {
+        "author": "Trang Huyen Thi Nguyen",
+        "contribution": 0.016922094508301407,
+        "percent": 0.12452107279693486
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Kieu Van Tu",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Chiung-Jung Jo Wu",
+        "contribution": 0.125,
+        "percent": 0.8181818181818181
+      },
+      {
+        "author": "Pranee Liamputtong",
+        "contribution": 0.027777777777777776,
+        "percent": 0.1818181818181818
+      }
+    ],
+    "The University of Da Nang": [
+      {
+        "author": "Son Quang Le",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Education - The University of Da Nang": [
+      {
+        "author": "Dieu Thi Thanh Bui",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Duyen Thi Le",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hai The Hoang",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Academy of Journalism and Communication": [
+      {
+        "author": "Nam T Tran",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Tram T N Truong",
+        "contribution": 0.1304824561403509,
+        "percent": 0.19736842105263158
+      },
+      {
+        "author": "Son Trung Huynh",
+        "contribution": 0.1304824561403509,
+        "percent": 0.19736842105263158
+      },
+      {
+        "author": "Vinh Nhu Nguyen",
+        "contribution": 0.1304824561403509,
+        "percent": 0.19736842105263158
+      },
+      {
+        "author": "An Le Pham",
+        "contribution": 0.1304824561403509,
+        "percent": 0.19736842105263158
+      },
+      {
+        "author": "Kien G To",
+        "contribution": 0.05219298245614036,
+        "percent": 0.07894736842105264
+      },
+      {
+        "author": "Kim Tu Tran",
+        "contribution": 0.04349415204678363,
+        "percent": 0.06578947368421052
+      },
+      {
+        "author": "Oanh Trinh",
+        "contribution": 0.04349415204678363,
+        "percent": 0.06578947368421052
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Thi Thoi Nguyen",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Kham V Tran",
+        "contribution": 0.6531531531531531,
+        "percent": 0.6486486486486487
+      },
+      {
+        "author": "Le Ngoc Ai Nhung",
+        "contribution": 0.10885885885885885,
+        "percent": 0.1081081081081081
+      },
+      {
+        "author": "Luot V Nguyen",
+        "contribution": 0.08164414414414414,
+        "percent": 0.08108108108108109
+      },
+      {
+        "author": "Ha K T Truong",
+        "contribution": 0.08164414414414414,
+        "percent": 0.08108108108108109
+      },
+      {
+        "author": "Huong Thu Tran",
+        "contribution": 0.08164414414414414,
+        "percent": 0.08108108108108109
+      }
+    ],
+    "University of Education, Hue University": [
+      {
+        "author": "Nguyen Phuoc Cat Tuong",
+        "contribution": 0.2222222222222222,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Hong-Van Thi Dinh",
+        "contribution": 0.05555555555555555,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Quynh-Anh Ngoc Nguyen",
+        "contribution": 0.05555555555555555,
+        "percent": 0.16666666666666666
+      }
+    ],
+    "Danang University of Medical Technology and Pharmacy": [
+      {
+        "author": "Hoang Huu Hai",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Thi-Trinh, Do",
+        "contribution": 0.1048148148148148,
+        "percent": 0.4444444444444444
+      },
+      {
+        "author": "Duc-Hoi Dinh",
+        "contribution": 0.06550925925925925,
+        "percent": 0.2777777777777778
+      },
+      {
+        "author": "Nhung H D Nguyen",
+        "contribution": 0.06550925925925925,
+        "percent": 0.2777777777777778
+      }
+    ],
+    "VNU University of Medicine and Pharmacy": [
+      {
+        "author": "Bach Xuan Nguyen",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Banh Thang Long",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Vu Thanh Hung",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Michael P. Dunne",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hung Vuong University": [
+      {
+        "author": "Thi Hong-Chi Le",
+        "contribution": 0.09,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Thi Hong-Lien Do",
+        "contribution": 0.09000000000000001,
+        "percent": 0.5
+      },
+      {
+        "author": "Tien-Trung, Nguyen",
+        "contribution": 0.09000000000000001,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Education": [
+      {
+        "author": "Phuong-Lien Lai",
+        "contribution": 0.09,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Pharmacy": [
+      {
+        "author": "T T C Nguyễn",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Social Sciences and Humanities": [
+      {
+        "author": "Cong Minh Le",
+        "contribution": 0.13333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Hoa Hong Nguyen",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Ha Long University": [
+      {
+        "author": "Truong Vuong Vu",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "Van Khanh Duong",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi Bich Hung Nguyen",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Ngoc Thang Dinh",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "National Institute of Education Management": [
+      {
+        "author": "Lieu Xuan Cao",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Medicine and Pharmacy, Hue University": {
+      "Pediatrics": 0.39747474747474737,
+      "Educational Psychology": 0.888888888888889,
+      "School Psychology": 1.5502525252525263,
+      "Developmental Psychology": 1.050252525252525,
+      "Health Psychology": 0.388888888888889,
+      "Clinical Psychology": 0.804220779220779,
+      "Social Psychology": 0.125,
+      "Psychiatry": 0.1272727272727273,
+      "Sociology of family": 0.24999999999999997
+    },
+    "National Institute of Hygiene and Epidemiology": {
+      "Pediatrics": 0.3333333333333333,
+      "Neuropsychology": 0.3333333333333333,
+      "School Psychology": 0.3333333333333333
+    },
+    "Hanoi Medical University": {
+      "Early childhood education": 0.08333333333333333,
+      "Developmental Psychology": 0.5257478632478632,
+      "School Psychology": 0.6063034188034189,
+      "Clinical Psychology": 0.32991452991452985,
+      "Educational Psychology": 0.22574786324786322,
+      "Health Psychology": 0.13055555555555554,
+      "Counseling Psychology": 0.05,
+      "Pediatrics": 0.025,
+      "Medical Sociology": 0.025
+    },
+    "Hanoi University of Public Health": {
+      "Clinical Psychology": 1.2044444444444444,
+      "Developmental Psychology": 1.933412698412698,
+      "School Psychology": 2.572103174603174,
+      "Health Psychology": 0.902380952380953,
+      "Curriculum and instruction": 0.25000000000000006,
+      "Educational policy and reform": 0.25000000000000006,
+      "Counseling Psychology": 0.6600000000000001,
+      "Educational Psychology": 0.8752777777777778,
+      "Sociology of health and illness": 0.40000000000000013,
+      "Social Psychology": 0.125,
+      "Medical sociology": 0.15000000000000002,
+      "Educational assessment and evaluation": 0.0625,
+      "Educational research methods": 0.0625
+    },
+    "Hanoi National University of Education": {
+      "Educational Psychology": 1.8555555555555556,
+      "School Psychology": 1.8555555555555556,
+      "Distance and online learning": 0.5555555555555557,
+      "Special education": 0.3833333333333333,
+      "Developmental Psychology": 0.9666666666666666,
+      "Social Psychology": 0.25,
+      "Counseling Psychology": 0.13333333333333333,
+      "Elementary and secondary education": 0.3333333333333333
+    },
+    "Ho Chi Minh City University of Education": {
+      "Educational Psychology": 0.9666666666666665,
+      "School Psychology": 1.4541666666666677,
+      "Developmental Psychology": 0.9333333333333333,
+      "Counseling Psychology": 0.5833333333333333,
+      "Curriculum and instruction": 0.1875,
+      "Educational psychology": 0.1875,
+      "Elementary and secondary education": 0.1875,
+      "Social Psychology": 0.3,
+      "Clinical Psychology": 0.05
+    },
+    "Pham Ngoc Thach University of Medicine": {
+      "Developmental Psychology": 0.15000000000000002,
+      "Health Psychology": 0.15000000000000002,
+      "School Psychology": 0.15000000000000002,
+      "Pediatrics": 0.15000000000000002
+    },
+    "Vietnam Youth Academy": {
+      "Clinical Psychology": 0.05,
+      "Developmental Psychology": 0.05,
+      "Educational Psychology": 0.05,
+      "School Psychology": 0.05
+    },
+    "Can Tho University of Medicine - Pharmacy": {
+      "School Psychology": 1.3916666666666666,
+      "Educational Psychology": 1.3916666666666666,
+      "Educational technology": 0.16666666666666666,
+      "Clinical Psychology": 0.5583333333333333,
+      "Developmental Psychology": 0.5916666666666667,
+      "Counseling Psychology": 0.3333333333333333,
+      "Health Psychology": 0.16666666666666666
+    },
+    "Duy Tan University": {
+      "Developmental Psychology": 0.08012820512820512,
+      "School Psychology": 0.13012820512820514,
+      "Educational Psychology": 0.08012820512820512,
+      "Pediatrics": 0.05,
+      "Health Psychology": 0.05,
+      "Medical Sociology": 0.05,
+      "Clinical Psychology": 0.038461538461538464
+    },
+    "Nguyen Tat Thanh University": {
+      "Developmental Psychology": 0.060897435897435896,
+      "School Psychology": 0.13589743589743591,
+      "Educational Psychology": 0.060897435897435896,
+      "Pediatrics": 0.07500000000000001,
+      "Health Psychology": 0.07500000000000001,
+      "Medical Sociology": 0.07500000000000001,
+      "Clinical Psychology": 0.019230769230769232
+    },
+    "Van Lang University": {
+      "Special education": 0.06666666666666667,
+      "Counseling Psychology": 0.06666666666666667,
+      "Developmental Psychology": 0.06666666666666667,
+      "Educational Psychology": 0.06666666666666667,
+      "School Psychology": 0.06666666666666667
+    },
+    "Vin, University": {
+      "Developmental Psychology": 0.1527777777777778,
+      "Pediatrics": 0.125,
+      "School Psychology": 0.1527777777777778,
+      "Health Psychology": 0.125,
+      "Educational Psychology": 0.027777777777777776,
+      "Sociology of education": 0.027777777777777776
+    },
+    "The University of Da Nang": {
+      "Developmental Psychology": 0.05,
+      "School Psychology": 0.05,
+      "Educational Psychology": 0.05,
+      "Health Psychology": 0.05
+    },
+    "University of Science and Education - The University of Da Nang": {
+      "Developmental Psychology": 0.15000000000000002,
+      "School Psychology": 0.15000000000000002,
+      "Educational Psychology": 0.15000000000000002,
+      "Health Psychology": 0.15000000000000002
+    },
+    "Academy of Journalism and Communication": {
+      "School Psychology": 0.05555555555555555,
+      "Educational Psychology": 0.05555555555555555,
+      "Developmental Psychology": 0.05555555555555555
+    },
+    "University of Medicine and Pharmacy at Ho Chi Minh City": {
+      "Developmental Psychology": 0.6611111111111112,
+      "Educational Psychology": 0.6111111111111112,
+      "Health Psychology": 0.55,
+      "School Psychology": 0.6611111111111112,
+      "Counseling Psychology": 0.05
+    },
+    "FPT University": {
+      "Elementary and secondary education": 0.25,
+      "School Psychology": 0.25,
+      "Educational Psychology": 0.25,
+      "Sociology of education": 0.25
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Special education": 0.6666666666666666,
+      "School Psychology": 1.0069444444444444,
+      "Sociology of education": 0.6666666666666666,
+      "Educational Psychology": 0.3402777777777778,
+      "Developmental Psychology": 0.16666666666666666,
+      "Educational assessment and evaluation": 0.0625,
+      "Educational research methods": 0.0625,
+      "Counseling Psychology": 0.1111111111111111
+    },
+    "University of Education, Hue University": {
+      "Developmental Psychology": 0.3333333333333333,
+      "Educational Psychology": 0.2222222222222222,
+      "School Psychology": 0.3333333333333333,
+      "Clinical Psychology": 0.1111111111111111
+    },
+    "Danang University of Medical Technology and Pharmacy": {
+      "Educational Psychology": 0.05555555555555555,
+      "Health Psychology": 0.05555555555555555,
+      "School Psychology": 0.05555555555555555
+    },
+    "University of Education - Thai Nguyen University": {
+      "Curriculum and instruction": 0.0625,
+      "Educational psychology": 0.0625,
+      "Elementary and secondary education": 0.10250000000000001,
+      "School Psychology": 0.2358333333333333,
+      "Educational Psychology": 0.13333333333333333,
+      "Developmental Psychology": 0.08333333333333333,
+      "Counseling Psychology": 0.09,
+      "Educational research methods": 0.09,
+      "Sociology of education": 0.04
+    },
+    "VNU University of Medicine and Pharmacy": {
+      "Educational Psychology": 0.0625,
+      "Educational assessment and evaluation": 0.0625,
+      "Educational research methods": 0.0625,
+      "School Psychology": 0.0625
+    },
+    "National Academy of Public Administration": {
+      "Educational Psychology": 0.25,
+      "School Psychology": 0.25,
+      "Sociology of education": 0.25,
+      "Educational policy and reform": 0.25
+    },
+    "Hue University": {
+      "Developmental Psychology": 0.08333333333333333,
+      "Clinical Psychology": 0.08333333333333333,
+      "School Psychology": 0.08333333333333333,
+      "Educational Psychology": 0.08333333333333333
+    },
+    "Hung Vuong University": {
+      "Counseling Psychology": 0.09,
+      "School Psychology": 0.09,
+      "Educational Psychology": 0.05,
+      "Educational research methods": 0.09,
+      "Elementary and secondary education": 0.04,
+      "Sociology of education": 0.04
+    },
+    "Vietnam National University, Hanoi": {
+      "Counseling Psychology": 0.18000000000000002,
+      "School Psychology": 0.18000000000000002,
+      "Educational Psychology": 0.1,
+      "Educational research methods": 0.18000000000000002,
+      "Elementary and secondary education": 0.08,
+      "Sociology of education": 0.08
+    },
+    "VNU University of Education": {
+      "Counseling Psychology": 0.09,
+      "School Psychology": 0.09,
+      "Educational Psychology": 0.05,
+      "Educational research methods": 0.09,
+      "Elementary and secondary education": 0.04,
+      "Sociology of education": 0.04
+    },
+    "Hanoi University of Pharmacy": {
+      "School Psychology": 0.05,
+      "Developmental Psychology": 0.05,
+      "Educational Psychology": 0.05,
+      "Health Psychology": 0.05
+    },
+    "VNUHCM - University of Social Sciences and Humanities": {
+      "School Psychology": 0.13333333333333333,
+      "Counseling Psychology": 0.08333333333333333,
+      "Educational Psychology": 0.13333333333333333,
+      "Developmental Psychology": 0.13333333333333333,
+      "Clinical Psychology": 0.05
+    },
+    "Thu Dau Mot University": {
+      "Counseling Psychology": 0.05,
+      "Developmental Psychology": 0.05,
+      "School Psychology": 0.05,
+      "Health Psychology": 0.05
+    },
+    "Ha Long University": {
+      "Developmental Psychology": 0.03333333333333333,
+      "Social Psychology": 0.03333333333333333,
+      "School Psychology": 0.03333333333333333
+    },
+    "Dong Thap University": {
+      "School Psychology": 0.3333333333333333,
+      "Counseling Psychology": 0.3333333333333333,
+      "Educational Psychology": 0.3333333333333333
+    },
+    "National Institute of Education Management": {
+      "Clinical Psychology": 0.05,
+      "School Psychology": 0.05,
+      "Educational Psychology": 0.05,
+      "Developmental Psychology": 0.05
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,388 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 1.7305555555555552
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Hanoi Metropolitan Univerisity",
+      "totalContribution": 0.41666666666666663
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.3583333333333333
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Trade Union University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.26666666666666666
+    },
+    {
+      "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+      "totalContribution": 0.19444444444444442
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.14583333333333331
+    },
+    {
+      "university": "Dong Nai University",
+      "totalContribution": 0.14583333333333331
+    },
+    {
+      "university": "University of Science and Education - The University of Da Nang",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "National College of Education",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Technology - Thai Nguyen University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "VNU University of Education",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.0625
+    }
+  ],
+  "authorsByUniversity": {
+    "Van Lang University": [
+      {
+        "author": "Lam Minh Triet Nguyen",
+        "contribution": 0.134375,
+        "percent": 0.37500000000000006
+      },
+      {
+        "author": "Thuy Thi Le Nguyen",
+        "contribution": 0.134375,
+        "percent": 0.37500000000000006
+      },
+      {
+        "author": "Kieu Van Tu",
+        "contribution": 0.08958333333333332,
+        "percent": 0.25
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Quynh Huong Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 1.0
+      }
+    ],
+    "Dong Nai University": [
+      {
+        "author": "Thao Thi Phuong Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Đặng Bùi Anh Đào",
+        "contribution": 0.2966666666666666,
+        "percent": 0.1714285714285714
+      },
+      {
+        "author": "Nguyen Nu Tam An",
+        "contribution": 0.2966666666666666,
+        "percent": 0.1714285714285714
+      },
+      {
+        "author": "Do Nghiem Thanh Phuong",
+        "contribution": 0.1483333333333333,
+        "percent": 0.0857142857142857
+      },
+      {
+        "author": "Do Thi Thao",
+        "contribution": 0.1483333333333333,
+        "percent": 0.0857142857142857
+      },
+      {
+        "author": "Bui Thi Lam",
+        "contribution": 0.1483333333333333,
+        "percent": 0.0857142857142857
+      },
+      {
+        "author": "Thao Do Thi",
+        "contribution": 0.1483333333333333,
+        "percent": 0.0857142857142857
+      },
+      {
+        "author": "Nguyen Hiep Thuong",
+        "contribution": 0.09888888888888886,
+        "percent": 0.05714285714285714
+      },
+      {
+        "author": "Nguyen Van Hieu",
+        "contribution": 0.09888888888888886,
+        "percent": 0.05714285714285714
+      },
+      {
+        "author": "Nguyen Thi Nguyet",
+        "contribution": 0.09888888888888886,
+        "percent": 0.05714285714285714
+      },
+      {
+        "author": "Pham Thi Thu Thuy",
+        "contribution": 0.09888888888888886,
+        "percent": 0.05714285714285714
+      },
+      {
+        "author": "Ngoc Tran Thi Bich",
+        "contribution": 0.07416666666666664,
+        "percent": 0.04285714285714285
+      },
+      {
+        "author": "Thu Nguyen Thi Anh",
+        "contribution": 0.07416666666666664,
+        "percent": 0.04285714285714285
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Van Luan",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Tran Minh Duc",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Le Xuan Hung",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Duc Toan",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      }
+    ],
+    "University of Technology - Thai Nguyen University": [
+      {
+        "author": "Pham Van Trinh",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Education - The University of Da Nang": [
+      {
+        "author": "Anh Thi Tram Nguyen",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "The Royal Melbourne Institute of Technology University in Vietnam": [
+      {
+        "author": "Giang Thi-Huong Le",
+        "contribution": 0.19444444444444442,
+        "percent": 1.0
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Pranee Liamputtong",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Kham V Tran",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Metropolitan Univerisity": [
+      {
+        "author": "Hai Nguyen Xuan",
+        "contribution": 0.41666666666666663,
+        "percent": 1.0
+      }
+    ],
+    "National College of Education": [
+      {
+        "author": "Hang Le Thi Thuy",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Thi Thu Ha Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Trade Union University": [
+      {
+        "author": "Nguyen Thi Thu Trang",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Thu Kim Thi Dam",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Huyen Thanh Thi Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Education": [
+      {
+        "author": "Nho Hoang Thi",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Tan Nguyen Thi",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Van Lang University": {
+      "Higher education": 0.29166666666666663,
+      "Sociology of education": 0.29166666666666663,
+      "Educational Psychology": 0.19166666666666665,
+      "Special education": 0.3583333333333333,
+      "Counseling Psychology": 0.06666666666666667,
+      "Developmental Psychology": 0.06666666666666667,
+      "School Psychology": 0.06666666666666667
+    },
+    "Thu Dau Mot University": {
+      "Higher education": 0.14583333333333331,
+      "Sociology of education": 0.14583333333333331,
+      "Educational Psychology": 0.0625,
+      "Special education": 0.14583333333333331
+    },
+    "Dong Nai University": {
+      "Higher education": 0.14583333333333331,
+      "Sociology of education": 0.14583333333333331,
+      "Educational Psychology": 0.0625,
+      "Special education": 0.14583333333333331
+    },
+    "Hanoi National University of Education": {
+      "Special education": 1.7305555555555552,
+      "Public Administration": 0.16666666666666666,
+      "Policy analysis and Policy studies": 0.16666666666666666,
+      "School Psychology": 0.3833333333333333,
+      "Developmental Psychology": 0.8416666666666666,
+      "Educational Psychology": 0.5083333333333333,
+      "Counseling Psychology": 0.13333333333333333,
+      "Teacher education and professional development": 0.2222222222222222,
+      "Elementary and secondary education": 0.2222222222222222,
+      "Early childhood education": 0.3333333333333333,
+      "Curriculum and instruction": 0.3333333333333333,
+      "Educational assessment and evaluation": 0.3333333333333333,
+      "Comparative and international education": 0.16666666666666666,
+      "Educational policy and reform": 0.16666666666666666,
+      "Clinical Psychology": 0.125
+    },
+    "Hanoi University of Science and Technology": {
+      "Special education": 0.26666666666666666,
+      "Teacher education and professional development": 0.26666666666666666,
+      "Educational leadership and administration": 0.26666666666666666
+    },
+    "University of Technology - Thai Nguyen University": {
+      "Special education": 0.06666666666666667,
+      "Teacher education and professional development": 0.06666666666666667,
+      "Educational leadership and administration": 0.06666666666666667
+    },
+    "University of Science and Education - The University of Da Nang": {
+      "Developmental Psychology": 0.125,
+      "Clinical Psychology": 0.125,
+      "Special education": 0.125,
+      "Educational Psychology": 0.125
+    },
+    "The Royal Melbourne Institute of Technology University in Vietnam": {
+      "Special education": 0.19444444444444442,
+      "Educational policy and reform": 0.08333333333333333,
+      "Rehabilitation Psychology": 0.19444444444444442,
+      "Developmental Psychology": 0.19444444444444442
+    },
+    "Vin, University": {
+      "Clinical Psychology": 0.1111111111111111,
+      "Developmental Psychology": 0.1111111111111111,
+      "Special education": 0.1111111111111111
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Special education": 0.6666666666666666,
+      "School Psychology": 0.6666666666666666,
+      "Sociology of education": 0.6666666666666666
+    },
+    "Hanoi Metropolitan Univerisity": {
+      "Special education": 0.41666666666666663,
+      "Educational policy and reform": 0.41666666666666663,
+      "Comparative and international education": 0.41666666666666663
+    },
+    "National College of Education": {
+      "Special education": 0.08333333333333333,
+      "Comparative and international education": 0.08333333333333333,
+      "Educational policy and reform": 0.08333333333333333
+    },
+    "Hue University": {
+      "Higher education": 0.3333333333333333,
+      "Special education": 0.3333333333333333,
+      "STEM education": 0.3333333333333333
+    },
+    "Trade Union University": {
+      "Special education": 0.3333333333333333,
+      "Rehabilitation Psychology": 0.3333333333333333,
+      "Health Psychology": 0.3333333333333333
+    },
+    "University of Education - Thai Nguyen University": {
+      "Early childhood education": 0.3333333333333333,
+      "Special education": 0.3333333333333333,
+      "Teacher education and professional development": 0.3333333333333333
+    },
+    "VNU University of Education": {
+      "Developmental Psychology": 0.0625,
+      "Special education": 0.0625,
+      "Clinical Psychology": 0.0625,
+      "Educational Psychology": 0.0625
+    },
+    "Ho Chi Minh City University of Education": {
+      "Developmental Psychology": 0.0625,
+      "Special education": 0.0625,
+      "Clinical Psychology": 0.0625,
+      "Educational Psychology": 0.0625
+    }
+  },
+  "totalPapers": 31334
+}

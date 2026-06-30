@@ -1,0 +1,486 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 1.5333333333333332
+    },
+    {
+      "university": "Hanoi University of Civil Engineering",
+      "totalContribution": 1.4166666666666667
+    },
+    {
+      "university": "Ho Chi Minh City University of Transport",
+      "totalContribution": 0.7916666666666666
+    },
+    {
+      "university": "University of Science and Technology - The University of Da Nang",
+      "totalContribution": 0.7166666666666667
+    },
+    {
+      "university": "VNUHCM - University of Technology",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi Achitectural University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.2011111111111111
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Transport and Communications",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Thanh Hoa University of Culture, Sports and Tourism",
+      "totalContribution": 0.09
+    },
+    {
+      "university": "Posts and Telecommunications Institute of Technology",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.05555555555555555
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Civil Engineering": [
+      {
+        "author": "Lưu Quang Phương",
+        "contribution": 0.17708333333333331,
+        "percent": 0.12499999999999999
+      },
+      {
+        "author": "Nguyễn Thế Quân",
+        "contribution": 0.17708333333333331,
+        "percent": 0.12499999999999999
+      },
+      {
+        "author": "Phạm Minh Chinh",
+        "contribution": 0.17708333333333331,
+        "percent": 0.12499999999999999
+      },
+      {
+        "author": "Đinh Thị Phương Lan",
+        "contribution": 0.17708333333333331,
+        "percent": 0.12499999999999999
+      },
+      {
+        "author": "Thuy-Ninh Dao",
+        "contribution": 0.11805555555555554,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "The-Quan Nguyen",
+        "contribution": 0.11805555555555554,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Lê Hồng Hà",
+        "contribution": 0.11805555555555554,
+        "percent": 0.08333333333333331
+      },
+      {
+        "author": "Nguyễn Tử Hiếu",
+        "contribution": 0.05902777777777777,
+        "percent": 0.04166666666666666
+      },
+      {
+        "author": "Lê Hồng Hà",
+        "contribution": 0.05902777777777777,
+        "percent": 0.04166666666666666
+      },
+      {
+        "author": "Trần Quang Dũng",
+        "contribution": 0.05902777777777777,
+        "percent": 0.04166666666666666
+      },
+      {
+        "author": "Hoàng Nguyên Tùng",
+        "contribution": 0.05902777777777777,
+        "percent": 0.04166666666666666
+      },
+      {
+        "author": "Phạm Văn Tới",
+        "contribution": 0.05902777777777777,
+        "percent": 0.04166666666666666
+      },
+      {
+        "author": "Chu Ngọc Huyền",
+        "contribution": 0.05902777777777777,
+        "percent": 0.04166666666666666
+      }
+    ],
+    "Ho Chi Minh City University of Transport": [
+      {
+        "author": "Tuan Anh Nguyen",
+        "contribution": 0.22166666666666668,
+        "percent": 0.28
+      },
+      {
+        "author": "Tu Anh Nguyen",
+        "contribution": 0.12666666666666668,
+        "percent": 0.16000000000000003
+      },
+      {
+        "author": "The Van Tran",
+        "contribution": 0.12666666666666668,
+        "percent": 0.16000000000000003
+      },
+      {
+        "author": "Đặng Thị Trang",
+        "contribution": 0.12666666666666668,
+        "percent": 0.16000000000000003
+      },
+      {
+        "author": "Ty Duc Ho",
+        "contribution": 0.09500000000000001,
+        "percent": 0.12000000000000002
+      },
+      {
+        "author": "Long Hoang Nguyen",
+        "contribution": 0.09500000000000001,
+        "percent": 0.12000000000000002
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Pham Vu Hong Son",
+        "contribution": 0.28930817610062887,
+        "percent": 0.18867924528301885
+      },
+      {
+        "author": "Vo Thi Bich Huyen",
+        "contribution": 0.28930817610062887,
+        "percent": 0.18867924528301885
+      },
+      {
+        "author": "Duc Long Luong",
+        "contribution": 0.260377358490566,
+        "percent": 0.16981132075471694
+      },
+      {
+        "author": "Hong-Tham T. Pham",
+        "contribution": 0.14465408805031443,
+        "percent": 0.09433962264150943
+      },
+      {
+        "author": "Thuan T. Le",
+        "contribution": 0.14465408805031443,
+        "percent": 0.09433962264150943
+      },
+      {
+        "author": "Phuong Ha",
+        "contribution": 0.14465408805031443,
+        "percent": 0.09433962264150943
+      },
+      {
+        "author": "Ngoc-Son Truong",
+        "contribution": 0.14465408805031443,
+        "percent": 0.09433962264150943
+      },
+      {
+        "author": "Quang Trung Nguyen",
+        "contribution": 0.11572327044025155,
+        "percent": 0.07547169811320753
+      }
+    ],
+    "University of Science and Technology - The University of Da Nang": [
+      {
+        "author": "Ngoc-Tri Ngo",
+        "contribution": 0.13271604938271606,
+        "percent": 0.1851851851851852
+      },
+      {
+        "author": "Ngoc-Quang Nguyen",
+        "contribution": 0.13271604938271606,
+        "percent": 0.1851851851851852
+      },
+      {
+        "author": "Huyen Do",
+        "contribution": 0.13271604938271606,
+        "percent": 0.1851851851851852
+      },
+      {
+        "author": "Anh Duc Pham",
+        "contribution": 0.10617283950617284,
+        "percent": 0.14814814814814817
+      },
+      {
+        "author": "Quynh Chau Truong",
+        "contribution": 0.10617283950617284,
+        "percent": 0.14814814814814817
+      },
+      {
+        "author": "Minh Quan Duong",
+        "contribution": 0.10617283950617284,
+        "percent": 0.14814814814814817
+      }
+    ],
+    "VNUHCM - University of Technology": [
+      {
+        "author": "Nam Hoang",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      },
+      {
+        "author": "Huong Mai Thi Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 0.25
+      },
+      {
+        "author": "Trương Tích Thiện",
+        "contribution": 0.14583333333333331,
+        "percent": 0.25
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Tam Nguyen Van",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Hoang Nguyen",
+        "contribution": 0.1096969696969697,
+        "percent": 0.5454545454545455
+      },
+      {
+        "author": "Tan Hai Dang Nguyen",
+        "contribution": 0.0914141414141414,
+        "percent": 0.45454545454545453
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Hai Chien Pham",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Long H. Dang",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Marina L. Viana",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Le Anh Tuan",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Bui Thanh Hung",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thanh Hoa University of Culture, Sports and Tourism": [
+      {
+        "author": "Le Thi Le",
+        "contribution": 0.09,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Achitectural University": [
+      {
+        "author": "Nguyen Minh Ngoc",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Tran Thanh Son",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Mai Vu",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Van Huy Pham",
+        "contribution": 0.06666666666666667,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hoang Viet Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Xuan Toan Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Posts and Telecommunications Institute of Technology": [
+      {
+        "author": "Thai Kim Dinh",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Truong-Giang Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Civil Engineering": {
+      "Civil Engineering": 1.0833333333333333,
+      "Architectural Engineering": 1.4166666666666667,
+      "Structural Engineering": 0.3333333333333333,
+      "Environmental Engineering": 0.5833333333333333,
+      "Sustainability Science": 0.24999999999999997,
+      "Mechanical Engineering": 0.3333333333333333
+    },
+    "Ho Chi Minh City University of Transport": {
+      "Civil Engineering": 0.7916666666666666,
+      "Architectural Engineering": 0.7916666666666666,
+      "Business Process Management": 0.25,
+      "Operations Management": 0.25
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Mechanical Engineering": 0.49999999999999994,
+      "Environmental Engineering": 1.2000000000000002,
+      "Architectural Engineering": 1.5333333333333332,
+      "Civil Engineering": 0.25,
+      "Materials Engineering": 0.125,
+      "Renewable Energy Systems": 0.2,
+      "Sustainability Science": 0.9083333333333332,
+      "Architecture": 0.5833333333333333
+    },
+    "University of Science and Technology - The University of Da Nang": {
+      "Architectural Engineering": 0.7166666666666667,
+      "Civil Engineering": 0.25,
+      "Environmental Engineering": 0.7166666666666667,
+      "Materials Engineering": 0.125,
+      "Mechanical Engineering": 0.16666666666666666,
+      "Renewable Energy Systems": 0.3,
+      "Sustainability Science": 0.425
+    },
+    "VNUHCM - University of Technology": {
+      "Architecture": 0.3333333333333333,
+      "Architectural Engineering": 0.5833333333333333,
+      "Civil Engineering": 0.5833333333333333,
+      "Mechanical Engineering": 0.25,
+      "Environmental Engineering": 0.25
+    },
+    "Can Tho University": {
+      "Architectural Engineering": 0.125,
+      "Civil Engineering": 0.125,
+      "Environmental Engineering": 0.125,
+      "Mechanical Engineering": 0.125
+    },
+    "Duy Tan University": {
+      "Architecture": 0.1111111111111111,
+      "Civil Engineering": 0.1111111111111111,
+      "Architectural Engineering": 0.2011111111111111,
+      "Artificial intelligence": 0.09,
+      "Data Science": 0.09,
+      "Algorithms": 0.05,
+      "Mechanical Engineering": 0.04,
+      "Environmental Engineering": 0.04
+    },
+    "Ton Duc Thang University": {
+      "Architectural Engineering": 0.05555555555555555,
+      "Civil Engineering": 0.05555555555555555,
+      "Computer Graphics": 0.05555555555555555
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Architectural Engineering": 0.05555555555555555,
+      "Civil Engineering": 0.05555555555555555,
+      "Computer Graphics": 0.05555555555555555
+    },
+    "University of Transport and Communications": {
+      "Civil Engineering": 0.125,
+      "Architectural Engineering": 0.125
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Architectural Engineering": 0.3333333333333333,
+      "Environmental Engineering": 0.3333333333333333,
+      "Climatology": 0.16666666666666666,
+      "Atmospheric Science": 0.16666666666666666
+    },
+    "Ho Chi Minh City Open University": {
+      "Architectural Engineering": 0.3333333333333333,
+      "Environmental Engineering": 0.3333333333333333,
+      "Climatology": 0.16666666666666666,
+      "Atmospheric Science": 0.16666666666666666
+    },
+    "Thanh Hoa University of Culture, Sports and Tourism": {
+      "Artificial intelligence": 0.09,
+      "Data Science": 0.09,
+      "Architectural Engineering": 0.09,
+      "Algorithms": 0.05,
+      "Mechanical Engineering": 0.04,
+      "Environmental Engineering": 0.04
+    },
+    "Hanoi Achitectural University": {
+      "Architectural Engineering": 0.3333333333333333,
+      "Civil Engineering": 0.3333333333333333,
+      "Environmental Engineering": 0.3333333333333333
+    },
+    "Hanoi University of Science and Technology": {
+      "Architectural Engineering": 0.2,
+      "Civil Engineering": 0.2,
+      "Structural Engineering": 0.2
+    },
+    "Posts and Telecommunications Institute of Technology": {
+      "Architectural Engineering": 0.06666666666666667,
+      "Civil Engineering": 0.06666666666666667,
+      "Structural Engineering": 0.06666666666666667
+    },
+    "Vietnam National University of Agriculture": {
+      "Architectural Engineering": 0.06666666666666667,
+      "Civil Engineering": 0.06666666666666667,
+      "Structural Engineering": 0.06666666666666667
+    }
+  },
+  "totalPapers": 31334
+}

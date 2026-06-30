@@ -1,0 +1,150 @@
+{
+  "ranking": [
+    {
+      "university": "FPT University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "VNU University of Law",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Hanoi Procuratorate University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.1875
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.0625
+    }
+  ],
+  "authorsByUniversity": {
+    "FPT University": [
+      {
+        "author": "Minh Hoang Dang",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Le Anh Thuan",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Nguyen Thi Thu Thuy",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Procuratorate University": [
+      {
+        "author": "Mai Dac Bien",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Law": [
+      {
+        "author": "L. C. Le",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "NGUYEN GIAC TRI",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Thi Ngoc Tuyet",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Thu Trang",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Mai Hoa",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Nguyen Xuan Phuong",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "FPT University": {
+      "Labor and employment law": 0.6666666666666666,
+      "Legal theory and jurisprudence": 0.6666666666666666,
+      "Human rights law": 0.6666666666666666
+    },
+    "National Academy of Public Administration": {
+      "Criminal law": 0.08333333333333333,
+      "Comparative law": 0.08333333333333333,
+      "Legal theory and jurisprudence": 0.08333333333333333
+    },
+    "Ho Chi Minh City Open University": {
+      "Civil law": 0.6666666666666666,
+      "Comparative law": 0.6666666666666666,
+      "Legal theory and jurisprudence": 0.6666666666666666
+    },
+    "Hanoi Procuratorate University": {
+      "Criminal law": 0.3333333333333333,
+      "Human rights law": 0.3333333333333333,
+      "Legal theory and jurisprudence": 0.3333333333333333
+    },
+    "VNU University of Law": {
+      "Criminal law": 0.6666666666666666,
+      "Comparative law": 0.6666666666666666,
+      "Legal theory and jurisprudence": 0.6666666666666666
+    },
+    "Dong Thap University": {
+      "Higher education": 0.125,
+      "Philosophy of education": 0.125,
+      "Legal theory and jurisprudence": 0.125,
+      "Law and society": 0.125
+    },
+    "Hanoi University of Science and Technology": {
+      "Comparative law": 0.1875,
+      "International law": 0.1875,
+      "Legal theory and jurisprudence": 0.1875,
+      "Law and society": 0.1875
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Comparative law": 0.0625,
+      "International law": 0.0625,
+      "Legal theory and jurisprudence": 0.0625,
+      "Law and society": 0.0625
+    }
+  },
+  "totalPapers": 31334
+}

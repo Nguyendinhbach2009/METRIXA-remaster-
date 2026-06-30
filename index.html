@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>METRIXA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="public/style.css">
+</head>
+<body class="galaxy-skin">
+  <header class="site-header">
+    <div class="brand">
+      <div class="brand__mark">
+        <img src="LOGO_STARFOX.png" alt="Metrixa logo">
+      </div>
+      <div class="brand__copy">
+        <div class="brand__title">METRIXA</div>
+        <div class="brand__tagline">Machine-Enhanced Transparent Institutional Index &amp; Analytics</div>
+        <div class="brand__quote">Distribution of Vietnamese's Research Papers</div>
+      </div>
+    </div>
+    <div class="search-bar">
+      <input id="search-input" type="search" placeholder="Search titles, main fields, subfields, or authors...">
+      <span class="search-icon">⌕</span>
+    </div>
+    <a class="pill-btn" href="ranking">Ranking Page →</a>
+  </header>
+
+  <main class="scene-shell">
+
+    <aside class="legend-container glass-panel" id="legend-panel"></aside>
+    <div id="plot" aria-label="3D research galaxy visualization"></div>
+    <div class="control-strip" id="control-strip">
+      <span class="control-strip__hint">Drag to rotate • Scroll to zoom • Click to select</span>
+      <button class="control-strip__btn" id="reset-camera">Reset</button>
+      <button class="control-strip__btn" id="toggle-rotate">Rotate</button>
+    </div>
+  </main>
+
+  <script type="module">
+    import * as THREE from './backend/three.module.js';
+    import { OrbitControls } from './backend/OrbitControls.js';
+
+    const plotContainer = document.getElementById('plot');
+    const legendPanel = document.getElementById('legend-panel');
+    const resetButton = document.getElementById('reset-camera');
+    const rotateButton = document.getElementById('toggle-rotate');
+    const searchInput = document.getElementById('search-input');
+    const legendList = document.createElement('div');
+    legendList.className = 'legend-list';
+    const legendHeader = document.createElement('div');
+    legendHeader.className = 'legend-header';
+    legendHeader.innerHTML = '<span>Main Fields</span>';
+    const legendGroupControls = document.createElement('div');
+    legendGroupControls.className = 'legend-group-controls';
+    const groupButtons = new Map();
+
+    const TARGET_RADIUS = 5; // keep whole galaxy within a comfortable sphere
+
+    const scene = new THREE.Scene();
+
+    const renderer = new THREE.WebGLRenderer({
+      antialias: false,
+      powerPreference: 'high-performance',
+      alpha: true
+    });
+    renderer.setClearColor(0x000000, 0);
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.25));
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.domElement.style.cursor = 'default';
+    plotContainer.appendChild(renderer.domElement);
+
+    const camera = new THREE.PerspectiveCamera(
+      55,
+      window.innerWidth / window.innerHeight,
+      0.1,
+      1000
+    );
+    camera.position.set(0, 0, 18);
+
+    const controls = new OrbitControls(camera, renderer.domElement);
+    controls.enableDamping = true;
+    controls.enablePan = false;
+    controls.autoRotate = true;
+    controls.autoRotateSpeed = 0.1;
+    controls.minPolarAngle = 0.1;
+    controls.maxPolarAngle = Math.PI - 0.1;
+    controls.minDistance = 2;
+    controls.maxDistance = 150;
+    controls.addEventListener('change', updateRaycastThreshold);
+
+    const raycaster = new THREE.Raycaster();
+    const pointer = new THREE.Vector2();
+
+    const infoBox = document.createElement('div');
+    infoBox.className = 'infobox';
+    document.body.appendChild(infoBox);
+
+    if (legendPanel) {
+      legendPanel.innerHTML = '';
+      legendPanel.appendChild(legendHeader);
+      legendPanel.appendChild(legendGroupControls);
+      legendPanel.appendChild(legendList);
+    }
+
+    const state = {
+      rawData: null,
+      dataset: null,
+      baseCoreColors: null,
+      baseGlowColors: null,
+      coreColors: null,
+      glowColors: null,
+      coreAttr: null,
+      glowAttr: null,
+      pointsCore: null,
+      pointsGlow: null,
+      activeField: null,
+      hoveredIndex: null,
+      selectedIndex: null,
+      colorMap: null,
+      legendItems: new Map(),
+      currentGroup: 'all',
+      axes: null,
+      materials: null,
+      initialCamera: { position: camera.position.clone(), target: controls.target.clone() },
+      searchQuery: '',
+      matchedIndices: null
+    };
+
+    // Utility: convert HSL → RGB (for coloring)
+    function hslToRgb(h, s, l) {
+      let r, g, b;
+      if (s === 0) {
+        r = g = b = l;
+      } else {
+        const hue2rgb = (p, q, t) => {
+          if (t < 0) t += 1;
+          if (t > 1) t -= 1;
+          if (t < 1 / 6) return p + (q - p) * 6 * t;
+          if (t < 1 / 2) return q;
+          if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+          return p;
+        };
+        const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+        const p = 2 * l - q;
+        r = hue2rgb(p, q, h + 1 / 3);
+        g = hue2rgb(p, q, h);
+        b = hue2rgb(p, q, h - 1 / 3);
+      }
+      return [Math.round(r * 255), Math.round(g * 255), Math.round(b * 255)];
+    }
+
+    const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
+    const escapeHtml = (str) => String(str ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c] || c));
+
+    const pointerToNdc = (event) => {
+      const rect = renderer.domElement.getBoundingClientRect();
+      pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+      pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
+    };
+    const CORE_SIZE = 0.1
+    const GLOW_SIZE = 0.4
+    function updateRaycastThreshold() {
+      const size = Math.max(CORE_SIZE, GLOW_SIZE);
+      raycaster.params.Points.threshold = clamp(size * 0.1, 0.02, 0.35);
+    }
+
+    const Group1 = [
+      'Mathematics',
+      'Computer Science',
+      'Physics',
+      'Engineering'
+    ];
+    const Group2 = [
+      'Medicine',
+      'Biology',
+      'Chemistry',
+      'Psychology'
+    ];
+    const Group3 = [
+      'Business',
+      'Economics',
+      'Sociology',
+      'Political Science',
+      'Education',
+      'Law'
+    ];
+    const Group4 = [
+      'History',
+      'Philosophy',
+      'Linguistics',
+      'Art',
+      'Materials Science',
+      'Environmental Science',
+      'Agricultural and Food Sciences',
+      'Geography',
+      'Geology',
+    ];
+    const fieldGroups = {
+      all: { label: 'All', fields: null },
+      group1: { label: 'Physical Sciences and Engineering', fields: Group1 },
+      group2: { label: 'Health Sciences', fields: Group2 },
+      group3: { label: 'Social Sciences and Humanities', fields: Group3 },
+      group4: { label: 'Life Sciences', fields: Group4 }
+    };
+    const groupPaletteBase = {
+      group1: 35,   // warm amber family
+      group2: 150,  // soft green/teal family
+      group3: 280,  // gentle purple family
+      group4: 205,  // airy blue family
+      ungrouped: 0
+    };
+    const FIELD_FIXED_COLORS = {
+      // Group 1
+      'Mathematics': 'rgb(255,184,102)',         // soft orange
+      'Computer Science': 'rgb(255,138,194)',    // pastel pink
+      'Physics': 'rgb(123,220,255)',             // light cyan
+      'Engineering': 'rgb(210,162,255)',         // gentle lavender
+
+      // Group 2
+      'Medicine': 'rgb(139,227,196)',            // mint
+      'Biology': 'rgb(179,232,107)',             // light lime
+      'Chemistry': 'rgb(123,182,255)',           // sky blue
+      'Psychology': 'rgb(255,220,122)',          // soft yellow
+
+      // Group 3
+      'Business': 'rgb(255,154,154)',            // soft red
+      'Economics': 'rgb(139,182,255)',           // cornflower
+      'Sociology': 'rgb(108,213,159)',           // mint green
+      'Political Science': 'rgb(245,135,224)',   // pastel magenta
+      'Education': 'rgb(255,193,122)',           // peach
+      'Law': 'rgb(158,123,255)',                 // violet pastel
+
+      // Group 4
+      'History': 'rgb(255,178,143)',             // apricot
+      'Philosophy': 'rgb(154,211,255)',          // baby blue
+      'Linguistics': 'rgb(146,255,224)',         // pale mint
+      'Art': 'rgb(255,154,213)',                 // soft pink
+      'Materials Science': 'rgb(127,226,226)',   // aqua
+      'Environmental Science': 'rgb(255,216,138)',// light gold
+      'Agricultural and Food Sciences': 'rgb(176,245,122)', // fresh lime
+      'Geography': 'rgb(198,168,255)',           // lavender
+      'Geology': 'rgb(255,138,168)'              // light raspberry
+    };
+
+    const toArrayData = (data, chosenFields = null) => {
+      const keys = Object.keys(data.x_vis);
+      const rawX = [];
+      const rawY = [];
+      const rawZ = [];
+      const titles = [];
+      const subfields = [];
+      const fields = [];
+      const related_fields = [];
+      const authors = [];
+      const pdf_urls = [];
+      const fieldCounts = {};
+
+      const fieldSet = new Set();
+      let maxAbsX = 0, maxAbsY = 0, maxAbsZ = 0;
+
+      for (let i = 0; i < keys.length; i += 1) {
+        const key = keys[i];
+        const field = data.original_field[key] || 'Unknown';
+        if (chosenFields && !chosenFields.includes(field)) continue;
+
+        const xv = Number(data.x_vis[key]) || 0;
+        const yv = Number(data.y_vis[key]) || 0;
+        const zv = Number(data.z_vis[key]) || 0;
+
+        rawX.push(xv);
+        rawY.push(yv);
+        rawZ.push(zv);
+        titles.push(data.title[key] || 'Untitled');
+        subfields.push(data.Subfields[key] || '');
+        fields.push(field);
+        related_fields.push(data.related_fields[key] || 'None');
+        authors.push(data.authors[key] || 'Unknown');
+        pdf_urls.push(data.pdf_urls[key] || '#');
+        fieldSet.add(field);
+        fieldCounts[field] = (fieldCounts[field] || 0) + 1;
+
+        const absX = Math.abs(xv);
+        const absY = Math.abs(yv);
+        const absZ = Math.abs(zv);
+        if (absX > maxAbsX) maxAbsX = absX;
+        if (absY > maxAbsY) maxAbsY = absY;
+        if (absZ > maxAbsZ) maxAbsZ = absZ;
+      }
+
+      const maxAbs = Math.max(maxAbsX, maxAbsY, maxAbsZ) || 1;
+      const scale = TARGET_RADIUS / maxAbs;
+      const positions = new Float32Array(rawX.length * 3);
+
+      for (let i = 0; i < rawX.length; i += 1) {
+        const base = i * 3;
+        positions[base] = rawX[i] * scale;
+        positions[base + 1] = rawY[i] * scale;
+        positions[base + 2] = rawZ[i] * scale;
+      }
+
+      return {
+        positions,
+        titles,
+        subfields,
+        fields,
+        related_fields,
+        authors,
+        pdf_urls,
+        uniqueFields: [...fieldSet],
+        fieldCounts,
+        bounds: {
+          x: maxAbs * scale * 1.1,
+          y: maxAbs * scale * 1.1,
+          z: maxAbs * scale * 1.1
+        }
+      };
+    };
+
+    const collectAllFields = (data) => {
+      const values = Object.values(data.original_field || {});
+      return [...new Set(values.map((f) => f || 'Unknown'))];
+    };
+
+    const findFieldGroup = (field) => {
+      const entry = Object.entries(fieldGroups).find(([key, meta]) =>
+        key !== 'all' && Array.isArray(meta.fields) && meta.fields.includes(field)
+      );
+      return entry ? entry[0] : 'ungrouped';
+    };
+
+    const colorForField = (field) => {
+      if (FIELD_FIXED_COLORS[field]) return FIELD_FIXED_COLORS[field];
+
+      const groupKey = findFieldGroup(field);
+      const groupFields = fieldGroups[groupKey]?.fields || [];
+      const idx = Math.max(groupFields.indexOf(field), 0);
+      const total = Math.max(groupFields.length, 1);
+      const baseHue = groupPaletteBase[groupKey] ?? groupPaletteBase.ungrouped;
+
+      const hueStep = 14;
+      const hue = ((baseHue + idx * hueStep) % 360) / 360;
+
+      const spread = Math.max(total - 1, 1);
+      const centerOffset = idx - (total - 1) / 2;
+      const satBase = 0.56;
+      const sat = clamp(satBase - (centerOffset * 0.05) / spread, 0.45, 0.7);
+      const lightBase = 0.8;
+      const light = clamp(lightBase + (centerOffset * 0.06) / spread, 0.7, 0.92);
+
+      const rgb = hslToRgb(hue, sat, light);
+      return `rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`;
+    };
+
+    const buildColorMap = (fields) => {
+      const map = new Map();
+
+      fields.forEach((field, index) => {
+        map.set(field, colorForField(field));
+      });
+      return map;
+    };
+
+    const colorStringToFloats = (rgbString) => {
+      const parts = (rgbString.match(/\d+/g) || [255, 255, 255]).map(Number);
+      return [parts[0] / 255, parts[1] / 255, parts[2] / 255];
+    };
+
+    const createAxisHelpers = (bounds) => {
+      const group = new THREE.Group();
+      const axes = [
+        { dir: new THREE.Vector3(1, 0, 0), length: bounds.x, label: 'X' },
+        { dir: new THREE.Vector3(0, 1, 0), length: bounds.y, label: 'Y' },
+        { dir: new THREE.Vector3(0, 0, 1), length: bounds.z, label: 'Z' }
+      ];
+      const lineMaterial = new THREE.LineBasicMaterial({ color: 0x00b4ff, transparent: true, opacity: 0.6 });
+      axes.forEach(({ dir, length, label }) => {
+        const points = [dir.clone().multiplyScalar(-length), dir.clone().multiplyScalar(length)];
+        const geometry = new THREE.BufferGeometry().setFromPoints(points);
+        const line = new THREE.Line(geometry, lineMaterial);
+        group.add(line);
+
+        const labelCanvas = document.createElement('canvas');
+        labelCanvas.width = labelCanvas.height = 128;
+        const ctx = labelCanvas.getContext('2d');
+        if (ctx) {
+          ctx.clearRect(0, 0, labelCanvas.width, labelCanvas.height);
+          ctx.fillStyle = '#00b4ff';
+          ctx.font = 'bold 64px Segoe UI';
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          ctx.fillText(label, 64, 64);
+          const texture = new THREE.CanvasTexture(labelCanvas);
+          const spriteMaterial = new THREE.SpriteMaterial({ map: texture, transparent: true, depthWrite: false });
+          const sprite = new THREE.Sprite(spriteMaterial);
+          sprite.scale.set(0.9, 0.9, 0.9);
+          sprite.position.copy(dir.clone().multiplyScalar(length * 1.1));
+          group.add(sprite);
+        }
+      });
+      return group;
+    };
+
+    const makeCircleTexture = (soft = false) => {
+      const size = 128;
+      const canvas = document.createElement('canvas');
+      canvas.width = canvas.height = size;
+      const ctx = canvas.getContext('2d');
+      const cx = size / 2;
+      const cy = size / 2;
+      if (soft) {
+        const grad = ctx.createRadialGradient(cx, cy, size * 0.05, cx, cy, size * 0.5);
+        grad.addColorStop(0.0, 'rgba(255,255,255,1)');
+        grad.addColorStop(0.4, 'rgba(255,255,255,0.35)');
+        grad.addColorStop(1.0, 'rgba(255,255,255,0)');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, size, size);
+      } else {
+        ctx.fillStyle = 'white';
+        ctx.beginPath();
+        ctx.arc(cx, cy, size * 0.48, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      const texture = new THREE.CanvasTexture(canvas);
+      texture.minFilter = THREE.LinearFilter;
+      texture.magFilter = THREE.LinearFilter;
+      texture.generateMipmaps = false;
+      return texture;
+    };
+
+    const disposeObject = (obj) => {
+      if (!obj) return;
+      obj.traverse((child) => {
+        if (child.geometry) child.geometry.dispose();
+        if (child.material) {
+          const mats = Array.isArray(child.material) ? child.material : [child.material];
+          mats.forEach((mat) => mat.dispose && mat.dispose());
+        }
+        if (child.texture && typeof child.texture.dispose === 'function') {
+          child.texture.dispose();
+        }
+      });
+    };
+
+    const rebuildAxes = (bounds) => {
+      if (state.axes) {
+        scene.remove(state.axes);
+        disposeObject(state.axes);
+      }
+      state.axes = createAxisHelpers(bounds);
+      scene.add(state.axes);
+    };
+
+    const rebuildPoints = (df) => {
+      if (state.pointsCore) {
+        scene.remove(state.pointsCore);
+        state.pointsCore.geometry.dispose();
+      }
+      if (state.pointsGlow) {
+        scene.remove(state.pointsGlow);
+        state.pointsGlow.geometry.dispose();
+      }
+
+      const geometryCore = new THREE.BufferGeometry();
+      geometryCore.setAttribute('position', new THREE.BufferAttribute(df.positions, 3));
+      state.coreAttr = new THREE.BufferAttribute(state.coreColors, 3);
+      geometryCore.setAttribute('color', state.coreAttr);
+
+      const geometryGlow = new THREE.BufferGeometry();
+      geometryGlow.setAttribute('position', geometryCore.getAttribute('position'));
+      state.glowAttr = new THREE.BufferAttribute(state.glowColors, 3);
+      geometryGlow.setAttribute('color', state.glowAttr);
+
+      state.pointsGlow = new THREE.Points(geometryGlow, state.materials.glow);
+      state.pointsCore = new THREE.Points(geometryCore, state.materials.core);
+      state.pointsGlow.frustumCulled = false;
+
+      scene.add(state.pointsGlow);
+      scene.add(state.pointsCore);
+    };
+
+    const applyDataset = (df) => {
+      state.dataset = df;
+      const baseColors = baseColorsFromFields(df.fields, state.colorMap);
+      state.baseCoreColors = baseColors.core;
+      state.baseGlowColors = baseColors.glow;
+      state.coreColors = new Float32Array(baseColors.core);
+      state.glowColors = new Float32Array(baseColors.glow);
+
+      rebuildPoints(df);
+      rebuildAxes(df.bounds);
+      state.activeField = null;
+      state.hoveredIndex = null;
+      state.selectedIndex = null;
+      hideInfo();
+      updateLegendActive();
+      updateColorState();
+      renderer.domElement.style.cursor = 'default';
+      resetCamera();
+      updateRaycastThreshold();
+    };
+
+    const loadGroup = (groupKey) => {
+      const meta = fieldGroups[groupKey] || fieldGroups.all;
+      state.currentGroup = groupKey;
+      setActiveGroupButton(groupKey);
+      if (!state.rawData) return;
+      const df = toArrayData(state.rawData, meta.fields);
+      applyDataset(df);
+      buildLegend(df.uniqueFields, state.colorMap, df.fieldCounts);
+      updateLegendActive();
+    };
+
+    const updateLegendActive = () => {
+      state.legendItems.forEach((item, field) => {
+        item.classList.toggle('active', state.activeField === field);
+      });
+    };
+
+    const buildLegend = (uniqueFields, colorMap, fieldCounts = {}) => {
+      if (!legendList) return;
+      legendList.innerHTML = '';
+      legendList.scrollTop = 0;
+      state.legendItems.clear();
+
+      uniqueFields.forEach((field) => {
+        const item = document.createElement('div');
+        item.className = 'legend-item';
+        item.dataset.field = field;
+
+        const label = document.createElement('div');
+        label.className = 'legend-label';
+        label.innerHTML = `<span class="legend-swatch" style="background:${colorMap.get(field)}"></span><span>${field}</span>`;
+
+        const count = document.createElement('span');
+        count.className = 'legend-count';
+        count.textContent = fieldCounts[field] ?? 0;
+
+        item.append(label, count);
+        item.addEventListener('click', () => {
+          const newField = state.activeField === field ? null : field;
+          state.activeField = newField;
+          state.selectedIndex = null;
+          hideInfo();
+          updateLegendActive();
+          updateColorState();
+        });
+        legendList.appendChild(item);
+        state.legendItems.set(field, item);
+      });
+    };
+
+    const setActiveGroupButton = (key) => {
+      groupButtons.forEach((btn, btnKey) => {
+        btn.classList.toggle('is-active', btnKey === key);
+      });
+    };
+
+    const buildGroupButtons = (onSelect) => {
+      groupButtons.clear();
+      if (!legendGroupControls) return;
+      legendGroupControls.innerHTML = '';
+      Object.entries(fieldGroups).forEach(([key, meta]) => {
+        const btn = document.createElement('button');
+        btn.className = 'group-btn';
+        btn.textContent = meta.label;
+        btn.addEventListener('click', () => onSelect(key));
+        legendGroupControls.appendChild(btn);
+        groupButtons.set(key, btn);
+      });
+    };
+
+    const baseColorsFromFields = (fields, colorMap) => {
+      const len = fields.length;
+      const core = new Float32Array(len * 3);
+      const glow = new Float32Array(len * 3);
+
+      for (let i = 0; i < len; i += 1) {
+        const color = colorStringToFloats(colorMap.get(fields[i]) || 'rgb(255,255,255)');
+        const base = i * 3;
+        core[base] = color[0];
+        core[base + 1] = color[1];
+        core[base + 2] = color[2];
+
+        glow[base] = color[0];
+        glow[base + 1] = color[1];
+        glow[base + 2] = color[2];
+      }
+      return { core, glow };
+    };
+
+    const showInfo = (idx) => {
+      if (!state.dataset || idx == null) return;
+      const df = state.dataset;
+      infoBox.innerHTML = `
+        <div class="infobox-title">Selected Paper:</div>
+
+        <div><span class="infobox-key">Title:</span>
+          <span class="infobox-value">${escapeHtml(df.titles[idx])}</span></div>
+
+        <div><span class="infobox-key">Main field:</span>
+          <span class="infobox-value">${escapeHtml(df.fields[idx])}</span></div>
+
+        <div><span class="infobox-key">Related fields:</span>
+          <span class="infobox-value">${escapeHtml(df.related_fields[idx])}</span></div>
+
+        <div><span class="infobox-key">Subfields:</span>
+          <span class="infobox-value">${escapeHtml(df.subfields[idx])}</span></div>
+
+        <div><span class="infobox-key">Authors:</span>
+          <span class="infobox-value">${escapeHtml(df.authors[idx])}</span></div>
+
+        <div><span class="infobox-key">PDF:</span>
+          <a href="${escapeHtml(df.pdf_urls[idx])}" target="_blank">[pdf]</a></div>
+      `;
+      infoBox.classList.add('is-visible');
+    };
+
+    const hideInfo = () => {
+      infoBox.classList.remove('is-visible');
+    };
+
+    const updateColorState = () => {
+      if (!state.dataset || !state.coreAttr || !state.glowAttr) return;
+      const len = state.dataset.fields.length;
+      const fieldFilter = state.activeField;
+      const hoverIdx = state.hoveredIndex;
+      const selIdx = state.selectedIndex;
+      const searchActive = (state.searchQuery || '').length > 0;
+      const fieldFilterActive = fieldFilter && !searchActive;
+
+      for (let i = 0; i < len; i += 1) {
+        const base = i * 3;
+        const matchesField = !fieldFilterActive || state.dataset.fields[i] === fieldFilter;
+        const matchesSearch = !searchActive || state.matchedIndices?.has(i);
+
+        let coreFactor = matchesField ? 1 : 0.2;
+        let glowFactor = matchesField ? 1 : 0.2;
+
+        if (searchActive && !matchesSearch) {
+          coreFactor *= 0.12;
+          glowFactor *= 0.12;
+        }
+
+        let rCore = state.baseCoreColors[base] * coreFactor;
+        let gCore = state.baseCoreColors[base + 1] * coreFactor;
+        let bCore = state.baseCoreColors[base + 2] * coreFactor;
+
+        let rGlow = state.baseGlowColors[base] * glowFactor;
+        let gGlow = state.baseGlowColors[base + 1] * glowFactor;
+        let bGlow = state.baseGlowColors[base + 2] * glowFactor;
+
+        if (i === hoverIdx || i === selIdx) {
+          rCore = gCore = bCore = 1;
+          rGlow = gGlow = bGlow = 1;
+        }
+
+        state.coreColors[base] = rCore;
+        state.coreColors[base + 1] = gCore;
+        state.coreColors[base + 2] = bCore;
+
+        state.glowColors[base] = rGlow;
+        state.glowColors[base + 1] = gGlow;
+        state.glowColors[base + 2] = bGlow;
+      }
+
+      state.coreAttr.needsUpdate = true;
+      state.glowAttr.needsUpdate = true;
+    };
+
+    const handleHover = (event) => {
+      if (!state.pointsCore) return;
+      pointerToNdc(event);
+      raycaster.setFromCamera(pointer, camera);
+      const hit = raycaster.intersectObject(state.pointsCore, false)[0];
+      const idx = hit ? hit.index : null;
+      if (idx !== state.hoveredIndex) {
+        state.hoveredIndex = idx;
+        updateColorState();
+      }
+      renderer.domElement.style.cursor = idx != null ? 'pointer' : 'default';
+    };
+
+    const handleClick = (event) => {
+      if (!state.pointsCore) return;
+      pointerToNdc(event);
+      raycaster.setFromCamera(pointer, camera);
+      const hit = raycaster.intersectObject(state.pointsCore, false)[0];
+      if (hit) {
+        const idx = hit.index;
+        state.selectedIndex = idx;
+        const field = state.dataset.fields[idx];
+        state.activeField = field;
+        updateLegendActive();
+        showInfo(idx);
+        updateColorState();
+      } else {
+        state.selectedIndex = null;
+        state.hoveredIndex = null;
+        state.activeField = null;
+        hideInfo();
+        updateLegendActive();
+        updateColorState();
+      }
+    };
+
+    const runSearch = (queryRaw) => {
+      const query = (queryRaw || '').trim().toLowerCase();
+      state.searchQuery = query;
+      if (!query || !state.dataset) {
+        state.matchedIndices = null;
+        updateColorState();
+        return;
+      }
+      const matches = new Set();
+      const { titles, authors, fields, subfields } = state.dataset;
+      for (let i = 0; i < titles.length; i += 1) {
+        const title = (titles[i] || '').toLowerCase();
+        const author = (authors[i] || '').toLowerCase();
+        const field = (fields[i] || '').toLowerCase();
+        const subfield = (subfields[i] || '').toLowerCase();
+        if (
+          title.includes(query) ||
+          author.includes(query) ||
+          field.includes(query) ||
+          subfield.includes(query)
+        ) {
+          matches.add(i);
+        }
+      }
+      state.matchedIndices = matches;
+      updateColorState();
+    };
+
+    const isControlArea = (el) =>
+      !!(el && typeof el.closest === 'function' && (el.closest('.legend-container') || el.closest('.control-strip')));
+
+    const resetCamera = () => {
+      const { bounds } = state.dataset || { bounds: { x: 1, y: 1, z: 1 } };
+      const maxRange = Math.max(bounds.x, bounds.y, bounds.z) || 1;
+      const dist = maxRange * 3.2;
+      camera.position.set(maxRange * 0.65, maxRange * 0.55, dist);
+      controls.target.set(0, 0, 0);
+      controls.update();
+      updateRaycastThreshold();
+    };
+
+    let pointerDown = false;
+    let pointerMoved = false;
+    let lastPointer = { x: 0, y: 0 };
+    let dragDistance = 0;
+
+    renderer.domElement.addEventListener('pointerdown', (e) => {
+      if (isControlArea(e.target)) return;
+      pointerDown = true;
+      pointerMoved = false;
+      dragDistance = 0;
+      lastPointer = { x: e.clientX, y: e.clientY };
+      controls.autoRotate = false;
+    });
+
+    let hoverRaf = null;
+    let hoverEvent = null;
+    let lastHoverTs = 0;
+    const HOVER_INTERVAL = 50;
+
+    const pumpHover = (timestamp) => {
+      hoverRaf = null;
+      if (!hoverEvent || (timestamp - lastHoverTs) < HOVER_INTERVAL) {
+        hoverRaf = requestAnimationFrame(pumpHover);
+        return;
+      }
+      lastHoverTs = timestamp;
+      handleHover(hoverEvent);
+      hoverEvent = null;
+    };
+
+    renderer.domElement.addEventListener('pointermove', (e) => {
+      if (!state.pointsCore) return;
+      if (pointerDown) {
+        const dx = e.clientX - lastPointer.x;
+        const dy = e.clientY - lastPointer.y;
+        dragDistance += Math.abs(dx) + Math.abs(dy);
+        lastPointer = { x: e.clientX, y: e.clientY };
+        if (dragDistance > 6) pointerMoved = true;
+        return;
+      }
+      hoverEvent = e;
+      if (!hoverRaf) hoverRaf = requestAnimationFrame(pumpHover);
+    });
+
+    renderer.domElement.addEventListener('pointerup', (e) => {
+      if (isControlArea(e.target)) return;
+      if (!pointerDown) return;
+      pointerDown = false;
+      if (!pointerMoved) {
+        handleClick(e);
+      }
+      if (rotateEnabled) {
+        controls.autoRotate = true;
+        controls.update();
+      }
+    });
+
+    renderer.domElement.addEventListener('mouseleave', () => {
+      hoverEvent = null;
+      if (hoverRaf) {
+        cancelAnimationFrame(hoverRaf);
+        hoverRaf = null;
+      }
+      if (state.hoveredIndex !== null) {
+        state.hoveredIndex = null;
+        updateColorState();
+        renderer.domElement.style.cursor = 'default';
+      }
+    });
+
+    window.addEventListener('resize', () => {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+
+    let rotateEnabled = true;
+    const updateRotateButton = () => {
+      if (!rotateButton) return;
+      rotateButton.textContent = rotateEnabled ? 'Stop' : 'Rotate';
+      rotateButton.classList.toggle('is-active', rotateEnabled);
+    };
+    updateRotateButton();
+
+    if (resetButton) {
+      resetButton.addEventListener('click', () => {
+        resetCamera();
+        if (rotateEnabled) controls.autoRotate = true;
+      });
+    }
+
+    if (rotateButton) {
+      rotateButton.addEventListener('click', () => {
+        rotateEnabled = !rotateEnabled;
+        controls.autoRotate = rotateEnabled;
+        updateRotateButton();
+      });
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => runSearch(e.target.value));
+    }
+
+    const animate = () => {
+      requestAnimationFrame(animate);
+      controls.update();
+      renderer.render(scene, camera);
+    };
+
+    buildGroupButtons((key) => loadGroup(key));
+    setActiveGroupButton(state.currentGroup);
+
+    fetch('points_list.json')
+      .then(response => response.json())
+      .then(raw => {
+        state.rawData = raw;
+        const allFields = collectAllFields(raw);
+        const colorMap = buildColorMap(allFields);
+        state.colorMap = colorMap;
+        window.__galaxyData = { uniqueFields: allFields, colorMap };
+
+        const glowTexture = makeCircleTexture(true);
+        const coreTexture = makeCircleTexture(false);
+
+        state.materials = {
+          glow: new THREE.PointsMaterial({
+            size: GLOW_SIZE,
+            vertexColors: true,
+            transparent: true,
+            opacity: 0.3,
+            blending: THREE.AdditiveBlending,
+            depthWrite: false,
+            depthTest: false,
+            sizeAttenuation: true,
+            map: glowTexture,
+            alphaTest: 0.0
+          }),
+          core: new THREE.PointsMaterial({
+            size: CORE_SIZE,
+            vertexColors: true,
+            transparent: true,
+            opacity: 0.95,
+            depthWrite: true,
+            sizeAttenuation: true,
+            map: coreTexture,
+            alphaTest: 0.5
+          })
+        };
+
+        loadGroup(state.currentGroup);
+        animate();
+      })
+      .catch(error => console.error('Error loading JSON:', error));
+  </script>
+</body>
+</html>

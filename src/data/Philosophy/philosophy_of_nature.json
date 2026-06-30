@@ -1,0 +1,25 @@
+{
+  "ranking": [
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.02564102564102564
+    }
+  ],
+  "authorsByUniversity": {
+    "VNU University of Science": [
+      {
+        "author": "Duy Hung Nguyen",
+        "contribution": 0.02564102564102564,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "VNU University of Science": {
+      "Philosophy of nature": 0.02564102564102564,
+      "Sustainability Science": 0.02564102564102564,
+      "Environmental Policy and Planning": 0.02564102564102564
+    }
+  },
+  "totalPapers": 31334
+}

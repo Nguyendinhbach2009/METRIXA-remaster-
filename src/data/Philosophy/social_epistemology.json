@@ -1,0 +1,42 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.16666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Võ Thanh Dũ",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Quan-Hoang Vuong",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh City Open University": {
+      "Sociology of knowledge": 0.25,
+      "Social epistemology": 0.25,
+      "Cultural sociology": 0.25,
+      "Policy analysis and Policy studies": 0.25
+    },
+    "Phenikaa University": {
+      "Philosophy of science": 0.16666666666666666,
+      "Sociology of knowledge": 0.16666666666666666,
+      "Social epistemology": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

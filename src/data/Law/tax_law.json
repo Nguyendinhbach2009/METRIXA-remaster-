@@ -1,0 +1,310 @@
+{
+  "ranking": [
+    {
+      "university": "Univeristy of Law, Hue University",
+      "totalContribution": 0.9166666666666665
+    },
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Hanoi University of Civil Engineering",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "University of Economic and Business Administration - Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Transport Technology",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "The Banking University of Ho Chi Minh City",
+      "totalContribution": 0.15000000000000002
+    },
+    {
+      "university": "Vietnam National University of Forestry",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Ho Chi Minh City University of Transport",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "Hue University": [
+      {
+        "author": "Le Thi Thao",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "University of Economic and Business Administration - Thai Nguyen University": [
+      {
+        "author": "Nguyễn Phương Thảo",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Thị Lan Anh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Đỗ Thị Thu Hằng",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Thị Nga",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "University of Transport Technology": [
+      {
+        "author": "LE, Hoang Thi Hong",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "TUYET, Vuong Thi Bach",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "HANH, Chu Thi Bich",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "DO, Quang Hung",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "The Banking University of Ho Chi Minh City": [
+      {
+        "author": "Loan Thi Nguyen",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hac Dinh Le",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Anh Hoang Le",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Nguyen Van Dinh",
+        "contribution": 0.05,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Hong Loan",
+        "contribution": 0.05,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City University of Transport": [
+      {
+        "author": "Le Xuan Hung",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Duc Viet",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Nguyen Manh Dung",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Univeristy of Law, Hue University": [
+      {
+        "author": "Ha Nguyen Son",
+        "contribution": 0.3055555555555555,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "Thuong Mai Thi",
+        "contribution": 0.3055555555555555,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "Le Thi Thao",
+        "contribution": 0.15277777777777776,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Nguyen Thi Trien",
+        "contribution": 0.15277777777777776,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Hanoi Law University": [
+      {
+        "author": "Kien Trung Doan",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Forestry": [
+      {
+        "author": "Nguyen Thi Mai HUONG",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Civil Engineering": [
+      {
+        "author": "Luan Nguyen Trung",
+        "contribution": 0.11666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Hai Uyen Doan",
+        "contribution": 0.11666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Hai Doan Duong",
+        "contribution": 0.11666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Duc Nguyen Minh",
+        "contribution": 0.11666666666666668,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Duyen Dang Thi Hong",
+        "contribution": 0.11666666666666668,
+        "percent": 0.20000000000000004
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Nguyen Thi My Loc",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hue University": {
+      "Tax law": 0.2,
+      "International law": 0.2,
+      "Law and Economics": 0.2,
+      "Public Economics": 0.2,
+      "Policy analysis and Policy studies": 0.2
+    },
+    "University of Economic and Business Administration - Thai Nguyen University": {
+      "Public Administration": 0.3333333333333333,
+      "Tax law": 0.3333333333333333,
+      "Econometrics": 0.3333333333333333
+    },
+    "University of Transport Technology": {
+      "Accounting": 0.3333333333333333,
+      "Tax law": 0.3333333333333333,
+      "Public Economics": 0.3333333333333333
+    },
+    "The Banking University of Ho Chi Minh City": {
+      "Accounting": 0.15000000000000002,
+      "Econometrics": 0.15000000000000002,
+      "Finance": 0.15000000000000002,
+      "Tax law": 0.15000000000000002
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Entrepreneurship": 0.1,
+      "Tax law": 0.1,
+      "Corporate Governance": 0.1,
+      "Business Ethics and Social Responsibility": 0.1
+    },
+    "Ho Chi Minh City University of Transport": {
+      "Entrepreneurship": 0.05,
+      "Tax law": 0.05,
+      "Corporate Governance": 0.05,
+      "Business Ethics and Social Responsibility": 0.05
+    },
+    "Hanoi University of Science and Technology": {
+      "Entrepreneurship": 0.05,
+      "Tax law": 0.05,
+      "Corporate Governance": 0.05,
+      "Business Ethics and Social Responsibility": 0.05
+    },
+    "HCMC University of Technology and Education": {
+      "Entrepreneurship": 0.05,
+      "Tax law": 0.05,
+      "Corporate Governance": 0.05,
+      "Business Ethics and Social Responsibility": 0.05
+    },
+    "Univeristy of Law, Hue University": {
+      "International law": 0.5833333333333333,
+      "Tax law": 0.9166666666666665,
+      "Corporate Governance": 0.5833333333333333,
+      "Law and Economics": 0.5833333333333333,
+      "Public Economics": 0.3333333333333333
+    },
+    "Hanoi Law University": {
+      "Tax law": 0.6666666666666666,
+      "International law": 0.6666666666666666,
+      "Comparative law": 0.6666666666666666
+    },
+    "Vietnam National University of Forestry": {
+      "Econometrics": 0.125,
+      "Behavioral Economics": 0.125,
+      "Public Economics": 0.125,
+      "Tax law": 0.125
+    },
+    "Hanoi University of Civil Engineering": {
+      "Tax law": 0.5833333333333333,
+      "Property law": 0.25,
+      "Public Economics": 0.5833333333333333,
+      "Law and Economics": 0.5833333333333333
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Civil law": 0.2,
+      "Contract law": 0.2,
+      "Corporate and commercial law": 0.2,
+      "International law": 0.2,
+      "Tax law": 0.2
+    }
+  },
+  "totalPapers": 31334
+}

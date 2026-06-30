@@ -1,0 +1,1049 @@
+{
+  "ranking": [
+    {
+      "university": "Vietnam National University, Ho Chi Minh City",
+      "totalContribution": 0.7895833333333335
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.7
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.5654761904761905
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.4791666666666667
+    },
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 0.4583333333333333
+    },
+    {
+      "university": "Hanoi University of Natural Resource and Environment",
+      "totalContribution": 0.45
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.4276190476190477
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.37499999999999994
+    },
+    {
+      "university": "VNUHCM - University of Science",
+      "totalContribution": 0.3571428571428571
+    },
+    {
+      "university": "Saigon Technology University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Pasteur Institute in Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi Pedagogical University 2",
+      "totalContribution": 0.2857142857142857
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.17410714285714285
+    },
+    {
+      "university": "National Institute of Veterinary Research",
+      "totalContribution": 0.15811965811965809
+    },
+    {
+      "university": "National Institute of Hygiene and Epidemiology",
+      "totalContribution": 0.10470085470085469
+    },
+    {
+      "university": "Viet Nam Institute of Industrial and Trade Policy and Strategy - VIOIT",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Vietnam Institute of Meteorology, Hydrology and Climate Change",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Danang Architecture University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Water Resources University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Danang University of Medical Technology and Pharmacy",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "The University of Da Nang",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 0.053418803418803416
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "SaoDo University",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "University of Labour and Social Affairs",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Vietnam National University of Forestry",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "Hanoi University of Civil Engineering",
+      "totalContribution": 0.02857142857142857
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.02857142857142857
+    },
+    {
+      "university": "Pham Ngoc Thach University of Medicine",
+      "totalContribution": 0.023809523809523808
+    },
+    {
+      "university": "Vietnamese Academy of Forest Sciences",
+      "totalContribution": 0.023809523809523808
+    }
+  ],
+  "authorsByUniversity": {
+    "FPT University": [
+      {
+        "author": "Tan Danh Nguyen",
+        "contribution": 0.2333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Tan Danh",
+        "contribution": 0.2333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Dinh Lo Dinh",
+        "contribution": 0.2333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Pham Ngoc Thach University of Medicine": [
+      {
+        "author": "Nguyen Truong Vien",
+        "contribution": 0.023809523809523808,
+        "percent": 1.0
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Ngoc Dang Tran",
+        "contribution": 0.039314516129032265,
+        "percent": 0.22580645161290328
+      },
+      {
+        "author": "Tran Ngoc Dang",
+        "contribution": 0.022465437788018437,
+        "percent": 0.12903225806451615
+      },
+      {
+        "author": "Nguyen Nhu Vinh",
+        "contribution": 0.022465437788018437,
+        "percent": 0.12903225806451615
+      },
+      {
+        "author": "Phan Hoang Thuy Dung",
+        "contribution": 0.022465437788018437,
+        "percent": 0.12903225806451615
+      },
+      {
+        "author": "Huynh Ngoc Thanh",
+        "contribution": 0.022465437788018437,
+        "percent": 0.12903225806451615
+      },
+      {
+        "author": "Truong Thi Thuy Dung",
+        "contribution": 0.022465437788018437,
+        "percent": 0.12903225806451615
+      },
+      {
+        "author": "Pham Le An",
+        "contribution": 0.022465437788018437,
+        "percent": 0.12903225806451615
+      }
+    ],
+    "VNUHCM - University of Science": [
+      {
+        "author": "Ngoc Nguyen Thi",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3111111111111111
+      },
+      {
+        "author": "Oanh Thi Kieu Hoang",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3111111111111111
+      },
+      {
+        "author": "Hien Thi To",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3111111111111111
+      },
+      {
+        "author": "To Thi Hien",
+        "contribution": 0.023809523809523808,
+        "percent": 0.06666666666666667
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Phuong Ha Tran",
+        "contribution": 0.12037533512064344,
+        "percent": 0.2815013404825737
+      },
+      {
+        "author": "Long Dac Hoang Nguyen",
+        "contribution": 0.08025022341376228,
+        "percent": 0.18766756032171578
+      },
+      {
+        "author": "Ylan Vo",
+        "contribution": 0.08025022341376228,
+        "percent": 0.18766756032171578
+      },
+      {
+        "author": "Thi Binh Minh Hoang",
+        "contribution": 0.08025022341376228,
+        "percent": 0.18766756032171578
+      },
+      {
+        "author": "Ngoc Thuy P. Nguyen",
+        "contribution": 0.034392952891612406,
+        "percent": 0.08042895442359248
+      },
+      {
+        "author": "Nguyen Thien Tao",
+        "contribution": 0.032100089365504916,
+        "percent": 0.07506702412868632
+      }
+    ],
+    "Viet Nam Institute of Industrial and Trade Policy and Strategy - VIOIT": [
+      {
+        "author": "Doan Thi Thu Ha",
+        "contribution": 0.05,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Thanh Hanh",
+        "contribution": 0.05,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam Institute of Meteorology, Hydrology and Climate Change": [
+      {
+        "author": "Nguyen Duc Huu",
+        "contribution": 0.05,
+        "percent": 0.5
+      },
+      {
+        "author": "Tran Van Tan",
+        "contribution": 0.05,
+        "percent": 0.5
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Anh Viet Vu",
+        "contribution": 0.10185185185185186,
+        "percent": 0.22222222222222224
+      },
+      {
+        "author": "Thi Ai Thuy Pham",
+        "contribution": 0.10185185185185186,
+        "percent": 0.22222222222222224
+      },
+      {
+        "author": "Tu Pham",
+        "contribution": 0.10185185185185186,
+        "percent": 0.22222222222222224
+      },
+      {
+        "author": "Tu Phuong Nguyen",
+        "contribution": 0.05092592592592593,
+        "percent": 0.11111111111111112
+      },
+      {
+        "author": "Hoai Anh Phan",
+        "contribution": 0.05092592592592593,
+        "percent": 0.11111111111111112
+      },
+      {
+        "author": "Hoang Lan Anh Nguyen",
+        "contribution": 0.05092592592592593,
+        "percent": 0.11111111111111112
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Nguyen Quang Giai",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Pham Thi Thuy Trang",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Dinh Quang Toan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Nguyen Thị Xuan Hanh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666666
+      }
+    ],
+    "Vietnam National University of Forestry": [
+      {
+        "author": "Hai-Hoa Nguyen",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Dimitris Stratoulias",
+        "contribution": 0.14999999999999997,
+        "percent": 0.39999999999999997
+      },
+      {
+        "author": "Le-Minh Ngo",
+        "contribution": 0.07499999999999998,
+        "percent": 0.19999999999999998
+      },
+      {
+        "author": "Hai-Binh Nguyen",
+        "contribution": 0.07499999999999998,
+        "percent": 0.19999999999999998
+      },
+      {
+        "author": "Kong-Wah Sing",
+        "contribution": 0.07499999999999998,
+        "percent": 0.19999999999999998
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Hai-Yen Hoang",
+        "contribution": 0.071875,
+        "percent": 0.15
+      },
+      {
+        "author": "Tham Thi Ngoc Han",
+        "contribution": 0.071875,
+        "percent": 0.15
+      },
+      {
+        "author": "Pham Khanh Hoa",
+        "contribution": 0.071875,
+        "percent": 0.15
+      },
+      {
+        "author": "Tran Thi Van",
+        "contribution": 0.071875,
+        "percent": 0.15
+      },
+      {
+        "author": "Trong Vinh Bui",
+        "contribution": 0.04791666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Huu Son Nguyen",
+        "contribution": 0.04791666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Nguyen Phuoc Mai Tran",
+        "contribution": 0.04791666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Trung Tin Huynh",
+        "contribution": 0.04791666666666666,
+        "percent": 0.09999999999999999
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Dang Thanh Le",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Trần Thu Trang",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Đăng Khoa",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Đỗ Minh Truyền",
+        "contribution": 0.0625,
+        "percent": 0.25
+      },
+      {
+        "author": "Vũ Thị Quyền",
+        "contribution": 0.0625,
+        "percent": 0.25
+      }
+    ],
+    "Hanoi University of Natural Resource and Environment": [
+      {
+        "author": "Thanh Tien Nguyen",
+        "contribution": 0.225,
+        "percent": 0.5
+      },
+      {
+        "author": "Vu Thi Thu Hien",
+        "contribution": 0.05625,
+        "percent": 0.125
+      },
+      {
+        "author": "Tran Thanh Son",
+        "contribution": 0.05625,
+        "percent": 0.125
+      },
+      {
+        "author": "Duong Thi Mai Chinh",
+        "contribution": 0.05625,
+        "percent": 0.125
+      },
+      {
+        "author": "Le Thi Hoa Hue",
+        "contribution": 0.05625,
+        "percent": 0.125
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Le Minh Quang",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "The University of Da Nang": [
+      {
+        "author": "Phuong Thi Minh Tran",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Danang Architecture University": [
+      {
+        "author": "Thuy Van T. Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Ho Chi Minh City": [
+      {
+        "author": "Ho Minh Dung",
+        "contribution": 0.1373188405797102,
+        "percent": 0.1739130434782609
+      },
+      {
+        "author": "Vu Hoang Ngoc Khue",
+        "contribution": 0.1373188405797102,
+        "percent": 0.1739130434782609
+      },
+      {
+        "author": "Bang Quoc Ho",
+        "contribution": 0.07356366459627331,
+        "percent": 0.09316770186335403
+      },
+      {
+        "author": "Quoc Bang Ho",
+        "contribution": 0.0686594202898551,
+        "percent": 0.08695652173913045
+      },
+      {
+        "author": "Khue Hoang Ngoc Vu",
+        "contribution": 0.03923395445134577,
+        "percent": 0.04968944099378882
+      },
+      {
+        "author": "Tam Thoai Nguyen",
+        "contribution": 0.03923395445134577,
+        "percent": 0.04968944099378882
+      },
+      {
+        "author": "Hang Thi Thuy Nguyen",
+        "contribution": 0.03923395445134577,
+        "percent": 0.04968944099378882
+      },
+      {
+        "author": "Dung Minh Ho",
+        "contribution": 0.03923395445134577,
+        "percent": 0.04968944099378882
+      },
+      {
+        "author": "Hien Nhu Nguyen",
+        "contribution": 0.03923395445134577,
+        "percent": 0.04968944099378882
+      },
+      {
+        "author": "Thuy Thi Thu Nguyen",
+        "contribution": 0.03923395445134577,
+        "percent": 0.04968944099378882
+      },
+      {
+        "author": "Hoang Ngoc Khue Vu",
+        "contribution": 0.03432971014492755,
+        "percent": 0.04347826086956522
+      },
+      {
+        "author": "Thi Thu Thuy Nguyen",
+        "contribution": 0.03432971014492755,
+        "percent": 0.04347826086956522
+      },
+      {
+        "author": "Thoai Tam Nguyen",
+        "contribution": 0.03432971014492755,
+        "percent": 0.04347826086956522
+      },
+      {
+        "author": "Thi Thuy Hang Nguyen",
+        "contribution": 0.03432971014492755,
+        "percent": 0.04347826086956522
+      }
+    ],
+    "Saigon Technology University": [
+      {
+        "author": "Do Lenh Hung Tu",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Nguyen Thanh Giao",
+        "contribution": 0.24305555555555555,
+        "percent": 0.41666666666666674
+      },
+      {
+        "author": "Le Thi Diem Mi",
+        "contribution": 0.24305555555555555,
+        "percent": 0.41666666666666674
+      },
+      {
+        "author": "Tran Thi Kim Hong",
+        "contribution": 0.09722222222222222,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "National Institute of Veterinary Research": [
+      {
+        "author": "Vuong Nghia Bui",
+        "contribution": 0.05610697546181416,
+        "percent": 0.3548387096774194
+      },
+      {
+        "author": "Anh Bui-Ngoc",
+        "contribution": 0.03315412186379928,
+        "percent": 0.20967741935483872
+      },
+      {
+        "author": "Anh Ngoc Bui",
+        "contribution": 0.022952853598014886,
+        "percent": 0.14516129032258066
+      },
+      {
+        "author": "Trung Duc Hoang",
+        "contribution": 0.022952853598014886,
+        "percent": 0.14516129032258066
+      },
+      {
+        "author": "Thanh Thi Vu",
+        "contribution": 0.022952853598014886,
+        "percent": 0.14516129032258066
+      }
+    ],
+    "Hanoi University of Public Health": [
+      {
+        "author": "Hung Nguyen-Viet",
+        "contribution": 0.05341880341880341,
+        "percent": 0.9999999999999999
+      }
+    ],
+    "National Institute of Hygiene and Epidemiology": [
+      {
+        "author": "Son Tran-Hai",
+        "contribution": 0.034027777777777775,
+        "percent": 0.325
+      },
+      {
+        "author": "Duoc Trong Vu",
+        "contribution": 0.023557692307692307,
+        "percent": 0.22500000000000003
+      },
+      {
+        "author": "Son Hai Tran",
+        "contribution": 0.023557692307692307,
+        "percent": 0.22500000000000003
+      },
+      {
+        "author": "Lieu Thi Vu",
+        "contribution": 0.023557692307692307,
+        "percent": 0.22500000000000003
+      }
+    ],
+    "Danang University of Medical Technology and Pharmacy": [
+      {
+        "author": "Huong Thanh Hoang",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Water Resources University": [
+      {
+        "author": "T. C. Van",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Quan-Hoang Vuong",
+        "contribution": 0.17549261083743842,
+        "percent": 0.3103448275862069
+      },
+      {
+        "author": "Minh-Hoang Nguyen",
+        "contribution": 0.17549261083743842,
+        "percent": 0.3103448275862069
+      },
+      {
+        "author": "Manh-Tung Ho",
+        "contribution": 0.13649425287356323,
+        "percent": 0.24137931034482762
+      },
+      {
+        "author": "Viet-Phuong La",
+        "contribution": 0.038998357963875206,
+        "percent": 0.06896551724137931
+      },
+      {
+        "author": "Tam-Tri Le",
+        "contribution": 0.038998357963875206,
+        "percent": 0.06896551724137931
+      }
+    ],
+    "Hanoi Pedagogical University 2": [
+      {
+        "author": "Thi Phuong Thao Nguyen",
+        "contribution": 0.04761904761904762,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Ngoc Lam Tran",
+        "contribution": 0.04761904761904762,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Van Hoa Nguyen",
+        "contribution": 0.04761904761904762,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Duc Dien Nguyen",
+        "contribution": 0.04761904761904762,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Thi Thu Ha Truong",
+        "contribution": 0.04761904761904762,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Manh Hung Tran",
+        "contribution": 0.04761904761904762,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Hanoi University": [
+      {
+        "author": "Minh-Hieu Thi Nguyen",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "SaoDo University": [
+      {
+        "author": "Thi Nhan Nguyen",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Labour and Social Affairs": [
+      {
+        "author": "Doan Thi Mai Huong",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnamese Academy of Forest Sciences": [
+      {
+        "author": "Tran van Con",
+        "contribution": 0.023809523809523808,
+        "percent": 1.0
+      }
+    ],
+    "Pasteur Institute in Ho Chi Minh City": [
+      {
+        "author": "Trang Thi Thuy Huynh",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Civil Engineering": [
+      {
+        "author": "Viet-Anh Nguyen",
+        "contribution": 0.02857142857142857,
+        "percent": 1.0
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Andrew W. Taylor-Robinson",
+        "contribution": 0.02857142857142857,
+        "percent": 1.0
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Duy Thinh Do",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Kieu-Vinh Nguyen-Thi",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Thuy-Huong Doan-Thi",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "FPT University": {
+      "Water Resources Engineering": 0.25,
+      "Environmental Engineering": 0.25,
+      "Environmental Policy and Planning": 0.5,
+      "Urban Environmental Studies": 0.7,
+      "Atmospheric Science": 0.45,
+      "Environmental Health": 0.25,
+      "Transportation geography": 0.2,
+      "Urban geography": 0.2,
+      "Environmental sociology": 0.2
+    },
+    "Pham Ngoc Thach University of Medicine": {
+      "Environmental Health": 0.023809523809523808,
+      "Environmental Psychology": 0.023809523809523808,
+      "Urban Environmental Studies": 0.023809523809523808
+    },
+    "University of Medicine and Pharmacy at Ho Chi Minh City": {
+      "Environmental Health": 0.17410714285714285,
+      "Environmental Psychology": 0.14285714285714285,
+      "Urban Environmental Studies": 0.17410714285714285,
+      "Atmospheric Science": 0.03125,
+      "Environmental Toxicology": 0.03125
+    },
+    "VNUHCM - University of Science": {
+      "Environmental Health": 0.023809523809523808,
+      "Environmental Psychology": 0.023809523809523808,
+      "Urban Environmental Studies": 0.3571428571428571,
+      "Environmental Economics": 0.3333333333333333,
+      "Environmental Policy and Planning": 0.3333333333333333
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Ecology": 0.03,
+      "Environmental Psychology": 0.03,
+      "Conservation Biology": 0.03,
+      "Urban Environmental Studies": 0.4276190476190477,
+      "Climate Science": 0.35000000000000003,
+      "Urban geography": 0.225,
+      "Sustainability Science": 0.22499999999999998,
+      "Environmental Engineering": 0.22499999999999998,
+      "Atmospheric Science": 0.17261904761904762,
+      "Environmental Policy and Planning": 0.047619047619047616,
+      "Human geography": 0.013333333333333334
+    },
+    "Viet Nam Institute of Industrial and Trade Policy and Strategy - VIOIT": {
+      "Climate Science": 0.1,
+      "Environmental Policy and Planning": 0.1,
+      "Sustainability Science": 0.1,
+      "Urban Environmental Studies": 0.1
+    },
+    "Vietnam Institute of Meteorology, Hydrology and Climate Change": {
+      "Climate Science": 0.1,
+      "Environmental Policy and Planning": 0.1,
+      "Sustainability Science": 0.1,
+      "Urban Environmental Studies": 0.1
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Urban geography": 0.4583333333333333,
+      "Urban Environmental Studies": 0.4583333333333333,
+      "Atmospheric Science": 0.125,
+      "Climate Science": 0.125,
+      "Architecture": 0.3333333333333333
+    },
+    "Thu Dau Mot University": {
+      "Environmental Economics": 0.25,
+      "Waste Management": 0.25,
+      "Econometrics": 0.25,
+      "Urban Environmental Studies": 0.5,
+      "Architecture": 0.25,
+      "Sustainability Science": 0.25,
+      "Environmental Policy and Planning": 0.25
+    },
+    "Vietnam National University of Forestry": {
+      "Soil Science": 0.030303030303030304,
+      "Ecology": 0.030303030303030304,
+      "Urban Environmental Studies": 0.030303030303030304
+    },
+    "Ton Duc Thang University": {
+      "Climate Science": 0.125,
+      "Environmental Engineering": 0.125,
+      "Urban Environmental Studies": 0.37499999999999994,
+      "Sustainability Science": 0.125,
+      "Atmospheric Science": 0.16666666666666666,
+      "Environmental Chemistry": 0.16666666666666666,
+      "Ecology": 0.08333333333333333,
+      "Conservation Biology": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Climate Science": 0.0625,
+      "Environmental Engineering": 0.0625,
+      "Urban Environmental Studies": 0.4791666666666667,
+      "Sustainability Science": 0.22916666666666663,
+      "Urban geography": 0.25,
+      "Environmental Policy and Planning": 0.41666666666666674,
+      "Transport Engineering": 0.16666666666666666
+    },
+    "National Academy of Public Administration": {
+      "Waste Management": 0.08333333333333333,
+      "Environmental Policy and Planning": 0.08333333333333333,
+      "Environmental Sociology": 0.08333333333333333,
+      "Urban Environmental Studies": 0.08333333333333333
+    },
+    "Van Lang University": {
+      "Ecology": 0.25,
+      "Urban Environmental Studies": 0.25,
+      "Atmospheric Science": 0.25,
+      "Sustainability Science": 0.25
+    },
+    "Hanoi University of Natural Resource and Environment": {
+      "Urban geography": 0.2,
+      "Climate Science": 0.45,
+      "Urban Environmental Studies": 0.45,
+      "Physical geography": 0.2,
+      "Environmental geography": 0.2,
+      "Climatology": 0.25,
+      "Environmental Geology": 0.25
+    },
+    "Ho Chi Minh City Open University": {
+      "Atmospheric Science": 0.25,
+      "Environmental Health": 0.25,
+      "Urban Environmental Studies": 0.25,
+      "Environmental Policy and Planning": 0.25
+    },
+    "The University of Da Nang": {
+      "Atmospheric Science": 0.05555555555555555,
+      "Environmental Health": 0.05555555555555555,
+      "Urban Environmental Studies": 0.05555555555555555
+    },
+    "Danang Architecture University": {
+      "Urban geography": 0.08333333333333333,
+      "Sustainability Science": 0.08333333333333333,
+      "Urban Environmental Studies": 0.08333333333333333,
+      "Environmental Policy and Planning": 0.08333333333333333
+    },
+    "Vietnam National University, Ho Chi Minh City": {
+      "Atmospheric Science": 0.7895833333333335,
+      "Climatology": 0.25,
+      "Environmental Engineering": 0.3,
+      "Urban Environmental Studies": 0.7895833333333335,
+      "Environmental Health": 0.15625,
+      "Environmental Toxicology": 0.15625,
+      "Environmental Policy and Planning": 0.3833333333333333,
+      "Environmental Chemistry": 0.05
+    },
+    "Saigon Technology University": {
+      "Applied arts": 0.3333333333333333,
+      "Architecture": 0.3333333333333333,
+      "Urban Environmental Studies": 0.3333333333333333
+    },
+    "Can Tho University": {
+      "Atmospheric Science": 0.3333333333333333,
+      "Environmental Chemistry": 0.5833333333333333,
+      "Urban Environmental Studies": 0.5833333333333333,
+      "Hydrology": 0.25,
+      "Environmental Engineering": 0.25
+    },
+    "National Institute of Veterinary Research": {
+      "Environmental Health": 0.15811965811965809,
+      "Urban Environmental Studies": 0.15811965811965809,
+      "Urban geography": 0.05555555555555555,
+      "Microbiology and Infectious Diseases": 0.05555555555555555,
+      "Sociology of health and illness": 0.10256410256410256
+    },
+    "Hanoi University of Public Health": {
+      "Environmental Health": 0.053418803418803416,
+      "Urban Environmental Studies": 0.053418803418803416,
+      "Urban geography": 0.027777777777777776,
+      "Microbiology and Infectious Diseases": 0.027777777777777776,
+      "Sociology of health and illness": 0.02564102564102564
+    },
+    "National Institute of Hygiene and Epidemiology": {
+      "Environmental Health": 0.10470085470085469,
+      "Urban Environmental Studies": 0.10470085470085469,
+      "Urban geography": 0.027777777777777776,
+      "Microbiology and Infectious Diseases": 0.027777777777777776,
+      "Sociology of health and illness": 0.07692307692307693
+    },
+    "Danang University of Medical Technology and Pharmacy": {
+      "Environmental Engineering": 0.06666666666666667,
+      "Sustainability Science": 0.06666666666666667,
+      "Mechanical Engineering": 0.06666666666666667,
+      "Urban Environmental Studies": 0.06666666666666667,
+      "Systems Engineering": 0.06666666666666667
+    },
+    "Water Resources University": {
+      "Environmental Policy and Planning": 0.08333333333333333,
+      "Climate Science": 0.03571428571428571,
+      "Sustainability Science": 0.08333333333333333,
+      "Urban Environmental Studies": 0.08333333333333333
+    },
+    "Phenikaa University": {
+      "Environmental Economics": 0.375,
+      "Environmental Policy and Planning": 0.375,
+      "Sustainability Science": 0.375,
+      "Urban Environmental Studies": 0.5654761904761905,
+      "Environmental Psychology": 0.19047619047619047,
+      "Environmental Sociology": 0.19047619047619047
+    },
+    "Hanoi Pedagogical University 2": {
+      "Atmospheric Science": 0.2857142857142857,
+      "Urban Environmental Studies": 0.2857142857142857,
+      "Environmental Policy and Planning": 0.2857142857142857
+    },
+    "Hanoi University": {
+      "Environmental Psychology": 0.047619047619047616,
+      "Environmental Sociology": 0.047619047619047616,
+      "Urban Environmental Studies": 0.047619047619047616
+    },
+    "SaoDo University": {
+      "Environmental Policy and Planning": 0.03333333333333333,
+      "Environmental Engineering": 0.03333333333333333,
+      "Urban geography": 0.03333333333333333,
+      "Urban Environmental Studies": 0.03333333333333333,
+      "Sustainability Science": 0.03333333333333333
+    },
+    "University of Labour and Social Affairs": {
+      "Environmental Policy and Planning": 0.03333333333333333,
+      "Environmental Engineering": 0.03333333333333333,
+      "Urban geography": 0.03333333333333333,
+      "Urban Environmental Studies": 0.03333333333333333,
+      "Sustainability Science": 0.03333333333333333
+    },
+    "Vietnamese Academy of Forest Sciences": {
+      "Climate Science": 0.023809523809523808,
+      "Ecology": 0.023809523809523808,
+      "Urban Environmental Studies": 0.023809523809523808
+    },
+    "Pasteur Institute in Ho Chi Minh City": {
+      "Ecology": 0.3333333333333333,
+      "Environmental Health": 0.3333333333333333,
+      "Urban Environmental Studies": 0.3333333333333333
+    },
+    "Hanoi University of Civil Engineering": {
+      "Environmental Engineering": 0.02857142857142857,
+      "Waste Management": 0.02857142857142857,
+      "Urban Environmental Studies": 0.02857142857142857,
+      "Environmental Policy and Planning": 0.02857142857142857,
+      "Sustainability Science": 0.02857142857142857
+    },
+    "Vin, University": {
+      "Environmental Health": 0.02857142857142857,
+      "Climate Science": 0.02857142857142857,
+      "Hydrology": 0.02857142857142857,
+      "Urban Environmental Studies": 0.02857142857142857,
+      "Ecology": 0.02857142857142857
+    },
+    "HCMC University of Technology and Education": {
+      "Sustainability Science": 0.2,
+      "Environmental Policy and Planning": 0.2,
+      "Urban Environmental Studies": 0.2,
+      "Urban geography": 0.2,
+      "Hydrology": 0.2
+    },
+    "Vinh University": {
+      "Urban Environmental Studies": 0.25,
+      "Environmental Policy and Planning": 0.25,
+      "Sustainability Science": 0.25,
+      "Urban geography": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

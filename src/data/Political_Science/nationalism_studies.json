@@ -1,0 +1,287 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 1.111111111111111
+    },
+    {
+      "university": "Ho Chi Minh City University of Culture",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh Cadre Academy",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Finance – Marketing",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Kien Giang University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "The Banking University of Ho Chi Minh City",
+      "totalContribution": 0.19444444444444442
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.19444444444444442
+    },
+    {
+      "university": "Khanh Hoa University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Van Hien University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Dong A University",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Tuyen Nguyen Thi Mong",
+        "contribution": 0.606060606060606,
+        "percent": 0.5454545454545454
+      },
+      {
+        "author": "Nguyen Thi Hai Yen",
+        "contribution": 0.303030303030303,
+        "percent": 0.2727272727272727
+      },
+      {
+        "author": "Duc Hong Vo",
+        "contribution": 0.202020202020202,
+        "percent": 0.18181818181818182
+      }
+    ],
+    "Van Hien University": [
+      {
+        "author": "Trinh Van Vinh",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Le Hoang Kiet",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Duong Quang Hiep",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Dong A University": [
+      {
+        "author": "Tran Xuan Hiep",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Steve Garner",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh Cadre Academy": [
+      {
+        "author": "Dinh Van Chi",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Finance – Marketing": [
+      {
+        "author": "Le Thi My Hanh",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Kien Giang University": [
+      {
+        "author": "Vu Kim Diem",
+        "contribution": 0.1,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Hoang Thien",
+        "contribution": 0.1,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Văn Khánh Nguyễn",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Culture": [
+      {
+        "author": "Thi Thu Thuy Nguyen",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Thanh Huong Do",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ],
+    "The Banking University of Ho Chi Minh City": [
+      {
+        "author": "Son Van Huynh",
+        "contribution": 0.19444444444444442,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Thang Cong Nguyen",
+        "contribution": 0.19444444444444442,
+        "percent": 1.0
+      }
+    ],
+    "Khanh Hoa University": [
+      {
+        "author": "Vo Van Dung",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Dinh Thanh Tung",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Phung Thi An Na",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh City Open University": {
+      "Political theory and philosophy": 0.6666666666666666,
+      "Political history": 0.6666666666666666,
+      "Nationalism studies": 1.111111111111111,
+      "International relations": 0.4444444444444444,
+      "Strategic studies": 0.20833333333333331,
+      "Political economy": 0.25,
+      "Diplomatic history": 0.3194444444444444
+    },
+    "Van Hien University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "Can Tho University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "University of Sciences, Hue University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "Dong A University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "Duy Tan University": {
+      "Political sociology": 0.3333333333333333,
+      "Nationalism studies": 0.3333333333333333,
+      "Postcolonialism": 0.3333333333333333
+    },
+    "Ho Chi Minh Cadre Academy": {
+      "Public Administration": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333,
+      "Nationalism studies": 0.3333333333333333
+    },
+    "University of Finance – Marketing": {
+      "International relations": 0.25,
+      "Strategic studies": 0.125,
+      "Political economy": 0.25,
+      "Nationalism studies": 0.25,
+      "Diplomatic history": 0.125
+    },
+    "Kien Giang University": {
+      "Development studies": 0.2,
+      "Nationalism studies": 0.2,
+      "Political sociology": 0.2,
+      "Historical sociology": 0.2,
+      "Cultural sociology": 0.2
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Political history": 0.3333333333333333,
+      "Nationalism studies": 0.3333333333333333,
+      "Historiography": 0.3333333333333333
+    },
+    "Ho Chi Minh City University of Culture": {
+      "Cultural sociology": 0.5,
+      "Nationalism studies": 0.5
+    },
+    "The Banking University of Ho Chi Minh City": {
+      "International relations": 0.19444444444444442,
+      "Nationalism studies": 0.19444444444444442,
+      "Diplomatic history": 0.19444444444444442,
+      "Strategic studies": 0.08333333333333333
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "International relations": 0.19444444444444442,
+      "Nationalism studies": 0.19444444444444442,
+      "Diplomatic history": 0.19444444444444442,
+      "Strategic studies": 0.08333333333333333
+    },
+    "Khanh Hoa University": {
+      "Nationalism studies": 0.1111111111111111,
+      "Political theory and philosophy": 0.1111111111111111,
+      "Political history": 0.1111111111111111
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Nationalism studies": 0.2222222222222222,
+      "Political theory and philosophy": 0.2222222222222222,
+      "Political history": 0.2222222222222222
+    }
+  },
+  "totalPapers": 31334
+}

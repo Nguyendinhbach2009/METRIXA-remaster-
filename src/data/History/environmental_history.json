@@ -1,0 +1,100 @@
+{
+  "ranking": [
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Fulbright University Vietnam",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "VNUHCM - An Giang University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Vietnam Institute of Geosciences and Mineral Resources",
+      "totalContribution": 0.01818181818181818
+    }
+  ],
+  "authorsByUniversity": {
+    "Duy Tan University": [
+      {
+        "author": "Amir Mosavi",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Thanh Son Le",
+        "contribution": 0.6666666666666666,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Pham Anh Dung",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Fulbright University Vietnam": [
+      {
+        "author": "Thong Anh Tran",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - An Giang University": [
+      {
+        "author": "Phong Thanh Le",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Institute of Geosciences and Mineral Resources": [
+      {
+        "author": "Tran Tan Van",
+        "contribution": 0.01818181818181818,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Duy Tan University": {
+      "Urban history": 0.05,
+      "Urban geography": 0.05,
+      "Climatology": 0.05,
+      "Environmental history": 0.05
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Architecture": 1.0,
+      "Sustainability Science": 0.6666666666666666,
+      "Environmental history": 1.0,
+      "Environmental geography": 0.3333333333333333
+    },
+    "Fulbright University Vietnam": {
+      "Cultural geography": 0.041666666666666664,
+      "Human geography": 0.041666666666666664,
+      "Environmental sociology": 0.041666666666666664,
+      "Environmental history": 0.041666666666666664
+    },
+    "VNUHCM - An Giang University": {
+      "Cultural geography": 0.041666666666666664,
+      "Human geography": 0.041666666666666664,
+      "Environmental sociology": 0.041666666666666664,
+      "Environmental history": 0.041666666666666664
+    },
+    "Vietnam Institute of Geosciences and Mineral Resources": {
+      "Archaeology": 0.01818181818181818,
+      "Environmental history": 0.01818181818181818,
+      "Climate Science": 0.01818181818181818,
+      "Environmental Policy and Planning": 0.01818181818181818,
+      "Geomorphology": 0.01818181818181818
+    }
+  },
+  "totalPapers": 31334
+}

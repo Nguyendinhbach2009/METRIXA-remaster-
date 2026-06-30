@@ -1,0 +1,51 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.41666666666666663
+    },
+    {
+      "university": "VNU University of Medicine and Pharmacy",
+      "totalContribution": 0.41666666666666663
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Medical University": [
+      {
+        "author": "Van Thang Nguyen",
+        "contribution": 0.20833333333333331,
+        "percent": 0.5
+      },
+      {
+        "author": "Hong Duc Pham",
+        "contribution": 0.20833333333333331,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Medicine and Pharmacy": [
+      {
+        "author": "Thanh Dung Le",
+        "contribution": 0.20833333333333331,
+        "percent": 0.5
+      },
+      {
+        "author": "Quang Loc Tran",
+        "contribution": 0.20833333333333331,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Medical University": {
+      "Interventional Radiology": 0.41666666666666663,
+      "Trauma Surgery": 0.41666666666666663,
+      "Emergency Medicine": 0.16666666666666666
+    },
+    "VNU University of Medicine and Pharmacy": {
+      "Interventional Radiology": 0.41666666666666663,
+      "Trauma Surgery": 0.41666666666666663,
+      "Emergency Medicine": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

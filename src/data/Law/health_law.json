@@ -1,0 +1,370 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 1.136616161616161
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.5860139860139859
+    },
+    {
+      "university": "Hanoi University of Pharmacy",
+      "totalContribution": 0.1984126984126984
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.12121212121212122
+    },
+    {
+      "university": "Vin, University",
+      "totalContribution": 0.10833333333333334
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Institute of Mathematics",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.06428571428571428
+    },
+    {
+      "university": "Pham Ngoc Thach University of Medicine",
+      "totalContribution": 0.047619047619047616
+    }
+  ],
+  "authorsByUniversity": {
+    "Ton Duc Thang University": [
+      {
+        "author": "Hai Thanh Luong",
+        "contribution": 0.06428571428571428,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Public Health": [
+      {
+        "author": "Thi Minh Le",
+        "contribution": 0.10204613727824062,
+        "percent": 0.08978064954939638
+      },
+      {
+        "author": "Quyen Tu Bui",
+        "contribution": 0.10204613727824062,
+        "percent": 0.08978064954939638
+      },
+      {
+        "author": "Hoang Van Minh",
+        "contribution": 0.0708653731098893,
+        "percent": 0.06234767329819191
+      },
+      {
+        "author": "Kim Bao Giang",
+        "contribution": 0.0708653731098893,
+        "percent": 0.06234767329819191
+      },
+      {
+        "author": "Hien T Ho",
+        "contribution": 0.046384607853745735,
+        "percent": 0.04080938615881653
+      },
+      {
+        "author": "Van Anh Pham",
+        "contribution": 0.046384607853745735,
+        "percent": 0.04080938615881653
+      },
+      {
+        "author": "Tran Thu Ngan",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Vu Quynh Mai",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Nguyen Thi Tuyet My",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Le Hong Chung",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Vu Duy Kien",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Tran Tuan Anh",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Nguyen Bao Ngoc",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Vu Van Giap",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Nguyen Manh Cuong",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Pham Duc Manh",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Sarah Bales",
+        "contribution": 0.042519223865933584,
+        "percent": 0.03740860397891515
+      },
+      {
+        "author": "Linh Bui Phuong",
+        "contribution": 0.03188941789945019,
+        "percent": 0.028056452984186363
+      },
+      {
+        "author": "Le Thi Kim Anh",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      },
+      {
+        "author": "Bui Thi Tu Quyen",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      },
+      {
+        "author": "Phan Thi Hai",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      },
+      {
+        "author": "Doan Thu Huyen",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      },
+      {
+        "author": "Luong Ngoc Khue",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      },
+      {
+        "author": "Nguyen Tuan Lam",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      },
+      {
+        "author": "Pham Thi Quynh Nga",
+        "contribution": 0.028346149243955725,
+        "percent": 0.02493906931927677
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Michael P Dunne",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Nguyen Tk Chuc",
+        "contribution": 0.12774390243902442,
+        "percent": 0.21798780487804886
+      },
+      {
+        "author": "Nguyen Khac Hai",
+        "contribution": 0.06387195121951221,
+        "percent": 0.10899390243902443
+      },
+      {
+        "author": "Pham Thi Lan",
+        "contribution": 0.06387195121951221,
+        "percent": 0.10899390243902443
+      },
+      {
+        "author": "Anh Kim Dang",
+        "contribution": 0.05806541019955655,
+        "percent": 0.09908536585365857
+      },
+      {
+        "author": "Bach Xuan Tran",
+        "contribution": 0.05806541019955655,
+        "percent": 0.09908536585365857
+      },
+      {
+        "author": "Hoa Thi Do",
+        "contribution": 0.05806541019955655,
+        "percent": 0.09908536585365857
+      },
+      {
+        "author": "Huong Thi Le",
+        "contribution": 0.05806541019955655,
+        "percent": 0.09908536585365857
+      },
+      {
+        "author": "Van Tuan Nguyen",
+        "contribution": 0.02456613508442777,
+        "percent": 0.04192073170731708
+      },
+      {
+        "author": "Van Phi Nguyen",
+        "contribution": 0.02456613508442777,
+        "percent": 0.04192073170731708
+      },
+      {
+        "author": "Thien Le Cong",
+        "contribution": 0.02456613508442777,
+        "percent": 0.04192073170731708
+      },
+      {
+        "author": "Thi Thu Ha Le",
+        "contribution": 0.02456613508442777,
+        "percent": 0.04192073170731708
+      }
+    ],
+    "Hanoi University of Pharmacy": [
+      {
+        "author": "Thuy Nguyen Thi Phuong",
+        "contribution": 0.052521008403361345,
+        "percent": 0.2647058823529412
+      },
+      {
+        "author": "Binh Thanh Nguyen",
+        "contribution": 0.052521008403361345,
+        "percent": 0.2647058823529412
+      },
+      {
+        "author": "Thang Do Xuan",
+        "contribution": 0.052521008403361345,
+        "percent": 0.2647058823529412
+      },
+      {
+        "author": "Nam Vinh Nguyen",
+        "contribution": 0.04084967320261438,
+        "percent": 0.2058823529411765
+      }
+    ],
+    "Pham Ngoc Thach University of Medicine": [
+      {
+        "author": "Trung Quang Vo",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Vin, University": [
+      {
+        "author": "Tuan T Nguyen",
+        "contribution": 0.07583333333333332,
+        "percent": 0.6999999999999998
+      },
+      {
+        "author": "Le Khac Linh",
+        "contribution": 0.0325,
+        "percent": 0.3
+      }
+    ],
+    "Institute of Mathematics": [
+      {
+        "author": "Ho Dang Phuc",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Cuong Tat Nguyen",
+        "contribution": 0.06060606060606061,
+        "percent": 0.5
+      },
+      {
+        "author": "Quynh Ngoc Hoang Le",
+        "contribution": 0.06060606060606061,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ton Duc Thang University": {
+      "Criminal law": 0.06428571428571428,
+      "Health law": 0.06428571428571428,
+      "Policy analysis and Policy studies": 0.06428571428571428,
+      "Public Administration": 0.06428571428571428,
+      "Sociology of health and illness": 0.02857142857142857
+    },
+    "Hanoi University of Public Health": {
+      "Health law": 1.136616161616161,
+      "Medical sociology": 0.24545454545454548,
+      "Policy analysis and Policy studies": 0.9333333333333338,
+      "Public Administration": 0.5060606060606061,
+      "Environmental Health": 0.19999999999999998,
+      "Health Economics": 0.4555555555555555,
+      "Sociology of health and illness": 0.8393939393939398,
+      "Human rights law": 0.041666666666666664,
+      "International law": 0.041666666666666664,
+      "Obstetrics and Gynaecology": 0.05555555555555555
+    },
+    "Hue University": {
+      "Health law": 0.1,
+      "Medical sociology": 0.1,
+      "Policy analysis and Policy studies": 0.1,
+      "Public Administration": 0.1
+    },
+    "Hanoi Medical University": {
+      "Medical sociology": 0.34358974358974353,
+      "Sociology of health and illness": 0.3757575757575756,
+      "Health law": 0.5860139860139859,
+      "Obstetrics and Gynaecology": 0.06666666666666667,
+      "Environmental Health": 0.24242424242424243,
+      "Clinical Psychology": 0.07692307692307693,
+      "Health Psychology": 0.07692307692307693,
+      "Pharmacology": 0.06666666666666667
+    },
+    "Hanoi University of Pharmacy": {
+      "Administrative law": 0.05555555555555555,
+      "Health law": 0.1984126984126984,
+      "Pharmacology": 0.14285714285714285,
+      "Medical sociology": 0.14285714285714285
+    },
+    "Pham Ngoc Thach University of Medicine": {
+      "Pharmacology": 0.047619047619047616,
+      "Health law": 0.047619047619047616,
+      "Medical sociology": 0.047619047619047616
+    },
+    "Vin, University": {
+      "Pediatrics": 0.041666666666666664,
+      "Health law": 0.10833333333333334,
+      "Medical sociology": 0.06666666666666667,
+      "Genetics and Genomic Medicine": 0.025,
+      "Obstetrics and Gynaecology": 0.025,
+      "Health Economics": 0.025,
+      "Labor and employment law": 0.041666666666666664,
+      "International law": 0.041666666666666664,
+      "Policy analysis and Policy studies": 0.041666666666666664
+    },
+    "Institute of Mathematics": {
+      "Obstetrics and Gynaecology": 0.06666666666666667,
+      "Medical sociology": 0.06666666666666667,
+      "Health law": 0.06666666666666667
+    },
+    "Duy Tan University": {
+      "Environmental Health": 0.12121212121212122,
+      "Health law": 0.12121212121212122,
+      "Sociology of health and illness": 0.12121212121212122
+    }
+  },
+  "totalPapers": 31334
+}

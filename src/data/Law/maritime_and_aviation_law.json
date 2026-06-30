@@ -1,0 +1,31 @@
+{
+  "ranking": [
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.25
+    }
+  ],
+  "authorsByUniversity": {
+    "Dong Thap University": [
+      {
+        "author": "Nguyễn Tất Hùng",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyễn Thị Huyền",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Dong Thap University": {
+      "International law": 0.25,
+      "International relations": 0.25,
+      "Maritime and aviation law": 0.25,
+      "Strategic studies": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,87 @@
+{
+  "ranking": [
+    {
+      "university": "Can Tho University of Medicine - Pharmacy",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.25
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Medical University": [
+      {
+        "author": "Vo Truong Nhu Ngoc",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Thu Phuong",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Nguyen Viet Anh",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Khanh Ly",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Hoang Viet",
+        "contribution": 0.29166666666666663,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University of Medicine - Pharmacy": [
+      {
+        "author": "Lam Nguyen Le",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thao Thi Do",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Khanh Vu Phuong Le",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Medical University": {
+      "Orthodontics": 0.6666666666666666
+    },
+    "Phenikaa University": {
+      "Orthodontics": 0.25,
+      "Oral and Maxillofacial Surgery": 0.25
+    },
+    "Van Lang University": {
+      "Orthodontics": 0.29166666666666663,
+      "Oral and Maxillofacial Surgery": 0.125
+    },
+    "Can Tho University of Medicine - Pharmacy": {
+      "Orthodontics": 1.0
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,42 @@
+{
+  "ranking": [
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.125
+    }
+  ],
+  "authorsByUniversity": {
+    "Ton Duc Thang University": [
+      {
+        "author": "Dimitris Stratoulias",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Van Son Quang",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ton Duc Thang University": {
+      "Cartography": 0.125,
+      "Historical geography": 0.125,
+      "Population geography": 0.125,
+      "Urban geography": 0.125
+    },
+    "Van Lang University": {
+      "Archaeology": 0.16666666666666666,
+      "Cultural history": 0.16666666666666666,
+      "Historical geography": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

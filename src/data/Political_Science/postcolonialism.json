@@ -1,0 +1,118 @@
+{
+  "ranking": [
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Van Hien University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Dong A University",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "Van Hien University": [
+      {
+        "author": "Trinh Van Vinh",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Le Hoang Kiet",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Duong Quang Hiep",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Dong A University": [
+      {
+        "author": "Tran Xuan Hiep",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Steve Garner",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      },
+      {
+        "author": "Ranjan Bandyopadhyay",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Thi Thu Hoai Nguyen",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Van Hien University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "Can Tho University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "University of Sciences, Hue University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "Dong A University": {
+      "Military history": 0.05,
+      "Political history": 0.05,
+      "Postcolonialism": 0.05,
+      "Nationalism studies": 0.05
+    },
+    "Duy Tan University": {
+      "Political sociology": 0.3333333333333333,
+      "Nationalism studies": 0.3333333333333333,
+      "Postcolonialism": 0.5833333333333333,
+      "Higher education": 0.25,
+      "Sociology of education": 0.25,
+      "Cultural sociology": 0.25
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Postcolonialism": 0.6666666666666666,
+      "Cultural sociology": 0.3333333333333333,
+      "Policy analysis and Policy studies": 0.6666666666666666,
+      "Political sociology": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

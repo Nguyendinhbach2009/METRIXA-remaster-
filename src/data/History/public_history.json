@@ -1,0 +1,25 @@
+{
+  "ranking": [
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Ngo Thi Thanh Quy",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Education - Thai Nguyen University": {
+      "Cultural history": 0.3333333333333333,
+      "Social history": 0.3333333333333333,
+      "Public history": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

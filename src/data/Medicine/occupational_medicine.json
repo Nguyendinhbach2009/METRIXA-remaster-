@@ -1,0 +1,35 @@
+{
+  "ranking": [
+    {
+      "university": "Hai Phong Medical University",
+      "totalContribution": 0.14285714285714285
+    }
+  ],
+  "authorsByUniversity": {
+    "Hai Phong Medical University": [
+      {
+        "author": "Thanh Hai Nguyen",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi Giang Hoang",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Minh Khue Pham",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hai Phong Medical University": {
+      "Nursing": 0.14285714285714285,
+      "Epidemiology": 0.14285714285714285,
+      "Occupational Medicine": 0.14285714285714285
+    }
+  },
+  "totalPapers": 31334
+}

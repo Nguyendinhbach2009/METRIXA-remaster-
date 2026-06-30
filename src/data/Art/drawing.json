@@ -1,0 +1,25 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh city University of Fine Arts",
+      "totalContribution": 0.6666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh city University of Fine Arts": [
+      {
+        "author": "Vu Thuy Van",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh city University of Fine Arts": {
+      "Drawing": 0.6666666666666666,
+      "Art history": 0.6666666666666666,
+      "Applied arts": 0.6666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

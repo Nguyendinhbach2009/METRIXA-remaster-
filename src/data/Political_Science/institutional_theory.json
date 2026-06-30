@@ -1,0 +1,217 @@
+{
+  "ranking": [
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "VNU University of Economics and Business",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Academy of Finance",
+      "totalContribution": 0.20833333333333331
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Quy Nhon University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.041666666666666664
+    }
+  ],
+  "authorsByUniversity": {
+    "Quy Nhon University": [
+      {
+        "author": "Hang Thi Thuy Pham",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Thi Thu Thao Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Thi Thu Hoai Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Thi Mai Thanh Dinh",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Van Luong Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Thi Thu Trang Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Ngoc Uyen Nhi Tran",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Quang Khoi Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Van Thanh Cung",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Bach Nguyen",
+        "contribution": 0.14285714285714288,
+        "percent": 0.21428571428571433
+      },
+      {
+        "author": "Nguyen Phuc Canh",
+        "contribution": 0.14285714285714288,
+        "percent": 0.21428571428571433
+      },
+      {
+        "author": "Trinh Hiep Thien",
+        "contribution": 0.14285714285714288,
+        "percent": 0.21428571428571433
+      },
+      {
+        "author": "Nguyen Xuan Hung",
+        "contribution": 0.14285714285714288,
+        "percent": 0.21428571428571433
+      },
+      {
+        "author": "Hong-Nham Nguyen Thi",
+        "contribution": 0.09523809523809525,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "VNU University of Economics and Business": [
+      {
+        "author": "Hoai Thu Thi Nguyen",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Tuyen Quang Tran",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Academy of Finance": [
+      {
+        "author": "Huong Vu Van",
+        "contribution": 0.125,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Hong-Thuy Le Thi",
+        "contribution": 0.08333333333333333,
+        "percent": 0.4
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Nguyen Thi Ngoc Thuy",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Thu Thuy",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Nguyen Thi Bich Nguyet",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Quy Nhon University": {
+      "Corporate Governance": 0.1111111111111111,
+      "Business Ethics and Social Responsibility": 0.1111111111111111,
+      "Institutional theory": 0.1111111111111111
+    },
+    "Can Tho University": {
+      "Higher education": 0.29166666666666663,
+      "Institutional theory": 0.29166666666666663,
+      "Sociology of knowledge": 0.29166666666666663
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Higher education": 0.041666666666666664,
+      "Institutional theory": 0.041666666666666664,
+      "Sociology of knowledge": 0.041666666666666664
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Entrepreneurship": 0.25,
+      "Finance": 0.25,
+      "Institutional theory": 0.6666666666666666,
+      "Behavioral Economics": 0.25,
+      "Development Economics": 0.08333333333333333,
+      "Labor Economics": 0.08333333333333333,
+      "Econometrics": 0.08333333333333333,
+      "Accounting": 0.3333333333333333,
+      "Business Policy and Governance": 0.3333333333333333
+    },
+    "VNU University of Economics and Business": {
+      "Development Economics": 0.25,
+      "Institutional theory": 0.25,
+      "Business Policy and Governance": 0.125,
+      "Entrepreneurship": 0.125,
+      "Econometrics": 0.125,
+      "Business Economics": 0.125
+    },
+    "Academy of Finance": {
+      "Development Economics": 0.20833333333333331,
+      "Institutional theory": 0.20833333333333331,
+      "Business Policy and Governance": 0.0625,
+      "Entrepreneurship": 0.0625,
+      "Labor Economics": 0.08333333333333333,
+      "Econometrics": 0.14583333333333331,
+      "Business Economics": 0.0625
+    },
+    "HCMC University of Technology and Education": {
+      "Business Policy and Governance": 0.16666666666666666,
+      "International Business": 0.16666666666666666,
+      "Entrepreneurship": 0.16666666666666666,
+      "Institutional theory": 0.16666666666666666
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Business Policy and Governance": 0.08333333333333333,
+      "International Business": 0.08333333333333333,
+      "Entrepreneurship": 0.08333333333333333,
+      "Institutional theory": 0.08333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

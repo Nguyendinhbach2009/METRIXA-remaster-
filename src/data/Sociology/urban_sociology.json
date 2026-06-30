@@ -1,0 +1,499 @@
+{
+  "ranking": [
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 1.916666666666667
+    },
+    {
+      "university": "University of Architecture Ho Chi Minh City",
+      "totalContribution": 1.2291666666666665
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.9451388888888886
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.475
+    },
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 0.4438825757575758
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.4000000000000001
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.4
+    },
+    {
+      "university": "National Institute of Nutrition",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Tay Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.27499999999999997
+    },
+    {
+      "university": "Ho Chi Minh city University of Fine Arts",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.225
+    },
+    {
+      "university": "Hong Bang University International",
+      "totalContribution": 0.14583333333333331
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "National Institute of Occupational and Environmental Health",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.03333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University of Public Health": [
+      {
+        "author": "Hoang Van Minh",
+        "contribution": 0.12008333555778987,
+        "percent": 0.2705295096407947
+      },
+      {
+        "author": "Vu Duy Kien",
+        "contribution": 0.09558007895337835,
+        "percent": 0.2153273955172751
+      },
+      {
+        "author": "Quynh Thuy Nguyen",
+        "contribution": 0.07168505921503376,
+        "percent": 0.16149554663795634
+      },
+      {
+        "author": "Thuy Thi Thu Tran",
+        "contribution": 0.07168505921503376,
+        "percent": 0.16149554663795634
+      },
+      {
+        "author": "Van Minh Hoang",
+        "contribution": 0.03584252960751688,
+        "percent": 0.08074777331897817
+      },
+      {
+        "author": "Duong Minh Duc",
+        "contribution": 0.02450325660441154,
+        "percent": 0.055202114123519615
+      },
+      {
+        "author": "Khuong Quynh Long",
+        "contribution": 0.013033647130006138,
+        "percent": 0.029362826661446604
+      },
+      {
+        "author": "Bao Ngoc",
+        "contribution": 0.011469609474405403,
+        "percent": 0.025839287462073014
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Le Tran Ngoan",
+        "contribution": 0.3203860640301317,
+        "percent": 0.33898305084745756
+      },
+      {
+        "author": "Kim Bao Giang",
+        "contribution": 0.23494978028876326,
+        "percent": 0.2485875706214689
+      },
+      {
+        "author": "Vu Duy Kien",
+        "contribution": 0.12815442561205267,
+        "percent": 0.13559322033898302
+      },
+      {
+        "author": "Hoang Van Minh",
+        "contribution": 0.12815442561205267,
+        "percent": 0.13559322033898302
+      },
+      {
+        "author": "Osman Sankoh",
+        "contribution": 0.05339767733835528,
+        "percent": 0.056497175141242924
+      },
+      {
+        "author": "Ngoc Hoat Luu",
+        "contribution": 0.04004825800376646,
+        "percent": 0.042372881355932195
+      },
+      {
+        "author": "Thi Giang Huong Tran",
+        "contribution": 0.04004825800376646,
+        "percent": 0.042372881355932195
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Thi Thu Hoai",
+        "contribution": 0.5476190476190477,
+        "percent": 0.2857142857142857
+      },
+      {
+        "author": "Nguyen Huu Son",
+        "contribution": 0.27380952380952384,
+        "percent": 0.14285714285714285
+      },
+      {
+        "author": "Kham Van Tran",
+        "contribution": 0.27380952380952384,
+        "percent": 0.14285714285714285
+      },
+      {
+        "author": "Quyet Van Pham",
+        "contribution": 0.27380952380952384,
+        "percent": 0.14285714285714285
+      },
+      {
+        "author": "Nguyen Van Chieu",
+        "contribution": 0.27380952380952384,
+        "percent": 0.14285714285714285
+      },
+      {
+        "author": "Tran Van Kham",
+        "contribution": 0.27380952380952384,
+        "percent": 0.14285714285714285
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Le-Minh Ngo",
+        "contribution": 0.12954545454545455,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Hai-Binh Nguyen",
+        "contribution": 0.12954545454545455,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Pham Tien Thanh",
+        "contribution": 0.12954545454545455,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Hoang-Thi Phuong-Thao",
+        "contribution": 0.08636363636363636,
+        "percent": 0.18181818181818182
+      }
+    ],
+    "Hong Bang University International": [
+      {
+        "author": "Thi-Minh Dieu Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 1.0
+      }
+    ],
+    "National Institute of Nutrition": [
+      {
+        "author": "Khanh Le Nguyen Bao",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Anh T. H. Nguyen",
+        "contribution": 0.14473684210526314,
+        "percent": 0.5263157894736842
+      },
+      {
+        "author": "Tan Hai Dang Nguyen",
+        "contribution": 0.07236842105263157,
+        "percent": 0.2631578947368421
+      },
+      {
+        "author": "Thao Thi Phuong Nguyen",
+        "contribution": 0.028947368421052628,
+        "percent": 0.10526315789473684
+      },
+      {
+        "author": "Cuong Tat Nguyen",
+        "contribution": 0.028947368421052628,
+        "percent": 0.10526315789473684
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Giang Thu Vu",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Van Khai Tran",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "University of Architecture Ho Chi Minh City": [
+      {
+        "author": "Thi Hanh Nguyen Nguyen",
+        "contribution": 0.5462962962962963,
+        "percent": 0.4444444444444445
+      },
+      {
+        "author": "An Nguyen Thi Tam",
+        "contribution": 0.27314814814814814,
+        "percent": 0.22222222222222224
+      },
+      {
+        "author": "Hoang Quyen Dang",
+        "contribution": 0.27314814814814814,
+        "percent": 0.22222222222222224
+      },
+      {
+        "author": "Hoang Nguyen",
+        "contribution": 0.13657407407407407,
+        "percent": 0.11111111111111112
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Duy Thinh Do",
+        "contribution": 0.4,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh city University of Fine Arts": [
+      {
+        "author": "Nguyen Van Bung",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Tran Tu Van Anh",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      },
+      {
+        "author": "Nguyen Minh Doi",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      },
+      {
+        "author": "Dao Vu Bich Diem",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      },
+      {
+        "author": "Quan Minh Quoc Binh",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      },
+      {
+        "author": "Nguyen Ngoc Dan Thanh",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      },
+      {
+        "author": "Nguyen Tran Cam Linh",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      },
+      {
+        "author": "Doan Thi Thanh Thuy",
+        "contribution": 0.05714285714285717,
+        "percent": 0.1428571428571429
+      }
+    ],
+    "National Institute of Occupational and Environmental Health": [
+      {
+        "author": "Chinh Thi Thuy Phan",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Tay Nguyen University": [
+      {
+        "author": "Nguyen Dinh Huan",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Pham Bao Duong",
+        "contribution": 0.1125,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Ngoc Lan",
+        "contribution": 0.1125,
+        "percent": 0.5
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Doan Quang Hung",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi University of Public Health": {
+      "Medical sociology": 0.20312499999999997,
+      "Sociology of health and illness": 0.24312499999999998,
+      "Urban sociology": 0.4438825757575758,
+      "Human geography": 0.03409090909090909,
+      "Population geography": 0.03409090909090909,
+      "Development studies": 0.03409090909090909,
+      "Policy analysis and Policy studies": 0.04,
+      "Health Economics": 0.18229166666666666,
+      "Labor Economics": 0.16666666666666666,
+      "Sociology of work": 0.16666666666666666
+    },
+    "Hanoi Medical University": {
+      "Medical sociology": 0.578472222222222,
+      "Sociology of health and illness": 0.7451388888888888,
+      "Urban sociology": 0.9451388888888886,
+      "Health Economics": 0.5145833333333333,
+      "Sustainability Science": 0.16666666666666666
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Cultural sociology": 1.0833333333333333,
+      "Economic sociology": 0.5,
+      "Urban history": 0.25,
+      "Urban sociology": 1.916666666666667,
+      "Political sociology": 0.5,
+      "Urban geography": 0.5,
+      "Human geography": 0.9166666666666665,
+      "Population geography": 0.25,
+      "Sociology of work": 0.25,
+      "Development studies": 0.5833333333333333,
+      "Cultural geography": 0.25
+    },
+    "Ton Duc Thang University": {
+      "Architecture": 0.29166666666666663,
+      "Urban geography": 0.375,
+      "Urban sociology": 0.475,
+      "Environmental Psychology": 0.08333333333333333,
+      "Economic geography": 0.08333333333333333,
+      "Development Economics": 0.1,
+      "Economic sociology": 0.1,
+      "Labor Economics": 0.1,
+      "Policy analysis and Policy studies": 0.1,
+      "Environmental Policy and Planning": 0.125
+    },
+    "Hong Bang University International": {
+      "Architecture": 0.14583333333333331,
+      "Urban geography": 0.14583333333333331,
+      "Urban sociology": 0.14583333333333331,
+      "Environmental Policy and Planning": 0.0625
+    },
+    "National Institute of Nutrition": {
+      "Medical sociology": 0.16666666666666666,
+      "Sociology of health and illness": 0.3333333333333333,
+      "Urban sociology": 0.3333333333333333,
+      "Sustainability Science": 0.16666666666666666
+    },
+    "Duy Tan University": {
+      "Medical sociology": 0.06666666666666667,
+      "Sociology of health and illness": 0.06666666666666667,
+      "Urban sociology": 0.27499999999999997,
+      "Architecture": 0.14583333333333331,
+      "Environmental Policy and Planning": 0.14583333333333331,
+      "Sustainability Science": 0.0625,
+      "Management": 0.0625,
+      "Business Ethics and Social Responsibility": 0.0625,
+      "Innovation and Technology Management": 0.0625
+    },
+    "Nguyen Tat Thanh University": {
+      "Medical sociology": 0.03333333333333333,
+      "Sociology of health and illness": 0.03333333333333333,
+      "Urban sociology": 0.03333333333333333
+    },
+    "Van Lang University": {
+      "Urban sociology": 0.5,
+      "Urban and Regional Economics": 0.5
+    },
+    "University of Architecture Ho Chi Minh City": {
+      "Architecture": 0.9791666666666666,
+      "Urban sociology": 1.2291666666666665,
+      "Environmental Policy and Planning": 0.8958333333333334,
+      "Sustainability Science": 0.0625,
+      "Environmental Psychology": 0.3333333333333333,
+      "Development studies": 0.5,
+      "Urban geography": 0.25,
+      "Public Administration": 0.25
+    },
+    "HCMC University of Technology and Education": {
+      "Urban geography": 0.4,
+      "Hospitality and Tourism Management": 0.4,
+      "Architecture": 0.4,
+      "Urban sociology": 0.4,
+      "Cultural geography": 0.2,
+      "Environmental Policy and Planning": 0.2
+    },
+    "Ho Chi Minh city University of Fine Arts": {
+      "Personality Psychology": 0.25,
+      "Social Psychology": 0.25,
+      "Cultural sociology": 0.25,
+      "Urban sociology": 0.25
+    },
+    "Ho Chi Minh City Open University": {
+      "Urban geography": 0.4000000000000001,
+      "Political geography": 0.4000000000000001,
+      "Economic geography": 0.4000000000000001,
+      "Environmental geography": 0.4000000000000001,
+      "Urban sociology": 0.4000000000000001
+    },
+    "National Institute of Occupational and Environmental Health": {
+      "Labor Economics": 0.08333333333333333,
+      "Sociology of work": 0.08333333333333333,
+      "Urban sociology": 0.08333333333333333
+    },
+    "Tay Nguyen University": {
+      "Sociology of family": 0.3333333333333333,
+      "Cultural sociology": 0.3333333333333333,
+      "Urban sociology": 0.3333333333333333
+    },
+    "Vietnam National University of Agriculture": {
+      "Development Economics": 0.1,
+      "Urban sociology": 0.225,
+      "Economic sociology": 0.1,
+      "Labor Economics": 0.1,
+      "Policy analysis and Policy studies": 0.1,
+      "Urban geography": 0.125,
+      "Architecture": 0.125,
+      "Urban history": 0.125
+    },
+    "Phenikaa University": {
+      "Urban geography": 0.125,
+      "Architecture": 0.125,
+      "Urban sociology": 0.125,
+      "Urban history": 0.125
+    }
+  },
+  "totalPapers": 31334
+}

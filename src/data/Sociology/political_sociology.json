@@ -1,0 +1,458 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh Cadre Academy",
+      "totalContribution": 1.6666666666666665
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "University of Finance – Marketing",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Academy of Journalism and Communication",
+      "totalContribution": 0.41666666666666663
+    },
+    {
+      "university": "Diplomatic Academy of Viet Nam",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "HCMC University of Technology and Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vietnam Youth Academy",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Kien Giang University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Univeristy of Law, Hue University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Academy of Politics - Public Administration Region I",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.15000000000000002
+    },
+    {
+      "university": "Thuongmai University",
+      "totalContribution": 0.13333333333333333
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Graduate Academy of Social Sciences",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Ho Chi Minh city University of Fine Arts",
+      "totalContribution": 0.05555555555555555
+    }
+  ],
+  "authorsByUniversity": {
+    "Diplomatic Academy of Viet Nam": [
+      {
+        "author": "Pham Thi Quyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Finance – Marketing": [
+      {
+        "author": "Nguyen Thi Lan Anh",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      },
+      {
+        "author": "Le Thi Phuong Mai",
+        "contribution": 0.29166666666666663,
+        "percent": 0.5
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Steve Garner",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Thi Thu Hoai",
+        "contribution": 0.5555555555555555,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Thi Thu Hoai Nguyen",
+        "contribution": 0.27777777777777773,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Ho Chi Minh Cadre Academy": [
+      {
+        "author": "Dinh Van Chi",
+        "contribution": 1.0,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Ngoc Loi Pham",
+        "contribution": 0.6666666666666666,
+        "percent": 0.4
+      }
+    ],
+    "Vietnam Youth Academy": [
+      {
+        "author": "Bui Van Tuyen",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "HCMC University of Technology and Education": [
+      {
+        "author": "Xuan Dung Bui",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Univeristy of Law, Hue University": [
+      {
+        "author": "Le Thi Nga",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Doan Le Minh Chau",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Graduate Academy of Social Sciences": [
+      {
+        "author": "Nguyen Thi Bích Hanh",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Thuongmai University": [
+      {
+        "author": "Pham Thuy Giang",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5
+      },
+      {
+        "author": "Pham Thi Xuan Ha",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5
+      }
+    ],
+    "Kien Giang University": [
+      {
+        "author": "Vu Kim Diem",
+        "contribution": 0.1,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Hoang Thien",
+        "contribution": 0.1,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi University": [
+      {
+        "author": "James Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Tran Minh Duc",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Ngo Hoai Son",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Journalism and Communication": [
+      {
+        "author": "Van Thanh Vu",
+        "contribution": 0.27777777777777773,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Huong Thi Tran",
+        "contribution": 0.13888888888888887,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Nguyen Le Hoang Thuy To Quyen",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Phong Thanh Nguyen",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Vy Dang Bich Huynh",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Lan Hien Do",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "TRAN VAN DIEN",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Politics - Public Administration Region I": [
+      {
+        "author": "Thuc Thi Le",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Anh Quoc",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Anh Thuong",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      },
+      {
+        "author": "Dinh The Hoang",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      },
+      {
+        "author": "Dinh Van Chien",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      }
+    ],
+    "Ho Chi Minh city University of Fine Arts": [
+      {
+        "author": "Nguyen Van Bung",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Vu M Ngo",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Toan L D Huynh",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Huan H Nguyen",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Diplomatic Academy of Viet Nam": {
+      "Language education and linguistics": 0.3333333333333333,
+      "Gender and politics": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333
+    },
+    "University of Finance – Marketing": {
+      "Political sociology": 0.5833333333333333,
+      "Development studies": 0.5833333333333333,
+      "Strategic studies": 0.5833333333333333,
+      "International relations": 0.25
+    },
+    "Duy Tan University": {
+      "Political sociology": 0.3333333333333333,
+      "Nationalism studies": 0.3333333333333333,
+      "Postcolonialism": 0.3333333333333333
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Cultural sociology": 0.25,
+      "Urban sociology": 0.5,
+      "Political sociology": 0.8333333333333333,
+      "Urban geography": 0.5,
+      "Cultural geography": 0.25,
+      "Policy analysis and Policy studies": 0.3333333333333333,
+      "Postcolonialism": 0.3333333333333333
+    },
+    "Ho Chi Minh Cadre Academy": {
+      "Public Administration": 1.6666666666666665,
+      "Political sociology": 1.6666666666666665,
+      "Nationalism studies": 0.3333333333333333,
+      "Policy analysis and Policy studies": 0.6666666666666666,
+      "Educational leadership and administration": 0.3333333333333333,
+      "Educational sociology": 0.3333333333333333
+    },
+    "Vietnam Youth Academy": {
+      "International relations": 0.25,
+      "Development studies": 0.25,
+      "Policy analysis and Policy studies": 0.25,
+      "Political sociology": 0.25
+    },
+    "HCMC University of Technology and Education": {
+      "Political economy": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333,
+      "Economic sociology": 0.3333333333333333
+    },
+    "Univeristy of Law, Hue University": {
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666,
+      "Human rights law": 0.16666666666666666
+    },
+    "Hue University": {
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666,
+      "Human rights law": 0.16666666666666666
+    },
+    "Graduate Academy of Social Sciences": {
+      "Philosophy of language": 0.06666666666666667,
+      "Language education and linguistics": 0.06666666666666667,
+      "Political sociology": 0.06666666666666667
+    },
+    "Thuongmai University": {
+      "Philosophy of language": 0.13333333333333333,
+      "Language education and linguistics": 0.13333333333333333,
+      "Political sociology": 0.13333333333333333
+    },
+    "Kien Giang University": {
+      "Development studies": 0.2,
+      "Nationalism studies": 0.2,
+      "Political sociology": 0.2,
+      "Historical sociology": 0.2,
+      "Cultural sociology": 0.2
+    },
+    "Hanoi University": {
+      "Political behavior": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333,
+      "Psephology": 0.3333333333333333
+    },
+    "Thu Dau Mot University": {
+      "Sociology of religion": 0.5,
+      "Political sociology": 0.5
+    },
+    "National Academy of Public Administration": {
+      "Development studies": 0.1,
+      "Public Administration": 0.1,
+      "Agricultural and Natural Resource Economics": 0.1,
+      "Urban geography": 0.1,
+      "Political sociology": 0.1
+    },
+    "Academy of Journalism and Communication": {
+      "Public Administration": 0.25,
+      "Political behavior": 0.41666666666666663,
+      "Political sociology": 0.41666666666666663,
+      "Policy analysis and Policy studies": 0.25,
+      "Gender and politics": 0.16666666666666666
+    },
+    "Ho Chi Minh City Open University": {
+      "Development studies": 0.3333333333333333,
+      "Economic Sociology": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Sociology of religion": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333,
+      "Strategic studies": 0.3333333333333333
+    },
+    "Dong Thap University": {
+      "Public Administration": 0.125,
+      "Political behavior": 0.125,
+      "Political sociology": 0.125,
+      "Political theory and philosophy": 0.125
+    },
+    "Academy of Politics - Public Administration Region I": {
+      "Political behavior": 0.16666666666666666,
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666
+    },
+    "VNUHCM - University of Social Sciences and Humanities": {
+      "Political theory and philosophy": 0.2222222222222222,
+      "Political sociology": 0.2222222222222222,
+      "Philosophy of society": 0.2222222222222222
+    },
+    "Ho Chi Minh city University of Fine Arts": {
+      "Political theory and philosophy": 0.05555555555555555,
+      "Political sociology": 0.05555555555555555,
+      "Philosophy of society": 0.05555555555555555
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Educational sociology": 0.15000000000000002,
+      "Health Economics": 0.15000000000000002,
+      "Political sociology": 0.15000000000000002,
+      "Sociology of health and illness": 0.15000000000000002
+    }
+  },
+  "totalPapers": 31334
+}

@@ -1,0 +1,63 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.8999999999999999
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Medical University": [
+      {
+        "author": "Mai Thi Giang Thanh",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Ngo Van Toan",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Do Thi Thanh Toan",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Nguyen Phu Thang",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Nguyen Tien Dung",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Phung Thi Thu Hang",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Le Quynh Anh",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Nguyen Thu Tra",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      },
+      {
+        "author": "Vo Truong Nhu Ngoc",
+        "contribution": 0.1,
+        "percent": 0.11111111111111113
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Medical University": {
+      "Dentistry": 0.8999999999999999
+    }
+  },
+  "totalPapers": 31334
+}

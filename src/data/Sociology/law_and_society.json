@@ -1,0 +1,222 @@
+{
+  "ranking": [
+    {
+      "university": "Posts and Telecommunications Institute of Technology",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Univeristy of Law, Hue University",
+      "totalContribution": 0.4444444444444444
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vietnam Women's Academy",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.1875
+    },
+    {
+      "university": "Banking Academy of Vietnam",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "Hanoi Procuratorate University",
+      "totalContribution": 0.05555555555555555
+    }
+  ],
+  "authorsByUniversity": {
+    "Posts and Telecommunications Institute of Technology": [
+      {
+        "author": "Nguyen Thi Ngoc Thuy",
+        "contribution": 0.3333333333333333,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Van Phuoc Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Dũng Duy Nguyễn",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Hạ Nguyễn Quang Trần",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam Women's Academy": [
+      {
+        "author": "Le Thi Minh Huyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Univeristy of Law, Hue University": [
+      {
+        "author": "Ngoc Hong Nguyen Le",
+        "contribution": 0.2222222222222222,
+        "percent": 0.5
+      },
+      {
+        "author": "Yen Thi Nguyen",
+        "contribution": 0.2222222222222222,
+        "percent": 0.5
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Nguyen Quoc Suu",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "NGUYEN GIAC TRI",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Thi Ngoc Tuyet",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Thu Trang",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Thi Mai Hoa",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Nguyen Xuan Phuong",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Lan Chi Le",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      },
+      {
+        "author": "Duc Quang Nguyen",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi Procuratorate University": [
+      {
+        "author": "Yen Hai Hoang",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Banking Academy of Vietnam": [
+      {
+        "author": "Toan Huu Bui",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Posts and Telecommunications Institute of Technology": {
+      "Human–computer interaction": 0.16666666666666666,
+      "Law and society": 0.5,
+      "Public Administration": 0.3333333333333333,
+      "Artificial intelligence": 0.16666666666666666,
+      "Policy analysis and Policy studies": 0.3333333333333333
+    },
+    "Nguyen Tat Thanh University": {
+      "Comparative law": 0.3333333333333333,
+      "Public Law": 0.3333333333333333,
+      "Law and society": 0.3333333333333333
+    },
+    "Vietnam Women's Academy": {
+      "Business Ethics and Social Responsibility": 0.3333333333333333,
+      "Law and society": 0.3333333333333333,
+      "Policy analysis and Policy studies": 0.3333333333333333
+    },
+    "Univeristy of Law, Hue University": {
+      "Criminal law": 0.4444444444444444,
+      "Comparative law": 0.4444444444444444,
+      "Law and society": 0.4444444444444444
+    },
+    "National Academy of Public Administration": {
+      "Public Administration": 0.2,
+      "Administrative law": 0.2,
+      "Political Sociology": 0.2,
+      "Law and society": 0.2,
+      "Policy analysis and Policy studies": 0.2
+    },
+    "Dong Thap University": {
+      "Higher education": 0.125,
+      "Philosophy of education": 0.125,
+      "Legal theory and jurisprudence": 0.125,
+      "Law and society": 0.125
+    },
+    "Hanoi University of Science and Technology": {
+      "Comparative law": 0.1875,
+      "International law": 0.1875,
+      "Legal theory and jurisprudence": 0.1875,
+      "Law and society": 0.1875
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Comparative law": 0.0625,
+      "International law": 0.0625,
+      "Legal theory and jurisprudence": 0.0625,
+      "Law and society": 0.0625
+    },
+    "Vietnam National University, Hanoi": {
+      "Criminal law": 0.1111111111111111,
+      "Comparative law": 0.1111111111111111,
+      "Law and society": 0.1111111111111111
+    },
+    "Hanoi Procuratorate University": {
+      "Criminal law": 0.05555555555555555,
+      "Comparative law": 0.05555555555555555,
+      "Law and society": 0.05555555555555555
+    },
+    "Banking Academy of Vietnam": {
+      "Artificial intelligence": 0.16666666666666666,
+      "Law and society": 0.16666666666666666,
+      "Policy analysis and Policy studies": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

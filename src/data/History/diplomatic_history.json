@@ -1,0 +1,459 @@
+{
+  "ranking": [
+    {
+      "university": "University of Science and Education - The University of Da Nang",
+      "totalContribution": 1.25
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 1.011111111111111
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Diplomatic Academy of Viet Nam",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "University of Education, Hue University",
+      "totalContribution": 0.45555555555555555
+    },
+    {
+      "university": "VNU University of Languages and International Studies",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Sciences, Hue University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Thuongmai University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.3194444444444444
+    },
+    {
+      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "The Banking University of Ho Chi Minh City",
+      "totalContribution": 0.19444444444444442
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.19444444444444442
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Dong A University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "The University of Da Nang",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Finance – Marketing",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Hanoi Achitectural University",
+      "totalContribution": 0.0625
+    }
+  ],
+  "authorsByUniversity": {
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Nguyen Thi Minh Hoa",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Languages and International Studies": [
+      {
+        "author": "Chu Thanh Van",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Khánh Minh",
+        "contribution": 0.2944983818770226,
+        "percent": 0.2912621359223301
+      },
+      {
+        "author": "Tran Xuan Hiep",
+        "contribution": 0.2552319309600863,
+        "percent": 0.2524271844660194
+      },
+      {
+        "author": "Tran Thai Bao",
+        "contribution": 0.19633225458468173,
+        "percent": 0.19417475728155337
+      },
+      {
+        "author": "Le Thi Ngoc Cam",
+        "contribution": 0.1472491909385113,
+        "percent": 0.14563106796116504
+      },
+      {
+        "author": "Duong Quang Tra",
+        "contribution": 0.058899676375404525,
+        "percent": 0.058252427184466014
+      },
+      {
+        "author": "Nguyen Quang Son",
+        "contribution": 0.058899676375404525,
+        "percent": 0.058252427184466014
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Nguyen Thi My Hanh",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "University of Education, Hue University": [
+      {
+        "author": "Nguyen Tuan Binh",
+        "contribution": 0.3290123456790124,
+        "percent": 0.7222222222222223
+      },
+      {
+        "author": "Tuan Binh Nguyen",
+        "contribution": 0.12654320987654322,
+        "percent": 0.2777777777777778
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Thu Phuong Nguyen",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Assoc. Prof, Dr. Nguyen Van Hiep",
+        "contribution": 0.14583333333333331,
+        "percent": 0.25
+      },
+      {
+        "author": "Assoc. Prof, Dr. Pham Ngoc Tram",
+        "contribution": 0.14583333333333331,
+        "percent": 0.25
+      },
+      {
+        "author": "Hiep Van Nguyen",
+        "contribution": 0.14583333333333331,
+        "percent": 0.25
+      },
+      {
+        "author": "Thinh Van Pham",
+        "contribution": 0.14583333333333331,
+        "percent": 0.25
+      }
+    ],
+    "Diplomatic Academy of Viet Nam": [
+      {
+        "author": "Nguyen Thi Thu Ha",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Achitectural University": [
+      {
+        "author": "Long T. Nguyen",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "University of Sciences, Hue University": [
+      {
+        "author": "Nguyen Viet Xuan",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Education - The University of Da Nang": [
+      {
+        "author": "Nguyen Van Sang",
+        "contribution": 0.36458333333333326,
+        "percent": 0.29166666666666663
+      },
+      {
+        "author": "Nguyen Duy Phuong",
+        "contribution": 0.3125,
+        "percent": 0.25
+      },
+      {
+        "author": "N. V. Sang",
+        "contribution": 0.15625,
+        "percent": 0.125
+      },
+      {
+        "author": "L. Trang",
+        "contribution": 0.15625,
+        "percent": 0.125
+      },
+      {
+        "author": "Luu Trang",
+        "contribution": 0.05208333333333333,
+        "percent": 0.041666666666666664
+      },
+      {
+        "author": "Phan Nguyen Huy Chinh",
+        "contribution": 0.05208333333333333,
+        "percent": 0.041666666666666664
+      },
+      {
+        "author": "Phan Truong Hoang My",
+        "contribution": 0.05208333333333333,
+        "percent": 0.041666666666666664
+      },
+      {
+        "author": "Nguyen Thi Kim Tien",
+        "contribution": 0.05208333333333333,
+        "percent": 0.041666666666666664
+      },
+      {
+        "author": "Nguyen Thi Hong Yen",
+        "contribution": 0.05208333333333333,
+        "percent": 0.041666666666666664
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Dinh Co Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Dong A University": [
+      {
+        "author": "Xuan Hiep Tran",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "The University of Da Nang": [
+      {
+        "author": "Nguyen Van Sang",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Thuongmai University": [
+      {
+        "author": "Dr. Tham Thi Hoang",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Social Sciences and Humanities": [
+      {
+        "author": "La Duy Tan",
+        "contribution": 0.14583333333333331,
+        "percent": 0.5
+      },
+      {
+        "author": "Luu Van Quyet",
+        "contribution": 0.14583333333333331,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Duc Hong Vo",
+        "contribution": 0.18253968253968256,
+        "percent": 0.5714285714285715
+      },
+      {
+        "author": "Nguyen Thi Hai Yen",
+        "contribution": 0.13690476190476192,
+        "percent": 0.42857142857142866
+      }
+    ],
+    "The Banking University of Ho Chi Minh City": [
+      {
+        "author": "Son Van Huynh",
+        "contribution": 0.19444444444444442,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Thang Cong Nguyen",
+        "contribution": 0.19444444444444442,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Bui Thi Huyen",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "University of Finance – Marketing": [
+      {
+        "author": "Le Thi My Hanh",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ho Chi Minh National Academy of Politics": {
+      "Human rights law": 0.6666666666666666,
+      "International relations": 0.6666666666666666,
+      "Diplomatic history": 0.6666666666666666
+    },
+    "VNU University of Languages and International Studies": {
+      "Political history": 0.3333333333333333,
+      "Diplomatic history": 0.3333333333333333,
+      "International relations": 0.3333333333333333
+    },
+    "Duy Tan University": {
+      "Military history": 0.2,
+      "Diplomatic history": 1.011111111111111,
+      "Political history": 0.5666666666666667,
+      "Social history": 0.2,
+      "Cultural history": 0.3666666666666667,
+      "International relations": 0.6444444444444444,
+      "Strategic studies": 0.4444444444444444
+    },
+    "Hanoi National University of Education": {
+      "Diplomatic history": 1.0,
+      "Political history": 1.0,
+      "International relations": 0.3333333333333333,
+      "Historiography": 0.6666666666666666
+    },
+    "University of Education, Hue University": {
+      "International relations": 0.28888888888888886,
+      "Diplomatic history": 0.45555555555555555,
+      "Strategic studies": 0.2222222222222222,
+      "Political history": 0.23333333333333334
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Diplomatic history": 0.6666666666666666,
+      "Political history": 0.6666666666666666,
+      "Historiography": 0.6666666666666666
+    },
+    "Thu Dau Mot University": {
+      "International relations": 0.5833333333333333,
+      "Strategic studies": 0.3333333333333333,
+      "Diplomatic history": 0.5833333333333333,
+      "Military history": 0.25,
+      "Political history": 0.25
+    },
+    "Diplomatic Academy of Viet Nam": {
+      "International relations": 0.6666666666666666,
+      "Strategic studies": 0.6666666666666666,
+      "Diplomatic history": 0.6666666666666666
+    },
+    "Hanoi Achitectural University": {
+      "Architecture": 0.0625,
+      "Art history": 0.0625,
+      "Cultural history": 0.0625,
+      "Diplomatic history": 0.0625
+    },
+    "University of Sciences, Hue University": {
+      "Military history": 0.3333333333333333,
+      "Diplomatic history": 0.3333333333333333,
+      "International relations": 0.3333333333333333
+    },
+    "University of Science and Education - The University of Da Nang": {
+      "Economic history": 0.5833333333333333,
+      "Diplomatic history": 1.25,
+      "Political history": 0.5833333333333333,
+      "Military history": 0.9166666666666665,
+      "International relations": 0.6666666666666666
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Diplomatic history": 0.16666666666666666,
+      "Political history": 0.16666666666666666
+    },
+    "Dong A University": {
+      "Diplomatic history": 0.16666666666666666,
+      "Political history": 0.16666666666666666
+    },
+    "The University of Da Nang": {
+      "Diplomatic history": 0.125,
+      "Political history": 0.125,
+      "International law": 0.125,
+      "International relations": 0.125
+    },
+    "Thuongmai University": {
+      "Diplomatic history": 0.3333333333333333,
+      "International relations": 0.3333333333333333,
+      "Political history": 0.3333333333333333
+    },
+    "VNUHCM - University of Social Sciences and Humanities": {
+      "Cultural history": 0.16666666666666666,
+      "Political history": 0.16666666666666666,
+      "Diplomatic history": 0.29166666666666663,
+      "International relations": 0.125,
+      "Political economy": 0.125,
+      "International Economics": 0.125
+    },
+    "Ho Chi Minh City Open University": {
+      "International relations": 0.3194444444444444,
+      "Nationalism studies": 0.3194444444444444,
+      "Diplomatic history": 0.3194444444444444,
+      "Political economy": 0.125,
+      "Strategic studies": 0.08333333333333333
+    },
+    "The Banking University of Ho Chi Minh City": {
+      "International relations": 0.19444444444444442,
+      "Nationalism studies": 0.19444444444444442,
+      "Diplomatic history": 0.19444444444444442,
+      "Strategic studies": 0.08333333333333333
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "International relations": 0.19444444444444442,
+      "Nationalism studies": 0.19444444444444442,
+      "Diplomatic history": 0.19444444444444442,
+      "Strategic studies": 0.08333333333333333
+    },
+    "University of Economics Ho Chi Minh City": {
+      "International relations": 0.125,
+      "Diplomatic history": 0.125,
+      "Political economy": 0.125,
+      "International Economics": 0.125
+    },
+    "University of Finance – Marketing": {
+      "International relations": 0.125,
+      "Diplomatic history": 0.125,
+      "Nationalism studies": 0.125,
+      "Political economy": 0.125
+    }
+  },
+  "totalPapers": 31334
+}

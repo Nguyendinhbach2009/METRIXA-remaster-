@@ -1,0 +1,460 @@
+{
+  "ranking": [
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "VNUHCM - An Giang University",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Academy of Politics - Public Administration Region I",
+      "totalContribution": 0.7083333333333333
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Vinh Long University of Technology Education",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Ho Chi Minh Cadre Academy",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Can Tho University of Medicine - Pharmacy",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Finance – Accounting",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "totalContribution": 0.3055555555555556
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "VNU University of Law",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Khanh Hoa University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "University of Law Ho Chi Minh City",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Van Hien University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "The Banking University of Ho Chi Minh City",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi University of Natural Resource and Environment",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh city University of Fine Arts",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Hoa Lu University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Ha Tinh University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Law Ho Chi Minh City": [
+      {
+        "author": "Nguyen Van Y",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Van Hien University": [
+      {
+        "author": "Huynh Van Giau",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Anh Quoc",
+        "contribution": 0.15277777777777782,
+        "percent": 0.5000000000000001
+      },
+      {
+        "author": "Nguyen Anh Thuong",
+        "contribution": 0.05092592592592594,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Dinh The Hoang",
+        "contribution": 0.05092592592592594,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Dinh Van Chien",
+        "contribution": 0.05092592592592594,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Tuyen Nguyen Thi Mong",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "The Banking University of Ho Chi Minh City": [
+      {
+        "author": "Dinh Tran Ngoc Huy",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Natural Resource and Environment": [
+      {
+        "author": "Bui Thi Thu",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Dinh Tran Ngoc Hien",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Politics - Public Administration Region I": [
+      {
+        "author": "Yen Hai Nguyen",
+        "contribution": 0.5666666666666667,
+        "percent": 0.8
+      },
+      {
+        "author": "Anh Thi Que Nguyen",
+        "contribution": 0.14166666666666666,
+        "percent": 0.2
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Pham Ngoc Tram",
+        "contribution": 0.5,
+        "percent": 0.75
+      },
+      {
+        "author": "Vo Hong An",
+        "contribution": 0.16666666666666666,
+        "percent": 0.25
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Le Trong Hung",
+        "contribution": 0.5555555555555555,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Kien Thi Pham",
+        "contribution": 0.27777777777777773,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "VNUHCM - An Giang University": [
+      {
+        "author": "Lê Thị Mỹ An",
+        "contribution": 0.8333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hoa Lu University": [
+      {
+        "author": "Pham Thanh Trung",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Ha Tinh University": [
+      {
+        "author": "Pham Huy Thong",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Nguyen Van Sang",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Vinh Long University of Technology Education": [
+      {
+        "author": "Le Thi Tam",
+        "contribution": 0.5833333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Law": [
+      {
+        "author": "Ngo Thi Minh Huong",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Vu Cong Giao",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh Cadre Academy": [
+      {
+        "author": "Ngoc Loi Pham",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University of Medicine - Pharmacy": [
+      {
+        "author": "Luong Thi Hoai Thanh",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Finance – Accounting": [
+      {
+        "author": "Do Thi Thuy Trang",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Le Thi Nhu Quỳnh",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "TRAN VAN DIEN",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Nguyễn Thị Minh",
+        "contribution": 0.5833333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh city University of Fine Arts": [
+      {
+        "author": "Nguyen Van Bung",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Khanh Hoa University": [
+      {
+        "author": "Vo Van Dung",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Dinh Thanh Tung",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Phung Thi An Na",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Law Ho Chi Minh City": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Philosophy of society": 0.08333333333333333,
+      "Political economy": 0.08333333333333333,
+      "Economic sociology": 0.08333333333333333
+    },
+    "Van Hien University": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Philosophy of society": 0.08333333333333333,
+      "Political economy": 0.08333333333333333,
+      "Economic sociology": 0.08333333333333333
+    },
+    "VNUHCM - University of Social Sciences and Humanities": {
+      "Political theory and philosophy": 0.3055555555555556,
+      "Philosophy of society": 0.3055555555555556,
+      "Political economy": 0.08333333333333333,
+      "Economic sociology": 0.08333333333333333,
+      "Political sociology": 0.2222222222222222
+    },
+    "Ho Chi Minh City Open University": {
+      "Political theory and philosophy": 0.6666666666666666,
+      "Political history": 0.6666666666666666,
+      "Nationalism studies": 0.6666666666666666
+    },
+    "The Banking University of Ho Chi Minh City": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333
+    },
+    "Hanoi University of Natural Resource and Environment": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Political theory and philosophy": 0.08333333333333333,
+      "Comparative politics": 0.08333333333333333,
+      "Policy analysis and Policy studies": 0.08333333333333333
+    },
+    "Academy of Politics - Public Administration Region I": {
+      "Gender and politics": 0.125,
+      "Public Administration": 0.7083333333333333,
+      "Political theory and philosophy": 0.7083333333333333,
+      "Educational leadership and administration": 0.7083333333333333,
+      "Adult and continuing education": 0.25
+    },
+    "Thu Dau Mot University": {
+      "Political theory and philosophy": 0.6666666666666666,
+      "Philosophy of society": 0.3333333333333333,
+      "Political history": 0.6666666666666666,
+      "Human rights law": 0.3333333333333333
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Philosophy of education": 0.3333333333333333,
+      "Political theory and philosophy": 0.8333333333333333,
+      "Sociology of education": 0.3333333333333333,
+      "Philosophy of environment": 0.5,
+      "Environmental sociology": 0.25,
+      "Cultural sociology": 0.25,
+      "Philosophy of society": 0.25,
+      "Environmental Psychology": 0.25
+    },
+    "VNUHCM - An Giang University": {
+      "Political history": 0.8333333333333333,
+      "Political theory and philosophy": 0.8333333333333333,
+      "Strategic studies": 0.3333333333333333
+    },
+    "Hoa Lu University": {
+      "Higher education": 0.05,
+      "Political theory and philosophy": 0.05,
+      "Curriculum and instruction": 0.05,
+      "Educational policy and reform": 0.05,
+      "Comparative and international education": 0.05
+    },
+    "Ha Tinh University": {
+      "Higher education": 0.05,
+      "Political theory and philosophy": 0.05,
+      "Curriculum and instruction": 0.05,
+      "Educational policy and reform": 0.05,
+      "Comparative and international education": 0.05
+    },
+    "Vinh University": {
+      "Higher education": 0.05,
+      "Political theory and philosophy": 0.05,
+      "Curriculum and instruction": 0.05,
+      "Educational policy and reform": 0.05,
+      "Comparative and international education": 0.05
+    },
+    "Vinh Long University of Technology Education": {
+      "Distance and online learning": 0.25,
+      "Educational technology": 0.25,
+      "Higher education": 0.25,
+      "Political theory and philosophy": 0.5833333333333333,
+      "Political history": 0.3333333333333333
+    },
+    "VNU University of Law": {
+      "Constitutional law": 0.16666666666666666,
+      "Human rights law": 0.16666666666666666,
+      "International law": 0.16666666666666666,
+      "Political theory and philosophy": 0.16666666666666666
+    },
+    "Ho Chi Minh Cadre Academy": {
+      "Political theory and philosophy": 0.3333333333333333,
+      "Political economy": 0.3333333333333333,
+      "Political history": 0.3333333333333333
+    },
+    "Can Tho University of Medicine - Pharmacy": {
+      "Political history": 0.3333333333333333,
+      "Political theory and philosophy": 0.3333333333333333
+    },
+    "University of Finance – Accounting": {
+      "Political theory and philosophy": 0.3333333333333333,
+      "Philosophy of history": 0.3333333333333333,
+      "Political history": 0.3333333333333333
+    },
+    "Dong Thap University": {
+      "Public Administration": 0.125,
+      "Political behavior": 0.125,
+      "Political sociology": 0.125,
+      "Political theory and philosophy": 0.125
+    },
+    "Ho Chi Minh City University of Education": {
+      "Literature": 0.5833333333333333,
+      "Gender and politics": 0.5833333333333333,
+      "Political theory and philosophy": 0.5833333333333333,
+      "Cultural history": 0.25
+    },
+    "Ho Chi Minh city University of Fine Arts": {
+      "Political theory and philosophy": 0.05555555555555555,
+      "Political sociology": 0.05555555555555555,
+      "Philosophy of society": 0.05555555555555555
+    },
+    "Khanh Hoa University": {
+      "Nationalism studies": 0.1111111111111111,
+      "Political theory and philosophy": 0.1111111111111111,
+      "Political history": 0.1111111111111111
+    },
+    "Ho Chi Minh National Academy of Politics": {
+      "Nationalism studies": 0.2222222222222222,
+      "Political theory and philosophy": 0.2222222222222222,
+      "Political history": 0.2222222222222222
+    }
+  },
+  "totalPapers": 31334
+}

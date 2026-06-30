@@ -1,0 +1,190 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.7666666666666666
+    },
+    {
+      "university": "University of Education - Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "National Institute of Nutrition",
+      "totalContribution": 0.1673611111111111
+    },
+    {
+      "university": "Thu Dau Mot University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "University of Medicine and Pharmacy - Thai Nguyen University",
+      "totalContribution": 0.084375
+    }
+  ],
+  "authorsByUniversity": {
+    "National Institute of Nutrition": [
+      {
+        "author": "Nga Hoang",
+        "contribution": 0.04781746031746032,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Phuong Huynh",
+        "contribution": 0.04781746031746032,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "Nga Thu Hoang",
+        "contribution": 0.03586309523809524,
+        "percent": 0.21428571428571433
+      },
+      {
+        "author": "Phuong Nam Huynh",
+        "contribution": 0.03586309523809524,
+        "percent": 0.21428571428571433
+      }
+    ],
+    "University of Education - Thai Nguyen University": [
+      {
+        "author": "Hang Nguyen Thi Thu",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Ninh Ngoc Anh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Ngo Thu Huyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Lanh Thi Quynh Chau",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Do Thi Linh",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Le Huy Cuong",
+        "contribution": 0.30666666666666664,
+        "percent": 0.4
+      },
+      {
+        "author": "Nguyen Thi Huong Giang",
+        "contribution": 0.30666666666666664,
+        "percent": 0.4
+      },
+      {
+        "author": "Nguyen Thi Hoai Nam",
+        "contribution": 0.15333333333333332,
+        "percent": 0.2
+      }
+    ],
+    "Thu Dau Mot University": [
+      {
+        "author": "Nguyen Minh Giam",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "University of Medicine and Pharmacy - Thai Nguyen University": [
+      {
+        "author": "Trang Huyen T Tran",
+        "contribution": 0.028125,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Duong Thuy T Truong",
+        "contribution": 0.028125,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Phuong H Nguyen",
+        "contribution": 0.028125,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Manh-Toan Ho",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Thanh-Huyen T Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Minh-Hoang Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Viet-Phuong La",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Quan-Hoang Vuong",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "National Institute of Nutrition": {
+      "Artificial intelligence": 0.1673611111111111,
+      "Human–computer interaction": 0.1673611111111111,
+      "Game design": 0.1673611111111111,
+      "Behavioral Economics": 0.025,
+      "Educational technology": 0.05625
+    },
+    "University of Education - Thai Nguyen University": {
+      "Educational technology": 0.3333333333333333,
+      "Game design": 0.3333333333333333,
+      "Elementary and secondary education": 0.3333333333333333
+    },
+    "Hanoi University of Science and Technology": {
+      "Educational technology": 0.7666666666666666,
+      "STEM education": 0.1,
+      "Artificial intelligence": 0.1,
+      "Game design": 0.7666666666666666,
+      "Curriculum and instruction": 0.1,
+      "Educational Psychology": 0.3333333333333333,
+      "Educational psychology": 0.3333333333333333
+    },
+    "Thu Dau Mot University": {
+      "Educational technology": 0.1,
+      "STEM education": 0.1,
+      "Artificial intelligence": 0.1,
+      "Game design": 0.1,
+      "Curriculum and instruction": 0.1
+    },
+    "University of Medicine and Pharmacy - Thai Nguyen University": {
+      "Artificial intelligence": 0.084375,
+      "Behavioral Economics": 0.037500000000000006,
+      "Game design": 0.084375,
+      "Human–computer interaction": 0.084375,
+      "Educational technology": 0.084375
+    },
+    "Phenikaa University": {
+      "Environmental Psychology": 0.3333333333333333,
+      "Game design": 0.3333333333333333,
+      "Human–computer interaction": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

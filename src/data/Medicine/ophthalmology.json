@@ -1,0 +1,151 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.41666666666666663
+    },
+    {
+      "university": "Pham Ngoc Thach University of Medicine",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Can Tho University of Medicine - Pharmacy",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Tan Tao University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.16666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "Duy Tan University": [
+      {
+        "author": "Huyen Do Phuc",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Cuong Tat Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Quyen Le Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Bach Xuan Tran",
+        "contribution": 0.17857142857142858,
+        "percent": 0.4285714285714286
+      },
+      {
+        "author": "Nguyen Do Thi Ngoc Hien",
+        "contribution": 0.11904761904761904,
+        "percent": 0.2857142857142857
+      },
+      {
+        "author": "Mai Quoc Tung",
+        "contribution": 0.11904761904761904,
+        "percent": 0.2857142857142857
+      }
+    ],
+    "Pham Ngoc Thach University of Medicine": [
+      {
+        "author": "Thanh Chi Do",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Hoang Tran Pham",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Can Tho University of Medicine - Pharmacy": [
+      {
+        "author": "Thao Huynh Phuong Do",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Dinh-Toi Chu",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Tan Tao University": [
+      {
+        "author": "Hong-Han Huynh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Trang D. T. Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Van Thanh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Duy Tan University": {
+      "Epidemiology": 0.25,
+      "Ophthalmology": 0.25,
+      "Public Health": 0.25
+    },
+    "Hanoi Medical University": {
+      "Epidemiology": 0.08333333333333333,
+      "Ophthalmology": 0.41666666666666663,
+      "Public Health": 0.08333333333333333
+    },
+    "Pham Ngoc Thach University of Medicine": {
+      "Ophthalmology": 0.3333333333333333,
+      "Epidemiology": 0.3333333333333333,
+      "Biostatistics": 0.3333333333333333
+    },
+    "Can Tho University of Medicine - Pharmacy": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    },
+    "Vietnam National University, Hanoi": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    },
+    "Tan Tao University": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    },
+    "University of Medicine and Pharmacy at Ho Chi Minh City": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

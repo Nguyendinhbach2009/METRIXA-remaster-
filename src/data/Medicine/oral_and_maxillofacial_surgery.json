@@ -1,0 +1,44 @@
+{
+  "ranking": [
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.125
+    }
+  ],
+  "authorsByUniversity": {
+    "Phenikaa University": [
+      {
+        "author": "Nguyen Viet Anh",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Khanh Ly",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Hoang Viet",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Phenikaa University": {
+      "Orthodontics": 0.25,
+      "Oral and Maxillofacial Surgery": 0.25
+    },
+    "Van Lang University": {
+      "Orthodontics": 0.125,
+      "Oral and Maxillofacial Surgery": 0.125
+    }
+  },
+  "totalPapers": 31334
+}

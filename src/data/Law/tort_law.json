@@ -1,0 +1,25 @@
+{
+  "ranking": [
+    {
+      "university": "Hanoi Law University",
+      "totalContribution": 0.3333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi Law University": [
+      {
+        "author": "Vu Thi Duyen Thuy",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hanoi Law University": {
+      "Environmental law": 0.3333333333333333,
+      "Comparative law": 0.3333333333333333,
+      "Tort law": 0.3333333333333333
+    }
+  },
+  "totalPapers": 31334
+}

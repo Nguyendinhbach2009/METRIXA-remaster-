@@ -1,0 +1,392 @@
+{
+  "ranking": [
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 1.6944444444444442
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.6175925925925925
+    },
+    {
+      "university": "Nguyen Tat Thanh University",
+      "totalContribution": 0.5055555555555555
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.49999999999999994
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.38888888888888884
+    },
+    {
+      "university": "Pham Ngoc Thach University of Medicine",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Can Tho University of Medicine - Pharmacy",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Tan Tao University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hai Phong Medical University",
+      "totalContribution": 0.14285714285714285
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi University of Public Health",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Vinh Medical University",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "National Institute of Malariology Parasitology and Entomology",
+      "totalContribution": 0.05555555555555555
+    }
+  ],
+  "authorsByUniversity": {
+    "Hai Phong Medical University": [
+      {
+        "author": "Thanh Hai Nguyen",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi Giang Hoang",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Minh Khue Pham",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Bach Xuan Tran",
+        "contribution": 0.31839325614462716,
+        "percent": 0.5155393053016453
+      },
+      {
+        "author": "Le Thi Huong",
+        "contribution": 0.09032432798429138,
+        "percent": 0.1462522851919561
+      },
+      {
+        "author": "Le Thi Thanh Xuan",
+        "contribution": 0.09032432798429138,
+        "percent": 0.1462522851919561
+      },
+      {
+        "author": "Bach X Tran",
+        "contribution": 0.06774324598821854,
+        "percent": 0.10968921389396707
+      },
+      {
+        "author": "Osman A Sankoh",
+        "contribution": 0.05080743449116391,
+        "percent": 0.0822669104204753
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Anh Kim Dang",
+        "contribution": 0.4149659863945578,
+        "percent": 0.2448979591836735
+      },
+      {
+        "author": "Cuong Tat Nguyen",
+        "contribution": 0.242063492063492,
+        "percent": 0.14285714285714285
+      },
+      {
+        "author": "Quyen Le Nguyen",
+        "contribution": 0.17290249433106572,
+        "percent": 0.1020408163265306
+      },
+      {
+        "author": "Huyen Do Phuc",
+        "contribution": 0.10374149659863945,
+        "percent": 0.06122448979591837
+      },
+      {
+        "author": "Linh Phuong Doan",
+        "contribution": 0.10374149659863945,
+        "percent": 0.06122448979591837
+      },
+      {
+        "author": "Linh Gia Vu",
+        "contribution": 0.10374149659863945,
+        "percent": 0.06122448979591837
+      },
+      {
+        "author": "Huong Lan Thi Nguyen",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Hai Quang Pham",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Huyen Phuc Do",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Trang Huyen Nguyen",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Vuong Minh Nong",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Cuong T Nguyen",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Huong L T Nguyen",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      },
+      {
+        "author": "Mehdi Hosseinzadeh",
+        "contribution": 0.06916099773242629,
+        "percent": 0.04081632653061224
+      }
+    ],
+    "Hanoi University of Public Health": [
+      {
+        "author": "Ha Thu Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Nguyen Tat Thanh University": [
+      {
+        "author": "Son Hoang Nguyen",
+        "contribution": 0.19225352112676056,
+        "percent": 0.38028169014084506
+      },
+      {
+        "author": "Long Hoang Nguyen",
+        "contribution": 0.08544600938967137,
+        "percent": 0.16901408450704228
+      },
+      {
+        "author": "Nam Ba Nguyen",
+        "contribution": 0.08544600938967137,
+        "percent": 0.16901408450704228
+      },
+      {
+        "author": "Chi Linh Hoang",
+        "contribution": 0.07120500782472614,
+        "percent": 0.14084507042253522
+      },
+      {
+        "author": "Giang T Vu",
+        "contribution": 0.07120500782472614,
+        "percent": 0.14084507042253522
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Trang D. T. Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.2142857142857143
+      },
+      {
+        "author": "Van Thanh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.2142857142857143
+      },
+      {
+        "author": "Luan Thanh Nguyen",
+        "contribution": 0.05555555555555555,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Kien Gia To",
+        "contribution": 0.05555555555555555,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Tuan Nhat Pham",
+        "contribution": 0.05555555555555555,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Truc Thanh Thai",
+        "contribution": 0.05555555555555555,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Vinh Medical University": [
+      {
+        "author": "Sinh CT",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "National Institute of Malariology Parasitology and Entomology": [
+      {
+        "author": "Loi CB",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Dinh-Toi Chu",
+        "contribution": 0.2222222222222222,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Bay Vo",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Pham Ngoc Thach University of Medicine": [
+      {
+        "author": "Thanh Chi Do",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Hoang Tran Pham",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Can Tho University of Medicine - Pharmacy": [
+      {
+        "author": "Thao Huynh Phuong Do",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Dinh-Toi Chu",
+        "contribution": 0.5,
+        "percent": 1.0000000000000002
+      }
+    ],
+    "Tan Tao University": [
+      {
+        "author": "Hong-Han Huynh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Hai Phong Medical University": {
+      "Nursing": 0.14285714285714285,
+      "Epidemiology": 0.14285714285714285,
+      "Occupational Medicine": 0.14285714285714285
+    },
+    "Hanoi Medical University": {
+      "Epidemiology": 0.6175925925925925,
+      "Biostatistics": 0.21944444444444444,
+      "Demography": 0.21944444444444444,
+      "Ophthalmology": 0.08333333333333333,
+      "Public Health": 0.15740740740740738,
+      "Nutrition": 0.14814814814814814,
+      "Dietetics": 0.07407407407407407
+    },
+    "Duy Tan University": {
+      "Epidemiology": 1.6944444444444442,
+      "Ophthalmology": 0.25,
+      "Public Health": 0.41666666666666663,
+      "Demography": 0.7777777777777779,
+      "Biostatistics": 0.44444444444444453,
+      "Global Health": 0.3333333333333333,
+      "Urology": 0.16666666666666666
+    },
+    "Hanoi University of Public Health": {
+      "Epidemiology": 0.06666666666666667,
+      "Biostatistics": 0.06666666666666667,
+      "Demography": 0.06666666666666667
+    },
+    "Nguyen Tat Thanh University": {
+      "Epidemiology": 0.5055555555555555,
+      "Biostatistics": 0.25555555555555554,
+      "Demography": 0.25555555555555554,
+      "Urology": 0.08333333333333333,
+      "Public Health": 0.08333333333333333
+    },
+    "University of Medicine and Pharmacy at Ho Chi Minh City": {
+      "Epidemiology": 0.38888888888888884,
+      "Geriatrics": 0.2222222222222222,
+      "Nursing": 0.2222222222222222,
+      "Ophthalmology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    },
+    "Vinh Medical University": {
+      "Orthopedics": 0.05555555555555555,
+      "Geriatrics": 0.05555555555555555,
+      "Epidemiology": 0.05555555555555555
+    },
+    "National Institute of Malariology Parasitology and Entomology": {
+      "Orthopedics": 0.05555555555555555,
+      "Geriatrics": 0.05555555555555555,
+      "Epidemiology": 0.05555555555555555
+    },
+    "Hanoi National University of Education": {
+      "Epidemiology": 0.2222222222222222,
+      "Biostatistics": 0.05555555555555555,
+      "Demography": 0.05555555555555555
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Urology": 0.08333333333333333,
+      "Epidemiology": 0.08333333333333333,
+      "Public Health": 0.08333333333333333
+    },
+    "Pham Ngoc Thach University of Medicine": {
+      "Ophthalmology": 0.3333333333333333,
+      "Epidemiology": 0.3333333333333333,
+      "Biostatistics": 0.3333333333333333
+    },
+    "Can Tho University of Medicine - Pharmacy": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    },
+    "Vietnam National University, Hanoi": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.49999999999999994,
+      "Biostatistics": 0.16666666666666666,
+      "Public Health": 0.3333333333333333,
+      "Health Policy": 0.3333333333333333
+    },
+    "Tan Tao University": {
+      "Ophthalmology": 0.16666666666666666,
+      "Epidemiology": 0.16666666666666666,
+      "Biostatistics": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

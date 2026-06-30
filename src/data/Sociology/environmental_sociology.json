@@ -1,0 +1,239 @@
+{
+  "ranking": [
+    {
+      "university": "VNUHCM - An Giang University",
+      "totalContribution": 0.43333333333333335
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "University of Economic and Business Administration - Thai Nguyen University",
+      "totalContribution": 0.225
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Water Resources University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Sciences - Thai Nguyen University",
+      "totalContribution": 0.1125
+    },
+    {
+      "university": "National Academy of Public Administration",
+      "totalContribution": 0.1125
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Fulbright University Vietnam",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Agriculture and Forestry, Hue University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "National Institute of Hygiene and Epidemiology",
+      "totalContribution": 0.0625
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Le Trong Hung",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "University of Agriculture and Forestry, Hue University": [
+      {
+        "author": "Ty Huu Pham",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Fulbright University Vietnam": [
+      {
+        "author": "Thong Anh Tran",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - An Giang University": [
+      {
+        "author": "Thanh Duy Vo",
+        "contribution": 0.2363636363636364,
+        "percent": 0.5454545454545455
+      },
+      {
+        "author": "Phu Xuan Pham",
+        "contribution": 0.1181818181818182,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Phong Thanh Le",
+        "contribution": 0.0787878787878788,
+        "percent": 0.18181818181818182
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Dinh Lo Dinh",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "De Ngoc Nguyen",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "National Institute of Hygiene and Epidemiology": [
+      {
+        "author": "Vu Dinh Thiem",
+        "contribution": 0.0625,
+        "percent": 1.0
+      }
+    ],
+    "University of Economic and Business Administration - Thai Nguyen University": [
+      {
+        "author": "Thi Tan Huong Ngo",
+        "contribution": 0.1125,
+        "percent": 0.5
+      },
+      {
+        "author": "Thi Huong Duong",
+        "contribution": 0.1125,
+        "percent": 0.5
+      }
+    ],
+    "University of Sciences - Thai Nguyen University": [
+      {
+        "author": "Thi Phuong Mai Nguyen",
+        "contribution": 0.1125,
+        "percent": 1.0
+      }
+    ],
+    "National Academy of Public Administration": [
+      {
+        "author": "Thi Hue Ly",
+        "contribution": 0.1125,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Thi Thu Ha Chu",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Water Resources University": [
+      {
+        "author": "Tung Hoa Dang",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "University of Economics Ho Chi Minh City": {
+      "Philosophy of environment": 0.25,
+      "Political theory and philosophy": 0.25,
+      "Environmental sociology": 0.25,
+      "Cultural sociology": 0.25
+    },
+    "University of Agriculture and Forestry, Hue University": {
+      "Human geography": 0.06666666666666667,
+      "Environmental sociology": 0.06666666666666667,
+      "Development studies": 0.06666666666666667,
+      "Environmental Policy and Planning": 0.06666666666666667,
+      "Natural Resource Management": 0.06666666666666667
+    },
+    "Fulbright University Vietnam": {
+      "Cultural geography": 0.08333333333333333,
+      "Environmental geography": 0.041666666666666664,
+      "Human geography": 0.08333333333333333,
+      "Environmental sociology": 0.08333333333333333,
+      "Environmental history": 0.041666666666666664
+    },
+    "VNUHCM - An Giang University": {
+      "Cultural geography": 0.08333333333333333,
+      "Environmental geography": 0.041666666666666664,
+      "Human geography": 0.43333333333333335,
+      "Environmental sociology": 0.43333333333333335,
+      "Development studies": 0.35,
+      "Natural Resource Management": 0.1,
+      "Sustainability Science": 0.1,
+      "Economic geography": 0.25,
+      "Environmental history": 0.041666666666666664
+    },
+    "FPT University": {
+      "Transportation geography": 0.2,
+      "Urban geography": 0.2,
+      "Atmospheric Science": 0.2,
+      "Urban Environmental Studies": 0.2,
+      "Environmental sociology": 0.2
+    },
+    "Can Tho University": {
+      "Development studies": 0.1,
+      "Environmental sociology": 0.1,
+      "Human geography": 0.1,
+      "Natural Resource Management": 0.1,
+      "Sustainability Science": 0.1
+    },
+    "National Institute of Hygiene and Epidemiology": {
+      "Medical sociology": 0.0625,
+      "Sociology of health and illness": 0.0625,
+      "Environmental sociology": 0.0625,
+      "Environmental Health": 0.0625
+    },
+    "University of Economic and Business Administration - Thai Nguyen University": {
+      "Cultural geography": 0.225,
+      "Human geography": 0.1,
+      "Environmental sociology": 0.225,
+      "Sustainability Science": 0.225,
+      "Natural Resource Management": 0.225
+    },
+    "University of Sciences - Thai Nguyen University": {
+      "Cultural geography": 0.1125,
+      "Human geography": 0.05,
+      "Environmental sociology": 0.1125,
+      "Sustainability Science": 0.1125,
+      "Natural Resource Management": 0.1125
+    },
+    "National Academy of Public Administration": {
+      "Cultural geography": 0.1125,
+      "Human geography": 0.05,
+      "Environmental sociology": 0.1125,
+      "Sustainability Science": 0.1125,
+      "Natural Resource Management": 0.1125
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Environmental Policy and Planning": 0.3333333333333333,
+      "Environmental law": 0.3333333333333333,
+      "Environmental sociology": 0.3333333333333333
+    },
+    "Water Resources University": {
+      "Environmental sociology": 0.125,
+      "Gender sociology": 0.125,
+      "Sustainability Science": 0.125,
+      "Environmental Policy and Planning": 0.125
+    }
+  },
+  "totalPapers": 31334
+}

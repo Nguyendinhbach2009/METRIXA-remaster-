@@ -1,0 +1,1001 @@
+{
+  "ranking": [
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 1.5999999999999996
+    },
+    {
+      "university": "Thuongmai University",
+      "totalContribution": 1.3499999999999999
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 1.1833333333333333
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.6458333333333333
+    },
+    {
+      "university": "University of Finance – Marketing",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ho Chi Minh City University of Transport",
+      "totalContribution": 0.4583333333333334
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.34222222222222215
+    },
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Labour and Social Affairs",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Electric Power University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "VNUHCM - University of Technology",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "National Economic University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Hung Yen University of Technology and Education",
+      "totalContribution": 0.21428571428571425
+    },
+    {
+      "university": "Lac Hong University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Water Resources University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "VNU Vietnam - Japan University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Economic and Business Administration - Thai Nguyen University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "VNU University of Social Sciences and Humanities",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "VNU University of Economics and Business",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "National University of Arts Education",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "VNUHCM - University of Science",
+      "totalContribution": 0.15000000000000002
+    },
+    {
+      "university": "Thang Long University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Vietnam Maritime University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "University of Information and Communication Technology - Thai Nguyen University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "VNUHCM - University of Economics and Law",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "University of Science and Technology of Hanoi",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "The Royal Melbourne Institute of Technology University in Vietnam",
+      "totalContribution": 0.08
+    },
+    {
+      "university": "Posts and Telecommunications Institute of Technology",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Hoa Sen University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Can Tho University of Technology",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "University of Science and Technology - The University of Da Nang",
+      "totalContribution": 0.05
+    }
+  ],
+  "authorsByUniversity": {
+    "Ton Duc Thang University": [
+      {
+        "author": "Kittisak Jermsittiparsert",
+        "contribution": 0.16666666666666666,
+        "percent": 0.75
+      },
+      {
+        "author": "Chen Tim",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      }
+    ],
+    "Thuongmai University": [
+      {
+        "author": "Vu Thi Thu Huyen",
+        "contribution": 0.45,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "Ha Le Viet",
+        "contribution": 0.225,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Huu Dang Quoc",
+        "contribution": 0.225,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Hung NguyenThanh",
+        "contribution": 0.075,
+        "percent": 0.05555555555555556
+      },
+      {
+        "author": "Minh Thanh Do",
+        "contribution": 0.075,
+        "percent": 0.05555555555555556
+      },
+      {
+        "author": "Quang Trong Vu",
+        "contribution": 0.075,
+        "percent": 0.05555555555555556
+      },
+      {
+        "author": "Bui Quang Truong",
+        "contribution": 0.075,
+        "percent": 0.05555555555555556
+      },
+      {
+        "author": "Nguyen Thi Thuy Van",
+        "contribution": 0.075,
+        "percent": 0.05555555555555556
+      },
+      {
+        "author": "Nguyen Thi Nguyet Que",
+        "contribution": 0.075,
+        "percent": 0.05555555555555556
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Nguyen Thi Thanh DAN",
+        "contribution": 0.2610294117647059,
+        "percent": 0.22058823529411767
+      },
+      {
+        "author": "Nguyen Quang CHUONG",
+        "contribution": 0.2610294117647059,
+        "percent": 0.22058823529411767
+      },
+      {
+        "author": "Pham Thi Thanh HONG",
+        "contribution": 0.13051470588235295,
+        "percent": 0.11029411764705883
+      },
+      {
+        "author": "Hoang Van DONG",
+        "contribution": 0.13051470588235295,
+        "percent": 0.11029411764705883
+      },
+      {
+        "author": "Doan Van Dinh",
+        "contribution": 0.13051470588235295,
+        "percent": 0.11029411764705883
+      },
+      {
+        "author": "Vu Thi Duom",
+        "contribution": 0.13051470588235295,
+        "percent": 0.11029411764705883
+      },
+      {
+        "author": "Duc-Minh Ngo",
+        "contribution": 0.08700980392156862,
+        "percent": 0.07352941176470588
+      },
+      {
+        "author": "Tuan Anh Nguyen",
+        "contribution": 0.052205882352941185,
+        "percent": 0.04411764705882354
+      }
+    ],
+    "University of Finance – Marketing": [
+      {
+        "author": "Trung Kim Quoc Nguyen",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Kim Quoc Trung Nguyen",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Hang Minh Nguyen",
+        "contribution": 0.125,
+        "percent": 0.25
+      }
+    ],
+    "Thang Long University": [
+      {
+        "author": "Thi Thuy Nguyen",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Nguyen Thuy Quynh Loan",
+        "contribution": 0.5052631578947367,
+        "percent": 0.31578947368421056
+      },
+      {
+        "author": "Nguyen Thi Duc Nguyen",
+        "contribution": 0.2526315789473684,
+        "percent": 0.15789473684210528
+      },
+      {
+        "author": "Do Tri Dang",
+        "contribution": 0.16842105263157892,
+        "percent": 0.10526315789473685
+      },
+      {
+        "author": "Huynh Thi Phuong Lan",
+        "contribution": 0.16842105263157892,
+        "percent": 0.10526315789473685
+      },
+      {
+        "author": "Bui Nguyen Hung",
+        "contribution": 0.08421052631578946,
+        "percent": 0.052631578947368425
+      },
+      {
+        "author": "Le Phuoc Luong",
+        "contribution": 0.08421052631578946,
+        "percent": 0.052631578947368425
+      },
+      {
+        "author": "Hieu Nguyen",
+        "contribution": 0.08421052631578946,
+        "percent": 0.052631578947368425
+      },
+      {
+        "author": "Duy Ly-Anh",
+        "contribution": 0.050526315789473676,
+        "percent": 0.031578947368421054
+      },
+      {
+        "author": "An Phan-Hoang",
+        "contribution": 0.050526315789473676,
+        "percent": 0.031578947368421054
+      },
+      {
+        "author": "Dung Le-Phuong",
+        "contribution": 0.050526315789473676,
+        "percent": 0.031578947368421054
+      },
+      {
+        "author": "Quynh-Lam Ngoc-Le",
+        "contribution": 0.050526315789473676,
+        "percent": 0.031578947368421054
+      },
+      {
+        "author": "Do Ngoc Hien",
+        "contribution": 0.050526315789473676,
+        "percent": 0.031578947368421054
+      }
+    ],
+    "Vietnam Maritime University": [
+      {
+        "author": "Tuan-Anh Tran",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University of Technology": [
+      {
+        "author": "Hai Trieu Le",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Nguyen Thi Binh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Le Tram Anh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Tran Thu Thao",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Luu Thanh Truc",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "National Economic University": [
+      {
+        "author": "Thi Minh Phuong Nguyen",
+        "contribution": 0.15000000000000002,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Nguyen Thi Cam Van",
+        "contribution": 0.1,
+        "percent": 0.4
+      }
+    ],
+    "Water Resources University": [
+      {
+        "author": "Thi Hai Chau Ngo",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "VNU Vietnam - Japan University": [
+      {
+        "author": "Dang Quang Vinh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Trinh Le Tan",
+        "contribution": 0.2583333333333333,
+        "percent": 0.4
+      },
+      {
+        "author": "Dao Thi Dai Trang",
+        "contribution": 0.2583333333333333,
+        "percent": 0.4
+      },
+      {
+        "author": "Perfecto G. Aquino",
+        "contribution": 0.06458333333333333,
+        "percent": 0.1
+      },
+      {
+        "author": "Amir Mosavi",
+        "contribution": 0.06458333333333333,
+        "percent": 0.1
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Nguyen Manh Tuan",
+        "contribution": 0.09005847953216373,
+        "percent": 0.2631578947368421
+      },
+      {
+        "author": "Nguyen Quoc Hung",
+        "contribution": 0.09005847953216373,
+        "percent": 0.2631578947368421
+      },
+      {
+        "author": "Vu Minh Ngo",
+        "contribution": 0.05403508771929824,
+        "percent": 0.15789473684210528
+      },
+      {
+        "author": "Huan Huu Nguyen",
+        "contribution": 0.05403508771929824,
+        "percent": 0.15789473684210528
+      },
+      {
+        "author": "Phuc Vinh Dang Truong",
+        "contribution": 0.05403508771929824,
+        "percent": 0.15789473684210528
+      }
+    ],
+    "University of Information and Communication Technology - Thai Nguyen University": [
+      {
+        "author": "Nguyen Thi Hang",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Transport": [
+      {
+        "author": "Tuan Anh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.18181818181818177
+      },
+      {
+        "author": "Tu Anh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.18181818181818177
+      },
+      {
+        "author": "The Van Tran",
+        "contribution": 0.08333333333333333,
+        "percent": 0.18181818181818177
+      },
+      {
+        "author": "Ho Thi Thu Hoa",
+        "contribution": 0.041666666666666664,
+        "percent": 0.09090909090909088
+      },
+      {
+        "author": "Nguyen Van Khoang",
+        "contribution": 0.041666666666666664,
+        "percent": 0.09090909090909088
+      },
+      {
+        "author": "Tran Quang Dao",
+        "contribution": 0.041666666666666664,
+        "percent": 0.09090909090909088
+      },
+      {
+        "author": "Chu Thi Hue",
+        "contribution": 0.041666666666666664,
+        "percent": 0.09090909090909088
+      },
+      {
+        "author": "Nguyen Huynh Luu Phuong",
+        "contribution": 0.041666666666666664,
+        "percent": 0.09090909090909088
+      }
+    ],
+    "Posts and Telecommunications Institute of Technology": [
+      {
+        "author": "Long Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "University of Labour and Social Affairs": [
+      {
+        "author": "Nguyen Zen Nguyen",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi Lien Ngo",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Van Thieu Pham",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Viet Tinh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Syed Tam Husain",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Electric Power University": [
+      {
+        "author": "Nguyen Dat Minh",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Duong Trung Kien",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "The Royal Melbourne Institute of Technology University in Vietnam": [
+      {
+        "author": "Hiep Cong Pham",
+        "contribution": 0.04,
+        "percent": 0.5
+      },
+      {
+        "author": "Hung Manh Nguyen",
+        "contribution": 0.04,
+        "percent": 0.5
+      }
+    ],
+    "Lac Hong University": [
+      {
+        "author": "Thanh-Lam Nguyen",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang": [
+      {
+        "author": "Tran Thien Vu",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Economics and Law": [
+      {
+        "author": "Hue Hoang Hong Trinh",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Technology - The University of Da Nang": [
+      {
+        "author": "Nguyen Anh Khoa Dam",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "VNUHCM - University of Science": [
+      {
+        "author": "Chan Nam Nguyen",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi My Hang Vu",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Cuong Pham",
+        "contribution": 0.05,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Vu Quoc Thong",
+        "contribution": 0.6666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hung Yen University of Technology and Education": [
+      {
+        "author": "Le Xuan Hung",
+        "contribution": 0.16666666666666666,
+        "percent": 0.7777777777777779
+      },
+      {
+        "author": "Minh-Tien Nguyen",
+        "contribution": 0.047619047619047616,
+        "percent": 0.22222222222222224
+      }
+    ],
+    "Hoa Sen University": [
+      {
+        "author": "Phung Thai Minh Trang",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "University of Economic and Business Administration - Thai Nguyen University": [
+      {
+        "author": "Vũ Thị Hậu",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Nguyen Thi Hang",
+        "contribution": 0.2,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Technology of Hanoi": [
+      {
+        "author": "Nguyen-Tuan-Thanh Le",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Tuong-Vinh Ho",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Phenikaa University": [
+      {
+        "author": "Quan-Hoang Vuong",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Manh-Toan Ho",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "VNU University of Social Sciences and Humanities": [
+      {
+        "author": "Nguyen Ngoc Dung",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Economics and Business": [
+      {
+        "author": "Minh Hue Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Anh Chi Phan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "VNUHCM - University of Technology": [
+      {
+        "author": "Nguyen Thi Duc Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Vinh Phuc Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Hiep Thanh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Lan Thi Phuong Huynh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "National University of Arts Education": [
+      {
+        "author": "Nguyen Kieu Oanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Nguyen Thi Hong Thuy",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ton Duc Thang University": {
+      "Operations Management": 0.16666666666666666,
+      "Supply Chain and Logistics": 0.16666666666666666,
+      "Business Process Management": 0.2222222222222222,
+      "Software Engineering": 0.05555555555555555,
+      "Business Information Systems": 0.05555555555555555
+    },
+    "Thuongmai University": {
+      "Supply Chain and Logistics": 0.4,
+      "Business Information Systems": 0.7333333333333333,
+      "Operations Management": 0.5333333333333333,
+      "Innovation and Technology Management": 0.4833333333333333,
+      "Business Process Management": 1.3499999999999999,
+      "Accounting": 0.3333333333333333,
+      "Business Analytics": 0.08333333333333333,
+      "Artificial Intelligence": 0.08333333333333333,
+      "Hospitality and Tourism Management": 0.4,
+      "Business Strategy": 0.5333333333333333,
+      "Marketing": 0.4,
+      "Organizational Behavior": 0.4,
+      "Management": 0.13333333333333333,
+      "Corporate Governance": 0.13333333333333333
+    },
+    "Hanoi University of Science and Technology": {
+      "Business Process Management": 1.1833333333333333,
+      "Business Strategy": 0.7999999999999999,
+      "Marketing": 0.3333333333333333,
+      "Business Information Systems": 0.05,
+      "Supply Chain and Logistics": 0.6166666666666667,
+      "Software Engineering": 0.05,
+      "Operations Management": 0.7999999999999999,
+      "Organizational Behavior": 0.06666666666666667,
+      "Entrepreneurship": 0.06666666666666667,
+      "Innovation and Technology Management": 0.4,
+      "Industrial Engineering": 0.16666666666666666
+    },
+    "University of Finance – Marketing": {
+      "Finance": 0.25,
+      "Business Strategy": 0.25,
+      "Operations Management": 0.5,
+      "Business Process Management": 0.5,
+      "Supply Chain and Logistics": 0.25,
+      "Business Information Systems": 0.25
+    },
+    "Thang Long University": {
+      "Business Information Systems": 0.125,
+      "Marketing": 0.125,
+      "Innovation and Technology Management": 0.125,
+      "Business Process Management": 0.125
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Operations Management": 1.5999999999999996,
+      "Business Process Management": 1.5999999999999996,
+      "Business Strategy": 0.26666666666666666,
+      "Industrial Engineering": 1.0333333333333332,
+      "Supply Chain and Logistics": 0.7,
+      "Organizational Behavior": 0.8166666666666667,
+      "Entrepreneurship": 0.06666666666666667,
+      "Management": 0.25
+    },
+    "Vietnam Maritime University": {
+      "Industrial Engineering": 0.1111111111111111,
+      "Operations Management": 0.1111111111111111,
+      "Business Process Management": 0.1111111111111111
+    },
+    "Can Tho University of Technology": {
+      "Business Information Systems": 0.05,
+      "Supply Chain and Logistics": 0.05,
+      "Software Engineering": 0.05,
+      "Business Process Management": 0.05
+    },
+    "Foreign Trade University": {
+      "Supply Chain and Logistics": 0.3333333333333333,
+      "Operations Management": 0.3333333333333333,
+      "Business Process Management": 0.3333333333333333
+    },
+    "National Economic University": {
+      "Accounting": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.25,
+      "Business Analytics": 0.08333333333333333,
+      "Artificial Intelligence": 0.08333333333333333,
+      "Innovation and Technology Management": 0.08333333333333333
+    },
+    "Water Resources University": {
+      "Accounting": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666
+    },
+    "VNU Vietnam - Japan University": {
+      "Management": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666
+    },
+    "Duy Tan University": {
+      "Public Administration": 0.0625,
+      "Operations Management": 0.2625,
+      "Business Process Management": 0.6458333333333333,
+      "Business Information Systems": 0.5958333333333333,
+      "Marketing": 0.3333333333333333,
+      "Business Strategy": 0.05,
+      "Sustainability Science": 0.05,
+      "Business Ethics and Social Responsibility": 0.05,
+      "Finance": 0.05,
+      "Supply Chain and Logistics": 0.2,
+      "Innovation and Technology Management": 0.2
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Accounting": 0.2222222222222222,
+      "Business Information Systems": 0.34222222222222215,
+      "Business Process Management": 0.34222222222222215,
+      "Supply Chain and Logistics": 0.12,
+      "Operations Management": 0.12,
+      "Innovation and Technology Management": 0.12
+    },
+    "University of Information and Communication Technology - Thai Nguyen University": {
+      "Accounting": 0.1111111111111111,
+      "Business Information Systems": 0.1111111111111111,
+      "Business Process Management": 0.1111111111111111
+    },
+    "Ho Chi Minh City University of Transport": {
+      "Civil Engineering": 0.25,
+      "Architectural Engineering": 0.25,
+      "Business Process Management": 0.4583333333333334,
+      "Operations Management": 0.4583333333333334,
+      "Supply Chain and Logistics": 0.20833333333333331,
+      "Systems Engineering": 0.20833333333333331
+    },
+    "Posts and Telecommunications Institute of Technology": {
+      "Business Process Management": 0.06666666666666667,
+      "Operations Management": 0.06666666666666667,
+      "Organizational Behavior": 0.06666666666666667,
+      "Business Strategy": 0.06666666666666667,
+      "Entrepreneurship": 0.06666666666666667
+    },
+    "University of Labour and Social Affairs": {
+      "Operations Management": 0.3333333333333333,
+      "Business Process Management": 0.3333333333333333,
+      "Marketing": 0.3333333333333333
+    },
+    "Van Lang University": {
+      "Supply Chain and Logistics": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666
+    },
+    "Electric Power University": {
+      "Operations Management": 0.3333333333333333,
+      "Business Process Management": 0.3333333333333333,
+      "Industrial Engineering": 0.3333333333333333
+    },
+    "The Royal Melbourne Institute of Technology University in Vietnam": {
+      "Supply Chain and Logistics": 0.08,
+      "Operations Management": 0.08,
+      "Business Process Management": 0.08,
+      "Innovation and Technology Management": 0.08,
+      "Business Information Systems": 0.08
+    },
+    "Lac Hong University": {
+      "Business Process Management": 0.2,
+      "Operations Management": 0.2,
+      "Organizational Behavior": 0.2,
+      "Business Strategy": 0.2,
+      "Entrepreneurship": 0.2
+    },
+    "Vietnam - Korea University of Information and Communication Technology - The University of Da Nang": {
+      "Supply Chain and Logistics": 0.1,
+      "Sustainability Science": 0.1,
+      "Agricultural and Natural Resource Economics": 0.1,
+      "Business Process Management": 0.1,
+      "Environmental Policy and Planning": 0.1
+    },
+    "VNUHCM - University of Economics and Law": {
+      "Supply Chain and Logistics": 0.1,
+      "Sustainability Science": 0.1,
+      "Agricultural and Natural Resource Economics": 0.1,
+      "Business Process Management": 0.1,
+      "Environmental Policy and Planning": 0.1
+    },
+    "University of Science and Technology - The University of Da Nang": {
+      "Business Analytics": 0.05,
+      "Data Science": 0.05,
+      "Business Information Systems": 0.05,
+      "Business Process Management": 0.05
+    },
+    "VNUHCM - University of Science": {
+      "Business Analytics": 0.15000000000000002,
+      "Data Science": 0.15000000000000002,
+      "Business Information Systems": 0.15000000000000002,
+      "Business Process Management": 0.15000000000000002
+    },
+    "Ho Chi Minh City Open University": {
+      "Accounting": 0.6666666666666666,
+      "Business Information Systems": 0.6666666666666666,
+      "Business Process Management": 0.6666666666666666
+    },
+    "Hung Yen University of Technology and Education": {
+      "Artificial intelligence": 0.047619047619047616,
+      "Data Science": 0.047619047619047616,
+      "Business Process Management": 0.21428571428571425,
+      "Supply Chain and Logistics": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666
+    },
+    "Hoa Sen University": {
+      "Hospitality and Tourism Management": 0.06666666666666667,
+      "Operations Management": 0.06666666666666667,
+      "Business Process Management": 0.06666666666666667
+    },
+    "University of Economic and Business Administration - Thai Nguyen University": {
+      "Management": 0.16666666666666666,
+      "Public Administration": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666
+    },
+    "Thai Nguyen University": {
+      "Management": 0.2,
+      "Public Administration": 0.2,
+      "Business Process Management": 0.2,
+      "Operations Management": 0.2,
+      "Business Policy and Governance": 0.2
+    },
+    "University of Science and Technology of Hanoi": {
+      "Business Process Management": 0.08333333333333333,
+      "Artificial intelligence": 0.08333333333333333,
+      "Systems Engineering": 0.08333333333333333
+    },
+    "Vietnam National University, Hanoi": {
+      "Business Process Management": 0.08333333333333333,
+      "Artificial intelligence": 0.08333333333333333,
+      "Systems Engineering": 0.08333333333333333
+    },
+    "Phenikaa University": {
+      "Management": 0.25,
+      "Business Strategy": 0.25,
+      "Operations Management": 0.25,
+      "Business Process Management": 0.25
+    },
+    "VNU University of Social Sciences and Humanities": {
+      "Hospitality and Tourism Management": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666
+    },
+    "VNU University of Economics and Business": {
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666,
+      "Sustainability Science": 0.16666666666666666,
+      "Business Strategy": 0.16666666666666666
+    },
+    "VNUHCM - University of Technology": {
+      "Supply Chain and Logistics": 0.3333333333333333,
+      "Operations Management": 0.3333333333333333,
+      "Business Process Management": 0.3333333333333333
+    },
+    "National University of Arts Education": {
+      "Industrial Engineering": 0.16666666666666666,
+      "Operations Management": 0.16666666666666666,
+      "Business Process Management": 0.16666666666666666
+    },
+    "Vietnam National University of Agriculture": {
+      "Operations Management": 0.06666666666666667,
+      "Management": 0.06666666666666667,
+      "Business Strategy": 0.06666666666666667,
+      "Corporate Governance": 0.06666666666666667,
+      "Business Process Management": 0.06666666666666667
+    }
+  },
+  "totalPapers": 31334
+}

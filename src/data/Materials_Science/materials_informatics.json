@@ -1,0 +1,27 @@
+{
+  "ranking": [
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.06666666666666667
+    }
+  ],
+  "authorsByUniversity": {
+    "Ton Duc Thang University": [
+      {
+        "author": "Timon Rabczuk",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Ton Duc Thang University": {
+      "Computational Materials Science": 0.06666666666666667,
+      "Materials Informatics": 0.06666666666666667,
+      "Artificial intelligence": 0.06666666666666667,
+      "Data Science": 0.06666666666666667,
+      "Condensed Matter Physics": 0.06666666666666667
+    }
+  },
+  "totalPapers": 31334
+}

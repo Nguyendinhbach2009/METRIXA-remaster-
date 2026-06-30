@@ -1,0 +1,102 @@
+{
+  "ranking": [
+    {
+      "university": "Academy of Journalism and Communication",
+      "totalContribution": 0.9999999999999999
+    },
+    {
+      "university": "Fulbright University Vietnam",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Academy of Politics - Public Administration Region I",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.125
+    }
+  ],
+  "authorsByUniversity": {
+    "Academy of Journalism and Communication": [
+      {
+        "author": "Huong Thi Tran",
+        "contribution": 0.7142857142857142,
+        "percent": 0.7142857142857143
+      },
+      {
+        "author": "Van Thanh Vu",
+        "contribution": 0.2857142857142857,
+        "percent": 0.28571428571428575
+      }
+    ],
+    "Fulbright University Vietnam": [
+      {
+        "author": "Pham Tu Anh",
+        "contribution": 0.5833333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University": [
+      {
+        "author": "James Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "TRAN VAN DIEN",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Politics - Public Administration Region I": [
+      {
+        "author": "Thuc Thi Le",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Academy of Journalism and Communication": {
+      "Political behavior": 0.9999999999999999,
+      "Political economy": 0.3333333333333333,
+      "Health Economics": 0.5833333333333333,
+      "Public Administration": 0.25,
+      "Political sociology": 0.41666666666666663,
+      "Policy analysis and Policy studies": 0.25,
+      "Gender and politics": 0.16666666666666666,
+      "Political research methodology": 0.25,
+      "Econometrics": 0.25
+    },
+    "Fulbright University Vietnam": {
+      "Policy analysis and Policy studies": 0.5833333333333333,
+      "Public Administration": 0.5833333333333333,
+      "Political behavior": 0.5833333333333333,
+      "Political research methodology": 0.25
+    },
+    "Hanoi University": {
+      "Political behavior": 0.3333333333333333,
+      "Political sociology": 0.3333333333333333,
+      "Psephology": 0.3333333333333333
+    },
+    "Dong Thap University": {
+      "Public Administration": 0.125,
+      "Political behavior": 0.125,
+      "Political sociology": 0.125,
+      "Political theory and philosophy": 0.125
+    },
+    "Academy of Politics - Public Administration Region I": {
+      "Political behavior": 0.16666666666666666,
+      "Gender and politics": 0.16666666666666666,
+      "Political sociology": 0.16666666666666666
+    }
+  },
+  "totalPapers": 31334
+}

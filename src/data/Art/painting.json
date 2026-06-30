@@ -1,0 +1,61 @@
+{
+  "ranking": [
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.25
+    }
+  ],
+  "authorsByUniversity": {
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Le Xuan Hung",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Van Linh",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Tran Van Truong",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Doan Dinh Phuong",
+        "contribution": 0.125,
+        "percent": 0.25
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Lien Mai Thi Nguyen",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Nhu Chan Minh Dieu Nguyen",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Vietnam Academy of Science and Technology": {
+      "Painting": 0.5,
+      "Art history": 0.5
+    },
+    "Hanoi National University of Education": {
+      "Literature": 0.25,
+      "Art history": 0.25,
+      "Painting": 0.25,
+      "Teacher education and professional development": 0.25
+    }
+  },
+  "totalPapers": 31334
+}

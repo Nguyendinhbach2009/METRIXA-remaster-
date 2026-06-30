@@ -1,0 +1,43 @@
+{
+  "ranking": [
+    {
+      "university": "Fulbright University Vietnam",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Academy of Journalism and Communication",
+      "totalContribution": 0.25
+    }
+  ],
+  "authorsByUniversity": {
+    "Fulbright University Vietnam": [
+      {
+        "author": "Pham Tu Anh",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Journalism and Communication": [
+      {
+        "author": "Huong Thi Tran",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "Fulbright University Vietnam": {
+      "Policy analysis and Policy studies": 0.25,
+      "Public Administration": 0.25,
+      "Political behavior": 0.25,
+      "Political research methodology": 0.25
+    },
+    "Academy of Journalism and Communication": {
+      "Political behavior": 0.25,
+      "Political research methodology": 0.25,
+      "Econometrics": 0.25,
+      "Health Economics": 0.25
+    }
+  },
+  "totalPapers": 31334
+}
