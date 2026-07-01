@@ -1,10 +1,17 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Trophy, Award, Medal } from "lucide-react";
+import { formatNumber } from "../lib/utils";
+
+function getMedalIcon(rank) {
+  if (rank === 1) return <Trophy size={20} className="text-yellow-500" />;
+  if (rank === 2) return <Award size={20} className="text-gray-400" />;
+  if (rank === 3) return <Medal size={20} className="text-amber-600" />;
+  return null;
+}
 
 export default function RankingTable({ data = [], authorsByUniversity = {}, onUniversityClick = () => {} }) {
   const rows = Array.isArray(data) ? data : [];
-
   const pageSize = 20;
   const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
   const [page, setPage] = React.useState(0);
@@ -16,13 +23,6 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
     if (p >= totalPages) p = totalPages - 1;
     setPage(p);
     window.scrollTo({ top: 0, behavior: "smooth" });
-  };
-
-  const getMedalIcon = (rank) => {
-    if (rank === 1) return <Trophy size={20} className="text-yellow-500" />;
-    if (rank === 2) return <Award size={20} className="text-gray-400" />;
-    if (rank === 3) return <Medal size={20} className="text-amber-600" />;
-    return null;
   };
 
   const globalMax = rows.length > 0 ? Math.max(...rows.map(r => r.totalContribution || 0)) : 1;
@@ -46,12 +46,10 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
               onClick={() => onUniversityClick(row.university)}
             >
               <div className="flex items-start gap-4">
-                {/* Rank badge */}
                 <div className="flex-shrink-0 w-12 h-12 rounded-xl bg-[var(--primary)] flex items-center justify-center">
                   <span className="text-white font-bold text-lg">{rank}</span>
                 </div>
 
-                {/* Content */}
                 <div className="flex-1 min-w-0">
                   <div className="flex items-start justify-between gap-4 mb-2">
                     <div className="flex-1 min-w-0">
@@ -66,19 +64,17 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
                       </p>
                     </div>
 
-                    {/* Score */}
                     <div className="flex items-center gap-2 flex-shrink-0">
                       {getMedalIcon(rank)}
                       <div className="text-right">
                         <div className="text-2xl font-bold text-[var(--primary)]">
-                          {row.totalContribution.toFixed(4)}
+                          {formatNumber(row.totalContribution, 4)}
                         </div>
                         <div className="text-xs text-[var(--text-muted)]"> </div>
                       </div>
                     </div>
                   </div>
 
-                  {/* Progress bar */}
                   <div className="relative h-8 bg-gray-100 rounded-full overflow-hidden">
                     <div
                       className="absolute inset-y-0 left-0 bg-gradient-to-r from-[var(--primary)] to-[var(--accent)] rounded-full transition-all duration-500 flex items-center justify-end pr-3"
@@ -103,7 +99,6 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
         })
       )}
 
-      {/* Pagination */}
       {totalPages > 1 && (
         <div className="flex justify-center items-center gap-2 pt-4">
           <button
@@ -115,7 +110,6 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
           </button>
           
           <div className="flex gap-1 items-center">
-            {/* First page */}
             {page > 3 && (
               <>
                 <button
@@ -128,11 +122,10 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
               </>
             )}
             
-            {/* Page numbers around current page */}
             {Array.from({ length: totalPages }, (_, i) => i).filter(i => {
-              if (page <= 3) return i < 7; // Show first 7 pages
-              if (page >= totalPages - 4) return i >= totalPages - 7; // Show last 7 pages
-              return i >= page - 3 && i <= page + 3; // Show 3 before and after current
+              if (page <= 3) return i < 7;
+              if (page >= totalPages - 4) return i >= totalPages - 7;
+              return i >= page - 3 && i <= page + 3;
             }).map(pageNum => (
               <button
                 key={pageNum}
@@ -147,7 +140,6 @@ export default function RankingTable({ data = [], authorsByUniversity = {}, onUn
               </button>
             ))}
             
-            {/* Last page */}
             {page < totalPages - 4 && (
               <>
                 <span className="text-[var(--text-secondary)] px-1">...</span>
