@@ -1,35 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Hanoi Medical University",
-      "totalContribution": 0.16666666666666666
-    }
-  ],
-  "authorsByUniversity": {
-    "Hanoi Medical University": [
-      {
-        "author": "Linh Tuan To",
-        "contribution": 0.05555555555555555,
-        "percent": 0.3333333333333333
-      },
-      {
-        "author": "Tuan-Anh Hoang",
-        "contribution": 0.05555555555555555,
-        "percent": 0.3333333333333333
-      },
-      {
-        "author": "Son Thiet Tran",
-        "contribution": 0.05555555555555555,
-        "percent": 0.3333333333333333
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Hanoi Medical University": {
-      "Plastic Surgery": 0.16666666666666666,
-      "Hand Surgery": 0.16666666666666666,
-      "Microsurgery": 0.16666666666666666
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

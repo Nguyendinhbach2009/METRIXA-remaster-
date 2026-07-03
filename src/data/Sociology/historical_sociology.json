@@ -1,32 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Kien Giang University",
-      "totalContribution": 0.2
-    }
-  ],
-  "authorsByUniversity": {
-    "Kien Giang University": [
-      {
-        "author": "Vu Kim Diem",
-        "contribution": 0.1,
-        "percent": 0.5
-      },
-      {
-        "author": "Nguyen Hoang Thien",
-        "contribution": 0.1,
-        "percent": 0.5
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Kien Giang University": {
-      "Development studies": 0.2,
-      "Nationalism studies": 0.2,
-      "Political sociology": 0.2,
-      "Historical sociology": 0.2,
-      "Cultural sociology": 0.2
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

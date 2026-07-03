@@ -1,25 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "VNUHCM - University of Social Sciences and Humanities",
-      "totalContribution": 0.3333333333333333
-    }
-  ],
-  "authorsByUniversity": {
-    "VNUHCM - University of Social Sciences and Humanities": [
-      {
-        "author": "PHAN THI NGOC UYEN",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "VNUHCM - University of Social Sciences and Humanities": {
-      "Philosophy of education": 0.3333333333333333,
-      "Applied ethics": 0.3333333333333333,
-      "Normative ethics": 0.3333333333333333
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

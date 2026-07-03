@@ -1,45 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "HCMC University of Technology and Education",
-      "totalContribution": 0.06666666666666667
-    },
-    {
-      "university": "Nguyen Tat Thanh University",
-      "totalContribution": 0.06666666666666667
-    }
-  ],
-  "authorsByUniversity": {
-    "HCMC University of Technology and Education": [
-      {
-        "author": "Trang Nguyen Van",
-        "contribution": 0.06666666666666667,
-        "percent": 1.0
-      }
-    ],
-    "Nguyen Tat Thanh University": [
-      {
-        "author": "Anh Tuấn Phạm",
-        "contribution": 0.06666666666666667,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "HCMC University of Technology and Education": {
-      "Electrical Engineering": 0.06666666666666667,
-      "Mechanical Engineering": 0.06666666666666667,
-      "Electrochemistry": 0.06666666666666667,
-      "Battery Management Systems": 0.06666666666666667,
-      "Transportation Engineering": 0.06666666666666667
-    },
-    "Nguyen Tat Thanh University": {
-      "Electrical Engineering": 0.06666666666666667,
-      "Mechanical Engineering": 0.06666666666666667,
-      "Electrochemistry": 0.06666666666666667,
-      "Battery Management Systems": 0.06666666666666667,
-      "Transportation Engineering": 0.06666666666666667
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

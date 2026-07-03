@@ -1,25 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Duy Tan University",
-      "totalContribution": 0.3333333333333333
-    }
-  ],
-  "authorsByUniversity": {
-    "Duy Tan University": [
-      {
-        "author": "Anh Kim Dang",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Duy Tan University": {
-      "Epidemiology": 0.3333333333333333,
-      "Demography": 0.3333333333333333,
-      "Global Health": 0.3333333333333333
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

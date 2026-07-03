@@ -1,30 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "VNU University of Science",
-      "totalContribution": 0.16666666666666666
-    }
-  ],
-  "authorsByUniversity": {
-    "VNU University of Science": [
-      {
-        "author": "Bui Van Loat",
-        "contribution": 0.08333333333333333,
-        "percent": 0.5
-      },
-      {
-        "author": "Vu Anh Hung",
-        "contribution": 0.08333333333333333,
-        "percent": 0.5
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "VNU University of Science": {
-      "Archaeology": 0.16666666666666666,
-      "Stratigraphy": 0.16666666666666666,
-      "Chronology": 0.16666666666666666
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

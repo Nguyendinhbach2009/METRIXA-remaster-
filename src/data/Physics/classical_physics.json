@@ -1,58 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Hanoi University",
-      "totalContribution": 0.25
-    },
-    {
-      "university": "Vietnam National University, Hanoi",
-      "totalContribution": 0.08333333333333333
-    },
-    {
-      "university": "Phenikaa University",
-      "totalContribution": 0.08333333333333333
-    }
-  ],
-  "authorsByUniversity": {
-    "Hanoi University": [
-      {
-        "author": "Dang Vu Giang",
-        "contribution": 0.25,
-        "percent": 1.0
-      }
-    ],
-    "Vietnam National University, Hanoi": [
-      {
-        "author": "Long T. Nguyen",
-        "contribution": 0.08333333333333333,
-        "percent": 1.0
-      }
-    ],
-    "Phenikaa University": [
-      {
-        "author": "Duy V. Nguyen",
-        "contribution": 0.08333333333333333,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Hanoi University": {
-      "Mathematical Physics": 0.25,
-      "Mechanics": 0.25,
-      "Classical Physics": 0.25,
-      "Applied Physics": 0.25
-    },
-    "Vietnam National University, Hanoi": {
-      "Electromagnetism": 0.08333333333333333,
-      "Classical Physics": 0.08333333333333333,
-      "Applied Physics": 0.08333333333333333
-    },
-    "Phenikaa University": {
-      "Electromagnetism": 0.08333333333333333,
-      "Classical Physics": 0.08333333333333333,
-      "Applied Physics": 0.08333333333333333
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

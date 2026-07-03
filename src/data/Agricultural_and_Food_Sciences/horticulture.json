@@ -1,6 +1,5879 @@
 {
-  "ranking": [],
-  "authorsByUniversity": {},
-  "uniFieldContrib": {},
-  "totalPapers": 31334
+  "ranking": [
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 3.7500841750841727
+    },
+    {
+      "university": "Nong Lam University Ho Chi Minh City",
+      "totalContribution": 1.5469696969696967
+    },
+    {
+      "university": "International Center for Tropical Agriculture",
+      "totalContribution": 1.5414141414141416
+    },
+    {
+      "university": "Centre de Coopération Internationale en Recherche Agronomique pour le Développement",
+      "totalContribution": 1.5185260388046766
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 1.3333333333333333
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 1.2341524216524218
+    },
+    {
+      "university": "Ghent University",
+      "totalContribution": 1.1696969696969697
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 1.1555555555555557
+    },
+    {
+      "university": "Institute of Natural Sciences",
+      "totalContribution": 0.9999999999999998
+    },
+    {
+      "university": "Okayama University",
+      "totalContribution": 0.9269619269619269
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.8888888888888888
+    },
+    {
+      "university": "Centre National de la Recherche Scientifique",
+      "totalContribution": 0.8333333333333334
+    },
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 0.8287037037037037
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.8055555555555556
+    },
+    {
+      "university": "Vietnam Academy of Agricultural Sciences",
+      "totalContribution": 0.8019841269841271
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.76489898989899
+    },
+    {
+      "university": "Gyeongsang National University",
+      "totalContribution": 0.6944444444444446
+    },
+    {
+      "university": "Environment and Plant Protection Research Institute",
+      "totalContribution": 0.6555555555555558
+    },
+    {
+      "university": "Vietnam National University of Agriculture",
+      "totalContribution": 0.5981481481481482
+    },
+    {
+      "university": "Hung Vuong University of Ho Chi Minh City",
+      "totalContribution": 0.575
+    },
+    {
+      "university": "Hanoi Pedagogical University 2",
+      "totalContribution": 0.5353535353535354
+    },
+    {
+      "university": "Rural Development Administration",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Vietnam National University of Forestry",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Gomal University",
+      "totalContribution": 0.49999999999999994
+    },
+    {
+      "university": "Joint Genome Institute",
+      "totalContribution": 0.49999999999999983
+    },
+    {
+      "university": "Forest Industry Research Institute",
+      "totalContribution": 0.486002886002886
+    },
+    {
+      "university": "Enverga University",
+      "totalContribution": 0.44444444444444453
+    },
+    {
+      "university": "Field Crops Research Institute",
+      "totalContribution": 0.4285714285714285
+    },
+    {
+      "university": "Ho Chi Minh City University of Industry and Trade",
+      "totalContribution": 0.4074074074074074
+    },
+    {
+      "university": "National Agriculture and Food Research Organization",
+      "totalContribution": 0.40559440559440574
+    },
+    {
+      "university": "Thai Nguyen University of Agriculture and Forestry",
+      "totalContribution": 0.4025252525252525
+    },
+    {
+      "university": "Institut de Chimie des Substances Naturelles",
+      "totalContribution": 0.39351851851851855
+    },
+    {
+      "university": "Vietnamese Academy of Forest Sciences",
+      "totalContribution": 0.38095238095238093
+    },
+    {
+      "university": "University of Tasmania",
+      "totalContribution": 0.38023088023088025
+    },
+    {
+      "university": "Ho Chi Minh City University of Science",
+      "totalContribution": 0.37037037037037035
+    },
+    {
+      "university": "Hirosaki University",
+      "totalContribution": 0.3471898471898472
+    },
+    {
+      "university": "Swedish University of Agricultural Sciences",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Sardar Vallabhbhai Patel University of Agriculture & Technology",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.3232323232323232
+    },
+    {
+      "university": "Université Paris-Sud",
+      "totalContribution": 0.3111111111111111
+    },
+    {
+      "university": "Commonwealth Scientific and Industrial Research Organisation",
+      "totalContribution": 0.30000000000000004
+    },
+    {
+      "university": "University of Vienna",
+      "totalContribution": 0.2857142857142857
+    },
+    {
+      "university": "University of Southern Queensland",
+      "totalContribution": 0.2857142857142857
+    },
+    {
+      "university": "American Association of Colleges of Pharmacy",
+      "totalContribution": 0.27272727272727276
+    },
+    {
+      "university": "Vietnam National Children's Hospital",
+      "totalContribution": 0.26666666666666666
+    },
+    {
+      "university": "ARC Centre of Excellence in Plant Energy Biology",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "College of Food Industry, Danang 550000, Vietnam",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Yunnan Agricultural University",
+      "totalContribution": 0.24242424242424243
+    },
+    {
+      "university": "Sweet Potato Research Institute",
+      "totalContribution": 0.24074074074074073
+    },
+    {
+      "university": "University of Bologna",
+      "totalContribution": 0.23809523809523808
+    },
+    {
+      "university": "International Institute of Tropical Agriculture",
+      "totalContribution": 0.23376623376623376
+    },
+    {
+      "university": "University of Copenhagen",
+      "totalContribution": 0.23015873015873017
+    },
+    {
+      "university": "Universidad Nacional de Colombia",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "University College London",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Zhejiang University",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "University of Economics Ho Chi Minh City",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Universität Innsbruck",
+      "totalContribution": 0.21428571428571427
+    },
+    {
+      "university": "Kaohsiung Medical University",
+      "totalContribution": 0.20833333333333334
+    },
+    {
+      "university": "Yonsei University",
+      "totalContribution": 0.2
+    },
+    {
+      "university": "Okayama University of Science",
+      "totalContribution": 0.1923076923076923
+    },
+    {
+      "university": "Deakin University",
+      "totalContribution": 0.1875
+    },
+    {
+      "university": "National Cheng Kung University",
+      "totalContribution": 0.18589743589743588
+    },
+    {
+      "university": "Chungnam National University",
+      "totalContribution": 0.18518518518518517
+    },
+    {
+      "university": "Hung Vuong University",
+      "totalContribution": 0.18181818181818182
+    },
+    {
+      "university": "China Medical University",
+      "totalContribution": 0.17467948717948714
+    },
+    {
+      "university": "Kunming Institute of Botany",
+      "totalContribution": 0.17037037037037037
+    },
+    {
+      "university": "Western Sydney University",
+      "totalContribution": 0.16666666666666669
+    },
+    {
+      "university": "Heinrich Heine University Düsseldorf",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Khon Kaen University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Gump South Pacific Research Station",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Chonnam National University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Purdue University West Lafayette",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "World Agroforestry (ICRAF), Hanoi 100000, Vietnam",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "WASI, Buon Ma Thuot, Viet Nam",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.14351851851851852
+    },
+    {
+      "university": "University of Milan",
+      "totalContribution": 0.14285714285714285
+    },
+    {
+      "university": "Sustainable Management Services ECOM Agroindustrial Ho Chi Minh City Vietnam",
+      "totalContribution": 0.14285714285714285
+    },
+    {
+      "university": "World Agroforestry Centre",
+      "totalContribution": 0.1388888888888889
+    },
+    {
+      "university": "National University of Malaysia",
+      "totalContribution": 0.13852813852813853
+    },
+    {
+      "university": "International Potato Center",
+      "totalContribution": 0.1369047619047619
+    },
+    {
+      "university": "Chinese Academy of Sciences",
+      "totalContribution": 0.13333333333333333
+    },
+    {
+      "university": "Indonesian Coffee and Cocoa Research Institute",
+      "totalContribution": 0.12794117647058825
+    },
+    {
+      "university": "Ghent University Hospital",
+      "totalContribution": 0.12777777777777777
+    },
+    {
+      "university": "University of Göttingen",
+      "totalContribution": 0.12554112554112554
+    },
+    {
+      "university": "Alliance Bioversity International - CIAT",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Kentucky",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Council for Scientific and Industrial Research",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Plant Protection Research Institute (PPRI)",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Pepperdine University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Agricultural Genetics Institute",
+      "totalContribution": 0.11660464292043239
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "New South Wales Department of Primary Industries",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Business Administration Faculty, Sai Gon University, Ho Chi Minh City, Vietnam",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Thuongmai University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "National Institute of Quality",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Cat Tien National Park",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Wageningen University & Research",
+      "totalContribution": 0.10644257703081232
+    },
+    {
+      "university": "Kangwon National University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Services Australia",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Chinese Academy of Tropical Agricultural Sciences",
+      "totalContribution": 0.0928030303030303
+    },
+    {
+      "university": "Sugarcane Research Center (Brazil)",
+      "totalContribution": 0.09090909090909091
+    },
+    {
+      "university": "University of Illinois Chicago",
+      "totalContribution": 0.09090909090909091
+    },
+    {
+      "university": "Shanghai Institute for Science of Science",
+      "totalContribution": 0.08888888888888889
+    },
+    {
+      "university": "University of Nottingham",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Bayreuth",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Chonburi Hospital",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Cane and Sugar Industry Promotion Center, 3rd Region, Chonburi, Thailand",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Aleppo",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "VAST",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Center Hue Monuments Conservation",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Forestry Research Institute of Nigeria",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Federal University Dutse",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Uttar Pradesh Council of sugarcane research",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ministry of Agriculture and Forestry",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "National Food Administration",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "National Research, Development and Innovation Office",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Chiang Mai University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "National Agricultural Research Organisation",
+      "totalContribution": 0.07636738906088751
+    },
+    {
+      "university": "Xinjiang Academy of Agricultural Sciences",
+      "totalContribution": 0.07575757575757576
+    },
+    {
+      "university": "Kazakh Research Institute of Agriculture and Plant growing",
+      "totalContribution": 0.07575757575757576
+    },
+    {
+      "university": "N.I. Vavilov Research Institute of Plant Industry",
+      "totalContribution": 0.07575757575757576
+    },
+    {
+      "university": "Jiangsu Normal University",
+      "totalContribution": 0.07407407407407407
+    },
+    {
+      "university": "National Agrobiodiversity Center, RDA, Jeonju, 54875, Republic of Korea",
+      "totalContribution": 0.07407407407407407
+    },
+    {
+      "university": "Jeju National University",
+      "totalContribution": 0.07407407407407407
+    },
+    {
+      "university": "University of California, Davis",
+      "totalContribution": 0.07142857142857142
+    },
+    {
+      "university": "CREA – Research Centre for Plant Protection and Certification, Rome, Italy",
+      "totalContribution": 0.07142857142857142
+    },
+    {
+      "university": "Instytut Ogrodnictwa",
+      "totalContribution": 0.07142857142857142
+    },
+    {
+      "university": "University of Chile",
+      "totalContribution": 0.07142857142857142
+    },
+    {
+      "university": "Hue University of Agriculture and Forestry",
+      "totalContribution": 0.06734006734006734
+    },
+    {
+      "university": "Mexican Social Security Institute",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "TerraMetrics (United States)",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Manchester Metropolitan University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Malaysian Cocoa Board",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Technische Universität Braunschweig",
+      "totalContribution": 0.0625
+    },
+    {
+      "university": "Health Sciences and Nutrition",
+      "totalContribution": 0.06060606060606061
+    },
+    {
+      "university": "Institute of Mathematics",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Universiti of Malaysia Sabah",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "University Drive, Aleku Area, Osogbo, Nigeria",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Natural History Museum",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "USDA-APHIS, National Identification Services, Beltsville, MD 20705, USA",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Agricultural Research Service",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Forestry Research Centre",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Foresight Institute of Research and Translation, Ibadan, Nigeria",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Institute of Research and Translation, Ibadan, Nigeria",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Forestry Research Institute",
+      "totalContribution": 0.05263157894736842
+    },
+    {
+      "university": "University of Lisbon",
+      "totalContribution": 0.051587301587301584
+    },
+    {
+      "university": "Nicafrance Foundation, Finca La Cumplida, Matagalpa, Nicaragua",
+      "totalContribution": 0.051587301587301584
+    },
+    {
+      "university": "Hanyang University",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "National Institute of Drug Quality Control, Hoan Kiem, Hanoi, Vietnam",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "National Library of Vietnam",
+      "totalContribution": 0.05
+    },
+    {
+      "university": "CSIRO Land and Water",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "International Institute of Tropical Agriculture (IITA), Accra, Ghana",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "Alliance of Bioversity International and CIAT, The Hague, Netherlands",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "Bioversity International",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "Thuyloi University",
+      "totalContribution": 0.045454545454545456
+    },
+    {
+      "university": "Viet Tri University of Industry",
+      "totalContribution": 0.045454545454545456
+    },
+    {
+      "university": "Field Museum of Natural History",
+      "totalContribution": 0.045454545454545456
+    },
+    {
+      "university": "The Ohio State University",
+      "totalContribution": 0.045454545454545456
+    },
+    {
+      "university": "Beltsville Agricultural Research Center",
+      "totalContribution": 0.04532163742690058
+    },
+    {
+      "university": "International Atomic Energy Agency",
+      "totalContribution": 0.044444444444444446
+    },
+    {
+      "university": "De La Salle University",
+      "totalContribution": 0.044444444444444446
+    },
+    {
+      "university": "Institut de l'Environnement et Recherches Agricoles",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Nepal Agricultural Research Council",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Institute for Soil Sciences",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Consortium for Sustainable Development of the Andean Ecoregion",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Tecnológico Nacional de México",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Institut Agronomique et Vétérinaire Hassan II",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Oregon University System",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Gesellschaft für Biotechnologische Forschung mbH., Mascheroder Weg 1, D-38124 Braunschweig, Germany",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "National Formosa University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "National Research Institute of Chinese Medicine",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Ministry of Agriculture and Rural Development",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Jenderal Soedirman University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Yogyakarta State University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Nestlé (France)",
+      "totalContribution": 0.0392156862745098
+    },
+    {
+      "university": "Centre National de Recherche Agronomique",
+      "totalContribution": 0.03715170278637771
+    },
+    {
+      "university": "Meise Botanic Garden",
+      "totalContribution": 0.03715170278637771
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Research Institute for Humanity and Nature",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "InterAcademy Partnership",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Institute for Tropical Technology, Academy of Science and Technology",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Mersin Üniversitesi",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Iowa State University",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "Recep Tayyip Erdoğan University",
+      "totalContribution": 0.037037037037037035
+    },
+    {
+      "university": "National Museum Wales",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "Rothamsted Research",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "University of Information Science",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "National Taiwan University",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "Leibniz Centre for Agricultural Landscape Research",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "International Institute of Tropical Agriculture (IITA), PMB L56 Legon-Accra, Ghana",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "University of Kassel",
+      "totalContribution": 0.030303030303030304
+    },
+    {
+      "university": "The University of Sydney",
+      "totalContribution": 0.027777777777777776
+    },
+    {
+      "university": "Northern Australian Quarantine Strategy, Department of Agriculture, Water and the Environment, Cairns, Qld, Australia;",
+      "totalContribution": 0.027777777777777776
+    },
+    {
+      "university": "KU Leuven",
+      "totalContribution": 0.027777777777777776
+    },
+    {
+      "university": "Quisqueya University",
+      "totalContribution": 0.027777777777777776
+    },
+    {
+      "university": "Centro Agronomico Tropical de Investigacion y Ensenanza Catie",
+      "totalContribution": 0.027777777777777776
+    },
+    {
+      "university": "Tajen University",
+      "totalContribution": 0.02564102564102564
+    },
+    {
+      "university": "Institut de Recherche pour le Développement",
+      "totalContribution": 0.023809523809523808
+    },
+    {
+      "university": "Agricultural Research Organization",
+      "totalContribution": 0.022222222222222223
+    },
+    {
+      "university": "James Cook University",
+      "totalContribution": 0.022222222222222223
+    },
+    {
+      "university": "Lembaga Koko Malaysia, Bagan Datuk, Perak, Malaysia",
+      "totalContribution": 0.022222222222222223
+    },
+    {
+      "university": "National Sun Yat-sen University",
+      "totalContribution": 0.020833333333333332
+    },
+    {
+      "university": "National Kaohsiung Marine University",
+      "totalContribution": 0.020833333333333332
+    },
+    {
+      "university": "Chang Gung University",
+      "totalContribution": 0.020833333333333332
+    },
+    {
+      "university": "Brazilian Agricultural Research Corporation",
+      "totalContribution": 0.0196078431372549
+    },
+    {
+      "university": "NOMAFSI headquarter Phu Tho Vietnam",
+      "totalContribution": 0.018518518518518517
+    },
+    {
+      "university": "Tay Bac University",
+      "totalContribution": 0.018518518518518517
+    },
+    {
+      "university": "Quy Nhon University",
+      "totalContribution": 0.018518518518518517
+    },
+    {
+      "university": "Université de Kisangani",
+      "totalContribution": 0.017543859649122806
+    },
+    {
+      "university": "Universidade Lusíada de Angola",
+      "totalContribution": 0.017543859649122806
+    },
+    {
+      "university": "For farmers (United Kingdom)",
+      "totalContribution": 0.017543859649122806
+    }
+  ],
+  "authorsByUniversity": {
+    "International Center for Tropical Agriculture": [
+      {
+        "author": "Gisella Orjeda",
+        "contribution": 0.3034745305264354,
+        "percent": 0.1968805931986704
+      },
+      {
+        "author": "Masaru Iwanaga",
+        "contribution": 0.3034745305264354,
+        "percent": 0.1968805931986704
+      },
+      {
+        "author": "Rosanna Freyre",
+        "contribution": 0.3034745305264354,
+        "percent": 0.1968805931986704
+      },
+      {
+        "author": "Ewald Sieverding",
+        "contribution": 0.1517372652632177,
+        "percent": 0.0984402965993352
+      },
+      {
+        "author": "Peter Läderach",
+        "contribution": 0.10641314706771113,
+        "percent": 0.06903605216057275
+      },
+      {
+        "author": "Philippe Vaast",
+        "contribution": 0.09104235915793063,
+        "percent": 0.05906417795960112
+      },
+      {
+        "author": "Elizabeth Álvarez",
+        "contribution": 0.07586863263160885,
+        "percent": 0.0492201482996676
+      },
+      {
+        "author": "Juan Manuel Pardo",
+        "contribution": 0.07586863263160885,
+        "percent": 0.0492201482996676
+      },
+      {
+        "author": "Alessandro Craparo",
+        "contribution": 0.06503025654137902,
+        "percent": 0.04218869854257223
+      },
+      {
+        "author": "Nozomi Kawarazuka",
+        "contribution": 0.06503025654137902,
+        "percent": 0.04218869854257223
+      }
+    ],
+    "Universidad Nacional de Colombia": [
+      {
+        "author": "M. Parra",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Marina Sánchez de Prager",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Vietnam Academy of Agricultural Sciences": [
+      {
+        "author": "Trinh Xuan Hoat",
+        "contribution": 0.1500834018828261,
+        "percent": 0.1871401151631478
+      },
+      {
+        "author": "Hang Thi Dao",
+        "contribution": 0.09428316272126253,
+        "percent": 0.11756238003838769
+      },
+      {
+        "author": "Mai Van Quan",
+        "contribution": 0.08081413947536789,
+        "percent": 0.10076775431861804
+      },
+      {
+        "author": "Ngo Gia Bon",
+        "contribution": 0.08081413947536789,
+        "percent": 0.10076775431861804
+      },
+      {
+        "author": "Nguyễn Đức Thành",
+        "contribution": 0.08081413947536789,
+        "percent": 0.10076775431861804
+      },
+      {
+        "author": "Vu Duy Hien",
+        "contribution": 0.08081413947536789,
+        "percent": 0.10076775431861804
+      },
+      {
+        "author": "Hoa Thi Nguyen",
+        "contribution": 0.053876092983578594,
+        "percent": 0.06717850287907869
+      },
+      {
+        "author": "Liem Van Nguyen",
+        "contribution": 0.053876092983578594,
+        "percent": 0.06717850287907869
+      },
+      {
+        "author": "Viet Duc Nguyen",
+        "contribution": 0.053876092983578594,
+        "percent": 0.06717850287907869
+      },
+      {
+        "author": "N. Ngoc Hue",
+        "contribution": 0.040407069737683945,
+        "percent": 0.05038387715930902
+      },
+      {
+        "author": "Hien D. Nguyen",
+        "contribution": 0.03232565579014716,
+        "percent": 0.04030710172744722
+      }
+    ],
+    "University of Nottingham": [
+      {
+        "author": "Matthew Dickinson",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Centre National de la Recherche Scientifique": [
+      {
+        "author": "Françoise Guéritte",
+        "contribution": 0.08888888888888889,
+        "percent": 0.10666666666666666
+      },
+      {
+        "author": "Marie‐Thérèse Martin",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Odile Thoison",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Thierry Sévenet",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Văn Hùng Nguyễn",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Véronique Éparvier",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "André Cavé",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "B. Chappe",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "Bruno Figadère",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "François Roblot",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "Olivier Laprévôte",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "PHAN QUAN CHI HIEU PHAN QUAN CHI HIEU",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "Vu Thi Tam",
+        "contribution": 0.04761904761904762,
+        "percent": 0.05714285714285715
+      },
+      {
+        "author": "Isabelle Schmitz‐Afonso",
+        "contribution": 0.03333333333333334,
+        "percent": 0.04000000000000001
+      },
+      {
+        "author": "Marc Litaudon",
+        "contribution": 0.03333333333333334,
+        "percent": 0.04000000000000001
+      },
+      {
+        "author": "Olinda Gimello",
+        "contribution": 0.03333333333333334,
+        "percent": 0.04000000000000001
+      },
+      {
+        "author": "Pascal Retailleau",
+        "contribution": 0.03333333333333334,
+        "percent": 0.04000000000000001
+      }
+    ],
+    "Université Paris-Sud": [
+      {
+        "author": "Benoı̂t Crousse",
+        "contribution": 0.06666666666666667,
+        "percent": 0.21428571428571427
+      },
+      {
+        "author": "Danièle Bonnet‐Delpon",
+        "contribution": 0.06666666666666667,
+        "percent": 0.21428571428571427
+      },
+      {
+        "author": "Lidia Dumitrescu",
+        "contribution": 0.06666666666666667,
+        "percent": 0.21428571428571427
+      },
+      {
+        "author": "Marc Litaudon",
+        "contribution": 0.05555555555555555,
+        "percent": 0.17857142857142855
+      },
+      {
+        "author": "Pascal Retailleau",
+        "contribution": 0.05555555555555555,
+        "percent": 0.17857142857142855
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Thai Hong Pham",
+        "contribution": 0.5924729037834958,
+        "percent": 0.15798922800718132
+      },
+      {
+        "author": "Hong-Thai Pham",
+        "contribution": 0.35548374227009755,
+        "percent": 0.0947935368043088
+      },
+      {
+        "author": "Van Cuong Pham",
+        "contribution": 0.17872932597468794,
+        "percent": 0.04766008378216637
+      },
+      {
+        "author": "Van Hung Nguyen",
+        "contribution": 0.17872932597468794,
+        "percent": 0.04766008378216637
+      },
+      {
+        "author": "Hoai Thu Thi Nguyen",
+        "contribution": 0.17774187113504877,
+        "percent": 0.0473967684021544
+      },
+      {
+        "author": "Huong Doan Thi Mai",
+        "contribution": 0.11948203559633835,
+        "percent": 0.03186116098144824
+      },
+      {
+        "author": "Van Minh Chau",
+        "contribution": 0.11948203559633835,
+        "percent": 0.03186116098144824
+      },
+      {
+        "author": "Nguyễn Thị Hoàng Anh",
+        "contribution": 0.08887093556752439,
+        "percent": 0.0236983842010772
+      },
+      {
+        "author": "Trần Đức Quân",
+        "contribution": 0.08887093556752439,
+        "percent": 0.0236983842010772
+      },
+      {
+        "author": "Trần Thị Thanh Thủy",
+        "contribution": 0.08887093556752439,
+        "percent": 0.0236983842010772
+      },
+      {
+        "author": "Trần Văn Sung",
+        "contribution": 0.08887093556752439,
+        "percent": 0.0236983842010772
+      },
+      {
+        "author": "Tuan Anh Tran",
+        "contribution": 0.08393366136932859,
+        "percent": 0.022381807301017357
+      },
+      {
+        "author": "Đoàn Thị Mai Hương",
+        "contribution": 0.07109674845401952,
+        "percent": 0.018958707360861762
+      },
+      {
+        "author": "Nguyễn Văn Hùng",
+        "contribution": 0.07109674845401952,
+        "percent": 0.018958707360861762
+      },
+      {
+        "author": "Thi Mai Huong Doan",
+        "contribution": 0.05924729037834959,
+        "percent": 0.015798922800718134
+      },
+      {
+        "author": "Lê Cảnh Việt Cường",
+        "contribution": 0.05924729037834959,
+        "percent": 0.015798922800718134
+      },
+      {
+        "author": "Trung Thanh Vu",
+        "contribution": 0.05924729037834959,
+        "percent": 0.015798922800718134
+      },
+      {
+        "author": "Dao Thi",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Chu Hoàng Hà",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Minh Van Chau",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Nam‐Trung Nguyen",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Ngoc Bich Pham",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Nhat Huy Chu",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Tadamitsu Kishimoto",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Trang Thu Tran",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Trong Dinh Nguyen",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Duong D. Nguyen",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Mai Dinh Tri",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Trương Ngọc Minh",
+        "contribution": 0.04443546778376219,
+        "percent": 0.0118491921005386
+      },
+      {
+        "author": "Nguyễn Mạnh Cường",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Phạm Quốc Long",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Trần Thu Hương",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Quoc Vuong Nguyen",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Nhan Nguyen Thi",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Phuong Thao Nguyen",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Van Thanh Nguyen",
+        "contribution": 0.039498193585566395,
+        "percent": 0.010532615200478756
+      },
+      {
+        "author": "Bùi Hữu Tài",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Châu Văn Minh",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Phan Văn Kiệm",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Duong Thu Trang",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Nguyen Duy Khanh",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Nguyen Hai Dang",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Nguyen Quang Trung",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Nguyen Thi Minh",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Nguyễn Tiến Đạt",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Pham Van Cuong",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Vu Duc Nam",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Nhan Thi Nguyen",
+        "contribution": 0.03554837422700976,
+        "percent": 0.009479353680430881
+      },
+      {
+        "author": "Tran Ngoc Ninh",
+        "contribution": 0.03231670384273614,
+        "percent": 0.008617594254937164
+      }
+    ],
+    "Ghent University": [
+      {
+        "author": "Kathy Messens",
+        "contribution": 0.15717803030303032,
+        "percent": 0.13437500000000002
+      },
+      {
+        "author": "Koen Dewettinck",
+        "contribution": 0.15717803030303032,
+        "percent": 0.13437500000000002
+      },
+      {
+        "author": "Lam Thi Viet Ha",
+        "contribution": 0.11696969696969699,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Godelieve Gheysen",
+        "contribution": 0.08041666666666669,
+        "percent": 0.06875000000000002
+      },
+      {
+        "author": "Paul Goetghebeur",
+        "contribution": 0.08041666666666669,
+        "percent": 0.06875000000000002
+      },
+      {
+        "author": "Tina Kyndt",
+        "contribution": 0.08041666666666669,
+        "percent": 0.06875000000000002
+      },
+      {
+        "author": "Lore Vanlerberghe",
+        "contribution": 0.08041666666666669,
+        "percent": 0.06875000000000002
+      },
+      {
+        "author": "Guy Smagghe",
+        "contribution": 0.07676136363636366,
+        "percent": 0.06562500000000002
+      },
+      {
+        "author": "Hayley Rottiers",
+        "contribution": 0.07676136363636366,
+        "percent": 0.06562500000000002
+      },
+      {
+        "author": "Helena Everaert",
+        "contribution": 0.07676136363636366,
+        "percent": 0.06562500000000002
+      },
+      {
+        "author": "Kevin Maebe",
+        "contribution": 0.07676136363636366,
+        "percent": 0.06562500000000002
+      },
+      {
+        "author": "Jocelyn De Wever",
+        "contribution": 0.03655303030303031,
+        "percent": 0.03125000000000001
+      },
+      {
+        "author": "Phuong Diem Tran",
+        "contribution": 0.03655303030303031,
+        "percent": 0.03125000000000001
+      },
+      {
+        "author": "Thi Phuong Dung Nguyen",
+        "contribution": 0.03655303030303031,
+        "percent": 0.03125000000000001
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Đỗ Tấn Khang",
+        "contribution": 0.4262295081967213,
+        "percent": 0.3688524590163934
+      },
+      {
+        "author": "Hà Thanh Toàn",
+        "contribution": 0.17049180327868851,
+        "percent": 0.14754098360655735
+      },
+      {
+        "author": "T.N. Truong",
+        "contribution": 0.14207650273224043,
+        "percent": 0.12295081967213113
+      },
+      {
+        "author": "T.V.H. Lam",
+        "contribution": 0.14207650273224043,
+        "percent": 0.12295081967213113
+      },
+      {
+        "author": "Truong Tu Quynh Ha",
+        "contribution": 0.14207650273224043,
+        "percent": 0.12295081967213113
+      },
+      {
+        "author": "Trần Nhân Dũng",
+        "contribution": 0.08524590163934426,
+        "percent": 0.07377049180327867
+      },
+      {
+        "author": "Nguyễn Thị Tân Lộc",
+        "contribution": 0.04735883424408014,
+        "percent": 0.04098360655737704
+      }
+    ],
+    "Chungnam National University": [
+      {
+        "author": "Bùi Hữu Tài",
+        "contribution": 0.037037037037037035,
+        "percent": 0.2
+      },
+      {
+        "author": "Eun-Mi Choi",
+        "contribution": 0.037037037037037035,
+        "percent": 0.2
+      },
+      {
+        "author": "Jeong Ah Kim",
+        "contribution": 0.037037037037037035,
+        "percent": 0.2
+      },
+      {
+        "author": "Nguyễn Xuân Nhiệm",
+        "contribution": 0.037037037037037035,
+        "percent": 0.2
+      },
+      {
+        "author": "Young Ho Kim",
+        "contribution": 0.037037037037037035,
+        "percent": 0.2
+      }
+    ],
+    "VNU University of Science": [
+      {
+        "author": "Vũ Thị Thu Huyền",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "Alliance Bioversity International - CIAT": [
+      {
+        "author": "Bhuwon Sthapit",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Carlo Fadda",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "D. I. Jarvis",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Institut de l'Environnement et Recherches Agricoles": [
+      {
+        "author": "D. Balma",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Nepal Agricultural Research Council": [
+      {
+        "author": "Devendra Gauchan",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Institute for Soil Sciences": [
+      {
+        "author": "I. Már",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "International Potato Center": [
+      {
+        "author": "Joshua Sikhu Okonya",
+        "contribution": 0.052995391705069124,
+        "percent": 0.38709677419354843
+      },
+      {
+        "author": "Sarah Mayanja",
+        "contribution": 0.052995391705069124,
+        "percent": 0.38709677419354843
+      },
+      {
+        "author": "J. Ndungú-Skilton",
+        "contribution": 0.030913978494623656,
+        "percent": 0.22580645161290325
+      }
+    ],
+    "Consortium for Sustainable Development of the Andean Ecoregion": [
+      {
+        "author": "L. Collado",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Tecnológico Nacional de México": [
+      {
+        "author": "Luis Latournerie",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Institut Agronomique et Vétérinaire Hassan II": [
+      {
+        "author": "M. Sadiki",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Oregon University System": [
+      {
+        "author": "Susan H. Bragdon",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Heinrich Heine University Düsseldorf": [
+      {
+        "author": "Bambang W. Nugroho",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      },
+      {
+        "author": "C. Schneider",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      },
+      {
+        "author": "Frank Bohnenstengel",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      },
+      {
+        "author": "Peter Proksch",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      }
+    ],
+    "Vietnam National University Ho Chi Minh City": [
+      {
+        "author": "Ha Viet Cuong",
+        "contribution": 0.4172494172494172,
+        "percent": 0.5034965034965034
+      },
+      {
+        "author": "Canh Thanh Truong",
+        "contribution": 0.1043123543123543,
+        "percent": 0.12587412587412586
+      },
+      {
+        "author": "L.C Kiet",
+        "contribution": 0.05215617715617715,
+        "percent": 0.06293706293706293
+      },
+      {
+        "author": "Pham Dinh Hung",
+        "contribution": 0.05215617715617715,
+        "percent": 0.06293706293706293
+      },
+      {
+        "author": "Ngoc Trinh Huynh",
+        "contribution": 0.05215617715617715,
+        "percent": 0.06293706293706293
+      },
+      {
+        "author": "Ngọc Vinh Huỳnh",
+        "contribution": 0.05215617715617715,
+        "percent": 0.06293706293706293
+      },
+      {
+        "author": "Phu Hoang Dang",
+        "contribution": 0.05215617715617715,
+        "percent": 0.06293706293706293
+      },
+      {
+        "author": "Anh Tuan Le",
+        "contribution": 0.046361046361046356,
+        "percent": 0.05594405594405594
+      }
+    ],
+    "Technische Universität Braunschweig": [
+      {
+        "author": "Ludger Witte",
+        "contribution": 0.041666666666666664,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Ludger Beerhues",
+        "contribution": 0.020833333333333332,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Gesellschaft für Biotechnologische Forschung mbH., Mascheroder Weg 1, D-38124 Braunschweig, Germany": [
+      {
+        "author": "Victor Wray",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National Children's Hospital": [
+      {
+        "author": "A. Rubio Guzman",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Eduardo Tena‐Betancourt",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "F. Ayala-Lagos",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "P Hernández-Jauregui",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      }
+    ],
+    "Mexican Social Security Institute": [
+      {
+        "author": "Marco Antonio Chávez-Soto",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "University of Bayreuth": [
+      {
+        "author": "Ewald Komor",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Khon Kaen University": [
+      {
+        "author": "Suchirat Sakuanrungsirikul",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "T. Wongwarat",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Chonburi Hospital": [
+      {
+        "author": "Sunee Srisink",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Cane and Sugar Industry Promotion Center, 3rd Region, Chonburi, Thailand": [
+      {
+        "author": "Thawat Hamarn",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Aleppo": [
+      {
+        "author": "Ziad Soufi",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Vienna": [
+      {
+        "author": "Atanas G. Atanasov",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      },
+      {
+        "author": "Clemens Malainer",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      },
+      {
+        "author": "Elke H. Heiß",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      },
+      {
+        "author": "Verena M. Dirsch",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      }
+    ],
+    "Universität Innsbruck": [
+      {
+        "author": "Hermann Stuppner",
+        "contribution": 0.07142857142857142,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Stefan Schwaiger",
+        "contribution": 0.07142857142857142,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Trần Thị Vân Anh",
+        "contribution": 0.07142857142857142,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Kunming Institute of Botany": [
+      {
+        "author": "Guilin Hu",
+        "contribution": 0.06666666666666668,
+        "percent": 0.39130434782608703
+      },
+      {
+        "author": "Jianchu Xu",
+        "contribution": 0.06666666666666668,
+        "percent": 0.39130434782608703
+      },
+      {
+        "author": "Chunlin Long",
+        "contribution": 0.03703703703703704,
+        "percent": 0.2173913043478261
+      }
+    ],
+    "Okayama University": [
+      {
+        "author": "Hidetaka Nishida",
+        "contribution": 0.18085010371761728,
+        "percent": 0.1950998185117967
+      },
+      {
+        "author": "Kenji Kato",
+        "contribution": 0.1530917157051458,
+        "percent": 0.16515426497277674
+      },
+      {
+        "author": "Gentaro Shigita",
+        "contribution": 0.13346457266602454,
+        "percent": 0.1439806412583182
+      },
+      {
+        "author": "Yuki Monden",
+        "contribution": 0.1079492867151669,
+        "percent": 0.11645493042952205
+      },
+      {
+        "author": "Tran Phuong Dung",
+        "contribution": 0.0678538373638192,
+        "percent": 0.07320024198427101
+      },
+      {
+        "author": "Phan Thị Phương Nhi",
+        "contribution": 0.040095449351347706,
+        "percent": 0.04325468844525105
+      },
+      {
+        "author": "Tatsuya Yamamoto",
+        "contribution": 0.040095449351347706,
+        "percent": 0.04325468844525105
+      },
+      {
+        "author": "Yasheng Aierken",
+        "contribution": 0.040095449351347706,
+        "percent": 0.04325468844525105
+      },
+      {
+        "author": "Yukari Akashi",
+        "contribution": 0.040095449351347706,
+        "percent": 0.04325468844525105
+      },
+      {
+        "author": "Mami Takahashi",
+        "contribution": 0.040095449351347706,
+        "percent": 0.04325468844525105
+      },
+      {
+        "author": "Naznin Pervin Haque",
+        "contribution": 0.02775838801247149,
+        "percent": 0.029945553539019957
+      },
+      {
+        "author": "Odirich Nnennaya Imoh",
+        "contribution": 0.02775838801247149,
+        "percent": 0.029945553539019957
+      },
+      {
+        "author": "Thuy Thanh Duong",
+        "contribution": 0.02775838801247149,
+        "percent": 0.029945553539019957
+      }
+    ],
+    "Research Institute for Humanity and Nature": [
+      {
+        "author": "Katsunori Tanaka",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University of Agriculture": [
+      {
+        "author": "Hai Thanh Nguyen",
+        "contribution": 0.15350704686987868,
+        "percent": 0.2566371681415928
+      },
+      {
+        "author": "Hai Van Tong",
+        "contribution": 0.15350704686987868,
+        "percent": 0.2566371681415928
+      },
+      {
+        "author": "Nguyen Xuan Canh",
+        "contribution": 0.1005735824319895,
+        "percent": 0.16814159292035394
+      },
+      {
+        "author": "Tran Thi Minh Hang",
+        "contribution": 0.052933464437889204,
+        "percent": 0.08849557522123891
+      },
+      {
+        "author": "Nhan Thi Nguyen",
+        "contribution": 0.052933464437889204,
+        "percent": 0.08849557522123891
+      },
+      {
+        "author": "Xuan Canh Nguyen",
+        "contribution": 0.052933464437889204,
+        "percent": 0.08849557522123891
+      },
+      {
+        "author": "Ha Viet Cuong",
+        "contribution": 0.031760078662733525,
+        "percent": 0.05309734513274335
+      }
+    ],
+    "Joint Genome Institute": [
+      {
+        "author": "Alexander H. Purcell",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Anamitra Bhattacharyya",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Athanasios Lykidis",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Axel Bernal",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Eugene Selkov",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Gary Reznik",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Helene Feil",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Iain Anderson",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Jean-Louis Lassez",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Mark D’Souza",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Natalia Ivanova",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Niels Larsen",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Nikos C. Kyrpides",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Paul Predki",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Robert Haselkorn",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Ross Overbeek",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Stephanie Stilwagen",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Tamara Los",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Theresa L. Walunas",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Trevor Hawkins",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "Vinayak Kapatral",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      },
+      {
+        "author": "William S. Feil",
+        "contribution": 0.022727272727272728,
+        "percent": 0.04545454545454547
+      }
+    ],
+    "University of Bologna": [
+      {
+        "author": "Assunta Bertaccini",
+        "contribution": 0.15476190476190477,
+        "percent": 0.65
+      },
+      {
+        "author": "Juan Fernando Mejía",
+        "contribution": 0.08333333333333333,
+        "percent": 0.35
+      }
+    ],
+    "Environment and Plant Protection Research Institute": [
+      {
+        "author": "Trinh Xuan Hoat",
+        "contribution": 0.2532828282828284,
+        "percent": 0.3863636363636364
+      },
+      {
+        "author": "Mai Van Quan",
+        "contribution": 0.17878787878787883,
+        "percent": 0.2727272727272727
+      },
+      {
+        "author": "Nguyễn Đức Thành",
+        "contribution": 0.07449494949494952,
+        "percent": 0.11363636363636363
+      },
+      {
+        "author": "Lê Quang Mẫn",
+        "contribution": 0.02979797979797981,
+        "percent": 0.045454545454545456
+      },
+      {
+        "author": "Ngo Quang Huy",
+        "contribution": 0.02979797979797981,
+        "percent": 0.045454545454545456
+      },
+      {
+        "author": "Nguyễn Đức Huy",
+        "contribution": 0.02979797979797981,
+        "percent": 0.045454545454545456
+      },
+      {
+        "author": "Nguyen Van Liem",
+        "contribution": 0.02979797979797981,
+        "percent": 0.045454545454545456
+      },
+      {
+        "author": "Xuan Vi Le",
+        "contribution": 0.02979797979797981,
+        "percent": 0.045454545454545456
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Đỗ Ngọc Đài",
+        "contribution": 0.25000000000000006,
+        "percent": 0.20256817198095514
+      },
+      {
+        "author": "Trân Đình Thăng",
+        "contribution": 0.17147435897435903,
+        "percent": 0.13894098975616798
+      },
+      {
+        "author": "Dao Thi Minh Chau",
+        "contribution": 0.16666666666666674,
+        "percent": 0.13504544798730347
+      },
+      {
+        "author": "Nguyễn Anh Dũng",
+        "contribution": 0.16666666666666674,
+        "percent": 0.13504544798730347
+      },
+      {
+        "author": "Le Duy Linh",
+        "contribution": 0.11111111111111116,
+        "percent": 0.0900302986582023
+      },
+      {
+        "author": "Lê Thi Huong",
+        "contribution": 0.11111111111111116,
+        "percent": 0.0900302986582023
+      },
+      {
+        "author": "Lê Thanh Hương",
+        "contribution": 0.05555555555555558,
+        "percent": 0.04501514932910115
+      },
+      {
+        "author": "Nguyen Tien Lam",
+        "contribution": 0.05555555555555558,
+        "percent": 0.04501514932910115
+      },
+      {
+        "author": "Lê Van Hac",
+        "contribution": 0.041666666666666685,
+        "percent": 0.03376136199682587
+      },
+      {
+        "author": "Ngo Xuan Luong",
+        "contribution": 0.041666666666666685,
+        "percent": 0.03376136199682587
+      },
+      {
+        "author": "Dang Thach Tran",
+        "contribution": 0.03703703703703705,
+        "percent": 0.0300100995527341
+      },
+      {
+        "author": "Bùi Thị Minh Nguyệt",
+        "contribution": 0.025641025641025654,
+        "percent": 0.020776222767277457
+      }
+    ],
+    "VAST": [
+      {
+        "author": "Duong Duc Huyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Center Hue Monuments Conservation": [
+      {
+        "author": "Le C. Son",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Swedish University of Agricultural Sciences": [
+      {
+        "author": "B. E. Frankow‐Lindberg",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Jan Erik Lindberg",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Nguyễn Hoàng Lộc",
+        "contribution": 0.4142857142857143,
+        "percent": 0.5142857142857143
+      },
+      {
+        "author": "Nguyễn Hữu Nhân",
+        "contribution": 0.20714285714285716,
+        "percent": 0.2571428571428572
+      },
+      {
+        "author": "Le An",
+        "contribution": 0.1380952380952381,
+        "percent": 0.17142857142857143
+      },
+      {
+        "author": "Phan Thị Phương Nhi",
+        "contribution": 0.046031746031746035,
+        "percent": 0.05714285714285715
+      }
+    ],
+    "Institut de Chimie des Substances Naturelles": [
+      {
+        "author": "Marc Litaudon",
+        "contribution": 0.07870370370370372,
+        "percent": 0.20000000000000004
+      },
+      {
+        "author": "Christiane Gaspard",
+        "contribution": 0.055555555555555566,
+        "percent": 0.14117647058823532
+      },
+      {
+        "author": "Daniel Guénard",
+        "contribution": 0.055555555555555566,
+        "percent": 0.14117647058823532
+      },
+      {
+        "author": "Le Phuong Mai",
+        "contribution": 0.055555555555555566,
+        "percent": 0.14117647058823532
+      },
+      {
+        "author": "M. Franck",
+        "contribution": 0.055555555555555566,
+        "percent": 0.14117647058823532
+      },
+      {
+        "author": "Thierry Sévenet",
+        "contribution": 0.055555555555555566,
+        "percent": 0.14117647058823532
+      },
+      {
+        "author": "Françoise Guéritte",
+        "contribution": 0.03703703703703704,
+        "percent": 0.09411764705882354
+      }
+    ],
+    "Institute of Mathematics": [
+      {
+        "author": "Mai Văn Trị",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "University College London": [
+      {
+        "author": "Emily A. Dyson",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      },
+      {
+        "author": "Emily A. Hornett",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      },
+      {
+        "author": "GREGORY D. D. HURST",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      },
+      {
+        "author": "PATRICK P. Y. HO",
+        "contribution": 0.05555555555555555,
+        "percent": 0.25
+      }
+    ],
+    "Gump South Pacific Research Station": [
+      {
+        "author": "George Roderick",
+        "contribution": 0.05555555555555555,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Neil Davies",
+        "contribution": 0.05555555555555555,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Sylvain Charlat",
+        "contribution": 0.05555555555555555,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Universiti of Malaysia Sabah": [
+      {
+        "author": "Menno Schilthuizen",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Hanyang University": [
+      {
+        "author": "Hye Hyun Yoo",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Kangwon National University": [
+      {
+        "author": "Hyun‐Jeong Ko",
+        "contribution": 0.05,
+        "percent": 0.5
+      },
+      {
+        "author": "Jae-Hyoung Song",
+        "contribution": 0.05,
+        "percent": 0.5
+      }
+    ],
+    "Yonsei University": [
+      {
+        "author": "Nanyoung Kim",
+        "contribution": 0.05,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Xuân Nhiệm",
+        "contribution": 0.05,
+        "percent": 0.25
+      },
+      {
+        "author": "SeonJu Park",
+        "contribution": 0.05,
+        "percent": 0.25
+      },
+      {
+        "author": "Seung Hyun Kim",
+        "contribution": 0.05,
+        "percent": 0.25
+      }
+    ],
+    "Field Crops Research Institute": [
+      {
+        "author": "G. Bolfrey-Arku",
+        "contribution": 0.07142857142857142,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Joseph Nii Lante Lamptey",
+        "contribution": 0.07142857142857142,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Joseph Nketiah Berchie",
+        "contribution": 0.07142857142857142,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Kingsley Osei",
+        "contribution": 0.07142857142857142,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "M. B. Mochiah",
+        "contribution": 0.07142857142857142,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Michael Kwabena Osei",
+        "contribution": 0.07142857142857142,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "University of California, Davis": [
+      {
+        "author": "R. L. Gilbertson",
+        "contribution": 0.07142857142857142,
+        "percent": 1.0
+      }
+    ],
+    "Chinese Academy of Tropical Agricultural Sciences": [
+      {
+        "author": "Didier Lesueur",
+        "contribution": 0.0537280701754386,
+        "percent": 0.5789473684210527
+      },
+      {
+        "author": "D. Horta",
+        "contribution": 0.03907496012759171,
+        "percent": 0.42105263157894735
+      }
+    ],
+    "Sugarcane Research Center (Brazil)": [
+      {
+        "author": "Esther Lilia Peralta",
+        "contribution": 0.030303030303030307,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "O. Carvajal",
+        "contribution": 0.030303030303030307,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "R. Almeida",
+        "contribution": 0.030303030303030307,
+        "percent": 0.33333333333333337
+      }
+    ],
+    "National Museum Wales": [
+      {
+        "author": "Michael R. Wilson",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Rothamsted Research": [
+      {
+        "author": "P. Jones",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "University of Information Science": [
+      {
+        "author": "S. Picornell",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Rural Development Administration": [
+      {
+        "author": "Hai Thi Hong Truong",
+        "contribution": 0.1,
+        "percent": 0.2
+      },
+      {
+        "author": "Haksoon Choi",
+        "contribution": 0.1,
+        "percent": 0.2
+      },
+      {
+        "author": "Hye‐Eun Lee",
+        "contribution": 0.1,
+        "percent": 0.2
+      },
+      {
+        "author": "Jung Ho Kim",
+        "contribution": 0.1,
+        "percent": 0.2
+      },
+      {
+        "author": "Myoung Cheoul Cho",
+        "contribution": 0.1,
+        "percent": 0.2
+      }
+    ],
+    "University of Tasmania": [
+      {
+        "author": "C. E. Harwood",
+        "contribution": 0.08585858585858586,
+        "percent": 0.22580645161290322
+      },
+      {
+        "author": "René E. Vaillancourt",
+        "contribution": 0.07792207792207792,
+        "percent": 0.2049335863377609
+      },
+      {
+        "author": "A. R. Griffin",
+        "contribution": 0.047619047619047616,
+        "percent": 0.12523719165085387
+      },
+      {
+        "author": "Sơn Lê",
+        "contribution": 0.047619047619047616,
+        "percent": 0.12523719165085387
+      },
+      {
+        "author": "Anthony Koutoulis",
+        "contribution": 0.030303030303030304,
+        "percent": 0.07969639468690702
+      },
+      {
+        "author": "Jane L. Harbard",
+        "contribution": 0.030303030303030304,
+        "percent": 0.07969639468690702
+      },
+      {
+        "author": "Matthew J. Larcombe",
+        "contribution": 0.030303030303030304,
+        "percent": 0.07969639468690702
+      },
+      {
+        "author": "Rod A. Griffin",
+        "contribution": 0.030303030303030304,
+        "percent": 0.07969639468690702
+      }
+    ],
+    "National University of Malaysia": [
+      {
+        "author": "Wickneswari Ratnam",
+        "contribution": 0.07792207792207793,
+        "percent": 0.5625000000000001
+      },
+      {
+        "author": "Koh Sin Cyer",
+        "contribution": 0.030303030303030307,
+        "percent": 0.21875000000000003
+      },
+      {
+        "author": "Liew Wai Yee",
+        "contribution": 0.030303030303030307,
+        "percent": 0.21875000000000003
+      }
+    ],
+    "Forest Industry Research Institute": [
+      {
+        "author": "Nguyen Hoang Nghia",
+        "contribution": 0.07157581553501223,
+        "percent": 0.14727446605036662
+      },
+      {
+        "author": "Đỗ Hữu Sơn",
+        "contribution": 0.05964651294584351,
+        "percent": 0.12272872170863883
+      },
+      {
+        "author": "Ha Huy Thinh",
+        "contribution": 0.05964651294584351,
+        "percent": 0.12272872170863883
+      },
+      {
+        "author": "Ngo Van Chinh",
+        "contribution": 0.05964651294584351,
+        "percent": 0.12272872170863883
+      },
+      {
+        "author": "P. Bon",
+        "contribution": 0.05964651294584351,
+        "percent": 0.12272872170863883
+      },
+      {
+        "author": "Q. C. Nghiem",
+        "contribution": 0.05964651294584351,
+        "percent": 0.12272872170863883
+      },
+      {
+        "author": "Son H.",
+        "contribution": 0.05112558252500873,
+        "percent": 0.10519604717883328
+      },
+      {
+        "author": "Sơn Lê",
+        "contribution": 0.03253446160682374,
+        "percent": 0.066942939113803
+      },
+      {
+        "author": "Thinh Huy Ha",
+        "contribution": 0.03253446160682374,
+        "percent": 0.066942939113803
+      }
+    ],
+    "Kaohsiung Medical University": [
+      {
+        "author": "Chin‐Chung Wu",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Fang‐Rong Chang",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Jing-Ru Liou",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Ming‐Feng Hou",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Mohamed El‐Shazly",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Shu‐Li Chen",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Shyng‐Shiou F. Yuan",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Tung-Ying Wu",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Yang‐Chang Wu",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      },
+      {
+        "author": "Yuan‐Bin Cheng",
+        "contribution": 0.020833333333333336,
+        "percent": 0.1
+      }
+    ],
+    "National Sun Yat-sen University": [
+      {
+        "author": "Michael Y. Chiang",
+        "contribution": 0.020833333333333332,
+        "percent": 1.0
+      }
+    ],
+    "National Kaohsiung Marine University": [
+      {
+        "author": "Shwu‐Li Wu",
+        "contribution": 0.020833333333333332,
+        "percent": 1.0
+      }
+    ],
+    "Chang Gung University": [
+      {
+        "author": "Tsong‐Long Hwang",
+        "contribution": 0.020833333333333332,
+        "percent": 1.0
+      }
+    ],
+    "China Medical University": [
+      {
+        "author": "Chang-Ying Chiang",
+        "contribution": 0.025641025641025637,
+        "percent": 0.14678899082568808
+      },
+      {
+        "author": "Jai‐Sing Yang",
+        "contribution": 0.025641025641025637,
+        "percent": 0.14678899082568808
+      },
+      {
+        "author": "Sheng-Chu Kuo",
+        "contribution": 0.025641025641025637,
+        "percent": 0.14678899082568808
+      },
+      {
+        "author": "Shih-Hao Wang",
+        "contribution": 0.025641025641025637,
+        "percent": 0.14678899082568808
+      },
+      {
+        "author": "Shin‐Hun Juang",
+        "contribution": 0.025641025641025637,
+        "percent": 0.14678899082568808
+      },
+      {
+        "author": "Yu-Chin Lin",
+        "contribution": 0.025641025641025637,
+        "percent": 0.14678899082568808
+      },
+      {
+        "author": "Yu-Hsuan Lan",
+        "contribution": 0.02083333333333333,
+        "percent": 0.11926605504587155
+      }
+    ],
+    "Hung Vuong University of Ho Chi Minh City": [
+      {
+        "author": "Quy Hung Trieu",
+        "contribution": 0.2693521594684385,
+        "percent": 0.46843853820598
+      },
+      {
+        "author": "Man Thi Le",
+        "contribution": 0.07641196013289034,
+        "percent": 0.13289036544850494
+      },
+      {
+        "author": "Ngoc Thi Bich Chu",
+        "contribution": 0.07641196013289034,
+        "percent": 0.13289036544850494
+      },
+      {
+        "author": "Phi Bang Cao",
+        "contribution": 0.07641196013289034,
+        "percent": 0.13289036544850494
+      },
+      {
+        "author": "Quyen Thi Xuan Vu",
+        "contribution": 0.07641196013289034,
+        "percent": 0.13289036544850494
+      }
+    ],
+    "Thai Nguyen University of Agriculture and Forestry": [
+      {
+        "author": "Duong Thi Nguyen",
+        "contribution": 0.18300803673938001,
+        "percent": 0.45464982778415614
+      },
+      {
+        "author": "Do Vo Anh Khoa",
+        "contribution": 0.14742314070672277,
+        "percent": 0.3662456946039035
+      },
+      {
+        "author": "Trungtín Hoàng",
+        "contribution": 0.04159273562258637,
+        "percent": 0.10332950631458095
+      },
+      {
+        "author": "Hoang Thi Bich Thao",
+        "contribution": 0.030501339456563335,
+        "percent": 0.07577497129735936
+      }
+    ],
+    "Tajen University": [
+      {
+        "author": "Fong-Pin Liang",
+        "contribution": 0.02564102564102564,
+        "percent": 1.0
+      }
+    ],
+    "National Cheng Kung University": [
+      {
+        "author": "Mei‐Lin Yang",
+        "contribution": 0.04166666666666666,
+        "percent": 0.22413793103448273
+      },
+      {
+        "author": "Tian‐Shung Wu",
+        "contribution": 0.04166666666666666,
+        "percent": 0.22413793103448273
+      },
+      {
+        "author": "Hsiu-Hui Chan",
+        "contribution": 0.025641025641025637,
+        "percent": 0.13793103448275862
+      },
+      {
+        "author": "Meng‐Ru Shen",
+        "contribution": 0.025641025641025637,
+        "percent": 0.13793103448275862
+      },
+      {
+        "author": "Ping‐Chung Kuo",
+        "contribution": 0.025641025641025637,
+        "percent": 0.13793103448275862
+      },
+      {
+        "author": "Tian-Shung Wu",
+        "contribution": 0.025641025641025637,
+        "percent": 0.13793103448275862
+      }
+    ],
+    "Institute of Natural Sciences": [
+      {
+        "author": "Jérôme Constant",
+        "contribution": 0.9999999999999998,
+        "percent": 1.0
+      }
+    ],
+    "Nong Lam University Ho Chi Minh City": [
+      {
+        "author": "Phuong Anh Nguyen",
+        "contribution": 0.3908882082695252,
+        "percent": 0.25267993874425726
+      },
+      {
+        "author": "Dang Thanh Ha",
+        "contribution": 0.1954441041347626,
+        "percent": 0.12633996937212863
+      },
+      {
+        "author": "Bui Cach Tuyen",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Huynh Van Biet",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Pham Duc Toan",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Tri Minh Bui",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Lê Hoàng Tú",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Nguyễn Kim Lợi",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Nguyễn Thị Huyền",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Vuong Thi Thuy",
+        "contribution": 0.0977220520673813,
+        "percent": 0.06316998468606431
+      },
+      {
+        "author": "Nguyễn Bảo Quốc",
+        "contribution": 0.06514803471158753,
+        "percent": 0.04211332312404288
+      },
+      {
+        "author": "Thi Kim Hong Tang",
+        "contribution": 0.039088820826952524,
+        "percent": 0.02526799387442573
+      },
+      {
+        "author": "Thi Lam An Vu",
+        "contribution": 0.039088820826952524,
+        "percent": 0.02526799387442573
+      },
+      {
+        "author": "Phuoc Hong Duc Pham",
+        "contribution": 0.03553529166086593,
+        "percent": 0.022970903522205207
+      }
+    ],
+    "CSIRO Land and Water": [
+      {
+        "author": "C. E. Harwood",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Vietnamese Academy of Forest Sciences": [
+      {
+        "author": "VD Tran",
+        "contribution": 0.3333333333333333,
+        "percent": 0.875
+      },
+      {
+        "author": "Thinh Huy Ha",
+        "contribution": 0.047619047619047616,
+        "percent": 0.125
+      }
+    ],
+    "University of Göttingen": [
+      {
+        "author": "Issaka Abdulai",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3793103448275862
+      },
+      {
+        "author": "Sophie Graefe",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3793103448275862
+      },
+      {
+        "author": "Reimund P. Rötter",
+        "contribution": 0.030303030303030304,
+        "percent": 0.2413793103448276
+      }
+    ],
+    "International Institute of Tropical Agriculture": [
+      {
+        "author": "Laurence Jassogne",
+        "contribution": 0.07792207792207792,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Piet van Asten",
+        "contribution": 0.07792207792207792,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Béla Teeken",
+        "contribution": 0.047619047619047616,
+        "percent": 0.2037037037037037
+      },
+      {
+        "author": "Issaka Abdulai",
+        "contribution": 0.030303030303030304,
+        "percent": 0.12962962962962962
+      }
+    ],
+    "Centre de Coopération Internationale en Recherche Agronomique pour le Développement": [
+      {
+        "author": "Pierre Marraccini",
+        "contribution": 0.46836863400330914,
+        "percent": 0.3084363534338801
+      },
+      {
+        "author": "Philippe Vaast",
+        "contribution": 0.2146945646945648,
+        "percent": 0.14138352534511942
+      },
+      {
+        "author": "Clément Rigal",
+        "contribution": 0.16851851851851862,
+        "percent": 0.11097506016503327
+      },
+      {
+        "author": "Hervé Etienne",
+        "contribution": 0.07010582010582014,
+        "percent": 0.04616701874997459
+      },
+      {
+        "author": "Thuan Sarzynski",
+        "contribution": 0.07010582010582014,
+        "percent": 0.04616701874997459
+      },
+      {
+        "author": "Valérie Poncet",
+        "contribution": 0.06492948056415553,
+        "percent": 0.042758226665158425
+      },
+      {
+        "author": "Claudine Campa",
+        "contribution": 0.04629629629629633,
+        "percent": 0.030487653891492657
+      },
+      {
+        "author": "Claude Patrick Millet",
+        "contribution": 0.0453216374269006,
+        "percent": 0.029845808546408593
+      },
+      {
+        "author": "Tram Vi",
+        "contribution": 0.0453216374269006,
+        "percent": 0.029845808546408593
+      },
+      {
+        "author": "Benoît Bertrand",
+        "contribution": 0.04232804232804235,
+        "percent": 0.027874426415078996
+      },
+      {
+        "author": "Christine Tranchant‐Dubreuil",
+        "contribution": 0.027777777777777794,
+        "percent": 0.01829259233489559
+      },
+      {
+        "author": "Clémentine Allinne",
+        "contribution": 0.027777777777777794,
+        "percent": 0.01829259233489559
+      },
+      {
+        "author": "Marie Couderc",
+        "contribution": 0.027777777777777794,
+        "percent": 0.01829259233489559
+      },
+      {
+        "author": "Sophie Léran",
+        "contribution": 0.023809523809523822,
+        "percent": 0.015679364858481936
+      },
+      {
+        "author": "Sophie Ravel",
+        "contribution": 0.022222222222222237,
+        "percent": 0.014634073867916474
+      },
+      {
+        "author": "Thierry De Meeûs",
+        "contribution": 0.022222222222222237,
+        "percent": 0.014634073867916474
+      },
+      {
+        "author": "Alexandre de Kochko",
+        "contribution": 0.019607843137254912,
+        "percent": 0.01291241811874983
+      },
+      {
+        "author": "Rémi Tournebize",
+        "contribution": 0.019607843137254912,
+        "percent": 0.01291241811874983
+      },
+      {
+        "author": "Sinara Oliveira de Aquino",
+        "contribution": 0.019607843137254912,
+        "percent": 0.01291241811874983
+      },
+      {
+        "author": "Cécile Abdallah",
+        "contribution": 0.018518518518518528,
+        "percent": 0.01219506155659706
+      },
+      {
+        "author": "Frédéric Georget",
+        "contribution": 0.018518518518518528,
+        "percent": 0.01219506155659706
+      },
+      {
+        "author": "Philippe Cubry",
+        "contribution": 0.017543859649122816,
+        "percent": 0.011553216211513005
+      },
+      {
+        "author": "Yves Vigouroux",
+        "contribution": 0.017543859649122816,
+        "percent": 0.011553216211513005
+      }
+    ],
+    "International Institute of Tropical Agriculture (IITA), Accra, Ghana": [
+      {
+        "author": "Richard Asare",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "University of Milan": [
+      {
+        "author": "F. Quaglino",
+        "contribution": 0.07142857142857142,
+        "percent": 0.5
+      },
+      {
+        "author": "P.A. Bianco",
+        "contribution": 0.07142857142857142,
+        "percent": 0.5
+      }
+    ],
+    "CREA – Research Centre for Plant Protection and Certification, Rome, Italy": [
+      {
+        "author": "L. Ferretti",
+        "contribution": 0.07142857142857142,
+        "percent": 1.0
+      }
+    ],
+    "Instytut Ogrodnictwa": [
+      {
+        "author": "M. Cieślińska",
+        "contribution": 0.07142857142857142,
+        "percent": 1.0
+      }
+    ],
+    "University of Chile": [
+      {
+        "author": "Nicola Fiore",
+        "contribution": 0.07142857142857142,
+        "percent": 1.0
+      }
+    ],
+    "Chonnam National University": [
+      {
+        "author": "Hunseung Kang",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Dinh Minh Tran",
+        "contribution": 0.6808510638297872,
+        "percent": 0.7659574468085106
+      },
+      {
+        "author": "Sy Dinh Nguyen",
+        "contribution": 0.1702127659574468,
+        "percent": 0.19148936170212766
+      },
+      {
+        "author": "Duc-Binh Nguyen",
+        "contribution": 0.037825059101654845,
+        "percent": 0.0425531914893617
+      }
+    ],
+    "ARC Centre of Excellence in Plant Energy Biology": [
+      {
+        "author": "Belinda Akomeah",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Sunita A. Ramesh",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "University of Kentucky": [
+      {
+        "author": "Carlos M. Rodríguez López",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Council for Scientific and Industrial Research": [
+      {
+        "author": "Marian Dorcas Quain",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Science": [
+      {
+        "author": "Quoc Nguyen Ngo",
+        "contribution": 0.3333333333333333,
+        "percent": 0.9
+      },
+      {
+        "author": "Thai Thanh Tuan",
+        "contribution": 0.037037037037037035,
+        "percent": 0.1
+      }
+    ],
+    "Ho Chi Minh City University of Industry and Trade": [
+      {
+        "author": "Viet The Ho",
+        "contribution": 0.3333333333333333,
+        "percent": 0.8181818181818182
+      },
+      {
+        "author": "Le Minh Thi",
+        "contribution": 0.037037037037037035,
+        "percent": 0.09090909090909091
+      },
+      {
+        "author": "Thanh Le",
+        "contribution": 0.037037037037037035,
+        "percent": 0.09090909090909091
+      }
+    ],
+    "College of Food Industry, Danang 550000, Vietnam": [
+      {
+        "author": "Nguyễn Hữu Nhân",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "University Drive, Aleku Area, Osogbo, Nigeria": [
+      {
+        "author": "Isiaka A. Ogunwande",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "National Institute of Drug Quality Control, Hoan Kiem, Hanoi, Vietnam": [
+      {
+        "author": "Do Thi Ngoc Lan",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "National Library of Vietnam": [
+      {
+        "author": "Nguyen Tuan Hiep",
+        "contribution": 0.05,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Anh Hoang Dinh",
+        "contribution": 0.25045477096080704,
+        "percent": 0.32743509178104846
+      },
+      {
+        "author": "Anh Quoc Hoang",
+        "contribution": 0.25045477096080704,
+        "percent": 0.32743509178104846
+      },
+      {
+        "author": "Ha Duc Chu",
+        "contribution": 0.10119384685285132,
+        "percent": 0.13229700678022158
+      },
+      {
+        "author": "Mai Phuong Nguyen",
+        "contribution": 0.10018190838432282,
+        "percent": 0.1309740367124194
+      },
+      {
+        "author": "Nguyêñ Xuân Dũng",
+        "contribution": 0.06261369274020176,
+        "percent": 0.08185877294526211
+      }
+    ],
+    "National Formosa University": [
+      {
+        "author": "Ping‐Chung Kuo",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "National Research Institute of Chinese Medicine": [
+      {
+        "author": "Yao‐Haur Kuo",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Chinese Academy of Sciences": [
+      {
+        "author": "Clément Rigal",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5
+      },
+      {
+        "author": "Ming‐Hua Qiu",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5
+      }
+    ],
+    "Ghent University Hospital": [
+      {
+        "author": "Jocelyn De Wever",
+        "contribution": 0.045098039215686274,
+        "percent": 0.35294117647058826
+      },
+      {
+        "author": "Steve Lefever",
+        "contribution": 0.045098039215686274,
+        "percent": 0.35294117647058826
+      },
+      {
+        "author": "Tom Ruttink",
+        "contribution": 0.03758169934640522,
+        "percent": 0.2941176470588235
+      }
+    ],
+    "Western Sydney University": [
+      {
+        "author": "G. A. C. Beattie",
+        "contribution": 0.08333333333333334,
+        "percent": 0.5
+      },
+      {
+        "author": "Paul Holford",
+        "contribution": 0.08333333333333334,
+        "percent": 0.5
+      }
+    ],
+    "Natural History Museum": [
+      {
+        "author": "Gillian W. Watson",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "USDA-APHIS, National Identification Services, Beltsville, MD 20705, USA": [
+      {
+        "author": "Greg Evans",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Agricultural Research Service": [
+      {
+        "author": "Jason L. Mottern",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "National Taiwan University": [
+      {
+        "author": "Hsiao‐Hang Tao",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Leibniz Centre for Agricultural Landscape Research": [
+      {
+        "author": "Munir Hoffmann",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "International Institute of Tropical Agriculture (IITA), PMB L56 Legon-Accra, Ghana": [
+      {
+        "author": "Richard Asare",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit": [
+      {
+        "author": "Sander Muilerman",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "University of Kassel": [
+      {
+        "author": "Sophie Graefe",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "University of Southern Queensland": [
+      {
+        "author": "Jarrod Kath",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      },
+      {
+        "author": "Shahbaz Mushtaq",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      },
+      {
+        "author": "Thong Nguyen‐Huy",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      },
+      {
+        "author": "Vivekananda M. Byrareddy",
+        "contribution": 0.07142857142857142,
+        "percent": 0.25
+      }
+    ],
+    "Sustainable Management Services ECOM Agroindustrial Ho Chi Minh City Vietnam": [
+      {
+        "author": "Laurent Bossolasco",
+        "contribution": 0.07142857142857142,
+        "percent": 0.5
+      },
+      {
+        "author": "Loc Cao",
+        "contribution": 0.07142857142857142,
+        "percent": 0.5
+      }
+    ],
+    "Alliance of Bioversity International and CIAT, The Hague, Netherlands": [
+      {
+        "author": "Anne M. Rietveld",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Wageningen University & Research": [
+      {
+        "author": "Elias Damtew",
+        "contribution": 0.047619047619047616,
+        "percent": 0.4473684210526316
+      },
+      {
+        "author": "Eva Goudsmit",
+        "contribution": 0.0196078431372549,
+        "percent": 0.18421052631578946
+      },
+      {
+        "author": "Jacob C. Douma",
+        "contribution": 0.0196078431372549,
+        "percent": 0.18421052631578946
+      },
+      {
+        "author": "Niels P. R. Anten",
+        "contribution": 0.0196078431372549,
+        "percent": 0.18421052631578946
+      }
+    ],
+    "Bioversity International": [
+      {
+        "author": "Vanya Slavchevska",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Shanghai Institute for Science of Science": [
+      {
+        "author": "Chetan Keswani",
+        "contribution": 0.022222222222222223,
+        "percent": 0.25
+      },
+      {
+        "author": "Le Thi Hang",
+        "contribution": 0.022222222222222223,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Mạnh Hùng",
+        "contribution": 0.022222222222222223,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Viết Hưng",
+        "contribution": 0.022222222222222223,
+        "percent": 0.25
+      }
+    ],
+    "Agricultural Research Organization": [
+      {
+        "author": "Phyllis G. Weintraub",
+        "contribution": 0.022222222222222223,
+        "percent": 1.0
+      }
+    ],
+    "Zhejiang University": [
+      {
+        "author": "Guan-Lin Xie",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Ling Wang",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Seyedmohammadreza Ojaghian",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Purdue University West Lafayette": [
+      {
+        "author": "Gerald Shively",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "World Agroforestry (ICRAF), Hanoi 100000, Vietnam": [
+      {
+        "author": "Elisabeth Simelton",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      },
+      {
+        "author": "Mai Phuong Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      },
+      {
+        "author": "Rachmat Mulia",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      },
+      {
+        "author": "Van Thanh Pham",
+        "contribution": 0.041666666666666664,
+        "percent": 0.25
+      }
+    ],
+    "Ministry of Agriculture and Rural Development": [
+      {
+        "author": "Hoàng Anh Lê",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "World Agroforestry Centre": [
+      {
+        "author": "Tuan Minh Duong",
+        "contribution": 0.05555555555555556,
+        "percent": 0.4
+      },
+      {
+        "author": "Peter Steward",
+        "contribution": 0.04166666666666667,
+        "percent": 0.30000000000000004
+      },
+      {
+        "author": "Todd S. Rosenstock",
+        "contribution": 0.04166666666666667,
+        "percent": 0.30000000000000004
+      }
+    ],
+    "Vietnam National University of Forestry": [
+      {
+        "author": "Dang Thi Lan Anh",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Dang Viet Hung",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hung Vu Van",
+        "contribution": 0.16666666666666666,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Brazilian Agricultural Research Corporation": [
+      {
+        "author": "Alan Carvalho Andrade",
+        "contribution": 0.0196078431372549,
+        "percent": 1.0
+      }
+    ],
+    "National Agricultural Research Organisation": [
+      {
+        "author": "Pascal Musoli",
+        "contribution": 0.037151702786377715,
+        "percent": 0.48648648648648657
+      },
+      {
+        "author": "Catherine Kiwuka",
+        "contribution": 0.019607843137254905,
+        "percent": 0.2567567567567568
+      },
+      {
+        "author": "J W Mulumba",
+        "contribution": 0.019607843137254905,
+        "percent": 0.2567567567567568
+      }
+    ],
+    "Nestlé (France)": [
+      {
+        "author": "Dominique Crouzillat",
+        "contribution": 0.0196078431372549,
+        "percent": 0.5
+      },
+      {
+        "author": "Laurence Bellanger",
+        "contribution": 0.0196078431372549,
+        "percent": 0.5
+      }
+    ],
+    "Centre National de Recherche Agronomique": [
+      {
+        "author": "Hyacinthe Legnaté",
+        "contribution": 0.0196078431372549,
+        "percent": 0.5277777777777778
+      },
+      {
+        "author": "Karine Gba",
+        "contribution": 0.017543859649122806,
+        "percent": 0.4722222222222222
+      }
+    ],
+    "Meise Botanic Garden": [
+      {
+        "author": "Piet Stoffelen",
+        "contribution": 0.03715170278637771,
+        "percent": 1.0
+      }
+    ],
+    "Indonesian Coffee and Cocoa Research Institute": [
+      {
+        "author": "Ariza Budi Tunjung Sari",
+        "contribution": 0.04166666666666668,
+        "percent": 0.3256704980842912
+      },
+      {
+        "author": "Aris Budiman",
+        "contribution": 0.022222222222222227,
+        "percent": 0.17369093231162197
+      },
+      {
+        "author": "Arni Ekayanti",
+        "contribution": 0.022222222222222227,
+        "percent": 0.17369093231162197
+      },
+      {
+        "author": "Endang Sulistyowati",
+        "contribution": 0.022222222222222227,
+        "percent": 0.17369093231162197
+      },
+      {
+        "author": "Ucu Sumirat",
+        "contribution": 0.01960784313725491,
+        "percent": 0.15325670498084296
+      }
+    ],
+    "Forestry Research Institute of Nigeria": [
+      {
+        "author": "K.M. Adelakun",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Federal University Dutse": [
+      {
+        "author": "Nasiru Salihu",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Sardar Vallabhbhai Patel University of Agriculture & Technology": [
+      {
+        "author": "Aakansha Manav",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Jitender Singh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Koushlesh Ranjan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Malyaj R. Prajapati",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "Uttar Pradesh Council of sugarcane research": [
+      {
+        "author": "Ajay Kumar Tiwari",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "National Agriculture and Food Research Organization": [
+      {
+        "author": "Mitsuhiro Sugiyama",
+        "contribution": 0.11116291116291122,
+        "percent": 0.2740740740740741
+      },
+      {
+        "author": "Hidetaka Nishida",
+        "contribution": 0.039057239057239075,
+        "percent": 0.09629629629629631
+      },
+      {
+        "author": "Katsunori Tanaka",
+        "contribution": 0.039057239057239075,
+        "percent": 0.09629629629629631
+      },
+      {
+        "author": "Kenji Kato",
+        "contribution": 0.039057239057239075,
+        "percent": 0.09629629629629631
+      },
+      {
+        "author": "Ryuji Ishikawa",
+        "contribution": 0.039057239057239075,
+        "percent": 0.09629629629629631
+      },
+      {
+        "author": "Thuy Thanh Duong",
+        "contribution": 0.039057239057239075,
+        "percent": 0.09629629629629631
+      },
+      {
+        "author": "Koichiro Shimomura",
+        "contribution": 0.033048433048433065,
+        "percent": 0.08148148148148149
+      },
+      {
+        "author": "‍Norihiko Tomooka",
+        "contribution": 0.033048433048433065,
+        "percent": 0.08148148148148149
+      },
+      {
+        "author": "Yoichi Kawazu",
+        "contribution": 0.033048433048433065,
+        "percent": 0.08148148148148149
+      }
+    ],
+    "Hirosaki University": [
+      {
+        "author": "Katsunori Tanaka",
+        "contribution": 0.122842413009226,
+        "percent": 0.353819139596137
+      },
+      {
+        "author": "Ryuji Ishikawa",
+        "contribution": 0.122842413009226,
+        "percent": 0.353819139596137
+      },
+      {
+        "author": "Ryoma Murakami",
+        "contribution": 0.07132785271503446,
+        "percent": 0.20544337137840213
+      },
+      {
+        "author": "K. Tanaka",
+        "contribution": 0.03017716845636073,
+        "percent": 0.08691834942932397
+      }
+    ],
+    "Xinjiang Academy of Agricultural Sciences": [
+      {
+        "author": "Yasheng Aierken",
+        "contribution": 0.07575757575757576,
+        "percent": 1.0
+      }
+    ],
+    "Kazakh Research Institute of Agriculture and Plant growing": [
+      {
+        "author": "Zharas Mamypbelov",
+        "contribution": 0.07575757575757576,
+        "percent": 1.0
+      }
+    ],
+    "N.I. Vavilov Research Institute of Plant Industry": [
+      {
+        "author": "А. M. Artemyeva",
+        "contribution": 0.07575757575757576,
+        "percent": 1.0
+      }
+    ],
+    "University of Copenhagen": [
+      {
+        "author": "Anders Ræbild",
+        "contribution": 0.05158730158730159,
+        "percent": 0.22413793103448276
+      },
+      {
+        "author": "Aske Skovmand Bosselmann",
+        "contribution": 0.05158730158730159,
+        "percent": 0.22413793103448276
+      },
+      {
+        "author": "Athina Koutouleas",
+        "contribution": 0.05158730158730159,
+        "percent": 0.22413793103448276
+      },
+      {
+        "author": "Nerea Turreira-García",
+        "contribution": 0.05158730158730159,
+        "percent": 0.22413793103448276
+      },
+      {
+        "author": "Bo Markussen",
+        "contribution": 0.02380952380952381,
+        "percent": 0.10344827586206896
+      }
+    ],
+    "Institut de Recherche pour le Développement": [
+      {
+        "author": "Claudine Campa",
+        "contribution": 0.023809523809523808,
+        "percent": 1.0
+      }
+    ],
+    "University of Lisbon": [
+      {
+        "author": "José C. Ramalho",
+        "contribution": 0.051587301587301584,
+        "percent": 1.0
+      }
+    ],
+    "Nicafrance Foundation, Finca La Cumplida, Matagalpa, Nicaragua": [
+      {
+        "author": "Mélanie Bordeaux",
+        "contribution": 0.051587301587301584,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Pedagogical University 2": [
+      {
+        "author": "Viet Hong La",
+        "contribution": 0.41406250000000006,
+        "percent": 0.7734375000000001
+      },
+      {
+        "author": "Hong Viet La",
+        "contribution": 0.0836489898989899,
+        "percent": 0.15625
+      },
+      {
+        "author": "Chi Toan Le",
+        "contribution": 0.03764204545454546,
+        "percent": 0.07031250000000001
+      }
+    ],
+    "TerraMetrics (United States)": [
+      {
+        "author": "Laurence Jassogne",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Manchester Metropolitan University": [
+      {
+        "author": "Sigrun Wagner",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "New South Wales Department of Primary Industries": [
+      {
+        "author": "Andrew Daly",
+        "contribution": 0.027777777777777776,
+        "percent": 0.25
+      },
+      {
+        "author": "Anna Englezou",
+        "contribution": 0.027777777777777776,
+        "percent": 0.25
+      },
+      {
+        "author": "Grant Anthony Chambers",
+        "contribution": 0.027777777777777776,
+        "percent": 0.25
+      },
+      {
+        "author": "Nerida J. Donovan",
+        "contribution": 0.027777777777777776,
+        "percent": 0.25
+      }
+    ],
+    "The University of Sydney": [
+      {
+        "author": "L. W. Burgess",
+        "contribution": 0.027777777777777776,
+        "percent": 1.0
+      }
+    ],
+    "Ministry of Agriculture and Forestry": [
+      {
+        "author": "Panai Phitsanoukane",
+        "contribution": 0.027777777777777776,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "S. Vilavong",
+        "contribution": 0.027777777777777776,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Sengphet Phanthavong",
+        "contribution": 0.027777777777777776,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Northern Australian Quarantine Strategy, Department of Agriculture, Water and the Environment, Cairns, Qld, Australia;": [
+      {
+        "author": "Sally Cowan",
+        "contribution": 0.027777777777777776,
+        "percent": 1.0
+      }
+    ],
+    "Gyeongsang National University": [
+      {
+        "author": "Cam Chau Nguyen",
+        "contribution": 0.1611111111111111,
+        "percent": 0.2319999999999999
+      },
+      {
+        "author": "Jae‐Yean Kim",
+        "contribution": 0.1611111111111111,
+        "percent": 0.2319999999999999
+      },
+      {
+        "author": "Rahul Mahadev Shelake",
+        "contribution": 0.1611111111111111,
+        "percent": 0.2319999999999999
+      },
+      {
+        "author": "Tien Van Vu",
+        "contribution": 0.1611111111111111,
+        "percent": 0.2319999999999999
+      },
+      {
+        "author": "Woe‐Yeon Kim",
+        "contribution": 0.05,
+        "percent": 0.07199999999999998
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Cong Dinh Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.29032258064516125
+      },
+      {
+        "author": "Duc Hoa Chau",
+        "contribution": 0.041666666666666664,
+        "percent": 0.29032258064516125
+      },
+      {
+        "author": "Duc Minh Nguyen Huu",
+        "contribution": 0.041666666666666664,
+        "percent": 0.29032258064516125
+      },
+      {
+        "author": "Laurent Bossolasco",
+        "contribution": 0.018518518518518517,
+        "percent": 0.12903225806451613
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Binh Thanh Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Lê Hùng Anh",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Vinh Huu Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyễn Xuân Tòng",
+        "contribution": 0.08333333333333333,
+        "percent": 0.25
+      }
+    ],
+    "Forestry Research Centre": [
+      {
+        "author": "Chang Thi Quynh Nguyen",
+        "contribution": 0.018518518518518517,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hai Thi Thanh Nguyen",
+        "contribution": 0.018518518518518517,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hung Phi Nguyen",
+        "contribution": 0.018518518518518517,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Agricultural Genetics Institute": [
+      {
+        "author": "Thao Duc Le",
+        "contribution": 0.03482863570199815,
+        "percent": 0.2986899563318778
+      },
+      {
+        "author": "Giang Khong Ngan",
+        "contribution": 0.0212841662623322,
+        "percent": 0.18253275109170305
+      },
+      {
+        "author": "Giang Ngan Khong",
+        "contribution": 0.02016394698536735,
+        "percent": 0.17292576419213976
+      },
+      {
+        "author": "Thi Nhu Le",
+        "contribution": 0.02016394698536735,
+        "percent": 0.17292576419213976
+      },
+      {
+        "author": "Van Toan Nguyen",
+        "contribution": 0.02016394698536735,
+        "percent": 0.17292576419213976
+      }
+    ],
+    "InterAcademy Partnership": [
+      {
+        "author": "Luciano Navarini",
+        "contribution": 0.018518518518518517,
+        "percent": 0.5
+      },
+      {
+        "author": "Valentina Lonzarich",
+        "contribution": 0.018518518518518517,
+        "percent": 0.5
+      }
+    ],
+    "NOMAFSI headquarter Phu Tho Vietnam": [
+      {
+        "author": "Quyen Luu Ngoc",
+        "contribution": 0.018518518518518517,
+        "percent": 1.0
+      }
+    ],
+    "Tay Bac University": [
+      {
+        "author": "Thang Vu Viet",
+        "contribution": 0.018518518518518517,
+        "percent": 1.0
+      }
+    ],
+    "Hue University of Agriculture and Forestry": [
+      {
+        "author": "Phan Thị Phương Nhi",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5499999999999999
+      },
+      {
+        "author": "Thuy Thanh Duong",
+        "contribution": 0.030303030303030304,
+        "percent": 0.45
+      }
+    ],
+    "Foresight Institute of Research and Translation, Ibadan, Nigeria": [
+      {
+        "author": "Isiaka A. Ogunwande",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Enverga University": [
+      {
+        "author": "James Leo C. Grimaldo",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Jose B. Tan",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Mary Meliza V. Parcon",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Pedro Jose L. De Castro",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Rikiya E. Yamamoto",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Rodrigo C. Belleza",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Ronaldo C. Maaño",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Roselyn A. Maaño",
+        "contribution": 0.05555555555555555,
+        "percent": 0.12499999999999997
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Nguyen Hoai Nguyen",
+        "contribution": 0.2222222222222222,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Kinh L. Le",
+        "contribution": 0.2222222222222222,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Linh T. T. Le",
+        "contribution": 0.2222222222222222,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Linh Thi Truc Le",
+        "contribution": 0.14814814814814814,
+        "percent": 0.1111111111111111
+      },
+      {
+        "author": "Phuong T. Ho",
+        "contribution": 0.14814814814814814,
+        "percent": 0.1111111111111111
+      },
+      {
+        "author": "Dat Tan Tran",
+        "contribution": 0.07407407407407407,
+        "percent": 0.05555555555555555
+      },
+      {
+        "author": "Phuong Dong Tran Nguyen",
+        "contribution": 0.07407407407407407,
+        "percent": 0.05555555555555555
+      },
+      {
+        "author": "Thiều Hồng Huệ",
+        "contribution": 0.07407407407407407,
+        "percent": 0.05555555555555555
+      },
+      {
+        "author": "Thuan Duc Lao",
+        "contribution": 0.07407407407407407,
+        "percent": 0.05555555555555555
+      },
+      {
+        "author": "Thuy Ai Huyen Le",
+        "contribution": 0.07407407407407407,
+        "percent": 0.05555555555555555
+      }
+    ],
+    "WASI, Buon Ma Thuot, Viet Nam": [
+      {
+        "author": "Bon Le Van",
+        "contribution": 0.05555555555555555,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Chau Thi Minh Long",
+        "contribution": 0.05555555555555555,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "HOANG Trung",
+        "contribution": 0.05555555555555555,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hanoi University": [
+      {
+        "author": "VO Cuong",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Institute of Research and Translation, Ibadan, Nigeria": [
+      {
+        "author": "Isiaka A. Ogunwande",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Sweet Potato Research Institute": [
+      {
+        "author": "Chang You",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Chen Li",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Chengyang Li",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Dandan Wang",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Hui Yan",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Meng Kou",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Qiang Li",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Runfei Gao",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Wei Tang",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Weihan Song",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Xin Wang",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Yifan Shen",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      },
+      {
+        "author": "Yungang Zhang",
+        "contribution": 0.01851851851851851,
+        "percent": 0.0769230769230769
+      }
+    ],
+    "Jiangsu Normal University": [
+      {
+        "author": "Guangzhen Gao",
+        "contribution": 0.018518518518518517,
+        "percent": 0.25
+      },
+      {
+        "author": "Meng Ma",
+        "contribution": 0.018518518518518517,
+        "percent": 0.25
+      },
+      {
+        "author": "Tingdong Cai",
+        "contribution": 0.018518518518518517,
+        "percent": 0.25
+      },
+      {
+        "author": "Zhenyi Zhang",
+        "contribution": 0.018518518518518517,
+        "percent": 0.25
+      }
+    ],
+    "Quy Nhon University": [
+      {
+        "author": "Thanhliem Nguyen",
+        "contribution": 0.018518518518518517,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Trần Thị Thanh Huyền",
+        "contribution": 0.1360978203083466,
+        "percent": 0.42105263157894735
+      },
+      {
+        "author": "Hai Nam Tran",
+        "contribution": 0.11228070175438595,
+        "percent": 0.34736842105263155
+      },
+      {
+        "author": "Lan T. Tran",
+        "contribution": 0.07485380116959063,
+        "percent": 0.23157894736842102
+      }
+    ],
+    "International Atomic Energy Agency": [
+      {
+        "author": "Adly M. M. Abd‐Alla",
+        "contribution": 0.022222222222222223,
+        "percent": 0.5
+      },
+      {
+        "author": "Marc J. B. Vreysen",
+        "contribution": 0.022222222222222223,
+        "percent": 0.5
+      }
+    ],
+    "Malaysian Cocoa Board": [
+      {
+        "author": "Anisah Bintil Savantil",
+        "contribution": 0.02222222222222222,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Meriam Mohd Yusof",
+        "contribution": 0.02222222222222222,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Roslina Binti Mohd Shah",
+        "contribution": 0.02222222222222222,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "De La Salle University": [
+      {
+        "author": "Divina Amalin",
+        "contribution": 0.022222222222222223,
+        "percent": 0.5
+      },
+      {
+        "author": "Marynold Purificacion",
+        "contribution": 0.022222222222222223,
+        "percent": 0.5
+      }
+    ],
+    "James Cook University": [
+      {
+        "author": "Jérôme Niogret",
+        "contribution": 0.022222222222222223,
+        "percent": 1.0
+      }
+    ],
+    "Lembaga Koko Malaysia, Bagan Datuk, Perak, Malaysia": [
+      {
+        "author": "Saripah Bakar",
+        "contribution": 0.022222222222222223,
+        "percent": 1.0
+      }
+    ],
+    "Beltsville Agricultural Research Center": [
+      {
+        "author": "Dapeng Zhang",
+        "contribution": 0.04532163742690058,
+        "percent": 1.0
+      }
+    ],
+    "KU Leuven": [
+      {
+        "author": "Lauren Verleysen",
+        "contribution": 0.027777777777777776,
+        "percent": 1.0
+      }
+    ],
+    "Quisqueya University": [
+      {
+        "author": "Wesly Jeune",
+        "contribution": 0.027777777777777776,
+        "percent": 1.0
+      }
+    ],
+    "Centro Agronomico Tropical de Investigacion y Ensenanza Catie": [
+      {
+        "author": "William Solano Sanchéz",
+        "contribution": 0.027777777777777776,
+        "percent": 1.0
+      }
+    ],
+    "University of Economics Ho Chi Minh City": [
+      {
+        "author": "Bui Thi Mai Hoai",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Dinh Sy Khang",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Business Administration Faculty, Sai Gon University, Ho Chi Minh City, Vietnam": [
+      {
+        "author": "Ngo Huu Khanh Linh",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Hung Vuong University": [
+      {
+        "author": "Dung Viet Nguyen",
+        "contribution": 0.045454545454545456,
+        "percent": 0.25
+      },
+      {
+        "author": "Lan T. Tran",
+        "contribution": 0.045454545454545456,
+        "percent": 0.25
+      },
+      {
+        "author": "Man Thi Le",
+        "contribution": 0.045454545454545456,
+        "percent": 0.25
+      },
+      {
+        "author": "Ngoc Thi Bich Chu",
+        "contribution": 0.045454545454545456,
+        "percent": 0.25
+      }
+    ],
+    "Thuyloi University": [
+      {
+        "author": "Lê Quynh",
+        "contribution": 0.045454545454545456,
+        "percent": 1.0
+      }
+    ],
+    "Viet Tri University of Industry": [
+      {
+        "author": "Phi Bang Cao",
+        "contribution": 0.045454545454545456,
+        "percent": 1.0
+      }
+    ],
+    "Gomal University": [
+      {
+        "author": "Cui Bei",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Đình Duy Vũ",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Giap H. Vu",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Mai Phương Phạm",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Syed Noor Muhammad Shah",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Thi Tuyet Xuan Bui",
+        "contribution": 0.08333333333333333,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Okayama University of Science": [
+      {
+        "author": "Gentaro Shigita",
+        "contribution": 0.05208333333333333,
+        "percent": 0.2708333333333333
+      },
+      {
+        "author": "Mami Takahashi",
+        "contribution": 0.05208333333333333,
+        "percent": 0.2708333333333333
+      },
+      {
+        "author": "Tran Phuong Dung",
+        "contribution": 0.05208333333333333,
+        "percent": 0.2708333333333333
+      },
+      {
+        "author": "Kenji Kato",
+        "contribution": 0.03605769230769231,
+        "percent": 0.18750000000000003
+      }
+    ],
+    "Thuongmai University": [
+      {
+        "author": "Huynh Huy Phung",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "National Food Administration": [
+      {
+        "author": "Ardiba Rakhmi Sefrienda",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      },
+      {
+        "author": "Dedy Kurnianto",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      }
+    ],
+    "National Research, Development and Innovation Office": [
+      {
+        "author": "Des Saputro Wibowo",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      },
+      {
+        "author": "Fitri Setiyoningrum",
+        "contribution": 0.041666666666666664,
+        "percent": 0.5
+      }
+    ],
+    "Jenderal Soedirman University": [
+      {
+        "author": "Muhammad Fatih Abdurrahman",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Yogyakarta State University": [
+      {
+        "author": "Yusuf Andriana",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "American Association of Colleges of Pharmacy": [
+      {
+        "author": "A. Douglas Kinghorn",
+        "contribution": 0.045454545454545456,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Daniel Adu‐Ampratwum",
+        "contribution": 0.045454545454545456,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Ermias Mekuria Addo",
+        "contribution": 0.045454545454545456,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Garima Agarwal",
+        "contribution": 0.045454545454545456,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "James R. Fuchs",
+        "contribution": 0.045454545454545456,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Liva Harinantenaina",
+        "contribution": 0.045454545454545456,
+        "percent": 0.16666666666666666
+      }
+    ],
+    "Field Museum of Natural History": [
+      {
+        "author": "Djaja D. Soejarto",
+        "contribution": 0.045454545454545456,
+        "percent": 1.0
+      }
+    ],
+    "The Ohio State University": [
+      {
+        "author": "Dmitriy Uchenik",
+        "contribution": 0.045454545454545456,
+        "percent": 1.0
+      }
+    ],
+    "University of Illinois Chicago": [
+      {
+        "author": "Elizabeth N. Kaweesa",
+        "contribution": 0.045454545454545456,
+        "percent": 0.5
+      },
+      {
+        "author": "Joanna E. Burdette",
+        "contribution": 0.045454545454545456,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "D. Ta",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "Institute for Tropical Technology, Academy of Science and Technology": [
+      {
+        "author": "Dai Lam Tran",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "National Institute of Quality": [
+      {
+        "author": "Nguyen Le",
+        "contribution": 0.037037037037037035,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi Thu Phuong Tran",
+        "contribution": 0.037037037037037035,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Viet Hung Tran",
+        "contribution": 0.037037037037037035,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Chiang Mai University": [
+      {
+        "author": "Tang Phuc Khang Luu",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Thanh Thao Luong",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Thi Le Tho Luong",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Mersin Üniversitesi": [
+      {
+        "author": "Faheem Shahzad Baloch",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "National Agrobiodiversity Center, RDA, Jeonju, 54875, Republic of Korea": [
+      {
+        "author": "Ho-Cheol Ko",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5
+      },
+      {
+        "author": "Ji Eun Park",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5
+      }
+    ],
+    "Iowa State University": [
+      {
+        "author": "Kibon Ku",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "Jeju National University": [
+      {
+        "author": "Oh San Su Min",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5
+      },
+      {
+        "author": "Yong Suk Chung",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5
+      }
+    ],
+    "Recep Tayyip Erdoğan University": [
+      {
+        "author": "Sheikh Mansoor",
+        "contribution": 0.037037037037037035,
+        "percent": 1.0
+      }
+    ],
+    "Forestry Research Institute": [
+      {
+        "author": "Hinh T. Dinh",
+        "contribution": 0.017543859649122806,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi Bich Ngoc Tran",
+        "contribution": 0.017543859649122806,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Viet Ha Phan",
+        "contribution": 0.017543859649122806,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Université de Kisangani": [
+      {
+        "author": "Jean‐Léon Kambale",
+        "contribution": 0.017543859649122806,
+        "percent": 1.0
+      }
+    ],
+    "Universidade Lusíada de Angola": [
+      {
+        "author": "Jose Cassule Mahinga",
+        "contribution": 0.017543859649122806,
+        "percent": 1.0
+      }
+    ],
+    "For farmers (United Kingdom)": [
+      {
+        "author": "Ucu Sumirat",
+        "contribution": 0.017543859649122806,
+        "percent": 1.0
+      }
+    ],
+    "Deakin University": [
+      {
+        "author": "Aydin Enez",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Laetitia Herrmann",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Lambert Bräu",
+        "contribution": 0.0625,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Plant Protection Research Institute (PPRI)": [
+      {
+        "author": "Chung Nguyen Van",
+        "contribution": 0.0625,
+        "percent": 0.5
+      },
+      {
+        "author": "Thao Le Dinh",
+        "contribution": 0.0625,
+        "percent": 0.5
+      }
+    ],
+    "Pepperdine University": [
+      {
+        "author": "Liem Nguyen Van",
+        "contribution": 0.0625,
+        "percent": 0.5
+      },
+      {
+        "author": "Long Nguyen Van",
+        "contribution": 0.0625,
+        "percent": 0.5
+      }
+    ],
+    "Cat Tien National Park": [
+      {
+        "author": "Thai Hong Pham",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Yunnan Agricultural University": [
+      {
+        "author": "Hong Li",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Siyuan Zhang",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Xiaoyu Xu",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Xudong Wu",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Xuejun Li",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Yanwen Yang",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Yanyu Jin",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      },
+      {
+        "author": "Zhiwei Ye",
+        "contribution": 0.030303030303030297,
+        "percent": 0.12499999999999997
+      }
+    ],
+    "Health Sciences and Nutrition": [
+      {
+        "author": "Qing Liu",
+        "contribution": 0.030303030303030304,
+        "percent": 0.5
+      },
+      {
+        "author": "Tao Liu",
+        "contribution": 0.030303030303030304,
+        "percent": 0.5
+      }
+    ],
+    "Services Australia": [
+      {
+        "author": "C. Hackett",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "Commonwealth Scientific and Industrial Research Organisation": [
+      {
+        "author": "Miko U. F. Kirschbaum",
+        "contribution": 0.1,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Tom Jovanovic",
+        "contribution": 0.1,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Trevor H. Booth",
+        "contribution": 0.1,
+        "percent": 0.3333333333333333
+      }
+    ]
+  },
+  "uniFieldContrib": {
+    "International Center for Tropical Agriculture": {
+      "Pharmacology": 0.24920634920634918,
+      "Plant Science": 1.277777777777778,
+      "Horticulture": 1.5414141414141416,
+      "Ecology": 0.07792207792207792,
+      "Food Science": 0.07792207792207792,
+      "General Agricultural and Biological Sciences": 0.11428571428571428,
+      "Strategy and Management": 0.047619047619047616
+    },
+    "Universidad Nacional de Colombia": {
+      "Pharmacology": 0.2222222222222222,
+      "Plant Science": 0.2222222222222222,
+      "Horticulture": 0.2222222222222222
+    },
+    "Vietnam Academy of Agricultural Sciences": {
+      "Plant Science": 0.5797619047619048,
+      "Horticulture": 0.8019841269841271,
+      "Insect Science": 0.25,
+      "Ecology": 0.022222222222222223
+    },
+    "University of Nottingham": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "Centre National de la Recherche Scientifique": {
+      "Biochemistry": 0.8333333333333334,
+      "Horticulture": 0.8333333333333334,
+      "Molecular Biology": 0.8333333333333334
+    },
+    "Université Paris-Sud": {
+      "Biochemistry": 0.3111111111111111,
+      "Horticulture": 0.3111111111111111,
+      "Organic Chemistry": 0.2,
+      "Molecular Biology": 0.1111111111111111
+    },
+    "Vietnam Academy of Science and Technology": {
+      "Biochemistry": 1.465740740740741,
+      "Horticulture": 3.7500841750841727,
+      "Organic Chemistry": 0.13333333333333333,
+      "Molecular Biology": 2.0945286195286204,
+      "Plant Science": 1.6055555555555558,
+      "Public Health, Environmental and Occupational Health": 0.16666666666666666,
+      "Insect Science": 0.6111111111111112,
+      "Biomaterials": 0.3333333333333333,
+      "Ecology": 0.041666666666666664,
+      "Global and Planetary Change": 0.041666666666666664,
+      "Ecology, Evolution, Behavior and Systematics": 0.2222222222222222,
+      "Food Science": 0.041666666666666664,
+      "Animal Science and Zoology": 0.041666666666666664
+    },
+    "Ghent University": {
+      "Plant Science": 0.5666666666666667,
+      "Horticulture": 1.1696969696969697,
+      "Molecular Biology": 0.5696969696969695,
+      "Food Science": 0.603030303030303
+    },
+    "Can Tho University": {
+      "Plant Science": 0.7666666666666666,
+      "Horticulture": 1.1555555555555557,
+      "Molecular Biology": 0.06666666666666667,
+      "Insect Science": 0.05555555555555555,
+      "Food Science": 0.3333333333333333,
+      "Ecology, Evolution, Behavior and Systematics": 0.3333333333333333
+    },
+    "Chungnam National University": {
+      "Biochemistry": 0.18518518518518517,
+      "Horticulture": 0.18518518518518517,
+      "Molecular Biology": 0.18518518518518517
+    },
+    "VNU University of Science": {
+      "Biochemistry": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035,
+      "Molecular Biology": 0.037037037037037035
+    },
+    "Alliance Bioversity International - CIAT": {
+      "Plant Science": 0.125,
+      "Horticulture": 0.125
+    },
+    "Institut de l'Environnement et Recherches Agricoles": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Nepal Agricultural Research Council": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Institute for Soil Sciences": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "International Potato Center": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.1369047619047619,
+      "General Agricultural and Biological Sciences": 0.09523809523809523,
+      "Strategy and Management": 0.09523809523809523
+    },
+    "Consortium for Sustainable Development of the Andean Ecoregion": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Tecnológico Nacional de México": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Institut Agronomique et Vétérinaire Hassan II": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Oregon University System": {
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Heinrich Heine University Düsseldorf": {
+      "Molecular Biology": 0.16666666666666666,
+      "Plant Science": 0.16666666666666666,
+      "Horticulture": 0.16666666666666666
+    },
+    "Vietnam National University Ho Chi Minh City": {
+      "Molecular Biology": 0.20833333333333331,
+      "Plant Science": 0.6203703703703705,
+      "Horticulture": 0.8287037037037037,
+      "Biochemistry": 0.125,
+      "Pharmacology": 0.08333333333333333,
+      "General Agricultural and Biological Sciences": 0.08333333333333333,
+      "Genetics": 0.037037037037037035
+    },
+    "Technische Universität Braunschweig": {
+      "Molecular Biology": 0.041666666666666664,
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.0625,
+      "Biochemistry": 0.020833333333333332,
+      "Organic Chemistry": 0.020833333333333332
+    },
+    "Gesellschaft für Biotechnologische Forschung mbH., Mascheroder Weg 1, D-38124 Braunschweig, Germany": {
+      "Molecular Biology": 0.041666666666666664,
+      "Plant Science": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Vietnam National Children's Hospital": {
+      "Biochemistry": 0.26666666666666666,
+      "Horticulture": 0.26666666666666666,
+      "Plant Science": 0.26666666666666666
+    },
+    "Mexican Social Security Institute": {
+      "Biochemistry": 0.06666666666666667,
+      "Horticulture": 0.06666666666666667,
+      "Plant Science": 0.06666666666666667
+    },
+    "University of Bayreuth": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "Khon Kaen University": {
+      "Plant Science": 0.16666666666666666,
+      "Horticulture": 0.16666666666666666
+    },
+    "Chonburi Hospital": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "Cane and Sugar Industry Promotion Center, 3rd Region, Chonburi, Thailand": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "University of Aleppo": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "University of Vienna": {
+      "Molecular Biology": 0.2857142857142857,
+      "Horticulture": 0.2857142857142857
+    },
+    "Universität Innsbruck": {
+      "Molecular Biology": 0.21428571428571427,
+      "Horticulture": 0.21428571428571427
+    },
+    "Kunming Institute of Botany": {
+      "Genetics": 0.037037037037037035,
+      "Horticulture": 0.17037037037037037,
+      "Plant Science": 0.037037037037037035,
+      "Pharmacology": 0.13333333333333333,
+      "General Agricultural and Biological Sciences": 0.13333333333333333
+    },
+    "Okayama University": {
+      "Genetics": 0.9269619269619269,
+      "Horticulture": 0.9269619269619269,
+      "Plant Science": 0.2222222222222222,
+      "Ecology, Evolution, Behavior and Systematics": 0.09090909090909091,
+      "Geography, Planning and Development": 0.40170940170940167
+    },
+    "Research Institute for Humanity and Nature": {
+      "Genetics": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035,
+      "Plant Science": 0.037037037037037035
+    },
+    "Vietnam National University of Agriculture": {
+      "Genetics": 0.037037037037037035,
+      "Horticulture": 0.5981481481481482,
+      "Plant Science": 0.5981481481481482,
+      "Insect Science": 0.022222222222222223
+    },
+    "Joint Genome Institute": {
+      "Plant Science": 0.49999999999999983,
+      "Horticulture": 0.49999999999999983
+    },
+    "University of Bologna": {
+      "Plant Science": 0.23809523809523808,
+      "Horticulture": 0.23809523809523808
+    },
+    "Environment and Plant Protection Research Institute": {
+      "Plant Science": 0.6555555555555558,
+      "Horticulture": 0.6555555555555558,
+      "Insect Science": 0.15555555555555556
+    },
+    "Vinh University": {
+      "Biochemistry": 1.2341524216524218,
+      "Food Science": 0.44444444444444453,
+      "Horticulture": 1.2341524216524218,
+      "Molecular Biology": 0.21331908831908827,
+      "Organic Chemistry": 0.020833333333333332,
+      "Plant Science": 0.2777777777777778,
+      "Forestry": 0.2777777777777778
+    },
+    "VAST": {
+      "Biochemistry": 0.08333333333333333,
+      "Food Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "Center Hue Monuments Conservation": {
+      "Biochemistry": 0.08333333333333333,
+      "Food Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "Swedish University of Agricultural Sciences": {
+      "Plant Science": 0.3333333333333333,
+      "Horticulture": 0.3333333333333333
+    },
+    "Hue University": {
+      "Plant Science": 0.16666666666666666,
+      "Horticulture": 0.8055555555555556,
+      "Molecular Biology": 0.5833333333333333,
+      "Biochemistry": 0.3333333333333333,
+      "Genetics": 0.05555555555555555
+    },
+    "Institut de Chimie des Substances Naturelles": {
+      "Biochemistry": 0.11574074074074073,
+      "Molecular Biology": 0.39351851851851855,
+      "Horticulture": 0.39351851851851855,
+      "Genetics": 0.2777777777777778
+    },
+    "Institute of Mathematics": {
+      "Genetics": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555,
+      "Molecular Biology": 0.05555555555555555
+    },
+    "University College London": {
+      "Insect Science": 0.2222222222222222,
+      "Horticulture": 0.2222222222222222
+    },
+    "Gump South Pacific Research Station": {
+      "Insect Science": 0.16666666666666666,
+      "Horticulture": 0.16666666666666666
+    },
+    "Universiti of Malaysia Sabah": {
+      "Insect Science": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555
+    },
+    "Hanyang University": {
+      "Molecular Biology": 0.05,
+      "Horticulture": 0.05
+    },
+    "Kangwon National University": {
+      "Molecular Biology": 0.1,
+      "Horticulture": 0.1
+    },
+    "Yonsei University": {
+      "Molecular Biology": 0.2,
+      "Horticulture": 0.2
+    },
+    "Field Crops Research Institute": {
+      "Plant Science": 0.4285714285714285,
+      "Horticulture": 0.4285714285714285
+    },
+    "University of California, Davis": {
+      "Plant Science": 0.07142857142857142,
+      "Horticulture": 0.07142857142857142
+    },
+    "Chinese Academy of Tropical Agricultural Sciences": {
+      "Plant Science": 0.030303030303030304,
+      "Horticulture": 0.0928030303030303,
+      "Insect Science": 0.030303030303030304,
+      "Pharmacology": 0.0625
+    },
+    "Sugarcane Research Center (Brazil)": {
+      "Plant Science": 0.09090909090909091,
+      "Horticulture": 0.09090909090909091,
+      "Insect Science": 0.09090909090909091
+    },
+    "National Museum Wales": {
+      "Plant Science": 0.030303030303030304,
+      "Horticulture": 0.030303030303030304,
+      "Insect Science": 0.030303030303030304
+    },
+    "Rothamsted Research": {
+      "Plant Science": 0.030303030303030304,
+      "Horticulture": 0.030303030303030304,
+      "Insect Science": 0.030303030303030304
+    },
+    "University of Information Science": {
+      "Plant Science": 0.030303030303030304,
+      "Horticulture": 0.030303030303030304,
+      "Insect Science": 0.030303030303030304
+    },
+    "Rural Development Administration": {
+      "Plant Science": 0.5,
+      "Horticulture": 0.5
+    },
+    "University of Tasmania": {
+      "Genetics": 0.18181818181818182,
+      "Plant Science": 0.23737373737373738,
+      "Horticulture": 0.38023088023088025,
+      "Ecology, Evolution, Behavior and Systematics": 0.1984126984126984,
+      "Molecular Biology": 0.14285714285714285
+    },
+    "National University of Malaysia": {
+      "Genetics": 0.09090909090909091,
+      "Plant Science": 0.09090909090909091,
+      "Horticulture": 0.13852813852813853,
+      "Ecology, Evolution, Behavior and Systematics": 0.047619047619047616,
+      "Molecular Biology": 0.047619047619047616
+    },
+    "Forest Industry Research Institute": {
+      "Genetics": 0.06060606060606061,
+      "Plant Science": 0.33838383838383834,
+      "Horticulture": 0.486002886002886,
+      "Ecology, Evolution, Behavior and Systematics": 0.32539682539682535,
+      "Molecular Biology": 0.047619047619047616,
+      "Ecology": 0.1
+    },
+    "Kaohsiung Medical University": {
+      "Biochemistry": 0.20833333333333334,
+      "Organic Chemistry": 0.20833333333333334,
+      "Horticulture": 0.20833333333333334
+    },
+    "National Sun Yat-sen University": {
+      "Biochemistry": 0.020833333333333332,
+      "Organic Chemistry": 0.020833333333333332,
+      "Horticulture": 0.020833333333333332
+    },
+    "National Kaohsiung Marine University": {
+      "Biochemistry": 0.020833333333333332,
+      "Organic Chemistry": 0.020833333333333332,
+      "Horticulture": 0.020833333333333332
+    },
+    "Chang Gung University": {
+      "Biochemistry": 0.020833333333333332,
+      "Organic Chemistry": 0.020833333333333332,
+      "Horticulture": 0.020833333333333332
+    },
+    "China Medical University": {
+      "Biochemistry": 0.17467948717948714,
+      "Organic Chemistry": 0.020833333333333332,
+      "Horticulture": 0.17467948717948714,
+      "Molecular Biology": 0.15384615384615383
+    },
+    "Hung Vuong University of Ho Chi Minh City": {
+      "Biochemistry": 0.13055555555555554,
+      "Horticulture": 0.575,
+      "Molecular Biology": 0.13055555555555554
+    },
+    "Thai Nguyen University of Agriculture and Forestry": {
+      "Plant Science": 0.3722222222222222,
+      "Horticulture": 0.4025252525252525,
+      "Insect Science": 0.044444444444444446,
+      "Pharmacology": 0.030303030303030304,
+      "Strategy and Management": 0.030303030303030304
+    },
+    "Tajen University": {
+      "Biochemistry": 0.02564102564102564,
+      "Horticulture": 0.02564102564102564,
+      "Molecular Biology": 0.02564102564102564
+    },
+    "National Cheng Kung University": {
+      "Biochemistry": 0.18589743589743588,
+      "Horticulture": 0.18589743589743588,
+      "Molecular Biology": 0.18589743589743588
+    },
+    "Institute of Natural Sciences": {
+      "Plant Science": 0.9999999999999998,
+      "Public Health, Environmental and Occupational Health": 0.16666666666666666,
+      "Horticulture": 0.9999999999999998,
+      "Insect Science": 0.6111111111111112,
+      "Ecology, Evolution, Behavior and Systematics": 0.05555555555555555,
+      "Molecular Biology": 0.16666666666666666
+    },
+    "Nong Lam University Ho Chi Minh City": {
+      "Genetics": 0.8333333333333333,
+      "Horticulture": 1.5469696969696967,
+      "Food Science": 0.4636363636363636,
+      "Molecular Biology": 0.030303030303030304,
+      "Strategy and Management": 0.16666666666666666,
+      "Ecology, Evolution, Behavior and Systematics": 0.49999999999999994,
+      "Plant Science": 0.41666666666666663
+    },
+    "CSIRO Land and Water": {
+      "Horticulture": 0.047619047619047616,
+      "Ecology, Evolution, Behavior and Systematics": 0.047619047619047616,
+      "Molecular Biology": 0.047619047619047616
+    },
+    "Vietnamese Academy of Forest Sciences": {
+      "Horticulture": 0.38095238095238093,
+      "Ecology, Evolution, Behavior and Systematics": 0.047619047619047616,
+      "Molecular Biology": 0.047619047619047616,
+      "Forestry": 0.3333333333333333,
+      "Nature and Landscape Conservation": 0.3333333333333333
+    },
+    "University of Göttingen": {
+      "Horticulture": 0.12554112554112554,
+      "Ecology": 0.12554112554112554,
+      "Food Science": 0.12554112554112554
+    },
+    "International Institute of Tropical Agriculture": {
+      "Horticulture": 0.23376623376623376,
+      "Ecology": 0.18614718614718614,
+      "Food Science": 0.18614718614718614,
+      "General Agricultural and Biological Sciences": 0.047619047619047616,
+      "Strategy and Management": 0.047619047619047616
+    },
+    "Centre de Coopération Internationale en Recherche Agronomique pour le Développement": {
+      "Horticulture": 1.5185260388046766,
+      "Ecology": 0.12236652236652237,
+      "Food Science": 0.07792207792207792,
+      "Pharmacology": 1.2072706275492653,
+      "Plant Science": 0.9144134846921226,
+      "Economics and Econometrics": 0.14285714285714285,
+      "Forestry": 0.13333333333333333,
+      "Global and Planetary Change": 0.13333333333333333,
+      "General Agricultural and Biological Sciences": 0.25000000000000006,
+      "Strategy and Management": 0.05555555555555555
+    },
+    "International Institute of Tropical Agriculture (IITA), Accra, Ghana": {
+      "Horticulture": 0.047619047619047616,
+      "Ecology": 0.047619047619047616,
+      "Food Science": 0.047619047619047616
+    },
+    "University of Milan": {
+      "Plant Science": 0.14285714285714285,
+      "Horticulture": 0.14285714285714285
+    },
+    "CREA – Research Centre for Plant Protection and Certification, Rome, Italy": {
+      "Plant Science": 0.07142857142857142,
+      "Horticulture": 0.07142857142857142
+    },
+    "Instytut Ogrodnictwa": {
+      "Plant Science": 0.07142857142857142,
+      "Horticulture": 0.07142857142857142
+    },
+    "University of Chile": {
+      "Plant Science": 0.07142857142857142,
+      "Horticulture": 0.07142857142857142
+    },
+    "Chonnam National University": {
+      "Pharmacology": 0.16666666666666666,
+      "Molecular Biology": 0.16666666666666666,
+      "Horticulture": 0.16666666666666666
+    },
+    "Thai Nguyen University": {
+      "Pharmacology": 0.8333333333333333,
+      "Molecular Biology": 0.5,
+      "Horticulture": 0.8888888888888888,
+      "General Agricultural and Biological Sciences": 0.3333333333333333,
+      "Food Science": 0.05555555555555555
+    },
+    "ARC Centre of Excellence in Plant Energy Biology": {
+      "Molecular Biology": 0.25,
+      "Horticulture": 0.25
+    },
+    "University of Kentucky": {
+      "Molecular Biology": 0.125,
+      "Horticulture": 0.125
+    },
+    "Council for Scientific and Industrial Research": {
+      "Molecular Biology": 0.125,
+      "Horticulture": 0.125
+    },
+    "Ho Chi Minh City University of Science": {
+      "Cell Biology": 0.16666666666666666,
+      "Organic Chemistry": 0.16666666666666666,
+      "Horticulture": 0.37037037037037035,
+      "Molecular Biology": 0.16666666666666666,
+      "Forestry": 0.16666666666666666,
+      "Genetics": 0.037037037037037035,
+      "Plant Science": 0.037037037037037035
+    },
+    "Ho Chi Minh City University of Industry and Trade": {
+      "Cell Biology": 0.16666666666666666,
+      "Organic Chemistry": 0.16666666666666666,
+      "Horticulture": 0.4074074074074074,
+      "Molecular Biology": 0.24074074074074073,
+      "Forestry": 0.16666666666666666,
+      "Biochemistry": 0.07407407407407407
+    },
+    "College of Food Industry, Danang 550000, Vietnam": {
+      "Molecular Biology": 0.25,
+      "Horticulture": 0.25
+    },
+    "University Drive, Aleku Area, Osogbo, Nigeria": {
+      "Biochemistry": 0.05555555555555555,
+      "Food Science": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555
+    },
+    "National Institute of Drug Quality Control, Hoan Kiem, Hanoi, Vietnam": {
+      "Molecular Biology": 0.05,
+      "Horticulture": 0.05
+    },
+    "National Library of Vietnam": {
+      "Molecular Biology": 0.05,
+      "Horticulture": 0.05
+    },
+    "Vietnam National University, Hanoi": {
+      "Biochemistry": 0.041666666666666664,
+      "Molecular Biology": 0.041666666666666664,
+      "Horticulture": 0.76489898989899,
+      "Forestry": 0.06666666666666667,
+      "Global and Planetary Change": 0.06666666666666667,
+      "Plant Science": 0.045454545454545456,
+      "Food Science": 0.5
+    },
+    "National Formosa University": {
+      "Biochemistry": 0.041666666666666664,
+      "Molecular Biology": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "National Research Institute of Chinese Medicine": {
+      "Biochemistry": 0.041666666666666664,
+      "Molecular Biology": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Chinese Academy of Sciences": {
+      "Pharmacology": 0.13333333333333333,
+      "Horticulture": 0.13333333333333333,
+      "General Agricultural and Biological Sciences": 0.13333333333333333
+    },
+    "Ghent University Hospital": {
+      "Horticulture": 0.12777777777777777,
+      "Food Science": 0.1,
+      "Pharmacology": 0.027777777777777776,
+      "General Agricultural and Biological Sciences": 0.027777777777777776
+    },
+    "Western Sydney University": {
+      "Insect Science": 0.16666666666666669,
+      "Horticulture": 0.16666666666666669,
+      "Plant Science": 0.05555555555555555
+    },
+    "Natural History Museum": {
+      "Insect Science": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555
+    },
+    "USDA-APHIS, National Identification Services, Beltsville, MD 20705, USA": {
+      "Insect Science": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555
+    },
+    "Agricultural Research Service": {
+      "Insect Science": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555
+    },
+    "National Taiwan University": {
+      "Horticulture": 0.030303030303030304,
+      "Food Science": 0.030303030303030304,
+      "Ecology": 0.030303030303030304
+    },
+    "Leibniz Centre for Agricultural Landscape Research": {
+      "Horticulture": 0.030303030303030304,
+      "Food Science": 0.030303030303030304,
+      "Ecology": 0.030303030303030304
+    },
+    "International Institute of Tropical Agriculture (IITA), PMB L56 Legon-Accra, Ghana": {
+      "Horticulture": 0.030303030303030304,
+      "Food Science": 0.030303030303030304,
+      "Ecology": 0.030303030303030304
+    },
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit": {
+      "Horticulture": 0.030303030303030304,
+      "Food Science": 0.030303030303030304,
+      "Ecology": 0.030303030303030304
+    },
+    "University of Kassel": {
+      "Horticulture": 0.030303030303030304,
+      "Food Science": 0.030303030303030304,
+      "Ecology": 0.030303030303030304
+    },
+    "University of Southern Queensland": {
+      "Pharmacology": 0.2857142857142857,
+      "Horticulture": 0.2857142857142857
+    },
+    "Sustainable Management Services ECOM Agroindustrial Ho Chi Minh City Vietnam": {
+      "Pharmacology": 0.14285714285714285,
+      "Horticulture": 0.14285714285714285
+    },
+    "Alliance of Bioversity International and CIAT, The Hague, Netherlands": {
+      "General Agricultural and Biological Sciences": 0.047619047619047616,
+      "Strategy and Management": 0.047619047619047616,
+      "Horticulture": 0.047619047619047616
+    },
+    "Wageningen University & Research": {
+      "General Agricultural and Biological Sciences": 0.047619047619047616,
+      "Strategy and Management": 0.047619047619047616,
+      "Horticulture": 0.10644257703081232,
+      "Pharmacology": 0.058823529411764705,
+      "Plant Science": 0.058823529411764705
+    },
+    "Bioversity International": {
+      "General Agricultural and Biological Sciences": 0.047619047619047616,
+      "Strategy and Management": 0.047619047619047616,
+      "Horticulture": 0.047619047619047616
+    },
+    "Shanghai Institute for Science of Science": {
+      "Plant Science": 0.08888888888888889,
+      "Insect Science": 0.08888888888888889,
+      "Horticulture": 0.08888888888888889
+    },
+    "Agricultural Research Organization": {
+      "Plant Science": 0.022222222222222223,
+      "Insect Science": 0.022222222222222223,
+      "Horticulture": 0.022222222222222223
+    },
+    "Zhejiang University": {
+      "Molecular Biology": 0.2222222222222222,
+      "Horticulture": 0.2222222222222222,
+      "Insect Science": 0.2222222222222222
+    },
+    "Ton Duc Thang University": {
+      "Molecular Biology": 0.1111111111111111,
+      "Horticulture": 0.1111111111111111,
+      "Insect Science": 0.1111111111111111
+    },
+    "Purdue University West Lafayette": {
+      "Strategy and Management": 0.16666666666666666,
+      "Horticulture": 0.16666666666666666,
+      "Ecology, Evolution, Behavior and Systematics": 0.16666666666666666
+    },
+    "World Agroforestry (ICRAF), Hanoi 100000, Vietnam": {
+      "Horticulture": 0.16666666666666666,
+      "Ecology": 0.16666666666666666,
+      "Global and Planetary Change": 0.16666666666666666
+    },
+    "Ministry of Agriculture and Rural Development": {
+      "Horticulture": 0.041666666666666664,
+      "Ecology": 0.041666666666666664,
+      "Global and Planetary Change": 0.041666666666666664
+    },
+    "World Agroforestry Centre": {
+      "Horticulture": 0.1388888888888889,
+      "Ecology": 0.08333333333333333,
+      "Global and Planetary Change": 0.08333333333333333,
+      "General Agricultural and Biological Sciences": 0.05555555555555555,
+      "Strategy and Management": 0.05555555555555555
+    },
+    "Vietnam National University of Forestry": {
+      "Plant Science": 0.5,
+      "Horticulture": 0.5
+    },
+    "Brazilian Agricultural Research Corporation": {
+      "Pharmacology": 0.0196078431372549,
+      "Horticulture": 0.0196078431372549,
+      "Plant Science": 0.0196078431372549
+    },
+    "National Agricultural Research Organisation": {
+      "Pharmacology": 0.07636738906088751,
+      "Horticulture": 0.07636738906088751,
+      "Plant Science": 0.07636738906088751
+    },
+    "Nestlé (France)": {
+      "Pharmacology": 0.0392156862745098,
+      "Horticulture": 0.0392156862745098,
+      "Plant Science": 0.0392156862745098
+    },
+    "Centre National de Recherche Agronomique": {
+      "Pharmacology": 0.03715170278637771,
+      "Horticulture": 0.03715170278637771,
+      "Plant Science": 0.03715170278637771
+    },
+    "Meise Botanic Garden": {
+      "Pharmacology": 0.03715170278637771,
+      "Horticulture": 0.03715170278637771,
+      "Plant Science": 0.03715170278637771
+    },
+    "Indonesian Coffee and Cocoa Research Institute": {
+      "Pharmacology": 0.0196078431372549,
+      "Horticulture": 0.12794117647058825,
+      "Plant Science": 0.08627450980392158,
+      "Ecology": 0.06666666666666667,
+      "Food Science": 0.041666666666666664,
+      "Animal Science and Zoology": 0.041666666666666664
+    },
+    "Forestry Research Institute of Nigeria": {
+      "Horticulture": 0.08333333333333333,
+      "Biochemistry": 0.08333333333333333,
+      "Molecular Biology": 0.08333333333333333
+    },
+    "Federal University Dutse": {
+      "Horticulture": 0.08333333333333333,
+      "Biochemistry": 0.08333333333333333,
+      "Molecular Biology": 0.08333333333333333
+    },
+    "Sardar Vallabhbhai Patel University of Agriculture & Technology": {
+      "Plant Science": 0.3333333333333333,
+      "Horticulture": 0.3333333333333333
+    },
+    "Uttar Pradesh Council of sugarcane research": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "National Agriculture and Food Research Organization": {
+      "Genetics": 0.40559440559440574,
+      "Horticulture": 0.40559440559440574,
+      "Ecology, Evolution, Behavior and Systematics": 0.030303030303030304,
+      "Geography, Planning and Development": 0.10256410256410256
+    },
+    "Hirosaki University": {
+      "Genetics": 0.3471898471898472,
+      "Horticulture": 0.3471898471898472,
+      "Ecology, Evolution, Behavior and Systematics": 0.09090909090909091,
+      "Geography, Planning and Development": 0.0997150997150997
+    },
+    "Xinjiang Academy of Agricultural Sciences": {
+      "Genetics": 0.07575757575757576,
+      "Horticulture": 0.07575757575757576,
+      "Ecology, Evolution, Behavior and Systematics": 0.030303030303030304
+    },
+    "Kazakh Research Institute of Agriculture and Plant growing": {
+      "Genetics": 0.07575757575757576,
+      "Horticulture": 0.07575757575757576,
+      "Ecology, Evolution, Behavior and Systematics": 0.030303030303030304
+    },
+    "N.I. Vavilov Research Institute of Plant Industry": {
+      "Genetics": 0.07575757575757576,
+      "Horticulture": 0.07575757575757576,
+      "Ecology, Evolution, Behavior and Systematics": 0.030303030303030304
+    },
+    "University of Copenhagen": {
+      "Pharmacology": 0.23015873015873017,
+      "Horticulture": 0.23015873015873017,
+      "Economics and Econometrics": 0.11904761904761904,
+      "Plant Science": 0.1111111111111111
+    },
+    "Institut de Recherche pour le Développement": {
+      "Pharmacology": 0.023809523809523808,
+      "Horticulture": 0.023809523809523808,
+      "Economics and Econometrics": 0.023809523809523808
+    },
+    "University of Lisbon": {
+      "Pharmacology": 0.051587301587301584,
+      "Horticulture": 0.051587301587301584,
+      "Economics and Econometrics": 0.023809523809523808,
+      "Plant Science": 0.027777777777777776
+    },
+    "Nicafrance Foundation, Finca La Cumplida, Matagalpa, Nicaragua": {
+      "Pharmacology": 0.051587301587301584,
+      "Horticulture": 0.051587301587301584,
+      "Economics and Econometrics": 0.023809523809523808,
+      "Plant Science": 0.027777777777777776
+    },
+    "Hanoi Pedagogical University 2": {
+      "Horticulture": 0.5353535353535354,
+      "Food Science": 0.3333333333333333,
+      "Ecology": 0.3333333333333333,
+      "Plant Science": 0.09090909090909091
+    },
+    "TerraMetrics (United States)": {
+      "Horticulture": 0.06666666666666667,
+      "Forestry": 0.06666666666666667,
+      "Global and Planetary Change": 0.06666666666666667
+    },
+    "Manchester Metropolitan University": {
+      "Horticulture": 0.06666666666666667,
+      "Forestry": 0.06666666666666667,
+      "Global and Planetary Change": 0.06666666666666667
+    },
+    "New South Wales Department of Primary Industries": {
+      "Plant Science": 0.1111111111111111,
+      "Horticulture": 0.1111111111111111,
+      "Insect Science": 0.1111111111111111
+    },
+    "The University of Sydney": {
+      "Plant Science": 0.027777777777777776,
+      "Horticulture": 0.027777777777777776,
+      "Insect Science": 0.027777777777777776
+    },
+    "Ministry of Agriculture and Forestry": {
+      "Plant Science": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333,
+      "Insect Science": 0.08333333333333333
+    },
+    "Northern Australian Quarantine Strategy, Department of Agriculture, Water and the Environment, Cairns, Qld, Australia;": {
+      "Plant Science": 0.027777777777777776,
+      "Horticulture": 0.027777777777777776,
+      "Insect Science": 0.027777777777777776
+    },
+    "Gyeongsang National University": {
+      "Plant Science": 0.6944444444444446,
+      "Horticulture": 0.6944444444444446
+    },
+    "University of Medicine and Pharmacy at Ho Chi Minh City": {
+      "Biochemistry": 0.125,
+      "Molecular Biology": 0.125,
+      "Horticulture": 0.14351851851851852,
+      "Pharmacology": 0.018518518518518517,
+      "Plant Science": 0.018518518518518517
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Pharmacology": 0.25,
+      "Horticulture": 0.3333333333333333,
+      "General Agricultural and Biological Sciences": 0.25,
+      "Molecular Biology": 0.08333333333333333,
+      "Plant Science": 0.08333333333333333
+    },
+    "Forestry Research Centre": {
+      "Pharmacology": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555,
+      "Plant Science": 0.05555555555555555
+    },
+    "Agricultural Genetics Institute": {
+      "Pharmacology": 0.07115009746588694,
+      "Horticulture": 0.11660464292043239,
+      "Plant Science": 0.11660464292043239
+    },
+    "InterAcademy Partnership": {
+      "Pharmacology": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035,
+      "Plant Science": 0.037037037037037035
+    },
+    "NOMAFSI headquarter Phu Tho Vietnam": {
+      "Pharmacology": 0.018518518518518517,
+      "Horticulture": 0.018518518518518517,
+      "Plant Science": 0.018518518518518517
+    },
+    "Tay Bac University": {
+      "Pharmacology": 0.018518518518518517,
+      "Horticulture": 0.018518518518518517,
+      "Plant Science": 0.018518518518518517
+    },
+    "Hue University of Agriculture and Forestry": {
+      "Genetics": 0.06734006734006734,
+      "Horticulture": 0.06734006734006734,
+      "Ecology, Evolution, Behavior and Systematics": 0.030303030303030304,
+      "Geography, Planning and Development": 0.037037037037037035
+    },
+    "Foresight Institute of Research and Translation, Ibadan, Nigeria": {
+      "Biochemistry": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555,
+      "Plant Science": 0.05555555555555555
+    },
+    "Enverga University": {
+      "Food Science": 0.44444444444444453,
+      "Horticulture": 0.44444444444444453
+    },
+    "Ho Chi Minh City Open University": {
+      "Genetics": 0.8333333333333334,
+      "Horticulture": 1.3333333333333333,
+      "Inorganic Chemistry": 0.33333333333333337,
+      "Plant Science": 0.5
+    },
+    "WASI, Buon Ma Thuot, Viet Nam": {
+      "Horticulture": 0.16666666666666666,
+      "General Agricultural and Biological Sciences": 0.16666666666666666,
+      "Strategy and Management": 0.16666666666666666
+    },
+    "Hanoi University": {
+      "Horticulture": 0.05555555555555555,
+      "General Agricultural and Biological Sciences": 0.05555555555555555,
+      "Strategy and Management": 0.05555555555555555
+    },
+    "Institute of Research and Translation, Ibadan, Nigeria": {
+      "Biochemistry": 0.05555555555555555,
+      "Horticulture": 0.05555555555555555,
+      "Forestry": 0.05555555555555555
+    },
+    "Sweet Potato Research Institute": {
+      "Plant Science": 0.24074074074074073,
+      "Horticulture": 0.24074074074074073,
+      "Molecular Biology": 0.24074074074074073
+    },
+    "Jiangsu Normal University": {
+      "Plant Science": 0.07407407407407407,
+      "Horticulture": 0.07407407407407407,
+      "Molecular Biology": 0.07407407407407407
+    },
+    "Quy Nhon University": {
+      "Plant Science": 0.018518518518518517,
+      "Horticulture": 0.018518518518518517,
+      "Molecular Biology": 0.018518518518518517
+    },
+    "Hanoi National University of Education": {
+      "Plant Science": 0.10101010101010101,
+      "Horticulture": 0.3232323232323232,
+      "Ecology, Evolution, Behavior and Systematics": 0.05555555555555555
+    },
+    "International Atomic Energy Agency": {
+      "Horticulture": 0.044444444444444446,
+      "Ecology": 0.044444444444444446,
+      "Plant Science": 0.044444444444444446
+    },
+    "Malaysian Cocoa Board": {
+      "Horticulture": 0.06666666666666667,
+      "Ecology": 0.06666666666666667,
+      "Plant Science": 0.06666666666666667
+    },
+    "De La Salle University": {
+      "Horticulture": 0.044444444444444446,
+      "Ecology": 0.044444444444444446,
+      "Plant Science": 0.044444444444444446
+    },
+    "James Cook University": {
+      "Horticulture": 0.022222222222222223,
+      "Ecology": 0.022222222222222223,
+      "Plant Science": 0.022222222222222223
+    },
+    "Lembaga Koko Malaysia, Bagan Datuk, Perak, Malaysia": {
+      "Horticulture": 0.022222222222222223,
+      "Ecology": 0.022222222222222223,
+      "Plant Science": 0.022222222222222223
+    },
+    "Beltsville Agricultural Research Center": {
+      "Pharmacology": 0.04532163742690058,
+      "Horticulture": 0.04532163742690058,
+      "General Agricultural and Biological Sciences": 0.027777777777777776,
+      "Plant Science": 0.017543859649122806
+    },
+    "KU Leuven": {
+      "Pharmacology": 0.027777777777777776,
+      "Horticulture": 0.027777777777777776,
+      "General Agricultural and Biological Sciences": 0.027777777777777776
+    },
+    "Quisqueya University": {
+      "Pharmacology": 0.027777777777777776,
+      "Horticulture": 0.027777777777777776,
+      "General Agricultural and Biological Sciences": 0.027777777777777776
+    },
+    "Centro Agronomico Tropical de Investigacion y Ensenanza Catie": {
+      "Pharmacology": 0.027777777777777776,
+      "Horticulture": 0.027777777777777776,
+      "General Agricultural and Biological Sciences": 0.027777777777777776
+    },
+    "University of Economics Ho Chi Minh City": {
+      "Food Science": 0.2222222222222222,
+      "Horticulture": 0.2222222222222222,
+      "Ecology": 0.2222222222222222
+    },
+    "Business Administration Faculty, Sai Gon University, Ho Chi Minh City, Vietnam": {
+      "Food Science": 0.1111111111111111,
+      "Horticulture": 0.1111111111111111,
+      "Ecology": 0.1111111111111111
+    },
+    "Hung Vuong University": {
+      "Horticulture": 0.18181818181818182,
+      "Plant Science": 0.18181818181818182
+    },
+    "Thuyloi University": {
+      "Horticulture": 0.045454545454545456,
+      "Plant Science": 0.045454545454545456
+    },
+    "Viet Tri University of Industry": {
+      "Horticulture": 0.045454545454545456,
+      "Plant Science": 0.045454545454545456
+    },
+    "Gomal University": {
+      "Molecular Biology": 0.49999999999999994,
+      "Horticulture": 0.49999999999999994
+    },
+    "Okayama University of Science": {
+      "Genetics": 0.1923076923076923,
+      "Horticulture": 0.1923076923076923,
+      "Geography, Planning and Development": 0.02564102564102564
+    },
+    "Thuongmai University": {
+      "Horticulture": 0.1111111111111111
+    },
+    "National Food Administration": {
+      "Food Science": 0.08333333333333333,
+      "Animal Science and Zoology": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "National Research, Development and Innovation Office": {
+      "Food Science": 0.08333333333333333,
+      "Animal Science and Zoology": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333
+    },
+    "Jenderal Soedirman University": {
+      "Food Science": 0.041666666666666664,
+      "Animal Science and Zoology": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "Yogyakarta State University": {
+      "Food Science": 0.041666666666666664,
+      "Animal Science and Zoology": 0.041666666666666664,
+      "Horticulture": 0.041666666666666664
+    },
+    "American Association of Colleges of Pharmacy": {
+      "Molecular Biology": 0.27272727272727276,
+      "Horticulture": 0.27272727272727276
+    },
+    "Field Museum of Natural History": {
+      "Molecular Biology": 0.045454545454545456,
+      "Horticulture": 0.045454545454545456
+    },
+    "The Ohio State University": {
+      "Molecular Biology": 0.045454545454545456,
+      "Horticulture": 0.045454545454545456
+    },
+    "University of Illinois Chicago": {
+      "Molecular Biology": 0.09090909090909091,
+      "Horticulture": 0.09090909090909091
+    },
+    "Hanoi Medical University": {
+      "Molecular Biology": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035,
+      "Biochemistry": 0.037037037037037035
+    },
+    "Institute for Tropical Technology, Academy of Science and Technology": {
+      "Molecular Biology": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035,
+      "Biochemistry": 0.037037037037037035
+    },
+    "National Institute of Quality": {
+      "Molecular Biology": 0.1111111111111111,
+      "Horticulture": 0.1111111111111111,
+      "Biochemistry": 0.1111111111111111
+    },
+    "Chiang Mai University": {
+      "Molecular Biology": 0.08333333333333333,
+      "Horticulture": 0.08333333333333333,
+      "Plant Science": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Education": {
+      "Molecular Biology": 0.16666666666666666,
+      "Horticulture": 0.16666666666666666,
+      "Plant Science": 0.16666666666666666
+    },
+    "Mersin Üniversitesi": {
+      "Genetics": 0.037037037037037035,
+      "Plant Science": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035
+    },
+    "National Agrobiodiversity Center, RDA, Jeonju, 54875, Republic of Korea": {
+      "Genetics": 0.07407407407407407,
+      "Plant Science": 0.07407407407407407,
+      "Horticulture": 0.07407407407407407
+    },
+    "Iowa State University": {
+      "Genetics": 0.037037037037037035,
+      "Plant Science": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035
+    },
+    "Jeju National University": {
+      "Genetics": 0.07407407407407407,
+      "Plant Science": 0.07407407407407407,
+      "Horticulture": 0.07407407407407407
+    },
+    "Recep Tayyip Erdoğan University": {
+      "Genetics": 0.037037037037037035,
+      "Plant Science": 0.037037037037037035,
+      "Horticulture": 0.037037037037037035
+    },
+    "Forestry Research Institute": {
+      "Pharmacology": 0.05263157894736842,
+      "Plant Science": 0.05263157894736842,
+      "Horticulture": 0.05263157894736842
+    },
+    "Université de Kisangani": {
+      "Pharmacology": 0.017543859649122806,
+      "Plant Science": 0.017543859649122806,
+      "Horticulture": 0.017543859649122806
+    },
+    "Universidade Lusíada de Angola": {
+      "Pharmacology": 0.017543859649122806,
+      "Plant Science": 0.017543859649122806,
+      "Horticulture": 0.017543859649122806
+    },
+    "For farmers (United Kingdom)": {
+      "Pharmacology": 0.017543859649122806,
+      "Plant Science": 0.017543859649122806,
+      "Horticulture": 0.017543859649122806
+    },
+    "Deakin University": {
+      "Horticulture": 0.1875,
+      "Pharmacology": 0.1875
+    },
+    "Plant Protection Research Institute (PPRI)": {
+      "Horticulture": 0.125,
+      "Pharmacology": 0.125
+    },
+    "Pepperdine University": {
+      "Horticulture": 0.125,
+      "Pharmacology": 0.125
+    },
+    "Cat Tien National Park": {
+      "Plant Science": 0.1111111111111111,
+      "Horticulture": 0.1111111111111111,
+      "Insect Science": 0.1111111111111111
+    },
+    "Yunnan Agricultural University": {
+      "Pharmacology": 0.24242424242424243,
+      "Strategy and Management": 0.24242424242424243,
+      "Horticulture": 0.24242424242424243
+    },
+    "Health Sciences and Nutrition": {
+      "Pharmacology": 0.06060606060606061,
+      "Strategy and Management": 0.06060606060606061,
+      "Horticulture": 0.06060606060606061
+    },
+    "Services Australia": {
+      "Ecology": 0.1,
+      "Horticulture": 0.1
+    },
+    "Commonwealth Scientific and Industrial Research Organisation": {
+      "Ecology": 0.30000000000000004,
+      "Horticulture": 0.30000000000000004
+    }
+  },
+  "totalPapers": 197394
 }

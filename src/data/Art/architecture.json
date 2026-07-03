@@ -1,563 +1,1213 @@
 {
   "ranking": [
     {
-      "university": "University of Architecture Ho Chi Minh City",
-      "totalContribution": 6.151388888888887
+      "university": "Thang Long University",
+      "totalContribution": 2.0
     },
     {
-      "university": "Hanoi Achitectural University",
-      "totalContribution": 1.8541666666666667
+      "university": "University of Sydney",
+      "totalContribution": 1.0
     },
     {
-      "university": "Ho Chi Minh City University of Technology",
-      "totalContribution": 0.5833333333333333
+      "university": "Hanoi Open University",
+      "totalContribution": 1.0
     },
     {
-      "university": "Hanoi University of Civil Engineering",
-      "totalContribution": 0.5
+      "university": "Quy Nhon University",
+      "totalContribution": 1.0
     },
     {
-      "university": "Thu Dau Mot University",
-      "totalContribution": 0.41666666666666663
+      "university": "National University of Civil Engineering",
+      "totalContribution": 1.0
     },
     {
-      "university": "HCMC University of Technology and Education",
-      "totalContribution": 0.4
+      "university": "Aeras",
+      "totalContribution": 1.0
     },
     {
-      "university": "University of Economics, Hue University",
-      "totalContribution": 0.3333333333333333
+      "university": "Tân Tạo University",
+      "totalContribution": 1.0
     },
     {
-      "university": "VNUHCM - University of Technology",
-      "totalContribution": 0.3333333333333333
+      "university": "Hanoi University of Industry",
+      "totalContribution": 1.0
     },
     {
-      "university": "Saigon Technology University",
-      "totalContribution": 0.3333333333333333
-    },
-    {
-      "university": "Vietnam Institute of Architecture",
-      "totalContribution": 0.3333333333333333
-    },
-    {
-      "university": "Ton Duc Thang University",
-      "totalContribution": 0.29166666666666663
-    },
-    {
-      "university": "University of Science and Technology - The University of Da Nang",
-      "totalContribution": 0.2777777777777778
-    },
-    {
-      "university": "University of Sciences, Hue University",
-      "totalContribution": 0.26666666666666666
+      "university": "Hanoi Architectural University",
+      "totalContribution": 0.9142857142857143
     },
     {
       "university": "Duy Tan University",
-      "totalContribution": 0.2569444444444444
+      "totalContribution": 0.8611111111111112
     },
     {
-      "university": "Nguyen Tat Thanh University",
+      "university": "Hanoi University of Civil Engineering",
+      "totalContribution": 0.8333333333333334
+    },
+    {
+      "university": "University of Da Nang",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "China Agricultural University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Hoa Sen University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 0.49999999999999994
+    },
+    {
+      "university": "Hanoi University of Mining and Geology",
+      "totalContribution": 0.33333333333333337
+    },
+    {
+      "university": "The University of Sydney",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Law",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Architecture",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "HCMUT- VNU",
+      "totalContribution": 0.30000000000000004
+    },
+    {
+      "university": "Research Institute for Aquaculture No1",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Future Earth",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Royal Centre for Remote Sensing",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Qatar University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "University of Kassel",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Kyiv National University of Construction and Architecture",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Nihon University",
       "totalContribution": 0.16666666666666666
     },
     {
-      "university": "Hong Bang University International",
-      "totalContribution": 0.14583333333333331
+      "university": "Instituto Tecnológico Autónomo de México",
+      "totalContribution": 0.16666666666666666
     },
     {
-      "university": "Vietnam National University of Agriculture",
-      "totalContribution": 0.125
+      "university": "Colorado State University Pueblo",
+      "totalContribution": 0.16666666666666666
     },
     {
-      "university": "Phenikaa University",
-      "totalContribution": 0.125
+      "university": "Manchester Metropolitan University",
+      "totalContribution": 0.16666666666666666
     },
     {
-      "university": "VNUHCM - University of Social Sciences and Humanities",
+      "university": "Aston University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Sejong University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Yokohama National University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Bình Dương University",
+      "totalContribution": 0.14285714285714285
+    },
+    {
+      "university": "Technische Universität Berlin",
+      "totalContribution": 0.13333333333333333
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.12222222222222222
+    },
+    {
+      "university": "Vietnamese-German University",
       "totalContribution": 0.1111111111111111
     },
     {
-      "university": "Phuong Dong University",
-      "totalContribution": 0.0625
+      "university": "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "HUTECH University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Innovation Research Center",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Minzu University of China",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Saigon Technology University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Technical University of Sofia",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Nagoya City University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "La Trobe University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Phenikaa University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Department of Math and Mech, University Skii 28, St Petersburg 198504, Russia",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "October 6 University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "BRAC University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Department of Geography, Karnataka University, India",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Bialystok University of Technology",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Trường ĐH Nguyễn Tất Thành",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Thanh Phat Group Real Estate Construction Limited Company, Phan Thiet, Binh Duong, Vietnam",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "PlanB Architecture Limited Company, Thuan An, Binh Duong, Vietnam",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "Cat Tien National Park",
+      "totalContribution": 0.047619047619047616
     }
   ],
   "authorsByUniversity": {
-    "Hanoi Achitectural University": [
+    "Nihon University": [
       {
-        "author": "Dung Ngo Thi Kim",
-        "contribution": 0.7063492063492064,
-        "percent": 0.380952380952381
+        "author": "Buntara Sthenly Gan",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
       },
       {
-        "author": "Hung Tan Khuat",
-        "contribution": 0.3531746031746032,
-        "percent": 0.1904761904761905
-      },
-      {
-        "author": "Anh Tuan Nguyen",
-        "contribution": 0.1765873015873016,
-        "percent": 0.09523809523809525
-      },
-      {
-        "author": "Trang Nguyen Thi Nhu",
-        "contribution": 0.1765873015873016,
-        "percent": 0.09523809523809525
-      },
-      {
-        "author": "Nguyen Minh Ngoc",
-        "contribution": 0.11772486772486773,
-        "percent": 0.06349206349206349
-      },
-      {
-        "author": "Tran Thanh Son",
-        "contribution": 0.11772486772486773,
-        "percent": 0.06349206349206349
-      },
-      {
-        "author": "Mai Vu",
-        "contribution": 0.11772486772486773,
-        "percent": 0.06349206349206349
-      },
-      {
-        "author": "Long T. Nguyen",
-        "contribution": 0.0882936507936508,
-        "percent": 0.04761904761904762
+        "author": "Eiji Nouchi",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
       }
     ],
-    "Phuong Dong University": [
+    "Vietnam Academy of Science and Technology": [
       {
-        "author": "Tuan Quoc Nguyen",
-        "contribution": 0.0625,
+        "author": "Dinh Kien Nguyen",
+        "contribution": 0.08333333333333333,
         "percent": 1.0
       }
     ],
-    "University of Architecture Ho Chi Minh City": [
+    "Nagoya City University": [
       {
-        "author": "Nguyen Thi Bich Vân",
-        "contribution": 0.6418840579710141,
-        "percent": 0.10434782608695649
-      },
-      {
-        "author": "Thanh Son Le",
-        "contribution": 0.6418840579710141,
-        "percent": 0.10434782608695649
-      },
-      {
-        "author": "Hong Loan Nguyen",
-        "contribution": 0.6418840579710141,
-        "percent": 0.10434782608695649
-      },
-      {
-        "author": "Thi Hanh Nguyen Nguyen",
-        "contribution": 0.6418840579710141,
-        "percent": 0.10434782608695649
-      },
-      {
-        "author": "Pham Anh Dung",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Duc Tran",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Nguyen Thi Bich Ngoc",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Ly The Dan",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "An Nguyen Thi Tam",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Van Tin Nguyen",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Vu Thi Hong Hanh",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Viet Duong",
-        "contribution": 0.32094202898550706,
-        "percent": 0.052173913043478244
-      },
-      {
-        "author": "Hoang Nguyen",
-        "contribution": 0.16047101449275353,
-        "percent": 0.026086956521739122
-      },
-      {
-        "author": "Anh Viet Vu",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Thi Ai Thuy Pham",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Tu Pham",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Anh Tuan Vo",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Thi Thanh Binh Le",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Nguyen Hoang Long Truong",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Ngoc Huan Giang",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      },
-      {
-        "author": "Trong Binh Duong",
-        "contribution": 0.10698067632850235,
-        "percent": 0.01739130434782608
-      }
-    ],
-    "University of Economics, Hue University": [
-      {
-        "author": "Nguyen Thi Tuyet Mai",
-        "contribution": 0.16666666666666666,
-        "percent": 0.5
-      },
-      {
-        "author": "Ngo Thuy Trang",
-        "contribution": 0.16666666666666666,
-        "percent": 0.5
-      }
-    ],
-    "Ton Duc Thang University": [
-      {
-        "author": "Le-Minh Ngo",
-        "contribution": 0.14583333333333331,
-        "percent": 0.5
-      },
-      {
-        "author": "Hai-Binh Nguyen",
-        "contribution": 0.14583333333333331,
-        "percent": 0.5
-      }
-    ],
-    "Hong Bang University International": [
-      {
-        "author": "Thi-Minh Dieu Nguyen",
-        "contribution": 0.14583333333333331,
+        "author": "Jingyao Zhang",
+        "contribution": 0.08333333333333333,
         "percent": 1.0
       }
     ],
-    "VNUHCM - University of Technology": [
+    "The University of Sydney": [
       {
-        "author": "Nam Hoang",
+        "author": "P.R. Tregenza",
         "contribution": 0.3333333333333333,
         "percent": 1.0
       }
     ],
-    "VNUHCM - University of Social Sciences and Humanities": [
+    "University of Sydney": [
       {
-        "author": "Thi Loi Tran",
+        "author": "Anthony Radford",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Research Institute for Aquaculture No1": [
+      {
+        "author": "Le Van Nhan",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Future Earth": [
+      {
+        "author": "Wei Ming Kong",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "China Agricultural University": [
+      {
+        "author": "Ya Ning Han",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Yu Kui Rui",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi Architectural University": [
+      {
+        "author": "Frank Petzold",
+        "contribution": 0.19560649474689593,
+        "percent": 0.21394460362941742
+      },
+      {
+        "author": "Gerhard Schubert",
+        "contribution": 0.19560649474689593,
+        "percent": 0.21394460362941742
+      },
+      {
+        "author": "Karin Bech",
+        "contribution": 0.18338108882521492,
+        "percent": 0.20057306590257884
+      },
+      {
+        "author": "Boris Plotnikov",
+        "contribution": 0.12225405921680994,
+        "percent": 0.1337153772683859
+      },
+      {
+        "author": "Le Quoc Viet",
+        "contribution": 0.09169054441260746,
+        "percent": 0.10028653295128942
+      },
+      {
+        "author": "Violin Yanev",
+        "contribution": 0.07335243553008597,
+        "percent": 0.08022922636103152
+      },
+      {
+        "author": "Thi-Xuan-Nhi Ho",
+        "contribution": 0.05239459680720426,
+        "percent": 0.05730659025787967
+      }
+    ],
+    "Royal Centre for Remote Sensing": [
+      {
+        "author": "Mette Ramsgaard Thomsen",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Law": [
+      {
+        "author": "Frédéric Colin",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thang Long University": [
+      {
+        "author": "Cheng Zhang",
+        "contribution": 1.0,
+        "percent": 0.5
+      },
+      {
+        "author": "Li Jin",
+        "contribution": 1.0,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi Open University": [
+      {
+        "author": "Cui Yin-hui",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Quy Nhon University": [
+      {
+        "author": "Tu Zhi",
+        "contribution": 0.5,
+        "percent": 0.5
+      },
+      {
+        "author": "Yu Zuo",
+        "contribution": 0.5,
+        "percent": 0.5
+      }
+    ],
+    "University of Kassel": [
+      {
+        "author": "Daniel H. Kohl",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Stefan Böhm",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "Vietnamese-German University": [
+      {
+        "author": "Trinh H.N. Long",
         "contribution": 0.1111111111111111,
         "percent": 1.0
       }
     ],
-    "Saigon Technology University": [
+    "Instituto Tecnológico Autónomo de México": [
       {
-        "author": "Do Lenh Hung Tu",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ],
-    "Duy Tan University": [
-      {
-        "author": "Anh T. H. Nguyen",
-        "contribution": 0.15416666666666667,
-        "percent": 0.6000000000000001
-      },
-      {
-        "author": "Tan Hai Dang Nguyen",
-        "contribution": 0.10277777777777777,
-        "percent": 0.4
-      }
-    ],
-    "HCMC University of Technology and Education": [
-      {
-        "author": "Duy Thinh Do",
-        "contribution": 0.4,
-        "percent": 1.0
-      }
-    ],
-    "Nguyen Tat Thanh University": [
-      {
-        "author": "Nguyen Nguyen Thi Hanh",
+        "author": "Alejandro Teran",
         "contribution": 0.16666666666666666,
         "percent": 1.0
       }
     ],
-    "Ho Chi Minh City University of Technology": [
+    "Vietnam National University Ho Chi Minh City": [
       {
-        "author": "Pham Vu Hong Son",
-        "contribution": 0.29166666666666663,
+        "author": "Hoa Pham",
+        "contribution": 0.15384615384615383,
+        "percent": 0.3076923076923077
+      },
+      {
+        "author": "Ha Quang Thanh Ngo",
+        "contribution": 0.11538461538461538,
+        "percent": 0.23076923076923078
+      },
+      {
+        "author": "Ha Quang Thinh Ngo",
+        "contribution": 0.11538461538461538,
+        "percent": 0.23076923076923078
+      },
+      {
+        "author": "Qui X. Lieu",
+        "contribution": 0.11538461538461538,
+        "percent": 0.23076923076923078
+      }
+    ],
+    "Colorado State University Pueblo": [
+      {
+        "author": "Jane Fraser",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Technische Universität Berlin": [
+      {
+        "author": "Eva Artinger",
+        "contribution": 0.06666666666666667,
         "percent": 0.5
       },
       {
-        "author": "Vo Thi Bich Huyen",
-        "contribution": 0.29166666666666663,
+        "author": "Gudrun Klinker",
+        "contribution": 0.06666666666666667,
         "percent": 0.5
       }
     ],
-    "University of Science and Technology - The University of Da Nang": [
-      {
-        "author": "Tran Dinh Hieu",
-        "contribution": 0.16666666666666669,
-        "percent": 0.6000000000000001
-      },
+    "University of Da Nang": [
       {
         "author": "Ngoc Hong Nguyen",
-        "contribution": 0.11111111111111112,
-        "percent": 0.4
-      }
-    ],
-    "Thu Dau Mot University": [
-      {
-        "author": "Nguyen Quang Giai",
-        "contribution": 0.27777777777777773,
-        "percent": 0.6666666666666666
+        "contribution": 0.5,
+        "percent": 0.6000000000000001
       },
       {
-        "author": "Nguyen Quoc Truc",
-        "contribution": 0.13888888888888887,
-        "percent": 0.3333333333333333
-      }
-    ],
-    "Vietnam Institute of Architecture": [
-      {
-        "author": "Phuong Thi-Lan Le",
+        "author": "Chinh Van Nguyen",
         "contribution": 0.16666666666666666,
-        "percent": 0.5
+        "percent": 0.2
       },
       {
-        "author": "Hoang Quoc Nguyen",
+        "author": "Quang Hieu Bui",
         "contribution": 0.16666666666666666,
-        "percent": 0.5
-      }
-    ],
-    "University of Sciences, Hue University": [
-      {
-        "author": "Nguyen Ngoc Tung",
-        "contribution": 0.06666666666666667,
-        "percent": 0.25
-      },
-      {
-        "author": "Phan Thi Ngoc Anh",
-        "contribution": 0.06666666666666667,
-        "percent": 0.25
-      },
-      {
-        "author": "Huynh Ngo Tri Dung",
-        "contribution": 0.06666666666666667,
-        "percent": 0.25
-      },
-      {
-        "author": "Hoang Van Thanh",
-        "contribution": 0.06666666666666667,
-        "percent": 0.25
+        "percent": 0.2
       }
     ],
     "Hanoi University of Civil Engineering": [
       {
-        "author": "Doan Minh Khoi",
+        "author": "Nguyen Tran Hieu",
+        "contribution": 0.2272727272727273,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Vu Anh Tuan",
+        "contribution": 0.2272727272727273,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Nguyen T. Quan",
+        "contribution": 0.15151515151515152,
+        "percent": 0.18181818181818182
+      },
+      {
+        "author": "Nguyen Quoc Toan",
+        "contribution": 0.11363636363636365,
+        "percent": 0.13636363636363638
+      },
+      {
+        "author": "Nguyen Thi Khanh Phuong",
+        "contribution": 0.11363636363636365,
+        "percent": 0.13636363636363638
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Mostafa Habibi",
+        "contribution": 0.26495726495726496,
+        "percent": 0.30769230769230765
+      },
+      {
+        "author": "Ali Keyvanfar",
+        "contribution": 0.19871794871794873,
+        "percent": 0.23076923076923078
+      },
+      {
+        "author": "Arezou Shafaghat",
+        "contribution": 0.19871794871794873,
+        "percent": 0.23076923076923078
+      },
+      {
+        "author": "M. Salim Ferwati",
+        "contribution": 0.19871794871794873,
+        "percent": 0.23076923076923078
+      }
+    ],
+    "Qatar University": [
+      {
+        "author": "Maryam AlSuwaidi",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Department of Math and Mech, University Skii 28, St Petersburg 198504, Russia": [
+      {
+        "author": "Aeyed Mohammad Hashemii",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "October 6 University": [
+      {
+        "author": "Ghanshyama Patankaw",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "BRAC University": [
+      {
+        "author": "John C. Y. Chen",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Department of Geography, Karnataka University, India": [
+      {
+        "author": "Rehaap Abd Elfatah Nussir",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Tim Chen",
+        "contribution": 0.06666666666666667,
+        "percent": 0.5454545454545454
+      },
+      {
+        "author": "Chien H. Thai",
+        "contribution": 0.05555555555555555,
+        "percent": 0.45454545454545453
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Hung T. Nguyen",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Thanh Phương Nguyễn",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Dang Minh Hai",
         "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyễn Văn Biên",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Saigon Technology University": [
+      {
+        "author": "Khanh Dien Le",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "HCMUT- VNU": [
+      {
+        "author": "Nguyen Hoang Hiep",
+        "contribution": 0.1,
         "percent": 0.3333333333333333
       },
       {
-        "author": "Doan Minh Thu",
-        "contribution": 0.16666666666666666,
+        "author": "Quang Hoang Hai",
+        "contribution": 0.1,
         "percent": 0.3333333333333333
       },
       {
-        "author": "Doan Thanh Binh",
-        "contribution": 0.16666666666666666,
+        "author": "Quang Huy Hoang",
+        "contribution": 0.1,
         "percent": 0.3333333333333333
       }
     ],
-    "Vietnam National University of Agriculture": [
+    "Technical University of Sofia": [
       {
-        "author": "Nguyen Thi Ngoc Lan",
-        "contribution": 0.125,
+        "author": "Светлин Антонов",
+        "contribution": 0.1,
         "percent": 1.0
+      }
+    ],
+    "National University of Civil Engineering": [
+      {
+        "author": "Phan Huy Dong",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Aeras": [
+      {
+        "author": "Anthony Vidler",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Architecture": [
+      {
+        "author": "Yutaro MURAJI",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Le Hung Tien",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Van Tung",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ],
+    "Hoa Sen University": [
+      {
+        "author": "Ignacio Román Santiago",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Luís Gil Guinea",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi University": [
+      {
+        "author": "Nguyễn Thị",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyen Thi Thuy",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Lê Thị Thu Hương",
+        "contribution": 0.25,
+        "percent": 0.5
+      },
+      {
+        "author": "Nguyễn Quang Linh",
+        "contribution": 0.25,
+        "percent": 0.5
+      }
+    ],
+    "Tân Tạo University": [
+      {
+        "author": "thaila moraes alves",
+        "contribution": 0.5,
+        "percent": 0.5
+      },
+      {
+        "author": "Gunter Georgi",
+        "contribution": 0.16666666666666666,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Jack Bringardner",
+        "contribution": 0.16666666666666666,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Kaylee Dunnigan",
+        "contribution": 0.16666666666666666,
+        "percent": 0.16666666666666666
+      }
+    ],
+    "Manchester Metropolitan University": [
+      {
+        "author": "Eric Lou",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Aston University": [
+      {
+        "author": "Sung Ho Park",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Sejong University": [
+      {
+        "author": "Jaehong Lee",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Seunghye Lee",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "La Trobe University": [
+      {
+        "author": "Thuc P. Vo",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Yokohama National University": [
+      {
+        "author": "Masaya Kawabata",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Bình Dương University": [
+      {
+        "author": "Cong-Minh Nguyen",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi-Nguyen Chau",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Xuan-Ban Nguyen",
+        "contribution": 0.047619047619047616,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Thanh Phat Group Real Estate Construction Limited Company, Phan Thiet, Binh Duong, Vietnam": [
+      {
+        "author": "Minh-Le Tran",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "PlanB Architecture Limited Company, Thuan An, Binh Duong, Vietnam": [
+      {
+        "author": "Ngoc-Tu Hoang",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Cat Tien National Park": [
+      {
+        "author": "Nhu-Nguyen-Anh Le",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”": [
+      {
+        "author": "Dmytro Makatora",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Kyiv National University of Construction and Architecture": [
+      {
+        "author": "Oleksii Yashchenko",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      },
+      {
+        "author": "Ruslan KUBANOV",
+        "contribution": 0.1111111111111111,
+        "percent": 0.5
+      }
+    ],
+    "HUTECH University": [
+      {
+        "author": "H. Nguyen‐Xuan",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      },
+      {
+        "author": "Kim Q. Tran",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      }
+    ],
+    "Bialystok University of Technology": [
+      {
+        "author": "Krzysztof Kamil Żur",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Nam V. Nguyen",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Trường ĐH Nguyễn Tất Thành": [
+      {
+        "author": "T. T. Dieu",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "Innovation Research Center": [
+      {
+        "author": "Gai Huang",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Minzu University of China": [
+      {
+        "author": "Le Wang",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Industry": [
+      {
+        "author": "Thi Ngan Nguyen",
+        "contribution": 0.5,
+        "percent": 0.5
+      },
+      {
+        "author": "Tuan Anh Nguyen",
+        "contribution": 0.5,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi University of Mining and Geology": [
+      {
+        "author": "Công Ngọc Thắng",
+        "contribution": 0.055555555555555566,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "N. T. M. Hai",
+        "contribution": 0.055555555555555566,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Nguyen Thanh-Long",
+        "contribution": 0.055555555555555566,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Nguyen Thi Mai Huong",
+        "contribution": 0.055555555555555566,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Tho Le Duc",
+        "contribution": 0.055555555555555566,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Tống Thị Thanh Hương",
+        "contribution": 0.055555555555555566,
+        "percent": 0.16666666666666669
       }
     ],
     "Phenikaa University": [
       {
-        "author": "Doan Quang Hung",
-        "contribution": 0.125,
+        "author": "Nguyen Van Tam",
+        "contribution": 0.08333333333333333,
         "percent": 1.0
       }
     ]
   },
   "uniFieldContrib": {
-    "Hanoi Achitectural University": {
-      "Architecture": 1.8541666666666667,
-      "Environmental Engineering": 0.125,
-      "Sustainability Science": 0.125,
-      "Environmental Policy and Planning": 0.625,
-      "Civil Engineering": 0.5,
-      "Cultural history": 0.5625,
-      "Cultural geography": 0.5,
-      "Urban geography": 0.6666666666666666,
-      "Art history": 0.0625,
-      "Diplomatic history": 0.0625,
-      "Urban history": 0.16666666666666666
-    },
-    "Phuong Dong University": {
-      "Urban geography": 0.0625,
-      "Architecture": 0.0625,
-      "Environmental Policy and Planning": 0.0625,
-      "Transportation geography": 0.0625
-    },
-    "University of Architecture Ho Chi Minh City": {
-      "Architecture": 6.151388888888887,
-      "Urban geography": 1.5333333333333332,
-      "Urban Environmental Studies": 0.3333333333333333,
-      "Sustainability Science": 2.5125,
-      "Environmental history": 1.0,
-      "Civil Engineering": 0.8055555555555555,
-      "Higher education": 0.2222222222222222,
-      "Environmental geography": 0.3333333333333333,
-      "Urban sociology": 0.9791666666666666,
-      "Environmental Policy and Planning": 1.7625,
-      "Phenomenology": 0.5,
-      "Data Science": 0.2,
-      "Urban history": 0.5,
-      "Cultural geography": 0.75,
-      "Environmental Psychology": 0.3333333333333333,
-      "Development studies": 0.5,
-      "Human geography": 0.5,
-      "Economic geography": 0.25
-    },
-    "University of Economics, Hue University": {
-      "Architecture": 0.3333333333333333,
-      "Marketing": 0.3333333333333333,
-      "Environmental Psychology": 0.3333333333333333
-    },
-    "Ton Duc Thang University": {
-      "Architecture": 0.29166666666666663,
-      "Urban geography": 0.29166666666666663,
-      "Urban sociology": 0.29166666666666663,
-      "Environmental Policy and Planning": 0.125
-    },
-    "Hong Bang University International": {
-      "Architecture": 0.14583333333333331,
-      "Urban geography": 0.14583333333333331,
-      "Urban sociology": 0.14583333333333331,
-      "Environmental Policy and Planning": 0.0625
-    },
-    "VNUHCM - University of Technology": {
-      "Architecture": 0.3333333333333333,
-      "Architectural Engineering": 0.3333333333333333,
-      "Civil Engineering": 0.3333333333333333
-    },
-    "VNUHCM - University of Social Sciences and Humanities": {
-      "Architecture": 0.1111111111111111,
-      "Civil Engineering": 0.1111111111111111,
-      "Higher education": 0.1111111111111111
-    },
-    "Saigon Technology University": {
-      "Applied arts": 0.3333333333333333,
-      "Architecture": 0.3333333333333333,
-      "Urban Environmental Studies": 0.3333333333333333
-    },
-    "Duy Tan University": {
-      "Architecture": 0.2569444444444444,
-      "Urban sociology": 0.14583333333333331,
-      "Environmental Policy and Planning": 0.14583333333333331,
-      "Sustainability Science": 0.0625,
-      "Civil Engineering": 0.1111111111111111,
-      "Architectural Engineering": 0.1111111111111111
-    },
-    "HCMC University of Technology and Education": {
-      "Urban geography": 0.4,
-      "Hospitality and Tourism Management": 0.4,
-      "Architecture": 0.4,
-      "Urban sociology": 0.4,
-      "Cultural geography": 0.2,
-      "Environmental Policy and Planning": 0.2
-    },
-    "Nguyen Tat Thanh University": {
+    "Nihon University": {
+      "Civil and Structural Engineering": 0.16666666666666666,
       "Architecture": 0.16666666666666666,
-      "Urban history": 0.16666666666666666,
-      "Urban geography": 0.16666666666666666
+      "Building and Construction": 0.16666666666666666
     },
-    "Ho Chi Minh City University of Technology": {
-      "Architecture": 0.5833333333333333,
-      "Architectural Engineering": 0.5833333333333333,
-      "Sustainability Science": 0.5833333333333333,
-      "Environmental Engineering": 0.25
+    "Vietnam Academy of Science and Technology": {
+      "Civil and Structural Engineering": 0.08333333333333333,
+      "Architecture": 0.08333333333333333,
+      "Building and Construction": 0.08333333333333333
     },
-    "University of Science and Technology - The University of Da Nang": {
-      "Urban geography": 0.1111111111111111,
-      "Architecture": 0.2777777777777778,
-      "Transportation geography": 0.1111111111111111,
-      "Art history": 0.16666666666666666,
-      "Cultural history": 0.16666666666666666
+    "Nagoya City University": {
+      "Civil and Structural Engineering": 0.08333333333333333,
+      "Architecture": 0.08333333333333333,
+      "Building and Construction": 0.08333333333333333
     },
-    "Thu Dau Mot University": {
-      "Architecture": 0.41666666666666663,
-      "Sustainability Science": 0.25,
-      "Environmental Policy and Planning": 0.25,
-      "Urban Environmental Studies": 0.25,
-      "Art history": 0.16666666666666666,
-      "Cultural history": 0.16666666666666666
+    "The University of Sydney": {
+      "Building and Construction": 0.3333333333333333,
+      "Education": 0.3333333333333333,
+      "Architecture": 0.3333333333333333
     },
-    "Vietnam Institute of Architecture": {
+    "University of Sydney": {
+      "Architecture": 1.0
+    },
+    "Research Institute for Aquaculture No1": {
+      "Architecture": 0.25
+    },
+    "Future Earth": {
+      "Architecture": 0.25
+    },
+    "China Agricultural University": {
+      "Architecture": 0.5
+    },
+    "Hanoi Architectural University": {
+      "Architecture": 0.9142857142857143,
+      "Building and Construction": 0.3333333333333333,
+      "Human-Computer Interaction": 0.3333333333333333,
+      "Computer Vision and Pattern Recognition": 0.3333333333333333,
+      "Geology": 0.2,
+      "Visual Arts and Performing Arts": 0.2,
+      "Mechanical Engineering": 0.047619047619047616,
+      "Industrial and Manufacturing Engineering": 0.047619047619047616,
+      "Plant Science": 0.08333333333333333
+    },
+    "Royal Centre for Remote Sensing": {
+      "Architecture": 0.25,
+      "Building and Construction": 0.25
+    },
+    "Ho Chi Minh City University of Law": {
       "Architecture": 0.3333333333333333,
-      "Sustainability Science": 0.3333333333333333,
-      "Environmental Policy and Planning": 0.3333333333333333
+      "Biochemistry": 0.3333333333333333,
+      "Public Administration": 0.3333333333333333
     },
-    "University of Sciences, Hue University": {
-      "Architecture": 0.26666666666666666,
-      "Art history": 0.26666666666666666,
-      "Urban history": 0.26666666666666666
+    "Thang Long University": {
+      "Architecture": 2.0
+    },
+    "Hanoi Open University": {
+      "Architecture": 1.0
+    },
+    "Quy Nhon University": {
+      "Architecture": 1.0,
+      "Civil and Structural Engineering": 0.5,
+      "Visual Arts and Performing Arts": 0.5
+    },
+    "University of Kassel": {
+      "Environmental Engineering": 0.2222222222222222,
+      "Architecture": 0.2222222222222222,
+      "Building and Construction": 0.2222222222222222
+    },
+    "Vietnamese-German University": {
+      "Environmental Engineering": 0.1111111111111111,
+      "Architecture": 0.1111111111111111,
+      "Building and Construction": 0.1111111111111111
+    },
+    "Instituto Tecnológico Autónomo de México": {
+      "Media Technology": 0.16666666666666666,
+      "Architecture": 0.16666666666666666
+    },
+    "Vietnam National University Ho Chi Minh City": {
+      "Media Technology": 0.41666666666666663,
+      "Architecture": 0.49999999999999994,
+      "Civil and Structural Engineering": 0.08333333333333333,
+      "Geology": 0.08333333333333333
+    },
+    "Colorado State University Pueblo": {
+      "Media Technology": 0.16666666666666666,
+      "Architecture": 0.16666666666666666
+    },
+    "Technische Universität Berlin": {
+      "Architecture": 0.13333333333333333,
+      "Geology": 0.13333333333333333,
+      "Visual Arts and Performing Arts": 0.13333333333333333
+    },
+    "University of Da Nang": {
+      "Building and Construction": 0.5,
+      "Architecture": 0.8333333333333333,
+      "Civil and Structural Engineering": 0.3333333333333333
     },
     "Hanoi University of Civil Engineering": {
-      "Architecture": 0.5,
-      "Sustainability Science": 0.5
+      "Architecture": 0.8333333333333334,
+      "Building and Construction": 0.6666666666666667,
+      "Media Technology": 0.16666666666666666,
+      "Plant Science": 0.16666666666666666
     },
-    "Vietnam National University of Agriculture": {
-      "Urban geography": 0.125,
-      "Architecture": 0.125,
-      "Urban sociology": 0.125,
-      "Urban history": 0.125
+    "Duy Tan University": {
+      "Architecture": 0.8611111111111112,
+      "Civil and Structural Engineering": 0.1111111111111111,
+      "Mechanical Engineering": 0.1111111111111111
+    },
+    "Qatar University": {
+      "Architecture": 0.25
+    },
+    "Department of Math and Mech, University Skii 28, St Petersburg 198504, Russia": {
+      "Building and Construction": 0.06666666666666667,
+      "Archeology": 0.06666666666666667,
+      "Architecture": 0.06666666666666667
+    },
+    "October 6 University": {
+      "Building and Construction": 0.06666666666666667,
+      "Archeology": 0.06666666666666667,
+      "Architecture": 0.06666666666666667
+    },
+    "BRAC University": {
+      "Building and Construction": 0.06666666666666667,
+      "Archeology": 0.06666666666666667,
+      "Architecture": 0.06666666666666667
+    },
+    "Department of Geography, Karnataka University, India": {
+      "Building and Construction": 0.06666666666666667,
+      "Archeology": 0.06666666666666667,
+      "Architecture": 0.06666666666666667
+    },
+    "Ton Duc Thang University": {
+      "Building and Construction": 0.06666666666666667,
+      "Archeology": 0.06666666666666667,
+      "Architecture": 0.12222222222222222,
+      "Biomedical Engineering": 0.05555555555555555,
+      "Mechanical Engineering": 0.05555555555555555
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Media Technology": 0.25,
+      "Architecture": 0.25
+    },
+    "Hanoi National University of Education": {
+      "Statistical and Nonlinear Physics": 0.3333333333333333,
+      "Media Technology": 0.3333333333333333,
+      "Architecture": 0.3333333333333333
+    },
+    "Saigon Technology University": {
+      "Polymers and Plastics": 0.1,
+      "Architecture": 0.1
+    },
+    "HCMUT- VNU": {
+      "Polymers and Plastics": 0.30000000000000004,
+      "Architecture": 0.30000000000000004
+    },
+    "Technical University of Sofia": {
+      "Polymers and Plastics": 0.1,
+      "Architecture": 0.1
+    },
+    "National University of Civil Engineering": {
+      "Architecture": 1.0
+    },
+    "Aeras": {
+      "Architecture": 1.0
+    },
+    "Ho Chi Minh City University of Architecture": {
+      "Nature and Landscape Conservation": 0.3333333333333333,
+      "Architecture": 0.3333333333333333,
+      "Building and Construction": 0.3333333333333333
+    },
+    "Van Lang University": {
+      "Building and Construction": 0.5,
+      "Architecture": 0.5
+    },
+    "Hoa Sen University": {
+      "Visual Arts and Performing Arts": 0.5,
+      "Architecture": 0.5
+    },
+    "Hanoi University": {
+      "Building and Construction": 0.3333333333333333,
+      "Architecture": 0.3333333333333333,
+      "Visual Arts and Performing Arts": 0.3333333333333333
+    },
+    "Thai Nguyen University": {
+      "Architecture": 0.5,
+      "Media Technology": 0.5
+    },
+    "Tân Tạo University": {
+      "Media Technology": 0.5,
+      "Architecture": 1.0,
+      "Visual Arts and Performing Arts": 0.5
+    },
+    "Manchester Metropolitan University": {
+      "Media Technology": 0.16666666666666666,
+      "Architecture": 0.16666666666666666
+    },
+    "Aston University": {
+      "Media Technology": 0.16666666666666666,
+      "Architecture": 0.16666666666666666
+    },
+    "Sejong University": {
+      "Civil and Structural Engineering": 0.16666666666666666,
+      "Architecture": 0.16666666666666666,
+      "Geology": 0.16666666666666666
+    },
+    "La Trobe University": {
+      "Civil and Structural Engineering": 0.08333333333333333,
+      "Architecture": 0.08333333333333333,
+      "Geology": 0.08333333333333333
+    },
+    "Yokohama National University": {
+      "Civil and Structural Engineering": 0.16666666666666666,
+      "Architecture": 0.16666666666666666
+    },
+    "Bình Dương University": {
+      "Architecture": 0.14285714285714285,
+      "Mechanical Engineering": 0.14285714285714285,
+      "Industrial and Manufacturing Engineering": 0.14285714285714285
+    },
+    "Thanh Phat Group Real Estate Construction Limited Company, Phan Thiet, Binh Duong, Vietnam": {
+      "Architecture": 0.047619047619047616,
+      "Mechanical Engineering": 0.047619047619047616,
+      "Industrial and Manufacturing Engineering": 0.047619047619047616
+    },
+    "PlanB Architecture Limited Company, Thuan An, Binh Duong, Vietnam": {
+      "Architecture": 0.047619047619047616,
+      "Mechanical Engineering": 0.047619047619047616,
+      "Industrial and Manufacturing Engineering": 0.047619047619047616
+    },
+    "Cat Tien National Park": {
+      "Architecture": 0.047619047619047616,
+      "Mechanical Engineering": 0.047619047619047616,
+      "Industrial and Manufacturing Engineering": 0.047619047619047616
+    },
+    "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”": {
+      "Building and Construction": 0.1111111111111111,
+      "Economics and Econometrics": 0.1111111111111111,
+      "Architecture": 0.1111111111111111
+    },
+    "Kyiv National University of Construction and Architecture": {
+      "Building and Construction": 0.2222222222222222,
+      "Economics and Econometrics": 0.2222222222222222,
+      "Architecture": 0.2222222222222222
+    },
+    "HUTECH University": {
+      "Biomedical Engineering": 0.1111111111111111,
+      "Architecture": 0.1111111111111111,
+      "Mechanical Engineering": 0.1111111111111111
+    },
+    "Bialystok University of Technology": {
+      "Biomedical Engineering": 0.05555555555555555,
+      "Architecture": 0.05555555555555555,
+      "Mechanical Engineering": 0.05555555555555555
+    },
+    "Industrial University of Ho Chi Minh City": {
+      "Biomedical Engineering": 0.05555555555555555,
+      "Architecture": 0.05555555555555555,
+      "Mechanical Engineering": 0.05555555555555555
+    },
+    "Trường ĐH Nguyễn Tất Thành": {
+      "Biomedical Engineering": 0.05555555555555555,
+      "Architecture": 0.05555555555555555,
+      "Mechanical Engineering": 0.05555555555555555
+    },
+    "Innovation Research Center": {
+      "Civil and Structural Engineering": 0.1111111111111111,
+      "Mechanical Engineering": 0.1111111111111111,
+      "Architecture": 0.1111111111111111
+    },
+    "Minzu University of China": {
+      "Civil and Structural Engineering": 0.1111111111111111,
+      "Mechanical Engineering": 0.1111111111111111,
+      "Architecture": 0.1111111111111111
+    },
+    "Hanoi University of Industry": {
+      "Architecture": 1.0
+    },
+    "Hanoi University of Mining and Geology": {
+      "Biomedical Engineering": 0.33333333333333337,
+      "Polymers and Plastics": 0.33333333333333337,
+      "Architecture": 0.33333333333333337
     },
     "Phenikaa University": {
-      "Urban geography": 0.125,
-      "Architecture": 0.125,
-      "Urban sociology": 0.125,
-      "Urban history": 0.125
+      "Plant Science": 0.08333333333333333,
+      "Building and Construction": 0.08333333333333333,
+      "Architecture": 0.08333333333333333
     }
   },
-  "totalPapers": 31334
+  "totalPapers": 197394
 }

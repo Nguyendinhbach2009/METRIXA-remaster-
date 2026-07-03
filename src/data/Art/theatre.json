@@ -1,26 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "VNUHCM - An Giang University",
-      "totalContribution": 0.25
-    }
-  ],
-  "authorsByUniversity": {
-    "VNUHCM - An Giang University": [
-      {
-        "author": "Ly Thi Minh Trang",
-        "contribution": 0.25,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "VNUHCM - An Giang University": {
-      "Theatre": 0.25,
-      "Language education and linguistics": 0.25,
-      "Distance and online learning": 0.25,
-      "Educational technology": 0.25
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

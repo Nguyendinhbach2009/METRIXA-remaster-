@@ -1,25 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "VNUHCM - University of Social Sciences and Humanities",
-      "totalContribution": 0.3333333333333333
-    }
-  ],
-  "authorsByUniversity": {
-    "VNUHCM - University of Social Sciences and Humanities": [
-      {
-        "author": "Do Van Hoc",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "VNUHCM - University of Social Sciences and Humanities": {
-      "Public Administration": 0.3333333333333333,
-      "Paleography": 0.3333333333333333,
-      "Cultural history": 0.3333333333333333
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

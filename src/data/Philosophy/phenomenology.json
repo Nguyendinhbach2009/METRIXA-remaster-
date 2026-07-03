@@ -1,56 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "University of Architecture Ho Chi Minh City",
-      "totalContribution": 0.5
-    },
-    {
-      "university": "FPT University",
-      "totalContribution": 0.3333333333333333
-    },
-    {
-      "university": "University of Economics Ho Chi Minh City",
-      "totalContribution": 0.3333333333333333
-    }
-  ],
-  "authorsByUniversity": {
-    "FPT University": [
-      {
-        "author": "Nguyen Hong Chi",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ],
-    "University of Architecture Ho Chi Minh City": [
-      {
-        "author": "Duc Tran",
-        "contribution": 0.5,
-        "percent": 1.0
-      }
-    ],
-    "University of Economics Ho Chi Minh City": [
-      {
-        "author": "Đỗ Kiên Trung",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "FPT University": {
-      "Phenomenology": 0.3333333333333333,
-      "Population geography": 0.3333333333333333,
-      "Human geography": 0.3333333333333333
-    },
-    "University of Architecture Ho Chi Minh City": {
-      "Phenomenology": 0.5,
-      "Architecture": 0.5
-    },
-    "University of Economics Ho Chi Minh City": {
-      "Phenomenology": 0.3333333333333333,
-      "Cognitive Psychology": 0.3333333333333333,
-      "Neuropsychology": 0.3333333333333333
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

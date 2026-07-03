@@ -1,41 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Hanoi National University of Education",
-      "totalContribution": 0.16666666666666666
-    },
-    {
-      "university": "National Economics University",
-      "totalContribution": 0.16666666666666666
-    }
-  ],
-  "authorsByUniversity": {
-    "Hanoi National University of Education": [
-      {
-        "author": "Bui Thi Thu Huyen",
-        "contribution": 0.16666666666666666,
-        "percent": 1.0
-      }
-    ],
-    "National Economics University": [
-      {
-        "author": "Lê Thuỳ Linh",
-        "contribution": 0.16666666666666666,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Hanoi National University of Education": {
-      "Social Psychology": 0.16666666666666666,
-      "Cultural sociology": 0.16666666666666666,
-      "Sociology of deviance": 0.16666666666666666
-    },
-    "National Economics University": {
-      "Social Psychology": 0.16666666666666666,
-      "Cultural sociology": 0.16666666666666666,
-      "Sociology of deviance": 0.16666666666666666
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

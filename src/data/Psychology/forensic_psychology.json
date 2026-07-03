@@ -1,31 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Hue University",
-      "totalContribution": 0.14423076923076922
-    }
-  ],
-  "authorsByUniversity": {
-    "Hue University": [
-      {
-        "author": "Michael Dunne",
-        "contribution": 0.11968085106382978,
-        "percent": 0.8297872340425532
-      },
-      {
-        "author": "Michael P Dunne",
-        "contribution": 0.024549918166939442,
-        "percent": 0.1702127659574468
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Hue University": {
-      "Clinical Psychology": 0.14423076923076922,
-      "Developmental Psychology": 0.14423076923076922,
-      "Forensic Psychology": 0.14423076923076922,
-      "Sociology of family": 0.019230769230769232
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

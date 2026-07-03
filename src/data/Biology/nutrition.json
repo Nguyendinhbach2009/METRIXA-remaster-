@@ -1,31 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Hanoi Medical University",
-      "totalContribution": 0.14814814814814814
-    }
-  ],
-  "authorsByUniversity": {
-    "Hanoi Medical University": [
-      {
-        "author": "Le Thi Huong",
-        "contribution": 0.07407407407407407,
-        "percent": 0.5
-      },
-      {
-        "author": "Le Thi Thanh Xuan",
-        "contribution": 0.07407407407407407,
-        "percent": 0.5
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Hanoi Medical University": {
-      "Nutrition": 0.14814814814814814,
-      "Epidemiology": 0.14814814814814814,
-      "Public Health": 0.07407407407407407,
-      "Dietetics": 0.07407407407407407
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

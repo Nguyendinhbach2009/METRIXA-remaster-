@@ -1,48 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "National Institute of Hygiene and Epidemiology",
-      "totalContribution": 0.05555555555555555
-    },
-    {
-      "university": "Duy Tan University",
-      "totalContribution": 0.03125
-    }
-  ],
-  "authorsByUniversity": {
-    "Duy Tan University": [
-      {
-        "author": "Nguyen Tien Huy",
-        "contribution": 0.03125,
-        "percent": 1.0
-      }
-    ],
-    "National Institute of Hygiene and Epidemiology": [
-      {
-        "author": "Thuy Nguyen Thanh",
-        "contribution": 0.027777777777777776,
-        "percent": 0.5
-      },
-      {
-        "author": "Huy Tran Quang",
-        "contribution": 0.027777777777777776,
-        "percent": 0.5
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Duy Tan University": {
-      "Sustainability Science": 0.03125,
-      "Environmental Health": 0.03125,
-      "Biogeology": 0.03125,
-      "Geochemistry": 0.03125
-    },
-    "National Institute of Hygiene and Epidemiology": {
-      "Microbiology": 0.05555555555555555,
-      "Mineralogy": 0.05555555555555555,
-      "Biogeology": 0.05555555555555555,
-      "Geochemistry": 0.05555555555555555
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

@@ -1,152 +1,1144 @@
 {
   "ranking": [
     {
-      "university": "Viet Nam National Academy of Music",
-      "totalContribution": 1.5
+      "university": "University of Languages and International Studies",
+      "totalContribution": 6.166666666666666
     },
     {
-      "university": "Vietnam National University, Hanoi",
-      "totalContribution": 0.3333333333333333
+      "university": "Quy Nhon University",
+      "totalContribution": 3.3333333333333335
     },
     {
-      "university": "VNUHCM - University of Social Sciences and Humanities",
-      "totalContribution": 0.25
+      "university": "Hanoi Open University",
+      "totalContribution": 3.0
     },
     {
-      "university": "Thu Dau Mot University",
-      "totalContribution": 0.25
+      "university": "Thang Long University",
+      "totalContribution": 3.0
+    },
+    {
+      "university": "Le Hong Phong High School for the Gifted",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Tân Tạo University",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Ação Educativa",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Stiftung für Forschung in Spätantike und Mittelalter HR. Sennhauser",
+      "totalContribution": 0.5
     },
     {
       "university": "Hung Yen University of Technology and Education",
-      "totalContribution": 0.16666666666666666
+      "totalContribution": 0.3472222222222222
+    },
+    {
+      "university": "Hue University of Education",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hoa Sen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Pittsburgh",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "R&D Lab, Sun Inc, Hanoi, Vietnam",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Field Crops Research Institute",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Nanjing Normal University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Jiangsu Normal University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "University of Electronic Science and Technology of China",
+      "totalContribution": 0.26666666666666666
+    },
+    {
+      "university": "RMIT Vietnam",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Centre of Communication & Design, RMIT University Vietnam702 Nguyen Van Linh Blvd., District 7, Ho Chi Minh City, Vietnam",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Instituto Nacional de Estudos e Pesquisa",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "China University of Petroleum, East China",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Northern University of Malaysia",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Prince Sattam Bin Abdulaziz University",
+      "totalContribution": 0.25
     },
     {
       "university": "Hanoi University of Science and Technology",
-      "totalContribution": 0.16666666666666666
+      "totalContribution": 0.25
     },
     {
       "university": "University of Transport and Communications",
+      "totalContribution": 0.2361111111111111
+    },
+    {
+      "university": "Hanoi University of Culture",
       "totalContribution": 0.16666666666666666
     },
     {
-      "university": "Ho Chi Minh City Open University",
-      "totalContribution": 0.05714285714285714
+      "university": "Temple University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hội Tim mạch học Việt Nam",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "University of Kansas",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Le Quy Don Technical University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Georgia State University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Settlement Music School",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Pathways to Housing",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Essex",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology and Engineering",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Austrian Institute of Technology",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Science and Technology - The University of Da Nang",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "University of Oxford",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "College of New Jersey",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ministry of Science and Technology",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Suffolk University",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "MIT University",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "The University of Melbourne",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "European University Viadrina",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Brunel University of London",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "At Bristol",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Vale (Brazil)",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "University of Sfax",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "University of Ottawa",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Birkbeck, University of London",
+      "totalContribution": 0.03333333333333333
     }
   ],
   "authorsByUniversity": {
-    "Viet Nam National Academy of Music": [
+    "Hue University of Education": [
       {
-        "author": "Nguyen Thi Tan Nhan",
-        "contribution": 1.5,
+        "author": "Berta Joncus",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Culture": [
+      {
+        "author": "Nguyen Chi Ben",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Temple University": [
+      {
+        "author": "Philip Alperson",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hội Tim mạch học Việt Nam": [
+      {
+        "author": "To Ngoc Thanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Kansas": [
+      {
+        "author": "Alice-Ann Darrow",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Christopher M. Johnson",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Settlement Music School": [
+      {
+        "author": "C. A. Achey",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Pathways to Housing": [
+      {
+        "author": "Claire Ghetti",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hoa Sen University": [
+      {
+        "author": "John Basourakos",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "RMIT Vietnam": [
+      {
+        "author": "Dang Nguyen",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Centre of Communication & Design, RMIT University Vietnam702 Nguyen Van Linh Blvd., District 7, Ho Chi Minh City, Vietnam": [
+      {
+        "author": "Patrick E. Sharbaugh",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "University of Electronic Science and Technology of China": [
+      {
+        "author": "Dezhong Yao",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Diankun Gong",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Jiehui Hu",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      },
+      {
+        "author": "Weiyi Ma",
+        "contribution": 0.06666666666666667,
+        "percent": 0.25
+      }
+    ],
+    "Ministry of Science and Technology": [
+      {
+        "author": "Hua Yang",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Le Hong Phong High School for the Gifted": [
+      {
+        "author": "Celeste Doré Hunter",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "University of Pittsburgh": [
+      {
+        "author": "Aaron A. Agarwal",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Brian A. Primack",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Madeline A. Dalton",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Mary V. Carroll",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      },
+      {
+        "author": "Michael J. Fine",
+        "contribution": 0.06666666666666667,
+        "percent": 0.2
+      }
+    ],
+    "Tân Tạo University": [
+      {
+        "author": "Tu Zong",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Quy Nhon University": [
+      {
+        "author": "Zhi Ling",
+        "contribution": 0.8333333333333334,
+        "percent": 0.25
+      },
+      {
+        "author": "Zhao Sheng",
+        "contribution": 0.8333333333333334,
+        "percent": 0.25
+      },
+      {
+        "author": "Sun Xing",
+        "contribution": 0.8333333333333334,
+        "percent": 0.25
+      },
+      {
+        "author": "Chen Ling",
+        "contribution": 0.8333333333333334,
+        "percent": 0.25
+      }
+    ],
+    "Hanoi Open University": [
+      {
+        "author": "Zhang Feng-yan",
+        "contribution": 1.0,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Bei Song",
+        "contribution": 1.0,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Yu Ping",
+        "contribution": 1.0,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Thang Long University": [
+      {
+        "author": "Li De",
+        "contribution": 1.0,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Kong Yi",
+        "contribution": 1.0,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "HU Qing",
+        "contribution": 1.0,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "University of Languages and International Studies": [
+      {
+        "author": "Wang Qing-gu",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Ru Zhang",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "WU Xue-son",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Yun Wang",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Wang Qing-mei",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Fen Li",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Zhao Ru-quan",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Zhang Li-hu",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Yanhong Li",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      },
+      {
+        "author": "Yang Jing",
+        "contribution": 0.6166666666666666,
+        "percent": 0.09999999999999999
+      }
+    ],
+    "R&D Lab, Sun Inc, Hanoi, Vietnam": [
+      {
+        "author": "Ngoc Tran",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Toàn Phạm Văn",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Le Quy Don Technical University": [
+      {
+        "author": "Tạ Minh Thanh",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Garhe Osiebe",
+        "contribution": 0.8333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Daniel Padilha Pacheco da Costa",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Instituto Nacional de Estudos e Pesquisa": [
+      {
+        "author": "Lauro Wanderley Meller",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University Ho Chi Minh City": [
+      {
+        "author": "Bang-Dang Pham",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hoang-Long Pham",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Minh–Triet Tran",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "China University of Petroleum, East China": [
+      {
+        "author": "Dongjun Zhang",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Foreign Languages and Information Technology": [
+      {
+        "author": "Nhat Tan Nguyen",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Northern University of Malaysia": [
+      {
+        "author": "Shamim Akhter",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Prince Sattam Bin Abdulaziz University": [
+      {
+        "author": "Tribhuwan Kumar",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology": [
+      {
+        "author": "Anh‐Tu Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Essex": [
+      {
+        "author": "Dat Ngo",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Technology and Engineering": [
+      {
+        "author": "Khoa Pham",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Austrian Institute of Technology": [
+      {
+        "author": "Lam Pham",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Science and Technology - The University of Da Nang": [
+      {
+        "author": "Thanh Ngo",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Oxford": [
+      {
+        "author": "Tien Ly",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Field Crops Research Institute": [
+      {
+        "author": "A. EI-Shenawy",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "A. Galal",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "E. Amer",
+        "contribution": 0.1111111111111111,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Suffolk University": [
+      {
+        "author": "Andrew Smith",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "MIT University": [
+      {
+        "author": "Bernardo Figueiredo",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "The University of Melbourne": [
+      {
+        "author": "Daiane Scaraboto",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "European University Viadrina": [
+      {
+        "author": "Katja H. Brunk",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Brunel University of London": [
+      {
+        "author": "Marcia Christina Ferreira",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "At Bristol": [
+      {
+        "author": "Mario Campaña",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vale (Brazil)": [
+      {
+        "author": "Marlon Dalmoro",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Sfax": [
+      {
+        "author": "Meriam Belkhir",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Ottawa": [
+      {
+        "author": "Myriam Brouard",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Birkbeck, University of London": [
+      {
+        "author": "Olivier Sibai",
+        "contribution": 0.03333333333333333,
         "percent": 1.0
       }
     ],
     "Hung Yen University of Technology and Education": [
       {
-        "author": "Chu Ba Thanh",
-        "contribution": 0.16666666666666666,
+        "author": "Chu Bá Thành",
+        "contribution": 0.22095959595959594,
+        "percent": 0.6363636363636364
+      },
+      {
+        "author": "Trịnh Văn Loan",
+        "contribution": 0.12626262626262624,
+        "percent": 0.3636363636363636
+      }
+    ],
+    "University of Transport and Communications": [
+      {
+        "author": "Đào Thị Lệ Thủy",
+        "contribution": 0.13492063492063494,
+        "percent": 0.5714285714285715
+      },
+      {
+        "author": "Đào Thị Thủy",
+        "contribution": 0.1011904761904762,
+        "percent": 0.42857142857142866
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Bui Thi Kim Oanh",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Le Thao Vy",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Nguyen Bach Hop",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Nguyễn Hoàng Dương",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Tran Thi Mai Tram",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Lê Thanh Thảo",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Ngoc Bao-Chau Tran",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Phạm Trút Thùy",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Phuong Hoang Yen",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Thi Minh Thanh Nguyen",
+        "contribution": 0.08333333333333334,
+        "percent": 0.10000000000000002
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Phạm Minh Thùy",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Nanjing Normal University": [
+      {
+        "author": "Qiming Zhang",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Jiangsu Normal University": [
+      {
+        "author": "Yu Feng",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ação Educativa": [
+      {
+        "author": "José López González",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Dao Thi Hong Van",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Huynh Van Bay",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Nguyen Khac Binh Tan",
+        "contribution": 0.125,
+        "percent": 0.25
+      },
+      {
+        "author": "Vo Minh Sang",
+        "contribution": 0.125,
+        "percent": 0.25
+      }
+    ],
+    "Stiftung für Forschung in Spätantike und Mittelalter HR. Sennhauser": [
+      {
+        "author": "Hans J. Wulff",
+        "contribution": 0.5,
         "percent": 1.0
       }
     ],
     "Hanoi University of Science and Technology": [
       {
-        "author": "Trinh Van Loan",
-        "contribution": 0.16666666666666666,
+        "author": "Le Thanh",
+        "contribution": 0.125,
+        "percent": 0.5
+      },
+      {
+        "author": "Trịnh Văn Loan",
+        "contribution": 0.125,
+        "percent": 0.5
+      }
+    ],
+    "Georgia State University": [
+      {
+        "author": "Lucy Popova",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Thi Phuong Thao Tran",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi University": [
+      {
+        "author": "Thu Trang Vu",
+        "contribution": 0.08333333333333333,
         "percent": 1.0
       }
     ],
-    "University of Transport and Communications": [
+    "College of New Jersey": [
       {
-        "author": "Dao Thi Le Thuy",
-        "contribution": 0.16666666666666666,
-        "percent": 1.0
-      }
-    ],
-    "VNUHCM - University of Social Sciences and Humanities": [
-      {
-        "author": "Thị Thu Hiền Phan",
-        "contribution": 0.125,
-        "percent": 0.5
-      },
-      {
-        "author": "Ngọc Thơ Nguyễn",
-        "contribution": 0.125,
-        "percent": 0.5
-      }
-    ],
-    "Thu Dau Mot University": [
-      {
-        "author": "Nguyen Phuong Hong Phuc",
-        "contribution": 0.125,
-        "percent": 0.5
-      },
-      {
-        "author": "Dinh Thi Yen",
-        "contribution": 0.125,
-        "percent": 0.5
-      }
-    ],
-    "Ho Chi Minh City Open University": [
-      {
-        "author": "Vinh Truong Hoang",
-        "contribution": 0.02857142857142857,
-        "percent": 0.5
-      },
-      {
-        "author": "Kiet Tran-Trung",
-        "contribution": 0.02857142857142857,
-        "percent": 0.5
-      }
-    ],
-    "Vietnam National University, Hanoi": [
-      {
-        "author": "Nguyen Dinh Lam",
-        "contribution": 0.3333333333333333,
+        "author": "Yachao Li",
+        "contribution": 0.08333333333333333,
         "percent": 1.0
       }
     ]
   },
   "uniFieldContrib": {
-    "Viet Nam National Academy of Music": {
-      "Music": 1.5,
-      "Cultural history": 0.5
+    "Hue University of Education": {
+      "Music": 0.3333333333333333,
+      "Literature and Literary Theory": 0.3333333333333333,
+      "Anthropology": 0.3333333333333333
+    },
+    "Hanoi University of Culture": {
+      "Sociology and Political Science": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "Temple University": {
+      "Sociology and Political Science": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "Hội Tim mạch học Việt Nam": {
+      "Sociology and Political Science": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "University of Kansas": {
+      "Social Psychology": 0.16666666666666666,
+      "Music": 0.16666666666666666,
+      "Cognitive Neuroscience": 0.16666666666666666
+    },
+    "Settlement Music School": {
+      "Social Psychology": 0.08333333333333333,
+      "Music": 0.08333333333333333,
+      "Cognitive Neuroscience": 0.08333333333333333
+    },
+    "Pathways to Housing": {
+      "Social Psychology": 0.08333333333333333,
+      "Music": 0.08333333333333333,
+      "Cognitive Neuroscience": 0.08333333333333333
+    },
+    "Hoa Sen University": {
+      "Literature and Literary Theory": 0.3333333333333333,
+      "Music": 0.3333333333333333,
+      "Visual Arts and Performing Arts": 0.3333333333333333
+    },
+    "RMIT Vietnam": {
+      "Sociology and Political Science": 0.25,
+      "Music": 0.25
+    },
+    "Centre of Communication & Design, RMIT University Vietnam702 Nguyen Van Linh Blvd., District 7, Ho Chi Minh City, Vietnam": {
+      "Sociology and Political Science": 0.25,
+      "Music": 0.25
+    },
+    "University of Electronic Science and Technology of China": {
+      "Cognitive Neuroscience": 0.26666666666666666,
+      "Music": 0.26666666666666666,
+      "Education": 0.26666666666666666
+    },
+    "Ministry of Science and Technology": {
+      "Cognitive Neuroscience": 0.06666666666666667,
+      "Music": 0.06666666666666667,
+      "Education": 0.06666666666666667
+    },
+    "Le Hong Phong High School for the Gifted": {
+      "Music": 1.0
+    },
+    "University of Pittsburgh": {
+      "Epidemiology": 0.3333333333333333,
+      "Music": 0.3333333333333333,
+      "Social Psychology": 0.3333333333333333
+    },
+    "Tân Tạo University": {
+      "Music": 1.0
+    },
+    "Quy Nhon University": {
+      "Music": 3.3333333333333335,
+      "Artificial Intelligence": 0.3333333333333333,
+      "Computer Vision and Pattern Recognition": 0.3333333333333333
+    },
+    "Hanoi Open University": {
+      "Music": 3.0
+    },
+    "Thang Long University": {
+      "Music": 3.0
+    },
+    "University of Languages and International Studies": {
+      "Language and Linguistics": 0.6666666666666666,
+      "Literature and Literary Theory": 1.0,
+      "Music": 6.166666666666666,
+      "Philosophy": 0.3333333333333333,
+      "Anthropology": 0.3333333333333333,
+      "Sociology and Political Science": 0.3333333333333333,
+      "Marketing": 0.3333333333333333,
+      "Social Psychology": 0.5,
+      "Museology": 0.3333333333333333
+    },
+    "R&D Lab, Sun Inc, Hanoi, Vietnam": {
+      "Signal Processing": 0.3333333333333333,
+      "Music": 0.3333333333333333
+    },
+    "Le Quy Don Technical University": {
+      "Signal Processing": 0.16666666666666666,
+      "Music": 0.16666666666666666
+    },
+    "Duy Tan University": {
+      "Literature and Literary Theory": 0.3333333333333333,
+      "Sociology and Political Science": 0.3333333333333333,
+      "Music": 0.8333333333333333,
+      "Communication": 0.5
+    },
+    "Foreign Trade University": {
+      "Music": 0.25,
+      "General Arts and Humanities": 0.25
+    },
+    "Instituto Nacional de Estudos e Pesquisa": {
+      "Music": 0.25,
+      "General Arts and Humanities": 0.25
+    },
+    "Vietnam National University Ho Chi Minh City": {
+      "Signal Processing": 0.3333333333333333,
+      "Computer Vision and Pattern Recognition": 0.3333333333333333,
+      "Music": 0.3333333333333333
+    },
+    "China University of Petroleum, East China": {
+      "Music": 0.25
+    },
+    "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+      "Music": 0.25
+    },
+    "Northern University of Malaysia": {
+      "Music": 0.25
+    },
+    "Prince Sattam Bin Abdulaziz University": {
+      "Music": 0.25
+    },
+    "Ho Chi Minh City University of Technology": {
+      "Signal Processing": 0.08333333333333333,
+      "Music": 0.08333333333333333
+    },
+    "University of Essex": {
+      "Signal Processing": 0.08333333333333333,
+      "Music": 0.08333333333333333
+    },
+    "Ho Chi Minh City University of Technology and Engineering": {
+      "Signal Processing": 0.08333333333333333,
+      "Music": 0.08333333333333333
+    },
+    "Austrian Institute of Technology": {
+      "Signal Processing": 0.08333333333333333,
+      "Music": 0.08333333333333333
+    },
+    "University of Science and Technology - The University of Da Nang": {
+      "Signal Processing": 0.08333333333333333,
+      "Music": 0.08333333333333333
+    },
+    "University of Oxford": {
+      "Signal Processing": 0.08333333333333333,
+      "Music": 0.08333333333333333
+    },
+    "Field Crops Research Institute": {
+      "Cultural Studies": 0.3333333333333333,
+      "Education": 0.3333333333333333,
+      "Music": 0.3333333333333333
+    },
+    "Suffolk University": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "MIT University": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "The University of Melbourne": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "European University Viadrina": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "Brunel University of London": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "At Bristol": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "Vale (Brazil)": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "University of Sfax": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "University of Ottawa": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
+    },
+    "Birkbeck, University of London": {
+      "Sociology and Political Science": 0.03333333333333333,
+      "Gender Studies": 0.03333333333333333,
+      "Music": 0.03333333333333333
     },
     "Hung Yen University of Technology and Education": {
-      "Artificial intelligence": 0.16666666666666666,
-      "Music": 0.16666666666666666
-    },
-    "Hanoi University of Science and Technology": {
-      "Artificial intelligence": 0.16666666666666666,
-      "Music": 0.16666666666666666
+      "Signal Processing": 0.3472222222222222,
+      "Music": 0.3472222222222222,
+      "Computer Vision and Pattern Recognition": 0.2222222222222222
     },
     "University of Transport and Communications": {
-      "Artificial intelligence": 0.16666666666666666,
-      "Music": 0.16666666666666666
+      "Signal Processing": 0.2361111111111111,
+      "Music": 0.2361111111111111,
+      "Computer Vision and Pattern Recognition": 0.1111111111111111
     },
-    "VNUHCM - University of Social Sciences and Humanities": {
-      "Aesthetics": 0.25,
-      "Art history": 0.25,
-      "Literature": 0.25,
+    "Can Tho University": {
+      "Music": 0.8333333333333333,
+      "Education": 0.8333333333333333,
+      "Sociology and Political Science": 0.3333333333333333
+    },
+    "Thai Nguyen University": {
+      "Music": 0.3333333333333333
+    },
+    "Nanjing Normal University": {
+      "Music": 0.3333333333333333
+    },
+    "Jiangsu Normal University": {
+      "Music": 0.3333333333333333
+    },
+    "Ação Educativa": {
+      "Social Psychology": 0.5,
+      "Music": 0.5
+    },
+    "FPT University": {
+      "Music": 0.5,
+      "Education": 0.5
+    },
+    "Stiftung für Forschung in Spätantike und Mittelalter HR. Sennhauser": {
+      "Language and Linguistics": 0.5,
+      "Music": 0.5
+    },
+    "Hanoi University of Science and Technology": {
+      "Signal Processing": 0.25,
       "Music": 0.25
     },
-    "Thu Dau Mot University": {
-      "Cultural history": 0.25,
-      "Hospitality and Tourism Management": 0.25,
-      "Film": 0.25,
-      "Music": 0.25
+    "Georgia State University": {
+      "Physiology": 0.16666666666666666,
+      "Music": 0.16666666666666666,
+      "Literature and Literary Theory": 0.16666666666666666
     },
-    "Ho Chi Minh City Open University": {
-      "Music": 0.05714285714285714,
-      "Clinical Psychology": 0.05714285714285714,
-      "Neuropsychology": 0.05714285714285714,
-      "Neurology": 0.05714285714285714,
-      "Artificial intelligence": 0.05714285714285714
+    "Hanoi University": {
+      "Physiology": 0.08333333333333333,
+      "Music": 0.08333333333333333,
+      "Literature and Literary Theory": 0.08333333333333333
     },
-    "Vietnam National University, Hanoi": {
-      "Music": 0.3333333333333333,
-      "Cultural history": 0.3333333333333333,
-      "Social history": 0.3333333333333333
+    "College of New Jersey": {
+      "Physiology": 0.08333333333333333,
+      "Music": 0.08333333333333333,
+      "Literature and Literary Theory": 0.08333333333333333
     }
   },
-  "totalPapers": 31334
+  "totalPapers": 197394
 }

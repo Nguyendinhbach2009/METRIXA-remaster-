@@ -1,28 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
-      "totalContribution": 1.0
-    }
-  ],
-  "authorsByUniversity": {
-    "University of Medicine and Pharmacy at Ho Chi Minh City": [
-      {
-        "author": "Khoa Van Pham",
-        "contribution": 0.5,
-        "percent": 0.5
-      },
-      {
-        "author": "Cuong Hoang",
-        "contribution": 0.5,
-        "percent": 0.5
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "University of Medicine and Pharmacy at Ho Chi Minh City": {
-      "Endodontics": 1.0
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

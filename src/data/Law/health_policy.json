@@ -1,25 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Vietnam National University, Hanoi",
-      "totalContribution": 0.3333333333333333
-    }
-  ],
-  "authorsByUniversity": {
-    "Vietnam National University, Hanoi": [
-      {
-        "author": "Dinh-Toi Chu",
-        "contribution": 0.3333333333333333,
-        "percent": 1.0
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Vietnam National University, Hanoi": {
-      "Epidemiology": 0.3333333333333333,
-      "Public Health": 0.3333333333333333,
-      "Health Policy": 0.3333333333333333
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }

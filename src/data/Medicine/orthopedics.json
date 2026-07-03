@@ -1,61 +1,6 @@
 {
-  "ranking": [
-    {
-      "university": "Can Tho University of Medicine - Pharmacy",
-      "totalContribution": 0.14285714285714285
-    },
-    {
-      "university": "Vinh Medical University",
-      "totalContribution": 0.05555555555555555
-    },
-    {
-      "university": "National Institute of Malariology Parasitology and Entomology",
-      "totalContribution": 0.05555555555555555
-    }
-  ],
-  "authorsByUniversity": {
-    "Vinh Medical University": [
-      {
-        "author": "Sinh CT",
-        "contribution": 0.05555555555555555,
-        "percent": 1.0
-      }
-    ],
-    "National Institute of Malariology Parasitology and Entomology": [
-      {
-        "author": "Loi CB",
-        "contribution": 0.05555555555555555,
-        "percent": 1.0
-      }
-    ],
-    "Can Tho University of Medicine - Pharmacy": [
-      {
-        "author": "Duy Nguyen Anh Tran",
-        "contribution": 0.07142857142857142,
-        "percent": 0.5
-      },
-      {
-        "author": "Tan Thanh Nguyen",
-        "contribution": 0.07142857142857142,
-        "percent": 0.5
-      }
-    ]
-  },
-  "uniFieldContrib": {
-    "Vinh Medical University": {
-      "Orthopedics": 0.05555555555555555,
-      "Geriatrics": 0.05555555555555555,
-      "Epidemiology": 0.05555555555555555
-    },
-    "National Institute of Malariology Parasitology and Entomology": {
-      "Orthopedics": 0.05555555555555555,
-      "Geriatrics": 0.05555555555555555,
-      "Epidemiology": 0.05555555555555555
-    },
-    "Can Tho University of Medicine - Pharmacy": {
-      "Orthopedics": 0.14285714285714285,
-      "Geriatrics": 0.14285714285714285
-    }
-  },
-  "totalPapers": 31334
+  "ranking": [],
+  "authorsByUniversity": {},
+  "uniFieldContrib": {},
+  "totalPapers": 197394
 }
