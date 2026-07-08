@@ -80,6 +80,9 @@ python backend/fetch_openalex.py
 # Or fetch a small batch for testing
 python backend/fetch_openalex.py --max-papers 500 --skip-rebuild
 ```
+Check flags in Data Pipeline Path A below.
+Or use --help
+
 
 **Because currently frontend code dont load from db so you have to run this code to convert to json file for frontend to update**
 ```bash
@@ -176,15 +179,20 @@ python backend/fetch_openalex.py
 
 **Key flags:**
 
-| Flag                | Description                                         |
-| ------------------- | --------------------------------------------------- |
-| `--email`           | Email for OpenAlex polite pool (higher rate limits)  |
-| `--from-year`       | Only fetch papers from this year onwards             |
-| `--to-year`         | Only fetch papers up to this year                    |
-| `--max-papers`      | Stop after N papers (for testing)                    |
-| `--truncate-staging`| Clear staging tables before inserting                |
-| `--skip-rebuild`    | Don't rebuild core tables after fetching             |
-| `--no-resume`       | Ignore saved cursor state, start fresh               |
+| Flag | Description |
+| --- | --- |
+| `--email` | Email for OpenAlex polite pool (higher rate limits) |
+| `--from-year` | Only fetch papers from this year onwards |
+| `--to-year` | Only fetch papers up to this year |
+| `--max-papers` | Stop after N papers (for testing) |
+| `--truncate-staging` | Clear staging tables before inserting |
+| `--skip-rebuild` | Don't rebuild core tables after fetching |
+| `--no-resume` | Ignore saved cursor state, start fresh |
+| `--host` | Database connection host (default: 127.0.0.1 or `PGHOST`) |
+| `--port` | Database connection port (default: 5432 or `PGPORT`) |
+| `--user` | Database user (default: postgres or `PGUSER`) |
+| `--dbname` | Database name (default: proj_paper or `PGDATABASE`) |
+| `--password` | Database password (default: `PGPASSWORD` env var) |
 
 ### Path B — Legacy CSV/JSON migration
 
