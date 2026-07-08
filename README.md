@@ -70,7 +70,7 @@ psql -U postgres -c "CREATE DATABASE proj_paper;"
 ```
 
 ### 3. Fetch data from OpenAlex
-
+**Load data from open alex and add to database:**
 ```bash
 pip install requests psycopg2-binary
 
@@ -79,6 +79,12 @@ python backend/fetch_openalex.py
 
 # Or fetch a small batch for testing
 python backend/fetch_openalex.py --max-papers 500 --skip-rebuild
+```
+
+**Because currently frontend code dont load from db so you have to run this code to convert to json file for frontend to update**
+```bash
+cd backend
+python preprocess_data.py
 ```
 
 ### 4. Run the frontend
