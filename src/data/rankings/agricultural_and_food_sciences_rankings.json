@@ -21,7 +21,1520 @@
     "Art": [],
     "Education": [],
     "Law": [],
-    "Agricultural and Food Sciences": [],
+    "Agricultural and Food Sciences": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 3.7500841750841727,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 1
+      },
+      {
+        "university": "Nong Lam University Ho Chi Minh City",
+        "totalContribution": 1.5469696969696967,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 2
+      },
+      {
+        "university": "International Center for Tropical Agriculture",
+        "totalContribution": 1.5414141414141416,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 3
+      },
+      {
+        "university": "Centre de Coopération Internationale en Recherche Agronomique pour le Développement",
+        "totalContribution": 1.5185260388046766,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 4
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 1.3333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 5
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.2341524216524218,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 6
+      },
+      {
+        "university": "Ghent University",
+        "totalContribution": 1.1696969696969697,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 7
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 1.1555555555555557,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 8
+      },
+      {
+        "university": "Institute of Natural Sciences",
+        "totalContribution": 0.9999999999999998,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 9
+      },
+      {
+        "university": "Okayama University",
+        "totalContribution": 0.9269619269619269,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 10
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.8888888888888888,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 11
+      },
+      {
+        "university": "Centre National de la Recherche Scientifique",
+        "totalContribution": 0.8333333333333334,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 12
+      },
+      {
+        "university": "Vietnam National University Ho Chi Minh City",
+        "totalContribution": 0.8287037037037037,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 13
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.8055555555555556,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 14
+      },
+      {
+        "university": "Vietnam Academy of Agricultural Sciences",
+        "totalContribution": 0.8019841269841271,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 15
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.76489898989899,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 16
+      },
+      {
+        "university": "Gyeongsang National University",
+        "totalContribution": 0.6944444444444446,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 17
+      },
+      {
+        "university": "Environment and Plant Protection Research Institute",
+        "totalContribution": 0.6555555555555558,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 18
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.5981481481481482,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 19
+      },
+      {
+        "university": "Hung Vuong University of Ho Chi Minh City",
+        "totalContribution": 0.575,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 20
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.5353535353535354,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 21
+      },
+      {
+        "university": "Rural Development Administration",
+        "totalContribution": 0.5,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 22
+      },
+      {
+        "university": "Vietnam National University of Forestry",
+        "totalContribution": 0.5,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 23
+      },
+      {
+        "university": "Gomal University",
+        "totalContribution": 0.49999999999999994,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 24
+      },
+      {
+        "university": "Joint Genome Institute",
+        "totalContribution": 0.49999999999999983,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 25
+      },
+      {
+        "university": "Forest Industry Research Institute",
+        "totalContribution": 0.486002886002886,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 26
+      },
+      {
+        "university": "Enverga University",
+        "totalContribution": 0.44444444444444453,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 27
+      },
+      {
+        "university": "Field Crops Research Institute",
+        "totalContribution": 0.4285714285714285,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 28
+      },
+      {
+        "university": "Ho Chi Minh City University of Industry and Trade",
+        "totalContribution": 0.4074074074074074,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 29
+      },
+      {
+        "university": "National Agriculture and Food Research Organization",
+        "totalContribution": 0.40559440559440574,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 30
+      },
+      {
+        "university": "Thai Nguyen University of Agriculture and Forestry",
+        "totalContribution": 0.4025252525252525,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 31
+      },
+      {
+        "university": "Institut de Chimie des Substances Naturelles",
+        "totalContribution": 0.39351851851851855,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 32
+      },
+      {
+        "university": "Vietnamese Academy of Forest Sciences",
+        "totalContribution": 0.38095238095238093,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 33
+      },
+      {
+        "university": "University of Tasmania",
+        "totalContribution": 0.38023088023088025,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 34
+      },
+      {
+        "university": "Ho Chi Minh City University of Science",
+        "totalContribution": 0.37037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 35
+      },
+      {
+        "university": "Hirosaki University",
+        "totalContribution": 0.3471898471898472,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 36
+      },
+      {
+        "university": "Swedish University of Agricultural Sciences",
+        "totalContribution": 0.3333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 37
+      },
+      {
+        "university": "Sardar Vallabhbhai Patel University of Agriculture & Technology",
+        "totalContribution": 0.3333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 38
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.3333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 39
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.3232323232323232,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 40
+      },
+      {
+        "university": "Université Paris-Sud",
+        "totalContribution": 0.3111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 41
+      },
+      {
+        "university": "Commonwealth Scientific and Industrial Research Organisation",
+        "totalContribution": 0.30000000000000004,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 42
+      },
+      {
+        "university": "University of Vienna",
+        "totalContribution": 0.2857142857142857,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 43
+      },
+      {
+        "university": "University of Southern Queensland",
+        "totalContribution": 0.2857142857142857,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 44
+      },
+      {
+        "university": "American Association of Colleges of Pharmacy",
+        "totalContribution": 0.27272727272727276,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 45
+      },
+      {
+        "university": "Vietnam National Children's Hospital",
+        "totalContribution": 0.26666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 46
+      },
+      {
+        "university": "ARC Centre of Excellence in Plant Energy Biology",
+        "totalContribution": 0.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 47
+      },
+      {
+        "university": "College of Food Industry, Danang 550000, Vietnam",
+        "totalContribution": 0.25,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 48
+      },
+      {
+        "university": "Yunnan Agricultural University",
+        "totalContribution": 0.24242424242424243,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 49
+      },
+      {
+        "university": "Sweet Potato Research Institute",
+        "totalContribution": 0.24074074074074073,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 50
+      },
+      {
+        "university": "University of Bologna",
+        "totalContribution": 0.23809523809523808,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 51
+      },
+      {
+        "university": "International Institute of Tropical Agriculture",
+        "totalContribution": 0.23376623376623376,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 52
+      },
+      {
+        "university": "University of Copenhagen",
+        "totalContribution": 0.23015873015873017,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 53
+      },
+      {
+        "university": "Universidad Nacional de Colombia",
+        "totalContribution": 0.2222222222222222,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 54
+      },
+      {
+        "university": "University College London",
+        "totalContribution": 0.2222222222222222,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 55
+      },
+      {
+        "university": "Zhejiang University",
+        "totalContribution": 0.2222222222222222,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 56
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 0.2222222222222222,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 57
+      },
+      {
+        "university": "Universität Innsbruck",
+        "totalContribution": 0.21428571428571427,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 58
+      },
+      {
+        "university": "Kaohsiung Medical University",
+        "totalContribution": 0.20833333333333334,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 59
+      },
+      {
+        "university": "Yonsei University",
+        "totalContribution": 0.2,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 60
+      },
+      {
+        "university": "Okayama University of Science",
+        "totalContribution": 0.1923076923076923,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 61
+      },
+      {
+        "university": "Deakin University",
+        "totalContribution": 0.1875,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 62
+      },
+      {
+        "university": "National Cheng Kung University",
+        "totalContribution": 0.18589743589743588,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 63
+      },
+      {
+        "university": "Chungnam National University",
+        "totalContribution": 0.18518518518518517,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 64
+      },
+      {
+        "university": "Hung Vuong University",
+        "totalContribution": 0.18181818181818182,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 65
+      },
+      {
+        "university": "China Medical University",
+        "totalContribution": 0.17467948717948714,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 66
+      },
+      {
+        "university": "Kunming Institute of Botany",
+        "totalContribution": 0.17037037037037037,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 67
+      },
+      {
+        "university": "Western Sydney University",
+        "totalContribution": 0.16666666666666669,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 68
+      },
+      {
+        "university": "Heinrich Heine University Düsseldorf",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 69
+      },
+      {
+        "university": "Khon Kaen University",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 70
+      },
+      {
+        "university": "Gump South Pacific Research Station",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 71
+      },
+      {
+        "university": "Chonnam National University",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 72
+      },
+      {
+        "university": "Purdue University West Lafayette",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 73
+      },
+      {
+        "university": "World Agroforestry (ICRAF), Hanoi 100000, Vietnam",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 74
+      },
+      {
+        "university": "WASI, Buon Ma Thuot, Viet Nam",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 75
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.16666666666666666,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 76
+      },
+      {
+        "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "totalContribution": 0.14351851851851852,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 77
+      },
+      {
+        "university": "University of Milan",
+        "totalContribution": 0.14285714285714285,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 78
+      },
+      {
+        "university": "Sustainable Management Services ECOM Agroindustrial Ho Chi Minh City Vietnam",
+        "totalContribution": 0.14285714285714285,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 79
+      },
+      {
+        "university": "World Agroforestry Centre",
+        "totalContribution": 0.1388888888888889,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 80
+      },
+      {
+        "university": "National University of Malaysia",
+        "totalContribution": 0.13852813852813853,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 81
+      },
+      {
+        "university": "International Potato Center",
+        "totalContribution": 0.1369047619047619,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 82
+      },
+      {
+        "university": "Chinese Academy of Sciences",
+        "totalContribution": 0.13333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 83
+      },
+      {
+        "university": "Indonesian Coffee and Cocoa Research Institute",
+        "totalContribution": 0.12794117647058825,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 84
+      },
+      {
+        "university": "Ghent University Hospital",
+        "totalContribution": 0.12777777777777777,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 85
+      },
+      {
+        "university": "University of Göttingen",
+        "totalContribution": 0.12554112554112554,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 86
+      },
+      {
+        "university": "Alliance Bioversity International - CIAT",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 87
+      },
+      {
+        "university": "University of Kentucky",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 88
+      },
+      {
+        "university": "Council for Scientific and Industrial Research",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 89
+      },
+      {
+        "university": "Plant Protection Research Institute (PPRI)",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 90
+      },
+      {
+        "university": "Pepperdine University",
+        "totalContribution": 0.125,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 91
+      },
+      {
+        "university": "Agricultural Genetics Institute",
+        "totalContribution": 0.11660464292043239,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 92
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 93
+      },
+      {
+        "university": "New South Wales Department of Primary Industries",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 94
+      },
+      {
+        "university": "Business Administration Faculty, Sai Gon University, Ho Chi Minh City, Vietnam",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 95
+      },
+      {
+        "university": "Thuongmai University",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 96
+      },
+      {
+        "university": "National Institute of Quality",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 97
+      },
+      {
+        "university": "Cat Tien National Park",
+        "totalContribution": 0.1111111111111111,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 98
+      },
+      {
+        "university": "Wageningen University & Research",
+        "totalContribution": 0.10644257703081232,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 99
+      },
+      {
+        "university": "Kangwon National University",
+        "totalContribution": 0.1,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 100
+      },
+      {
+        "university": "Services Australia",
+        "totalContribution": 0.1,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 101
+      },
+      {
+        "university": "Chinese Academy of Tropical Agricultural Sciences",
+        "totalContribution": 0.0928030303030303,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 102
+      },
+      {
+        "university": "Sugarcane Research Center (Brazil)",
+        "totalContribution": 0.09090909090909091,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 103
+      },
+      {
+        "university": "University of Illinois Chicago",
+        "totalContribution": 0.09090909090909091,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 104
+      },
+      {
+        "university": "Shanghai Institute for Science of Science",
+        "totalContribution": 0.08888888888888889,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 105
+      },
+      {
+        "university": "University of Nottingham",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 106
+      },
+      {
+        "university": "University of Bayreuth",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 107
+      },
+      {
+        "university": "Chonburi Hospital",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 108
+      },
+      {
+        "university": "Cane and Sugar Industry Promotion Center, 3rd Region, Chonburi, Thailand",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 109
+      },
+      {
+        "university": "University of Aleppo",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 110
+      },
+      {
+        "university": "VAST",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 111
+      },
+      {
+        "university": "Center Hue Monuments Conservation",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 112
+      },
+      {
+        "university": "Forestry Research Institute of Nigeria",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 113
+      },
+      {
+        "university": "Federal University Dutse",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 114
+      },
+      {
+        "university": "Uttar Pradesh Council of sugarcane research",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 115
+      },
+      {
+        "university": "Ministry of Agriculture and Forestry",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 116
+      },
+      {
+        "university": "National Food Administration",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 117
+      },
+      {
+        "university": "National Research, Development and Innovation Office",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 118
+      },
+      {
+        "university": "Chiang Mai University",
+        "totalContribution": 0.08333333333333333,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 119
+      },
+      {
+        "university": "National Agricultural Research Organisation",
+        "totalContribution": 0.07636738906088751,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 120
+      },
+      {
+        "university": "Xinjiang Academy of Agricultural Sciences",
+        "totalContribution": 0.07575757575757576,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 121
+      },
+      {
+        "university": "Kazakh Research Institute of Agriculture and Plant growing",
+        "totalContribution": 0.07575757575757576,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 122
+      },
+      {
+        "university": "N.I. Vavilov Research Institute of Plant Industry",
+        "totalContribution": 0.07575757575757576,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 123
+      },
+      {
+        "university": "Jiangsu Normal University",
+        "totalContribution": 0.07407407407407407,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 124
+      },
+      {
+        "university": "National Agrobiodiversity Center, RDA, Jeonju, 54875, Republic of Korea",
+        "totalContribution": 0.07407407407407407,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 125
+      },
+      {
+        "university": "Jeju National University",
+        "totalContribution": 0.07407407407407407,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 126
+      },
+      {
+        "university": "University of California, Davis",
+        "totalContribution": 0.07142857142857142,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 127
+      },
+      {
+        "university": "CREA – Research Centre for Plant Protection and Certification, Rome, Italy",
+        "totalContribution": 0.07142857142857142,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 128
+      },
+      {
+        "university": "Instytut Ogrodnictwa",
+        "totalContribution": 0.07142857142857142,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 129
+      },
+      {
+        "university": "University of Chile",
+        "totalContribution": 0.07142857142857142,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 130
+      },
+      {
+        "university": "Hue University of Agriculture and Forestry",
+        "totalContribution": 0.06734006734006734,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 131
+      },
+      {
+        "university": "Mexican Social Security Institute",
+        "totalContribution": 0.06666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 132
+      },
+      {
+        "university": "TerraMetrics (United States)",
+        "totalContribution": 0.06666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 133
+      },
+      {
+        "university": "Manchester Metropolitan University",
+        "totalContribution": 0.06666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 134
+      },
+      {
+        "university": "Malaysian Cocoa Board",
+        "totalContribution": 0.06666666666666667,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 135
+      },
+      {
+        "university": "Technische Universität Braunschweig",
+        "totalContribution": 0.0625,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 136
+      },
+      {
+        "university": "Health Sciences and Nutrition",
+        "totalContribution": 0.06060606060606061,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 137
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 138
+      },
+      {
+        "university": "Universiti of Malaysia Sabah",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 139
+      },
+      {
+        "university": "University Drive, Aleku Area, Osogbo, Nigeria",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 140
+      },
+      {
+        "university": "Natural History Museum",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 141
+      },
+      {
+        "university": "USDA-APHIS, National Identification Services, Beltsville, MD 20705, USA",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 142
+      },
+      {
+        "university": "Agricultural Research Service",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 143
+      },
+      {
+        "university": "Forestry Research Centre",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 144
+      },
+      {
+        "university": "Foresight Institute of Research and Translation, Ibadan, Nigeria",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 145
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 146
+      },
+      {
+        "university": "Institute of Research and Translation, Ibadan, Nigeria",
+        "totalContribution": 0.05555555555555555,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 147
+      },
+      {
+        "university": "Forestry Research Institute",
+        "totalContribution": 0.05263157894736842,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 148
+      },
+      {
+        "university": "University of Lisbon",
+        "totalContribution": 0.051587301587301584,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 149
+      },
+      {
+        "university": "Nicafrance Foundation, Finca La Cumplida, Matagalpa, Nicaragua",
+        "totalContribution": 0.051587301587301584,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 150
+      },
+      {
+        "university": "Hanyang University",
+        "totalContribution": 0.05,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 151
+      },
+      {
+        "university": "National Institute of Drug Quality Control, Hoan Kiem, Hanoi, Vietnam",
+        "totalContribution": 0.05,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 152
+      },
+      {
+        "university": "National Library of Vietnam",
+        "totalContribution": 0.05,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 153
+      },
+      {
+        "university": "CSIRO Land and Water",
+        "totalContribution": 0.047619047619047616,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 154
+      },
+      {
+        "university": "International Institute of Tropical Agriculture (IITA), Accra, Ghana",
+        "totalContribution": 0.047619047619047616,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 155
+      },
+      {
+        "university": "Alliance of Bioversity International and CIAT, The Hague, Netherlands",
+        "totalContribution": 0.047619047619047616,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 156
+      },
+      {
+        "university": "Bioversity International",
+        "totalContribution": 0.047619047619047616,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 157
+      },
+      {
+        "university": "Thuyloi University",
+        "totalContribution": 0.045454545454545456,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 158
+      },
+      {
+        "university": "Viet Tri University of Industry",
+        "totalContribution": 0.045454545454545456,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 159
+      },
+      {
+        "university": "Field Museum of Natural History",
+        "totalContribution": 0.045454545454545456,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 160
+      },
+      {
+        "university": "The Ohio State University",
+        "totalContribution": 0.045454545454545456,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 161
+      },
+      {
+        "university": "Beltsville Agricultural Research Center",
+        "totalContribution": 0.04532163742690058,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 162
+      },
+      {
+        "university": "International Atomic Energy Agency",
+        "totalContribution": 0.044444444444444446,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 163
+      },
+      {
+        "university": "De La Salle University",
+        "totalContribution": 0.044444444444444446,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 164
+      },
+      {
+        "university": "Institut de l'Environnement et Recherches Agricoles",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 165
+      },
+      {
+        "university": "Nepal Agricultural Research Council",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 166
+      },
+      {
+        "university": "Institute for Soil Sciences",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 167
+      },
+      {
+        "university": "Consortium for Sustainable Development of the Andean Ecoregion",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 168
+      },
+      {
+        "university": "Tecnológico Nacional de México",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 169
+      },
+      {
+        "university": "Institut Agronomique et Vétérinaire Hassan II",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 170
+      },
+      {
+        "university": "Oregon University System",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 171
+      },
+      {
+        "university": "Gesellschaft für Biotechnologische Forschung mbH., Mascheroder Weg 1, D-38124 Braunschweig, Germany",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 172
+      },
+      {
+        "university": "National Formosa University",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 173
+      },
+      {
+        "university": "National Research Institute of Chinese Medicine",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 174
+      },
+      {
+        "university": "Ministry of Agriculture and Rural Development",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 175
+      },
+      {
+        "university": "Jenderal Soedirman University",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 176
+      },
+      {
+        "university": "Yogyakarta State University",
+        "totalContribution": 0.041666666666666664,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 177
+      },
+      {
+        "university": "Nestlé (France)",
+        "totalContribution": 0.0392156862745098,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 178
+      },
+      {
+        "university": "Centre National de Recherche Agronomique",
+        "totalContribution": 0.03715170278637771,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 179
+      },
+      {
+        "university": "Meise Botanic Garden",
+        "totalContribution": 0.03715170278637771,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 180
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 181
+      },
+      {
+        "university": "Research Institute for Humanity and Nature",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 182
+      },
+      {
+        "university": "InterAcademy Partnership",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 183
+      },
+      {
+        "university": "Hanoi Medical University",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 184
+      },
+      {
+        "university": "Institute for Tropical Technology, Academy of Science and Technology",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 185
+      },
+      {
+        "university": "Mersin Üniversitesi",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 186
+      },
+      {
+        "university": "Iowa State University",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 187
+      },
+      {
+        "university": "Recep Tayyip Erdoğan University",
+        "totalContribution": 0.037037037037037035,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 188
+      },
+      {
+        "university": "National Museum Wales",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 189
+      },
+      {
+        "university": "Rothamsted Research",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 190
+      },
+      {
+        "university": "University of Information Science",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 191
+      },
+      {
+        "university": "National Taiwan University",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 192
+      },
+      {
+        "university": "Leibniz Centre for Agricultural Landscape Research",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 193
+      },
+      {
+        "university": "International Institute of Tropical Agriculture (IITA), PMB L56 Legon-Accra, Ghana",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 194
+      },
+      {
+        "university": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 195
+      },
+      {
+        "university": "University of Kassel",
+        "totalContribution": 0.030303030303030304,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 196
+      },
+      {
+        "university": "The University of Sydney",
+        "totalContribution": 0.027777777777777776,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 197
+      },
+      {
+        "university": "Northern Australian Quarantine Strategy, Department of Agriculture, Water and the Environment, Cairns, Qld, Australia;",
+        "totalContribution": 0.027777777777777776,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 198
+      },
+      {
+        "university": "KU Leuven",
+        "totalContribution": 0.027777777777777776,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 199
+      },
+      {
+        "university": "Quisqueya University",
+        "totalContribution": 0.027777777777777776,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 200
+      },
+      {
+        "university": "Centro Agronomico Tropical de Investigacion y Ensenanza Catie",
+        "totalContribution": 0.027777777777777776,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 201
+      },
+      {
+        "university": "Tajen University",
+        "totalContribution": 0.02564102564102564,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 202
+      },
+      {
+        "university": "Institut de Recherche pour le Développement",
+        "totalContribution": 0.023809523809523808,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 203
+      },
+      {
+        "university": "Agricultural Research Organization",
+        "totalContribution": 0.022222222222222223,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 204
+      },
+      {
+        "university": "James Cook University",
+        "totalContribution": 0.022222222222222223,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 205
+      },
+      {
+        "university": "Lembaga Koko Malaysia, Bagan Datuk, Perak, Malaysia",
+        "totalContribution": 0.022222222222222223,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 206
+      },
+      {
+        "university": "National Sun Yat-sen University",
+        "totalContribution": 0.020833333333333332,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 207
+      },
+      {
+        "university": "National Kaohsiung Marine University",
+        "totalContribution": 0.020833333333333332,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 208
+      },
+      {
+        "university": "Chang Gung University",
+        "totalContribution": 0.020833333333333332,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 209
+      },
+      {
+        "university": "Brazilian Agricultural Research Corporation",
+        "totalContribution": 0.0196078431372549,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 210
+      },
+      {
+        "university": "NOMAFSI headquarter Phu Tho Vietnam",
+        "totalContribution": 0.018518518518518517,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 211
+      },
+      {
+        "university": "Tay Bac University",
+        "totalContribution": 0.018518518518518517,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 212
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.018518518518518517,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 213
+      },
+      {
+        "university": "Université de Kisangani",
+        "totalContribution": 0.017543859649122806,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 214
+      },
+      {
+        "university": "Universidade Lusíada de Angola",
+        "totalContribution": 0.017543859649122806,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 215
+      },
+      {
+        "university": "For farmers (United Kingdom)",
+        "totalContribution": 0.017543859649122806,
+        "paperCount": 0,
+        "authorCount": 0,
+        "rank": 216
+      }
+    ],
     "Linguistics": []
   },
   "selectedFields": [
@@ -55,7 +1568,1088 @@
   ],
   "subfieldRankings": {
     "Agronomy": [],
-    "Horticulture": []
+    "Horticulture": [
+      {
+        "university": "Vietnam Academy of Science and Technology",
+        "totalContribution": 3.7500841750841727,
+        "rank": 1
+      },
+      {
+        "university": "Nong Lam University Ho Chi Minh City",
+        "totalContribution": 1.5469696969696967,
+        "rank": 2
+      },
+      {
+        "university": "International Center for Tropical Agriculture",
+        "totalContribution": 1.5414141414141416,
+        "rank": 3
+      },
+      {
+        "university": "Centre de Coopération Internationale en Recherche Agronomique pour le Développement",
+        "totalContribution": 1.5185260388046766,
+        "rank": 4
+      },
+      {
+        "university": "Ho Chi Minh City Open University",
+        "totalContribution": 1.3333333333333333,
+        "rank": 5
+      },
+      {
+        "university": "Vinh University",
+        "totalContribution": 1.2341524216524218,
+        "rank": 6
+      },
+      {
+        "university": "Ghent University",
+        "totalContribution": 1.1696969696969697,
+        "rank": 7
+      },
+      {
+        "university": "Can Tho University",
+        "totalContribution": 1.1555555555555557,
+        "rank": 8
+      },
+      {
+        "university": "Institute of Natural Sciences",
+        "totalContribution": 0.9999999999999998,
+        "rank": 9
+      },
+      {
+        "university": "Okayama University",
+        "totalContribution": 0.9269619269619269,
+        "rank": 10
+      },
+      {
+        "university": "Thai Nguyen University",
+        "totalContribution": 0.8888888888888888,
+        "rank": 11
+      },
+      {
+        "university": "Centre National de la Recherche Scientifique",
+        "totalContribution": 0.8333333333333334,
+        "rank": 12
+      },
+      {
+        "university": "Vietnam National University Ho Chi Minh City",
+        "totalContribution": 0.8287037037037037,
+        "rank": 13
+      },
+      {
+        "university": "Hue University",
+        "totalContribution": 0.8055555555555556,
+        "rank": 14
+      },
+      {
+        "university": "Vietnam Academy of Agricultural Sciences",
+        "totalContribution": 0.8019841269841271,
+        "rank": 15
+      },
+      {
+        "university": "Vietnam National University, Hanoi",
+        "totalContribution": 0.76489898989899,
+        "rank": 16
+      },
+      {
+        "university": "Gyeongsang National University",
+        "totalContribution": 0.6944444444444446,
+        "rank": 17
+      },
+      {
+        "university": "Environment and Plant Protection Research Institute",
+        "totalContribution": 0.6555555555555558,
+        "rank": 18
+      },
+      {
+        "university": "Vietnam National University of Agriculture",
+        "totalContribution": 0.5981481481481482,
+        "rank": 19
+      },
+      {
+        "university": "Hung Vuong University of Ho Chi Minh City",
+        "totalContribution": 0.575,
+        "rank": 20
+      },
+      {
+        "university": "Hanoi Pedagogical University 2",
+        "totalContribution": 0.5353535353535354,
+        "rank": 21
+      },
+      {
+        "university": "Rural Development Administration",
+        "totalContribution": 0.5,
+        "rank": 22
+      },
+      {
+        "university": "Vietnam National University of Forestry",
+        "totalContribution": 0.5,
+        "rank": 23
+      },
+      {
+        "university": "Gomal University",
+        "totalContribution": 0.49999999999999994,
+        "rank": 24
+      },
+      {
+        "university": "Joint Genome Institute",
+        "totalContribution": 0.49999999999999983,
+        "rank": 25
+      },
+      {
+        "university": "Forest Industry Research Institute",
+        "totalContribution": 0.486002886002886,
+        "rank": 26
+      },
+      {
+        "university": "Enverga University",
+        "totalContribution": 0.44444444444444453,
+        "rank": 27
+      },
+      {
+        "university": "Field Crops Research Institute",
+        "totalContribution": 0.4285714285714285,
+        "rank": 28
+      },
+      {
+        "university": "Ho Chi Minh City University of Industry and Trade",
+        "totalContribution": 0.4074074074074074,
+        "rank": 29
+      },
+      {
+        "university": "National Agriculture and Food Research Organization",
+        "totalContribution": 0.40559440559440574,
+        "rank": 30
+      },
+      {
+        "university": "Thai Nguyen University of Agriculture and Forestry",
+        "totalContribution": 0.4025252525252525,
+        "rank": 31
+      },
+      {
+        "university": "Institut de Chimie des Substances Naturelles",
+        "totalContribution": 0.39351851851851855,
+        "rank": 32
+      },
+      {
+        "university": "Vietnamese Academy of Forest Sciences",
+        "totalContribution": 0.38095238095238093,
+        "rank": 33
+      },
+      {
+        "university": "University of Tasmania",
+        "totalContribution": 0.38023088023088025,
+        "rank": 34
+      },
+      {
+        "university": "Ho Chi Minh City University of Science",
+        "totalContribution": 0.37037037037037035,
+        "rank": 35
+      },
+      {
+        "university": "Hirosaki University",
+        "totalContribution": 0.3471898471898472,
+        "rank": 36
+      },
+      {
+        "university": "Swedish University of Agricultural Sciences",
+        "totalContribution": 0.3333333333333333,
+        "rank": 37
+      },
+      {
+        "university": "Sardar Vallabhbhai Patel University of Agriculture & Technology",
+        "totalContribution": 0.3333333333333333,
+        "rank": 38
+      },
+      {
+        "university": "Industrial University of Ho Chi Minh City",
+        "totalContribution": 0.3333333333333333,
+        "rank": 39
+      },
+      {
+        "university": "Hanoi National University of Education",
+        "totalContribution": 0.3232323232323232,
+        "rank": 40
+      },
+      {
+        "university": "Université Paris-Sud",
+        "totalContribution": 0.3111111111111111,
+        "rank": 41
+      },
+      {
+        "university": "Commonwealth Scientific and Industrial Research Organisation",
+        "totalContribution": 0.30000000000000004,
+        "rank": 42
+      },
+      {
+        "university": "University of Vienna",
+        "totalContribution": 0.2857142857142857,
+        "rank": 43
+      },
+      {
+        "university": "University of Southern Queensland",
+        "totalContribution": 0.2857142857142857,
+        "rank": 44
+      },
+      {
+        "university": "American Association of Colleges of Pharmacy",
+        "totalContribution": 0.27272727272727276,
+        "rank": 45
+      },
+      {
+        "university": "Vietnam National Children's Hospital",
+        "totalContribution": 0.26666666666666666,
+        "rank": 46
+      },
+      {
+        "university": "ARC Centre of Excellence in Plant Energy Biology",
+        "totalContribution": 0.25,
+        "rank": 47
+      },
+      {
+        "university": "College of Food Industry, Danang 550000, Vietnam",
+        "totalContribution": 0.25,
+        "rank": 48
+      },
+      {
+        "university": "Yunnan Agricultural University",
+        "totalContribution": 0.24242424242424243,
+        "rank": 49
+      },
+      {
+        "university": "Sweet Potato Research Institute",
+        "totalContribution": 0.24074074074074073,
+        "rank": 50
+      },
+      {
+        "university": "University of Bologna",
+        "totalContribution": 0.23809523809523808,
+        "rank": 51
+      },
+      {
+        "university": "International Institute of Tropical Agriculture",
+        "totalContribution": 0.23376623376623376,
+        "rank": 52
+      },
+      {
+        "university": "University of Copenhagen",
+        "totalContribution": 0.23015873015873017,
+        "rank": 53
+      },
+      {
+        "university": "Universidad Nacional de Colombia",
+        "totalContribution": 0.2222222222222222,
+        "rank": 54
+      },
+      {
+        "university": "University College London",
+        "totalContribution": 0.2222222222222222,
+        "rank": 55
+      },
+      {
+        "university": "Zhejiang University",
+        "totalContribution": 0.2222222222222222,
+        "rank": 56
+      },
+      {
+        "university": "University of Economics Ho Chi Minh City",
+        "totalContribution": 0.2222222222222222,
+        "rank": 57
+      },
+      {
+        "university": "Universität Innsbruck",
+        "totalContribution": 0.21428571428571427,
+        "rank": 58
+      },
+      {
+        "university": "Kaohsiung Medical University",
+        "totalContribution": 0.20833333333333334,
+        "rank": 59
+      },
+      {
+        "university": "Yonsei University",
+        "totalContribution": 0.2,
+        "rank": 60
+      },
+      {
+        "university": "Okayama University of Science",
+        "totalContribution": 0.1923076923076923,
+        "rank": 61
+      },
+      {
+        "university": "Deakin University",
+        "totalContribution": 0.1875,
+        "rank": 62
+      },
+      {
+        "university": "National Cheng Kung University",
+        "totalContribution": 0.18589743589743588,
+        "rank": 63
+      },
+      {
+        "university": "Chungnam National University",
+        "totalContribution": 0.18518518518518517,
+        "rank": 64
+      },
+      {
+        "university": "Hung Vuong University",
+        "totalContribution": 0.18181818181818182,
+        "rank": 65
+      },
+      {
+        "university": "China Medical University",
+        "totalContribution": 0.17467948717948714,
+        "rank": 66
+      },
+      {
+        "university": "Kunming Institute of Botany",
+        "totalContribution": 0.17037037037037037,
+        "rank": 67
+      },
+      {
+        "university": "Western Sydney University",
+        "totalContribution": 0.16666666666666669,
+        "rank": 68
+      },
+      {
+        "university": "Heinrich Heine University Düsseldorf",
+        "totalContribution": 0.16666666666666666,
+        "rank": 69
+      },
+      {
+        "university": "Khon Kaen University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 70
+      },
+      {
+        "university": "Gump South Pacific Research Station",
+        "totalContribution": 0.16666666666666666,
+        "rank": 71
+      },
+      {
+        "university": "Chonnam National University",
+        "totalContribution": 0.16666666666666666,
+        "rank": 72
+      },
+      {
+        "university": "Purdue University West Lafayette",
+        "totalContribution": 0.16666666666666666,
+        "rank": 73
+      },
+      {
+        "university": "World Agroforestry (ICRAF), Hanoi 100000, Vietnam",
+        "totalContribution": 0.16666666666666666,
+        "rank": 74
+      },
+      {
+        "university": "WASI, Buon Ma Thuot, Viet Nam",
+        "totalContribution": 0.16666666666666666,
+        "rank": 75
+      },
+      {
+        "university": "Ho Chi Minh City University of Education",
+        "totalContribution": 0.16666666666666666,
+        "rank": 76
+      },
+      {
+        "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "totalContribution": 0.14351851851851852,
+        "rank": 77
+      },
+      {
+        "university": "University of Milan",
+        "totalContribution": 0.14285714285714285,
+        "rank": 78
+      },
+      {
+        "university": "Sustainable Management Services ECOM Agroindustrial Ho Chi Minh City Vietnam",
+        "totalContribution": 0.14285714285714285,
+        "rank": 79
+      },
+      {
+        "university": "World Agroforestry Centre",
+        "totalContribution": 0.1388888888888889,
+        "rank": 80
+      },
+      {
+        "university": "National University of Malaysia",
+        "totalContribution": 0.13852813852813853,
+        "rank": 81
+      },
+      {
+        "university": "International Potato Center",
+        "totalContribution": 0.1369047619047619,
+        "rank": 82
+      },
+      {
+        "university": "Chinese Academy of Sciences",
+        "totalContribution": 0.13333333333333333,
+        "rank": 83
+      },
+      {
+        "university": "Indonesian Coffee and Cocoa Research Institute",
+        "totalContribution": 0.12794117647058825,
+        "rank": 84
+      },
+      {
+        "university": "Ghent University Hospital",
+        "totalContribution": 0.12777777777777777,
+        "rank": 85
+      },
+      {
+        "university": "University of Göttingen",
+        "totalContribution": 0.12554112554112554,
+        "rank": 86
+      },
+      {
+        "university": "Alliance Bioversity International - CIAT",
+        "totalContribution": 0.125,
+        "rank": 87
+      },
+      {
+        "university": "University of Kentucky",
+        "totalContribution": 0.125,
+        "rank": 88
+      },
+      {
+        "university": "Council for Scientific and Industrial Research",
+        "totalContribution": 0.125,
+        "rank": 89
+      },
+      {
+        "university": "Plant Protection Research Institute (PPRI)",
+        "totalContribution": 0.125,
+        "rank": 90
+      },
+      {
+        "university": "Pepperdine University",
+        "totalContribution": 0.125,
+        "rank": 91
+      },
+      {
+        "university": "Agricultural Genetics Institute",
+        "totalContribution": 0.11660464292043239,
+        "rank": 92
+      },
+      {
+        "university": "Ton Duc Thang University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 93
+      },
+      {
+        "university": "New South Wales Department of Primary Industries",
+        "totalContribution": 0.1111111111111111,
+        "rank": 94
+      },
+      {
+        "university": "Business Administration Faculty, Sai Gon University, Ho Chi Minh City, Vietnam",
+        "totalContribution": 0.1111111111111111,
+        "rank": 95
+      },
+      {
+        "university": "Thuongmai University",
+        "totalContribution": 0.1111111111111111,
+        "rank": 96
+      },
+      {
+        "university": "National Institute of Quality",
+        "totalContribution": 0.1111111111111111,
+        "rank": 97
+      },
+      {
+        "university": "Cat Tien National Park",
+        "totalContribution": 0.1111111111111111,
+        "rank": 98
+      },
+      {
+        "university": "Wageningen University & Research",
+        "totalContribution": 0.10644257703081232,
+        "rank": 99
+      },
+      {
+        "university": "Kangwon National University",
+        "totalContribution": 0.1,
+        "rank": 100
+      },
+      {
+        "university": "Services Australia",
+        "totalContribution": 0.1,
+        "rank": 101
+      },
+      {
+        "university": "Chinese Academy of Tropical Agricultural Sciences",
+        "totalContribution": 0.0928030303030303,
+        "rank": 102
+      },
+      {
+        "university": "Sugarcane Research Center (Brazil)",
+        "totalContribution": 0.09090909090909091,
+        "rank": 103
+      },
+      {
+        "university": "University of Illinois Chicago",
+        "totalContribution": 0.09090909090909091,
+        "rank": 104
+      },
+      {
+        "university": "Shanghai Institute for Science of Science",
+        "totalContribution": 0.08888888888888889,
+        "rank": 105
+      },
+      {
+        "university": "University of Nottingham",
+        "totalContribution": 0.08333333333333333,
+        "rank": 106
+      },
+      {
+        "university": "University of Bayreuth",
+        "totalContribution": 0.08333333333333333,
+        "rank": 107
+      },
+      {
+        "university": "Chonburi Hospital",
+        "totalContribution": 0.08333333333333333,
+        "rank": 108
+      },
+      {
+        "university": "Cane and Sugar Industry Promotion Center, 3rd Region, Chonburi, Thailand",
+        "totalContribution": 0.08333333333333333,
+        "rank": 109
+      },
+      {
+        "university": "University of Aleppo",
+        "totalContribution": 0.08333333333333333,
+        "rank": 110
+      },
+      {
+        "university": "VAST",
+        "totalContribution": 0.08333333333333333,
+        "rank": 111
+      },
+      {
+        "university": "Center Hue Monuments Conservation",
+        "totalContribution": 0.08333333333333333,
+        "rank": 112
+      },
+      {
+        "university": "Forestry Research Institute of Nigeria",
+        "totalContribution": 0.08333333333333333,
+        "rank": 113
+      },
+      {
+        "university": "Federal University Dutse",
+        "totalContribution": 0.08333333333333333,
+        "rank": 114
+      },
+      {
+        "university": "Uttar Pradesh Council of sugarcane research",
+        "totalContribution": 0.08333333333333333,
+        "rank": 115
+      },
+      {
+        "university": "Ministry of Agriculture and Forestry",
+        "totalContribution": 0.08333333333333333,
+        "rank": 116
+      },
+      {
+        "university": "National Food Administration",
+        "totalContribution": 0.08333333333333333,
+        "rank": 117
+      },
+      {
+        "university": "National Research, Development and Innovation Office",
+        "totalContribution": 0.08333333333333333,
+        "rank": 118
+      },
+      {
+        "university": "Chiang Mai University",
+        "totalContribution": 0.08333333333333333,
+        "rank": 119
+      },
+      {
+        "university": "National Agricultural Research Organisation",
+        "totalContribution": 0.07636738906088751,
+        "rank": 120
+      },
+      {
+        "university": "Xinjiang Academy of Agricultural Sciences",
+        "totalContribution": 0.07575757575757576,
+        "rank": 121
+      },
+      {
+        "university": "Kazakh Research Institute of Agriculture and Plant growing",
+        "totalContribution": 0.07575757575757576,
+        "rank": 122
+      },
+      {
+        "university": "N.I. Vavilov Research Institute of Plant Industry",
+        "totalContribution": 0.07575757575757576,
+        "rank": 123
+      },
+      {
+        "university": "Jiangsu Normal University",
+        "totalContribution": 0.07407407407407407,
+        "rank": 124
+      },
+      {
+        "university": "National Agrobiodiversity Center, RDA, Jeonju, 54875, Republic of Korea",
+        "totalContribution": 0.07407407407407407,
+        "rank": 125
+      },
+      {
+        "university": "Jeju National University",
+        "totalContribution": 0.07407407407407407,
+        "rank": 126
+      },
+      {
+        "university": "University of California, Davis",
+        "totalContribution": 0.07142857142857142,
+        "rank": 127
+      },
+      {
+        "university": "CREA – Research Centre for Plant Protection and Certification, Rome, Italy",
+        "totalContribution": 0.07142857142857142,
+        "rank": 128
+      },
+      {
+        "university": "Instytut Ogrodnictwa",
+        "totalContribution": 0.07142857142857142,
+        "rank": 129
+      },
+      {
+        "university": "University of Chile",
+        "totalContribution": 0.07142857142857142,
+        "rank": 130
+      },
+      {
+        "university": "Hue University of Agriculture and Forestry",
+        "totalContribution": 0.06734006734006734,
+        "rank": 131
+      },
+      {
+        "university": "Mexican Social Security Institute",
+        "totalContribution": 0.06666666666666667,
+        "rank": 132
+      },
+      {
+        "university": "TerraMetrics (United States)",
+        "totalContribution": 0.06666666666666667,
+        "rank": 133
+      },
+      {
+        "university": "Manchester Metropolitan University",
+        "totalContribution": 0.06666666666666667,
+        "rank": 134
+      },
+      {
+        "university": "Malaysian Cocoa Board",
+        "totalContribution": 0.06666666666666667,
+        "rank": 135
+      },
+      {
+        "university": "Technische Universität Braunschweig",
+        "totalContribution": 0.0625,
+        "rank": 136
+      },
+      {
+        "university": "Health Sciences and Nutrition",
+        "totalContribution": 0.06060606060606061,
+        "rank": 137
+      },
+      {
+        "university": "Institute of Mathematics",
+        "totalContribution": 0.05555555555555555,
+        "rank": 138
+      },
+      {
+        "university": "Universiti of Malaysia Sabah",
+        "totalContribution": 0.05555555555555555,
+        "rank": 139
+      },
+      {
+        "university": "University Drive, Aleku Area, Osogbo, Nigeria",
+        "totalContribution": 0.05555555555555555,
+        "rank": 140
+      },
+      {
+        "university": "Natural History Museum",
+        "totalContribution": 0.05555555555555555,
+        "rank": 141
+      },
+      {
+        "university": "USDA-APHIS, National Identification Services, Beltsville, MD 20705, USA",
+        "totalContribution": 0.05555555555555555,
+        "rank": 142
+      },
+      {
+        "university": "Agricultural Research Service",
+        "totalContribution": 0.05555555555555555,
+        "rank": 143
+      },
+      {
+        "university": "Forestry Research Centre",
+        "totalContribution": 0.05555555555555555,
+        "rank": 144
+      },
+      {
+        "university": "Foresight Institute of Research and Translation, Ibadan, Nigeria",
+        "totalContribution": 0.05555555555555555,
+        "rank": 145
+      },
+      {
+        "university": "Hanoi University",
+        "totalContribution": 0.05555555555555555,
+        "rank": 146
+      },
+      {
+        "university": "Institute of Research and Translation, Ibadan, Nigeria",
+        "totalContribution": 0.05555555555555555,
+        "rank": 147
+      },
+      {
+        "university": "Forestry Research Institute",
+        "totalContribution": 0.05263157894736842,
+        "rank": 148
+      },
+      {
+        "university": "University of Lisbon",
+        "totalContribution": 0.051587301587301584,
+        "rank": 149
+      },
+      {
+        "university": "Nicafrance Foundation, Finca La Cumplida, Matagalpa, Nicaragua",
+        "totalContribution": 0.051587301587301584,
+        "rank": 150
+      },
+      {
+        "university": "Hanyang University",
+        "totalContribution": 0.05,
+        "rank": 151
+      },
+      {
+        "university": "National Institute of Drug Quality Control, Hoan Kiem, Hanoi, Vietnam",
+        "totalContribution": 0.05,
+        "rank": 152
+      },
+      {
+        "university": "National Library of Vietnam",
+        "totalContribution": 0.05,
+        "rank": 153
+      },
+      {
+        "university": "CSIRO Land and Water",
+        "totalContribution": 0.047619047619047616,
+        "rank": 154
+      },
+      {
+        "university": "International Institute of Tropical Agriculture (IITA), Accra, Ghana",
+        "totalContribution": 0.047619047619047616,
+        "rank": 155
+      },
+      {
+        "university": "Alliance of Bioversity International and CIAT, The Hague, Netherlands",
+        "totalContribution": 0.047619047619047616,
+        "rank": 156
+      },
+      {
+        "university": "Bioversity International",
+        "totalContribution": 0.047619047619047616,
+        "rank": 157
+      },
+      {
+        "university": "Thuyloi University",
+        "totalContribution": 0.045454545454545456,
+        "rank": 158
+      },
+      {
+        "university": "Viet Tri University of Industry",
+        "totalContribution": 0.045454545454545456,
+        "rank": 159
+      },
+      {
+        "university": "Field Museum of Natural History",
+        "totalContribution": 0.045454545454545456,
+        "rank": 160
+      },
+      {
+        "university": "The Ohio State University",
+        "totalContribution": 0.045454545454545456,
+        "rank": 161
+      },
+      {
+        "university": "Beltsville Agricultural Research Center",
+        "totalContribution": 0.04532163742690058,
+        "rank": 162
+      },
+      {
+        "university": "International Atomic Energy Agency",
+        "totalContribution": 0.044444444444444446,
+        "rank": 163
+      },
+      {
+        "university": "De La Salle University",
+        "totalContribution": 0.044444444444444446,
+        "rank": 164
+      },
+      {
+        "university": "Institut de l'Environnement et Recherches Agricoles",
+        "totalContribution": 0.041666666666666664,
+        "rank": 165
+      },
+      {
+        "university": "Nepal Agricultural Research Council",
+        "totalContribution": 0.041666666666666664,
+        "rank": 166
+      },
+      {
+        "university": "Institute for Soil Sciences",
+        "totalContribution": 0.041666666666666664,
+        "rank": 167
+      },
+      {
+        "university": "Consortium for Sustainable Development of the Andean Ecoregion",
+        "totalContribution": 0.041666666666666664,
+        "rank": 168
+      },
+      {
+        "university": "Tecnológico Nacional de México",
+        "totalContribution": 0.041666666666666664,
+        "rank": 169
+      },
+      {
+        "university": "Institut Agronomique et Vétérinaire Hassan II",
+        "totalContribution": 0.041666666666666664,
+        "rank": 170
+      },
+      {
+        "university": "Oregon University System",
+        "totalContribution": 0.041666666666666664,
+        "rank": 171
+      },
+      {
+        "university": "Gesellschaft für Biotechnologische Forschung mbH., Mascheroder Weg 1, D-38124 Braunschweig, Germany",
+        "totalContribution": 0.041666666666666664,
+        "rank": 172
+      },
+      {
+        "university": "National Formosa University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 173
+      },
+      {
+        "university": "National Research Institute of Chinese Medicine",
+        "totalContribution": 0.041666666666666664,
+        "rank": 174
+      },
+      {
+        "university": "Ministry of Agriculture and Rural Development",
+        "totalContribution": 0.041666666666666664,
+        "rank": 175
+      },
+      {
+        "university": "Jenderal Soedirman University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 176
+      },
+      {
+        "university": "Yogyakarta State University",
+        "totalContribution": 0.041666666666666664,
+        "rank": 177
+      },
+      {
+        "university": "Nestlé (France)",
+        "totalContribution": 0.0392156862745098,
+        "rank": 178
+      },
+      {
+        "university": "Centre National de Recherche Agronomique",
+        "totalContribution": 0.03715170278637771,
+        "rank": 179
+      },
+      {
+        "university": "Meise Botanic Garden",
+        "totalContribution": 0.03715170278637771,
+        "rank": 180
+      },
+      {
+        "university": "VNU University of Science",
+        "totalContribution": 0.037037037037037035,
+        "rank": 181
+      },
+      {
+        "university": "Research Institute for Humanity and Nature",
+        "totalContribution": 0.037037037037037035,
+        "rank": 182
+      },
+      {
+        "university": "InterAcademy Partnership",
+        "totalContribution": 0.037037037037037035,
+        "rank": 183
+      },
+      {
+        "university": "Hanoi Medical University",
+        "totalContribution": 0.037037037037037035,
+        "rank": 184
+      },
+      {
+        "university": "Institute for Tropical Technology, Academy of Science and Technology",
+        "totalContribution": 0.037037037037037035,
+        "rank": 185
+      },
+      {
+        "university": "Mersin Üniversitesi",
+        "totalContribution": 0.037037037037037035,
+        "rank": 186
+      },
+      {
+        "university": "Iowa State University",
+        "totalContribution": 0.037037037037037035,
+        "rank": 187
+      },
+      {
+        "university": "Recep Tayyip Erdoğan University",
+        "totalContribution": 0.037037037037037035,
+        "rank": 188
+      },
+      {
+        "university": "National Museum Wales",
+        "totalContribution": 0.030303030303030304,
+        "rank": 189
+      },
+      {
+        "university": "Rothamsted Research",
+        "totalContribution": 0.030303030303030304,
+        "rank": 190
+      },
+      {
+        "university": "University of Information Science",
+        "totalContribution": 0.030303030303030304,
+        "rank": 191
+      },
+      {
+        "university": "National Taiwan University",
+        "totalContribution": 0.030303030303030304,
+        "rank": 192
+      },
+      {
+        "university": "Leibniz Centre for Agricultural Landscape Research",
+        "totalContribution": 0.030303030303030304,
+        "rank": 193
+      },
+      {
+        "university": "International Institute of Tropical Agriculture (IITA), PMB L56 Legon-Accra, Ghana",
+        "totalContribution": 0.030303030303030304,
+        "rank": 194
+      },
+      {
+        "university": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+        "totalContribution": 0.030303030303030304,
+        "rank": 195
+      },
+      {
+        "university": "University of Kassel",
+        "totalContribution": 0.030303030303030304,
+        "rank": 196
+      },
+      {
+        "university": "The University of Sydney",
+        "totalContribution": 0.027777777777777776,
+        "rank": 197
+      },
+      {
+        "university": "Northern Australian Quarantine Strategy, Department of Agriculture, Water and the Environment, Cairns, Qld, Australia;",
+        "totalContribution": 0.027777777777777776,
+        "rank": 198
+      },
+      {
+        "university": "KU Leuven",
+        "totalContribution": 0.027777777777777776,
+        "rank": 199
+      },
+      {
+        "university": "Quisqueya University",
+        "totalContribution": 0.027777777777777776,
+        "rank": 200
+      },
+      {
+        "university": "Centro Agronomico Tropical de Investigacion y Ensenanza Catie",
+        "totalContribution": 0.027777777777777776,
+        "rank": 201
+      },
+      {
+        "university": "Tajen University",
+        "totalContribution": 0.02564102564102564,
+        "rank": 202
+      },
+      {
+        "university": "Institut de Recherche pour le Développement",
+        "totalContribution": 0.023809523809523808,
+        "rank": 203
+      },
+      {
+        "university": "Agricultural Research Organization",
+        "totalContribution": 0.022222222222222223,
+        "rank": 204
+      },
+      {
+        "university": "James Cook University",
+        "totalContribution": 0.022222222222222223,
+        "rank": 205
+      },
+      {
+        "university": "Lembaga Koko Malaysia, Bagan Datuk, Perak, Malaysia",
+        "totalContribution": 0.022222222222222223,
+        "rank": 206
+      },
+      {
+        "university": "National Sun Yat-sen University",
+        "totalContribution": 0.020833333333333332,
+        "rank": 207
+      },
+      {
+        "university": "National Kaohsiung Marine University",
+        "totalContribution": 0.020833333333333332,
+        "rank": 208
+      },
+      {
+        "university": "Chang Gung University",
+        "totalContribution": 0.020833333333333332,
+        "rank": 209
+      },
+      {
+        "university": "Brazilian Agricultural Research Corporation",
+        "totalContribution": 0.0196078431372549,
+        "rank": 210
+      },
+      {
+        "university": "NOMAFSI headquarter Phu Tho Vietnam",
+        "totalContribution": 0.018518518518518517,
+        "rank": 211
+      },
+      {
+        "university": "Tay Bac University",
+        "totalContribution": 0.018518518518518517,
+        "rank": 212
+      },
+      {
+        "university": "Quy Nhon University",
+        "totalContribution": 0.018518518518518517,
+        "rank": 213
+      },
+      {
+        "university": "Université de Kisangani",
+        "totalContribution": 0.017543859649122806,
+        "rank": 214
+      },
+      {
+        "university": "Universidade Lusíada de Angola",
+        "totalContribution": 0.017543859649122806,
+        "rank": 215
+      },
+      {
+        "university": "For farmers (United Kingdom)",
+        "totalContribution": 0.017543859649122806,
+        "rank": 216
+      }
+    ]
   },
   "mainField": "Agricultural and Food Sciences",
   "totalSubfields": 2

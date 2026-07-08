@@ -67,9 +67,6 @@ npm install
 ```bash
 # Create the database
 psql -U postgres -c "CREATE DATABASE proj_paper;"
-
-# Apply schema (creates staging + core schemas, tables, views)
-psql -U postgres -d proj_paper -f db/schema.sql
 ```
 
 ### 3. Fetch data from OpenAlex
@@ -86,7 +83,7 @@ python backend/fetch_openalex.py --max-papers 500 --skip-rebuild
 
 ### 4. Run the frontend
 
-```bash
+```bas
 npm run dev
 ```
 
@@ -195,14 +192,14 @@ python db/migrate_to_postgres.py \
 
 ### Generating frontend data
 
-After loading data into PostgreSQL (either from OpenAlex or legacy JSON/CSV), you must generate the static JSON files used by the React frontend. We provide a script that reads directly from the database and rebuilds all ranking files:
+After loading data into PostgreSQL, generate the static JSON files used by the frontend:
 
 ```bash
 cd backend
-python export_from_postgres.py
+python preprocess_data.py
 ```
 
-This script will query `core.papers` and `core.paper_authors` and create:
+This creates:
 - `src/data/fields.json` — field hierarchy
 - `src/data/<FieldName>/<subfield>.json` — per-subfield rankings
 - `src/data/rankings/<mainfield>_rankings.json` — per-mainfield rankings
