@@ -94,7 +94,7 @@ export default function ChartComponent({
   useEffect(() => {
     const loadUniversityUrls = async () => {
       try {
-        const response = await fetch('/paper-project-redo/urls.csv');
+        const response = await fetch(`${import.meta.env.BASE_URL}urls.csv`);
         if (!response.ok) {
           console.warn('Could not load urls.csv file');
           return;

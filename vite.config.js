@@ -5,7 +5,15 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
     plugins: [react(), tailwindcss()],
-    base: "/paper-project-redo/",
+    base: "/",
+    build: {
+        rollupOptions: {
+            input: {
+                main: "index.html",
+                ranking: "ranking.html"
+            }
+        }
+    },
     server: {
         allowedHosts: [".ngrok-free.dev", "sixty-planets-enter.loca.lt"],
         host: "0.0.0.0",

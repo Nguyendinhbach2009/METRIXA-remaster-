@@ -18,7 +18,7 @@ export default function Header() {
             </p>
           </div>
           <button
-            onClick={() => window.location.href = "/paper-project-redo/"}
+            onClick={() => window.location.href = import.meta.env.BASE_URL}
             className="flex items-center gap-2 px-5 py-2.5 rounded-lg bg-gradient-to-r from-purple-600 to-pink-600 text-white font-medium hover:from-purple-500 hover:to-pink-500 transition-all duration-300 flex-shrink-0 shadow-lg"
           >
             Papers Distribution Page →
