@@ -1,0 +1,521 @@
+{
+  "ranking": [
+    {
+      "university": "Hospital for Tropical Diseases",
+      "totalContribution": 1.5
+    },
+    {
+      "university": "General Department of Preventive Medicine",
+      "totalContribution": 1.277777777777778
+    },
+    {
+      "university": "Vietnam National Children's Hospital",
+      "totalContribution": 1.1444444444444444
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 1.111111111111111
+    },
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 0.9444444444444444
+    },
+    {
+      "university": "National Institute Of Hygiene And Epidemiology",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Vietnam Military Medical University",
+      "totalContribution": 0.8333333333333333
+    },
+    {
+      "university": "Le Quy Don Technical University",
+      "totalContribution": 0.6666666666666667
+    },
+    {
+      "university": "Tân Tạo University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Baria Vungtau University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Electric Power University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City Open University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "National Economics University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Oxford University Clinical Research Unit",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Dalat University",
+      "totalContribution": 0.14285714285714285
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Academy of Cryptography Techniques",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "Hue Central Hospital",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "University of Languages and International Studies",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Tay Bac University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Ministry of Health",
+      "totalContribution": 0.045454545454545456
+    },
+    {
+      "university": "Institute of Population, Health and Development",
+      "totalContribution": 0.045454545454545456
+    },
+    {
+      "university": "Children's Hospital 2",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Science",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Hội Gastroenterology Việt Nam",
+      "totalContribution": 0.016666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "National Institute Of Hygiene And Epidemiology": [
+      {
+        "author": "M Prokopec",
+        "contribution": 0.5,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Andrew E. Czeizel",
+        "contribution": 0.16666666666666666,
+        "percent": 0.2
+      },
+      {
+        "author": "Stefan Keller",
+        "contribution": 0.16666666666666666,
+        "percent": 0.2
+      }
+    ],
+    "Hospital for Tropical Diseases": [
+      {
+        "author": "G. C. Low",
+        "contribution": 0.75,
+        "percent": 0.5
+      },
+      {
+        "author": "R. Ross",
+        "contribution": 0.75,
+        "percent": 0.5
+      }
+    ],
+    "General Department of Preventive Medicine": [
+      {
+        "author": "I N Ize-Iyamu",
+        "contribution": 0.3484848484848485,
+        "percent": 0.2727272727272727
+      },
+      {
+        "author": "Anne Marie Weber‐Main",
+        "contribution": 0.3484848484848485,
+        "percent": 0.2727272727272727
+      },
+      {
+        "author": "Mehriniso Abdushukurova",
+        "contribution": 0.3484848484848485,
+        "percent": 0.2727272727272727
+      },
+      {
+        "author": "Leslie Hyman",
+        "contribution": 0.11616161616161616,
+        "percent": 0.0909090909090909
+      },
+      {
+        "author": "Divya Sharma",
+        "contribution": 0.11616161616161616,
+        "percent": 0.0909090909090909
+      }
+    ],
+    "Tân Tạo University": [
+      {
+        "author": "Sven Helm",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Størmer Kh",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Hien Thi Thanh Dao",
+        "contribution": 0.22727272727272727,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "Phong Thanh Nguyen",
+        "contribution": 0.22727272727272727,
+        "percent": 0.27272727272727276
+      },
+      {
+        "author": "L.Q. Pham",
+        "contribution": 0.1515151515151515,
+        "percent": 0.1818181818181818
+      },
+      {
+        "author": "Cu Thanh-Tuyen",
+        "contribution": 0.11363636363636363,
+        "percent": 0.13636363636363638
+      },
+      {
+        "author": "H.-T. Nhac-Vu",
+        "contribution": 0.11363636363636363,
+        "percent": 0.13636363636363638
+      }
+    ],
+    "Vietnam National Children's Hospital": [
+      {
+        "author": "Arturo Sotomayor-González",
+        "contribution": 0.3901515151515151,
+        "percent": 0.3409090909090909
+      },
+      {
+        "author": "Alma Rosa Martínez‐Rosas",
+        "contribution": 0.09753787878787877,
+        "percent": 0.08522727272727272
+      },
+      {
+        "author": "Carmen Rubio",
+        "contribution": 0.09753787878787877,
+        "percent": 0.08522727272727272
+      },
+      {
+        "author": "Mireya Oliveros",
+        "contribution": 0.09753787878787877,
+        "percent": 0.08522727272727272
+      },
+      {
+        "author": "Moisés Rubio‐Osornio",
+        "contribution": 0.09753787878787877,
+        "percent": 0.08522727272727272
+      },
+      {
+        "author": "Duong The Le",
+        "contribution": 0.09753787878787877,
+        "percent": 0.08522727272727272
+      },
+      {
+        "author": "Quy Xuan Ngo",
+        "contribution": 0.09753787878787877,
+        "percent": 0.08522727272727272
+      },
+      {
+        "author": "Hugo Juárez Olguı́n",
+        "contribution": 0.06502525252525251,
+        "percent": 0.05681818181818181
+      },
+      {
+        "author": "Sara A Solórzano Morales",
+        "contribution": 0.06502525252525251,
+        "percent": 0.05681818181818181
+      },
+      {
+        "author": "Rolando Espinosa Morales",
+        "contribution": 0.03901515151515151,
+        "percent": 0.03409090909090909
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Cécile Cuchet",
+        "contribution": 0.4047619047619048,
+        "percent": 0.42857142857142866
+      },
+      {
+        "author": "Catherine Gravet",
+        "contribution": 0.4047619047619048,
+        "percent": 0.42857142857142866
+      },
+      {
+        "author": "JeanPierre Guiliani",
+        "contribution": 0.13492063492063494,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Children's Hospital 2": [
+      {
+        "author": "Nguyen Dinh Pham",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Science": [
+      {
+        "author": "Toan Pham",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Baria Vungtau University": [
+      {
+        "author": "Thi Ha",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Military Medical University": [
+      {
+        "author": "Nguyen Thi Tuyet Mai",
+        "contribution": 0.41666666666666663,
+        "percent": 0.5
+      },
+      {
+        "author": "Quang Tri Le",
+        "contribution": 0.20833333333333331,
+        "percent": 0.25
+      },
+      {
+        "author": "Thanh-Hoang Nguyen",
+        "contribution": 0.20833333333333331,
+        "percent": 0.25
+      }
+    ],
+    "Vietnam National University Ho Chi Minh City": [
+      {
+        "author": "Dang Van Vinh",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Tay Bac University": [
+      {
+        "author": "Tran Van The",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ministry of Health": [
+      {
+        "author": "Nurashikin Ibrahim",
+        "contribution": 0.045454545454545456,
+        "percent": 1.0
+      }
+    ],
+    "Institute of Population, Health and Development": [
+      {
+        "author": "Vu Cong Nguyen",
+        "contribution": 0.045454545454545456,
+        "percent": 1.0
+      }
+    ],
+    "Electric Power University": [
+      {
+        "author": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Thi Thanh Huong Tran",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Duy Quoc Ngo",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Quang Van Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hue Central Hospital": [
+      {
+        "author": "Chau Hoang Le Trong",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Tai T. Tran",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Huy Bach Ngoc Bao",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Huy Truong Hoang",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Van Nam Tran",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Cong Sinh Nguyen",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Gia Kieu Ngan Nguyen",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Minh Quan Nguyen",
+        "contribution": 0.15873015873015872,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Le Quy Don Technical University": [
+      {
+        "author": "Hỏa Tiễn Vũ",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Ngoc Hung Nguyen",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Van Quan Phan",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Ha Manh Thang",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "N.Q. Khánh",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Nguyen Trong Yen",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Oxford University Clinical Research Unit": [
+      {
+        "author": "Reena Vohora",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Huy Nguyen",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Academy of Cryptography Techniques": [
+      {
+        "author": "Phạm Hồng Hải",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Dalat University": [
+      {
+        "author": "Nguyen Cao Cuong",
+        "contribution": 0.14285714285714285,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City Open University": [
+      {
+        "author": "Anh Ngọc Nguyễn",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Duc Hong Vo",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Khoa Nguyen-Viet",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Hội Gastroenterology Việt Nam": [
+      {
+        "author": "Simon Apitzsch",
+        "contribution": 0.016666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "University of Languages and International Studies": [
+      {
+        "author": "L.N. Bissenbayeva",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "National Economics University": [
+      {
+        "author": "Valentina Belcheva",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

@@ -1,0 +1,516 @@
+{
+  "Hanoi National University of Education": {
+    "Drug Discovery": 0.39999999999999997,
+    "Pharmaceutical Science": 1.5925925925925932,
+    "Toxicology": 1.0904761904761904
+  },
+  "General Department of Preventive Medicine": {
+    "Drug Discovery": 0.3888888888888889,
+    "Pharmaceutical Science": 2.55952380952381,
+    "Toxicology": 5.530471380471376
+  },
+  "Ton Duc Thang University": {
+    "Drug Discovery": 0.041666666666666664,
+    "Pharmaceutical Science": 9.639676989676984,
+    "Toxicology": 2.4440392940392934
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Drug Discovery": 0.5694444444444444,
+    "Pharmaceutical Science": 8.424206349206344,
+    "Toxicology": 5.007900432900434
+  },
+  "Hanoi University of Pharmacy": {
+    "Drug Discovery": 0.3333333333333333,
+    "Pharmaceutical Science": 24.86967291967296,
+    "Toxicology": 5.674692226346636
+  },
+  "Vietnam National University, Hanoi": {
+    "Drug Discovery": 0.33333333333333337,
+    "Pharmaceutical Science": 3.9660052910052896,
+    "Toxicology": 2.530039541068953
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Drug Discovery": 0.08333333333333333,
+    "Pharmaceutical Science": 0.5647065897065897,
+    "Toxicology": 0.5827922077922079
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Drug Discovery": 1.0555555555555556,
+    "Pharmaceutical Science": 2.317724867724868,
+    "Toxicology": 2.59368686868687
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Drug Discovery": 0.05555555555555555,
+    "Pharmaceutical Science": 2.04532227032227,
+    "Toxicology": 0.23282828282828283
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Drug Discovery": 0.4345238095238095,
+    "Pharmaceutical Science": 3.1341066341066344,
+    "Toxicology": 1.9007575757575756
+  },
+  "Phenikaa University": {
+    "Drug Discovery": 0.07142857142857142,
+    "Pharmaceutical Science": 2.9945887445887434,
+    "Toxicology": 0.977960927960928
+  },
+  "University of Da Nang": {
+    "Drug Discovery": 0.07142857142857142,
+    "Pharmaceutical Science": 0.7087301587301588,
+    "Toxicology": 1.9309523809523812
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Drug Discovery": 0.21726190476190474,
+    "Pharmaceutical Science": 14.330687830687804,
+    "Toxicology": 31.399219299219542
+  },
+  "Thai Nguyen University": {
+    "Drug Discovery": 1.2380952380952381,
+    "Pharmaceutical Science": 2.7449134199134195,
+    "Toxicology": 1.93970473970474
+  },
+  "Duy Tan University": {
+    "Drug Discovery": 0.09722222222222221,
+    "Pharmaceutical Science": 4.622023809523809,
+    "Toxicology": 1.2188852813852815
+  },
+  "Hue University": {
+    "Drug Discovery": 0.9090909090909093,
+    "Pharmaceutical Science": 8.102777777777773,
+    "Toxicology": 3.924355736855738
+  },
+  "Ho Chi Minh City University of Science": {
+    "Drug Discovery": 0.07407407407407407,
+    "Pharmaceutical Science": 2.6130952380952386,
+    "Toxicology": 1.2992063492063493
+  },
+  "Vietnam National University of Forestry": {
+    "Drug Discovery": 0.037037037037037035
+  },
+  "Can Tho University": {
+    "Drug Discovery": 1.2129629629629628,
+    "Pharmaceutical Science": 8.04417989417989,
+    "Toxicology": 3.5215187590187567
+  },
+  "Van Lang University": {
+    "Drug Discovery": 0.17777777777777776,
+    "Pharmaceutical Science": 1.3442640692640695,
+    "Toxicology": 0.3157342657342657
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Drug Discovery": 0.7824074074074074,
+    "Pharmaceutical Science": 34.41931216931222,
+    "Toxicology": 6.04803992303992
+  },
+  "Vietnam Military Medical University": {
+    "Drug Discovery": 0.5,
+    "Pharmaceutical Science": 1.736533374033374,
+    "Toxicology": 0.806054131054131
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Drug Discovery": 0.08333333333333333,
+    "Pharmaceutical Science": 1.2099206349206348,
+    "Toxicology": 0.31666666666666665
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Drug Discovery": 0.26666666666666666,
+    "Pharmaceutical Science": 1.443915343915344,
+    "Toxicology": 0.125
+  },
+  "Vinh University": {
+    "Drug Discovery": 0.25,
+    "Pharmaceutical Science": 0.19294871794871793,
+    "Toxicology": 0.976190476190476
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Drug Discovery": 0.6666666666666666,
+    "Pharmaceutical Science": 0.8555555555555554,
+    "Toxicology": 0.18095238095238095
+  },
+  "National Institute of Nutrition": {
+    "Drug Discovery": 0.16666666666666666,
+    "Pharmaceutical Science": 0.47883597883597884,
+    "Toxicology": 0.25456349206349205
+  },
+  "Ministry of Science and Technology": {
+    "Drug Discovery": 0.1111111111111111,
+    "Pharmaceutical Science": 0.018867924528301886,
+    "Toxicology": 0.15079365079365079
+  },
+  "Tân Tạo University": {
+    "Drug Discovery": 0.1111111111111111,
+    "Pharmaceutical Science": 0.3333333333333333,
+    "Toxicology": 0.5
+  },
+  "Ho Chi Minh City University of Education": {
+    "Drug Discovery": 0.08333333333333333,
+    "Pharmaceutical Science": 0.9166666666666666,
+    "Toxicology": 1.5215247715247724
+  },
+  "VNU University of Science": {
+    "Drug Discovery": 0.3333333333333333,
+    "Pharmaceutical Science": 1.0277777777777777,
+    "Toxicology": 1.9518518518518522
+  },
+  "Tra Vinh University": {
+    "Drug Discovery": 0.3333333333333333,
+    "Pharmaceutical Science": 0.5476190476190476,
+    "Toxicology": 0.3333333333333333
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Drug Discovery": 0.1111111111111111,
+    "Toxicology": 0.19047619047619047
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Pharmaceutical Science": 4.108333333333333,
+    "Toxicology": 0.5373737373737374
+  },
+  "Institute of Materials Science": {
+    "Pharmaceutical Science": 0.5875
+  },
+  "Hanoi Pedagogical University 2": {
+    "Pharmaceutical Science": 0.961111111111111
+  },
+  "Quy Nhon University": {
+    "Pharmaceutical Science": 0.6809523809523809,
+    "Toxicology": 0.43465608465608463
+  },
+  "Hung Yen University of Technology and Education": {
+    "Pharmaceutical Science": 3.666666666666668,
+    "Toxicology": 1.5000000000000002
+  },
+  "University of Transport and Communications": {
+    "Pharmaceutical Science": 0.08333333333333333,
+    "Toxicology": 0.030303030303030304
+  },
+  "Thuyloi University": {
+    "Pharmaceutical Science": 0.5833333333333333
+  },
+  "University of Labor and Social Affairs": {
+    "Pharmaceutical Science": 0.8333333333333333,
+    "Toxicology": 0.1
+  },
+  "Hanoi University of Science and Technology": {
+    "Pharmaceutical Science": 0.7611111111111111,
+    "Toxicology": 0.6836459836459836
+  },
+  "Vietnam National Children's Hospital": {
+    "Pharmaceutical Science": 0.8809523809523807,
+    "Toxicology": 2.009920634920635
+  },
+  "Hospital for Tropical Diseases": {
+    "Pharmaceutical Science": 0.7534722222222222,
+    "Toxicology": 0.9535052910052912
+  },
+  "Nha Trang University": {
+    "Pharmaceutical Science": 0.4666666666666667,
+    "Toxicology": 0.3055555555555556
+  },
+  "Saigon University": {
+    "Pharmaceutical Science": 0.38888888888888884,
+    "Toxicology": 0.42380952380952375
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Pharmaceutical Science": 0.275,
+    "Toxicology": 0.8585317460317461
+  },
+  "Vietnam National University of Agriculture": {
+    "Pharmaceutical Science": 0.375,
+    "Toxicology": 0.21666666666666667
+  },
+  "Hanoi University": {
+    "Pharmaceutical Science": 0.1,
+    "Toxicology": 0.08333333333333333
+  },
+  "Hanoi Open University": {
+    "Pharmaceutical Science": 3.25
+  },
+  "Bạch Mai Hospital": {
+    "Pharmaceutical Science": 0.1111111111111111,
+    "Toxicology": 1.1135642135642139
+  },
+  "Vin, University": {
+    "Pharmaceutical Science": 0.2777777777777778,
+    "Toxicology": 0.44119769119769103
+  },
+  "Ho Chi Minh City International University": {
+    "Pharmaceutical Science": 1.8777777777777775,
+    "Toxicology": 0.25
+  },
+  "Phu Yen University": {
+    "Pharmaceutical Science": 0.5
+  },
+  "Hanoi University of Industry": {
+    "Pharmaceutical Science": 1.465674603174603,
+    "Toxicology": 0.38215488215488214
+  },
+  "Hanoi University of Mining and Geology": {
+    "Pharmaceutical Science": 0.26666666666666666,
+    "Toxicology": 0.08333333333333333
+  },
+  "Baria Vungtau University": {
+    "Pharmaceutical Science": 0.03333333333333333
+  },
+  "Dalat University": {
+    "Pharmaceutical Science": 0.8013227513227515,
+    "Toxicology": 0.7525252525252525
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Pharmaceutical Science": 0.7301587301587305,
+    "Toxicology": 0.15079365079365079
+  },
+  "Bình Dương University": {
+    "Pharmaceutical Science": 1.2805555555555554,
+    "Toxicology": 0.39206349206349206
+  },
+  "Hanoi Medical University": {
+    "Pharmaceutical Science": 0.8214285714285714,
+    "Toxicology": 1.7047017797017794
+  },
+  "Ministry of Health": {
+    "Pharmaceutical Science": 0.16666666666666666,
+    "Toxicology": 0.4254590725178961
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Pharmaceutical Science": 1.3333333333333333
+  },
+  "Thuongmai University": {
+    "Pharmaceutical Science": 0.1111111111111111,
+    "Toxicology": 0.09523809523809523
+  },
+  "Hanoi Medical University Hospital": {
+    "Pharmaceutical Science": 0.047619047619047616
+  },
+  "University of Hai Duong": {
+    "Pharmaceutical Science": 0.5365079365079364
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Pharmaceutical Science": 0.29166666666666663,
+    "Toxicology": 0.15277777777777776
+  },
+  "Phenikaa (Vietnam)": {
+    "Pharmaceutical Science": 0.19444444444444442,
+    "Toxicology": 0.18846153846153846
+  },
+  "Agricultural Genetics Institute": {
+    "Pharmaceutical Science": 0.18253968253968253
+  },
+  "International Center for Tropical Agriculture": {
+    "Pharmaceutical Science": 0.5785714285714285
+  },
+  "Viet Duc Hospital": {
+    "Pharmaceutical Science": 0.25,
+    "Toxicology": 0.05555555555555555
+  },
+  "Electric Power University": {
+    "Pharmaceutical Science": 1.1666666666666665
+  },
+  "Institute for Computational Science and Technology": {
+    "Pharmaceutical Science": 0.06666666666666667
+  },
+  "Hong Bang International University": {
+    "Pharmaceutical Science": 0.32539682539682535,
+    "Toxicology": 0.7474747474747474
+  },
+  "Hung Vuong Hospital": {
+    "Pharmaceutical Science": 0.08333333333333333,
+    "Toxicology": 0.05252525252525253
+  },
+  "Saigon Technology University": {
+    "Pharmaceutical Science": 0.37777777777777777
+  },
+  "Le Quy Don Technical University": {
+    "Pharmaceutical Science": 0.03333333333333333,
+    "Toxicology": 0.13863636363636364
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Pharmaceutical Science": 0.375,
+    "Toxicology": 0.14814814814814814
+  },
+  "Lac Hong University": {
+    "Pharmaceutical Science": 0.1824074074074074,
+    "Toxicology": 0.27777777777777773
+  },
+  "Khanh Hoa General Hospital": {
+    "Pharmaceutical Science": 0.05,
+    "Toxicology": 0.06666666666666667
+  },
+  "University Medical Center HCMC": {
+    "Pharmaceutical Science": 0.5666666666666667,
+    "Toxicology": 0.39999999999999997
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Pharmaceutical Science": 0.015151515151515152,
+    "Toxicology": 0.1111111111111111
+  },
+  "Ministry of Education and Training": {
+    "Pharmaceutical Science": 0.047619047619047616,
+    "Toxicology": 0.17018722018722018
+  },
+  "Hồng Đức University": {
+    "Pharmaceutical Science": 0.16666666666666666,
+    "Toxicology": 0.12857142857142856
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Pharmaceutical Science": 0.2777777777777778
+  },
+  "University of Khanh Hoa": {
+    "Pharmaceutical Science": 0.20833333333333331,
+    "Toxicology": 0.26262626262626265
+  },
+  "Cat Tien National Park": {
+    "Pharmaceutical Science": 0.16666666666666666,
+    "Toxicology": 0.11269841269841269
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Pharmaceutical Science": 0.36060606060606065,
+    "Toxicology": 0.037037037037037035
+  },
+  "Vietnamese-German University": {
+    "Pharmaceutical Science": 0.2,
+    "Toxicology": 0.25
+  },
+  "Vinmec International Hospital": {
+    "Pharmaceutical Science": 0.12287581699346405,
+    "Toxicology": 0.7059884559884557
+  },
+  "RMIT Vietnam": {
+    "Pharmaceutical Science": 0.08333333333333333
+  },
+  "Nam Dinh University of Nursing": {
+    "Pharmaceutical Science": 0.3333333333333333
+  },
+  "Tay Bac University": {
+    "Pharmaceutical Science": 0.047619047619047616,
+    "Toxicology": 0.19696969696969696
+  },
+  "Institute of Population, Health and Development": {
+    "Pharmaceutical Science": 0.041666666666666664,
+    "Toxicology": 0.13333333333333333
+  },
+  "Viet Tri University of Industry": {
+    "Pharmaceutical Science": 0.1111111111111111,
+    "Toxicology": 0.15873015873015872
+  },
+  "Vinh Long University of Technology Education": {
+    "Pharmaceutical Science": 0.1111111111111111,
+    "Toxicology": 0.05555555555555555
+  },
+  "An Giang University": {
+    "Toxicology": 0.14761904761904762
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Toxicology": 0.7394300144300145
+  },
+  "Children's Hospital 2": {
+    "Toxicology": 0.2222222222222222
+  },
+  "Institute of Mathematics": {
+    "Toxicology": 2.4800925925925927
+  },
+  "Children's Hospital 1": {
+    "Toxicology": 0.10454545454545454
+  },
+  "Foreign Trade University": {
+    "Toxicology": 0.06666666666666667
+  },
+  "National Economics University": {
+    "Toxicology": 0.2222222222222222
+  },
+  "Hanoi School Of Public Health": {
+    "Toxicology": 0.3285714285714285
+  },
+  "Dong Thap University": {
+    "Toxicology": 0.25
+  },
+  "Institute for Social Development Studies": {
+    "Toxicology": 0.1111111111111111
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Toxicology": 0.05555555555555555
+  },
+  "Center for Health Consultation and Community Development": {
+    "Toxicology": 0.15740740740740738
+  },
+  "Thang Long University": {
+    "Toxicology": 0.3333333333333333
+  },
+  "Cho Ray Hospital": {
+    "Toxicology": 0.8027777777777777
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Toxicology": 0.375
+  },
+  "Hung Vuong University": {
+    "Toxicology": 0.36666666666666664
+  },
+  "Oxford University Clinical Research Unit": {
+    "Toxicology": 0.016666666666666666
+  },
+  "Hai Phong University of Management and Technology": {
+    "Toxicology": 0.1875
+  },
+  "Văn Hiến University": {
+    "Toxicology": 0.8289682539682538
+  },
+  "National Library of Vietnam": {
+    "Toxicology": 0.2698412698412698
+  },
+  "Ho Chi Minh City Open University": {
+    "Toxicology": 0.44166666666666665
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Toxicology": 0.23846153846153845
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Toxicology": 0.041666666666666664
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Toxicology": 0.14835858585858586
+  },
+  "Forest Industry Research Institute": {
+    "Toxicology": 0.11538461538461539
+  },
+  "Hanoi Lung Hospital": {
+    "Toxicology": 0.04696969696969697
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Toxicology": 0.05555555555555555
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Toxicology": 0.28095238095238095
+  },
+  "Da Nang Hospital": {
+    "Toxicology": 0.037037037037037035
+  },
+  "Hue University of Education": {
+    "Toxicology": 0.05555555555555555
+  },
+  "National Institute of Veterinary Research": {
+    "Toxicology": 0.27474747474747474
+  },
+  "Vinh Medical University": {
+    "Toxicology": 0.2222222222222222
+  },
+  "Hanoi Architectural University": {
+    "Toxicology": 0.047619047619047616
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Toxicology": 0.16666666666666666
+  },
+  "Tien Giang General Hospital": {
+    "Toxicology": 0.09523809523809523
+  },
+  "Thai Nguyen National General Hospital": {
+    "Toxicology": 0.5833333333333333
+  },
+  "Ministry Of Health": {
+    "Toxicology": 0.027777777777777776
+  },
+  "Hai Phong University": {
+    "Toxicology": 0.14285714285714285
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Toxicology": 0.21212121212121213
+  }
+}

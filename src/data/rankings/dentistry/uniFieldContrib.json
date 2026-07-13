@@ -1,0 +1,599 @@
+{
+  "Cho Ray Hospital": {
+    "General Dentistry": 0.11666666666666667,
+    "Oral Surgery": 0.5142857142857142,
+    "Periodontics": 0.21944444444444444
+  },
+  "General Department of Preventive Medicine": {
+    "General Dentistry": 9.540079365079361,
+    "Oral Surgery": 27.604098813372996,
+    "Orthodontics": 15.275901875901878,
+    "Periodontics": 34.61162624412628
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "General Dentistry": 3.880393558683037,
+    "Oral Surgery": 34.36390076498441,
+    "Orthodontics": 16.983212934296525,
+    "Periodontics": 20.436248473748485
+  },
+  "Hospital for Tropical Diseases": {
+    "General Dentistry": 0.22777777777777766,
+    "Oral Surgery": 0.24999999999999997,
+    "Periodontics": 0.7722222222222223
+  },
+  "VNU University of Science": {
+    "General Dentistry": 0.75,
+    "Oral Surgery": 1.5666666666666667,
+    "Orthodontics": 1.2722222222222224,
+    "Periodontics": 1.1722222222222223
+  },
+  "Bạch Mai Hospital": {
+    "General Dentistry": 0.06666666666666667,
+    "Oral Surgery": 0.19696969696969696,
+    "Orthodontics": 0.03333333333333333,
+    "Periodontics": 0.15
+  },
+  "Hai Phong University of Management and Technology": {
+    "General Dentistry": 0.16666666666666666,
+    "Periodontics": 0.16666666666666666
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "General Dentistry": 0.13888888888888887,
+    "Oral Surgery": 0.38888888888888884,
+    "Orthodontics": 0.06666666666666667,
+    "Periodontics": 0.6711711711711711
+  },
+  "Hanoi Open University": {
+    "General Dentistry": 0.5,
+    "Oral Surgery": 2.3055555555555554,
+    "Orthodontics": 0.1,
+    "Periodontics": 0.7777777777777778
+  },
+  "Can Tho University": {
+    "General Dentistry": 2.4781746031746037,
+    "Oral Surgery": 11.428601953601953,
+    "Orthodontics": 8.33333333333332,
+    "Periodontics": 8.88585858585858
+  },
+  "Tien Giang General Hospital": {
+    "General Dentistry": 0.16666666666666666,
+    "Oral Surgery": 0.05555555555555555,
+    "Periodontics": 0.06666666666666667
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "General Dentistry": 5.411111111111107,
+    "Oral Surgery": 16.624037999037977,
+    "Orthodontics": 7.867809042809031,
+    "Periodontics": 9.937301587301581
+  },
+  "Ho Chi Minh City University of Technology": {
+    "General Dentistry": 0.2,
+    "Oral Surgery": 1.8357142857142856,
+    "Orthodontics": 0.7059523809523809,
+    "Periodontics": 0.7297619047619047
+  },
+  "Institute of Mathematics": {
+    "General Dentistry": 0.037037037037037035
+  },
+  "Ministry of Health": {
+    "General Dentistry": 1.613610463610462,
+    "Oral Surgery": 1.528427128427127,
+    "Orthodontics": 1.1913059163059163,
+    "Periodontics": 3.799196174196172
+  },
+  "Hanoi Medical University": {
+    "General Dentistry": 4.759722222222221,
+    "Oral Surgery": 13.985243460243424,
+    "Orthodontics": 13.950589225589201,
+    "Periodontics": 11.635501998001983
+  },
+  "Duy Tan University": {
+    "General Dentistry": 0.6333333333333333,
+    "Oral Surgery": 1.8346560846560853,
+    "Orthodontics": 1.4254148629148633,
+    "Periodontics": 1.7954545454545456
+  },
+  "Hue Central Hospital": {
+    "General Dentistry": 0.44047619047619047,
+    "Oral Surgery": 2.2611111111111115,
+    "Orthodontics": 1.3250000000000002,
+    "Periodontics": 1.7182539682539684
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "General Dentistry": 0.5891774891774892,
+    "Oral Surgery": 1.7640211640211645,
+    "Orthodontics": 0.9420634920634922,
+    "Periodontics": 0.8763888888888888
+  },
+  "Nha Trang University": {
+    "General Dentistry": 0.5,
+    "Oral Surgery": 0.08333333333333333,
+    "Periodontics": 0.4722222222222222
+  },
+  "Hue University": {
+    "General Dentistry": 5.360101010101011,
+    "Oral Surgery": 26.303318903318907,
+    "Orthodontics": 12.574603174603173,
+    "Periodontics": 16.786507936507927
+  },
+  "Hai Phong University": {
+    "General Dentistry": 0.06666666666666667,
+    "Orthodontics": 0.08333333333333333
+  },
+  "Dalat University": {
+    "General Dentistry": 0.18181818181818182,
+    "Oral Surgery": 0.08333333333333333,
+    "Orthodontics": 0.37037037037037035,
+    "Periodontics": 0.6944444444444444
+  },
+  "Oxford University Clinical Research Unit": {
+    "General Dentistry": 0.16666666666666663,
+    "Orthodontics": 0.1111111111111111,
+    "Periodontics": 0.2617220801364024
+  },
+  "Children's Hospital 1": {
+    "General Dentistry": 0.011111111111111112
+  },
+  "Hanoi School Of Public Health": {
+    "General Dentistry": 0.125,
+    "Periodontics": 0.125
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "General Dentistry": 0.1111111111111111
+  },
+  "Vin, University": {
+    "General Dentistry": 0.6944444444444445,
+    "Oral Surgery": 0.1111111111111111,
+    "Orthodontics": 0.2222222222222222,
+    "Periodontics": 0.55
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "General Dentistry": 0.3333333333333333,
+    "Oral Surgery": 0.5476190476190476,
+    "Orthodontics": 0.44444444444444436,
+    "Periodontics": 0.8888888888888888
+  },
+  "Vietnam National University, Hanoi": {
+    "General Dentistry": 1.2277777777777779,
+    "Oral Surgery": 4.110930735930735,
+    "Orthodontics": 1.420851370851371,
+    "Periodontics": 2.37420634920635
+  },
+  "University of Da Nang": {
+    "General Dentistry": 0.03333333333333333,
+    "Oral Surgery": 1.513888888888889,
+    "Orthodontics": 0.175,
+    "Periodontics": 1.8000000000000003
+  },
+  "Phenikaa University": {
+    "General Dentistry": 1.3083333333333336,
+    "Oral Surgery": 2.2425925925925925,
+    "Orthodontics": 8.794576719576717,
+    "Periodontics": 1.3333333333333335
+  },
+  "Thuongmai University": {
+    "General Dentistry": 0.05555555555555555,
+    "Oral Surgery": 0.30277777777777776,
+    "Periodontics": 0.40476190476190477
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "General Dentistry": 0.16666666666666666,
+    "Oral Surgery": 0.39999999999999997,
+    "Orthodontics": 0.3333333333333333,
+    "Periodontics": 0.041666666666666664
+  },
+  "Thai Nguyen University": {
+    "General Dentistry": 0.12222222222222222,
+    "Oral Surgery": 1.472222222222222,
+    "Periodontics": 2.27063492063492
+  },
+  "Vietnam National Children's Hospital": {
+    "General Dentistry": 0.05555555555555555,
+    "Oral Surgery": 7.070370370370369,
+    "Orthodontics": 2.7185305435305445,
+    "Periodontics": 2.2094246031746025
+  },
+  "Hanoi University of Pharmacy": {
+    "General Dentistry": 0.12222222222222222,
+    "Oral Surgery": 0.047619047619047616,
+    "Periodontics": 0.7083333333333333
+  },
+  "Nam Dinh University of Nursing": {
+    "General Dentistry": 0.5833333333333333,
+    "Oral Surgery": 0.43333333333333335,
+    "Periodontics": 0.375
+  },
+  "Hanoi University": {
+    "General Dentistry": 0.06666666666666667,
+    "Oral Surgery": 0.18956228956228954,
+    "Orthodontics": 0.312037037037037,
+    "Periodontics": 0.38888888888888884
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "General Dentistry": 0.6555555555555554,
+    "Oral Surgery": 2.9322751322751337,
+    "Orthodontics": 3.3767195767195775,
+    "Periodontics": 2.174124788255223
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "General Dentistry": 0.19999999999999998,
+    "Periodontics": 0.8055555555555556
+  },
+  "Ton Duc Thang University": {
+    "General Dentistry": 0.1,
+    "Oral Surgery": 2.4086136086136087,
+    "Orthodontics": 1.9091269841269844,
+    "Periodontics": 2.4485306360306356
+  },
+  "FPT University": {
+    "General Dentistry": 0.75,
+    "Oral Surgery": 0.744047619047619,
+    "Orthodontics": 0.125,
+    "Periodontics": 0.29166666666666663
+  },
+  "Hanoi University of Business and Technology": {
+    "General Dentistry": 0.05555555555555555,
+    "Oral Surgery": 0.41666666666666663,
+    "Orthodontics": 0.1111111111111111,
+    "Periodontics": 0.05555555555555555
+  },
+  "Viet Duc Hospital": {
+    "General Dentistry": 0.3333333333333333,
+    "Oral Surgery": 1.3635040885040883,
+    "Orthodontics": 1.0146464646464646,
+    "Periodontics": 0.23434343434343435
+  },
+  "Hanoi University of Science and Technology": {
+    "General Dentistry": 0.08333333333333333,
+    "Oral Surgery": 7.523015873015865,
+    "Orthodontics": 1.7206349206349205,
+    "Periodontics": 1.0999999999999999
+  },
+  "Thuyloi University": {
+    "General Dentistry": 0.19444444444444445,
+    "Oral Surgery": 0.7226190476190476,
+    "Orthodontics": 0.16666666666666666
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "General Dentistry": 0.1708333333333333,
+    "Oral Surgery": 0.36428571428571427,
+    "Orthodontics": 0.3013888888888889,
+    "Periodontics": 0.6803571428571428
+  },
+  "Hong Bang International University": {
+    "General Dentistry": 0.28421052631578947,
+    "Oral Surgery": 2.128502345607609,
+    "Orthodontics": 1.039766081871345,
+    "Periodontics": 2.2944444444444443
+  },
+  "Van Lang University": {
+    "General Dentistry": 0.06666666666666667,
+    "Oral Surgery": 6.860348583878,
+    "Orthodontics": 7.555057578586986,
+    "Periodontics": 0.8499999999999996
+  },
+  "Ho Chi Minh City University of Science": {
+    "General Dentistry": 0.23333333333333334,
+    "Oral Surgery": 1.2055555555555553,
+    "Orthodontics": 0.8175925925925925,
+    "Periodontics": 0.26666666666666666
+  },
+  "Tân Tạo University": {
+    "General Dentistry": 0.1,
+    "Oral Surgery": 3.8055555555555554,
+    "Orthodontics": 1.8055555555555554,
+    "Periodontics": 2.072826086956522
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "General Dentistry": 0.19166666666666665,
+    "Oral Surgery": 0.31666666666666665,
+    "Orthodontics": 0.49999999999999994,
+    "Periodontics": 0.7666666666666666
+  },
+  "Hung Vuong Hospital": {
+    "General Dentistry": 0.3333333333333333,
+    "Oral Surgery": 0.375,
+    "Periodontics": 0.3333333333333333
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "General Dentistry": 0.03333333333333333,
+    "Oral Surgery": 5.891394335511976,
+    "Orthodontics": 1.6601774042950517,
+    "Periodontics": 2.1122023809523807
+  },
+  "Ministry Of Health": {
+    "General Dentistry": 0.027777777777777776,
+    "Oral Surgery": 0.027777777777777776,
+    "Periodontics": 0.037037037037037035
+  },
+  "RMIT Vietnam": {
+    "General Dentistry": 0.1111111111111111,
+    "Oral Surgery": 0.1111111111111111
+  },
+  "Ministry of health": {
+    "General Dentistry": 0.02564102564102564
+  },
+  "Hồng Đức University": {
+    "General Dentistry": 0.25,
+    "Oral Surgery": 0.5,
+    "Orthodontics": 0.06666666666666667
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "General Dentistry": 0.047619047619047616
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "General Dentistry": 0.1111111111111111,
+    "Oral Surgery": 0.4888888888888888,
+    "Periodontics": 0.39999999999999997
+  },
+  "Vietnam Military Medical University": {
+    "Oral Surgery": 1.665079365079365,
+    "Orthodontics": 1.0916666666666666,
+    "Periodontics": 1.9722222222222223
+  },
+  "National Center for Technological Progress": {
+    "Oral Surgery": 0.08928571428571427
+  },
+  "Saigon Technology University": {
+    "Oral Surgery": 0.16666666666666666
+  },
+  "Saigon University": {
+    "Oral Surgery": 0.34444444444444444,
+    "Orthodontics": 1.661111111111111,
+    "Periodontics": 0.3333333333333333
+  },
+  "Da Nang Hospital": {
+    "Oral Surgery": 0.3611111111111111,
+    "Orthodontics": 0.06666666666666667,
+    "Periodontics": 0.3333333333333333
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Oral Surgery": 0.3333333333333333,
+    "Orthodontics": 0.16666666666666666
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Oral Surgery": 0.16666666666666666,
+    "Orthodontics": 0.1111111111111111
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Oral Surgery": 2.1359788359788365,
+    "Orthodontics": 1.5007936507936501,
+    "Periodontics": 2.155555555555556
+  },
+  "Lac Hong University": {
+    "Oral Surgery": 0.19444444444444442,
+    "Periodontics": 0.16666666666666666
+  },
+  "National Institute of Nutrition": {
+    "Oral Surgery": 0.3333333333333333,
+    "Periodontics": 0.2638888888888889
+  },
+  "Quy Nhon University": {
+    "Oral Surgery": 0.3333333333333333,
+    "Orthodontics": 0.5
+  },
+  "Thang Long University": {
+    "Oral Surgery": 0.3333333333333333,
+    "Periodontics": 0.3333333333333333
+  },
+  "University of Finance - Marketing": {
+    "Oral Surgery": 1.0
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Oral Surgery": 1.0
+  },
+  "Le Quy Don Technical University": {
+    "Oral Surgery": 0.4027777777777778,
+    "Periodontics": 0.4444444444444444
+  },
+  "Institute of Materials Science": {
+    "Oral Surgery": 0.08333333333333333,
+    "Orthodontics": 0.1111111111111111
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Oral Surgery": 0.2222222222222222
+  },
+  "Electric Power University": {
+    "Oral Surgery": 0.23333333333333334
+  },
+  "Hanoi National University of Education": {
+    "Oral Surgery": 0.5104090354090354,
+    "Orthodontics": 0.2949494949494949,
+    "Periodontics": 0.78006993006993
+  },
+  "University Medical Center HCMC": {
+    "Oral Surgery": 0.5476190476190474,
+    "Orthodontics": 0.047619047619047616,
+    "Periodontics": 0.06666666666666667
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Oral Surgery": 0.02564102564102564,
+    "Periodontics": 0.02564102564102564
+  },
+  "Tay Bac University": {
+    "Oral Surgery": 0.05555555555555555,
+    "Orthodontics": 0.05555555555555555,
+    "Periodontics": 0.08333333333333333
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Oral Surgery": 0.21428571428571427,
+    "Orthodontics": 0.05555555555555555
+  },
+  "Văn Hiến University": {
+    "Oral Surgery": 0.5944444444444446,
+    "Orthodontics": 1.097089947089947
+  },
+  "Ho Chi Minh City University of Education": {
+    "Oral Surgery": 0.15,
+    "Orthodontics": 0.3457671957671957
+  },
+  "Hanoi Medical University Hospital": {
+    "Oral Surgery": 0.45043290043290035,
+    "Orthodontics": 0.06666666666666667,
+    "Periodontics": 0.11666666666666667
+  },
+  "Viet Tri University of Industry": {
+    "Oral Surgery": 0.0784313725490196,
+    "Periodontics": 0.06666666666666667
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Oral Surgery": 0.5075757575757576,
+    "Orthodontics": 0.16666666666666666
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Oral Surgery": 0.41666666666666663,
+    "Orthodontics": 0.5833333333333333,
+    "Periodontics": 1.5010101010101011
+  },
+  "Phu Yen University": {
+    "Oral Surgery": 0.041666666666666664
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Oral Surgery": 0.6166666666666668,
+    "Orthodontics": 0.26666666666666666,
+    "Periodontics": 0.16666666666666666
+  },
+  "Khanh Hoa General Hospital": {
+    "Oral Surgery": 0.32698412698412704,
+    "Periodontics": 0.41666666666666663
+  },
+  "National Institute of Veterinary Research": {
+    "Oral Surgery": 0.4999999999999999
+  },
+  "Children's Hospital 2": {
+    "Oral Surgery": 0.12222222222222222,
+    "Orthodontics": 0.2222222222222222
+  },
+  "University of Khanh Hoa": {
+    "Oral Surgery": 0.7222222222222222,
+    "Orthodontics": 0.3333333333333333,
+    "Periodontics": 0.38888888888888884
+  },
+  "General Clinic Phương Nam": {
+    "Oral Surgery": 0.25
+  },
+  "Ho Chi Minh City International University": {
+    "Oral Surgery": 0.1414141414141414,
+    "Orthodontics": 0.2777777777777778,
+    "Periodontics": 0.3333333333333333
+  },
+  "Vinh Long University of Technology Education": {
+    "Oral Surgery": 0.23703703703703705,
+    "Periodontics": 0.6555555555555554
+  },
+  "Phenikaa (Vietnam)": {
+    "Oral Surgery": 0.027777777777777776,
+    "Orthodontics": 0.08333333333333333
+  },
+  "Ministry of Science and Technology": {
+    "Oral Surgery": 0.027777777777777776
+  },
+  "Tra Vinh University": {
+    "Oral Surgery": 0.06699346405228758,
+    "Orthodontics": 1.6027077497665736,
+    "Periodontics": 0.0992063492063492
+  },
+  "Vinmec International Hospital": {
+    "Oral Surgery": 0.41666666666666663,
+    "Orthodontics": 0.045454545454545456,
+    "Periodontics": 0.3946608946608946
+  },
+  "Dong Thap University": {
+    "Oral Surgery": 0.06666666666666667,
+    "Orthodontics": 0.041666666666666664
+  },
+  "Hanoi University of Industry": {
+    "Oral Surgery": 0.3115079365079365,
+    "Orthodontics": 0.03333333333333333,
+    "Periodontics": 0.9500000000000002
+  },
+  "Bình Dương University": {
+    "Oral Surgery": 0.21428571428571427,
+    "Orthodontics": 0.1111111111111111,
+    "Periodontics": 0.4861111111111111
+  },
+  "Thai Nguyen National General Hospital": {
+    "Oral Surgery": 0.2,
+    "Orthodontics": 0.1111111111111111
+  },
+  "Vietnam Sweden hospital": {
+    "Oral Surgery": 0.25,
+    "Orthodontics": 0.3333333333333333,
+    "Periodontics": 0.2222222222222222
+  },
+  "Vinh Medical University": {
+    "Oral Surgery": 0.2222222222222222
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Oral Surgery": 0.06666666666666667,
+    "Periodontics": 0.5
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Oral Surgery": 0.3333333333333333
+  },
+  "My Duc Hospital": {
+    "Oral Surgery": 0.1111111111111111
+  },
+  "Vietnam National University of Forestry": {
+    "Orthodontics": 0.2222222222222222
+  },
+  "Agricultural Genetics Institute": {
+    "Orthodontics": 0.1111111111111111
+  },
+  "International Center for Tropical Agriculture": {
+    "Orthodontics": 0.27142857142857146
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Orthodontics": 0.03333333333333333,
+    "Periodontics": 0.26388888888888884
+  },
+  "Academy Of Finance": {
+    "Orthodontics": 0.3333333333333333
+  },
+  "Vinh University": {
+    "Orthodontics": 0.05555555555555555,
+    "Periodontics": 0.26666666666666666
+  },
+  "Institute of Population, Health and Development": {
+    "Periodontics": 0.18253968253968253
+  },
+  "Field Crops Research Institute": {
+    "Periodontics": 0.06666666666666667
+  },
+  "Vietnam National University of Agriculture": {
+    "Periodontics": 0.03333333333333333
+  },
+  "Forest Industry Research Institute": {
+    "Periodontics": 0.2
+  },
+  "Trung Vuong University": {
+    "Periodontics": 0.4285714285714285
+  },
+  "Vinh Phuc Department of Health": {
+    "Periodontics": 0.03333333333333333
+  },
+  "Ho Chi Minh City Open University": {
+    "Periodontics": 0.1111111111111111
+  },
+  "Hanoi University of Civil Engineering": {
+    "Periodontics": 0.4
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Periodontics": 0.5
+  },
+  "Hung Yen University of Technology and Education": {
+    "Periodontics": 0.26388888888888884
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Periodontics": 0.1111111111111111
+  },
+  "Center for Promotion of Advancement of Society": {
+    "Periodontics": 0.011904761904761904
+  },
+  "Hanoi Lung Hospital": {
+    "Periodontics": 0.023809523809523808
+  },
+  "Hanoi Architectural University": {
+    "Periodontics": 0.16666666666666666
+  }
+}

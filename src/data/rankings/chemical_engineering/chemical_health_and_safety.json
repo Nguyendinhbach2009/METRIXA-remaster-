@@ -1,0 +1,360 @@
+{
+  "ranking": [
+    {
+      "university": "National Institute Of Hygiene And Epidemiology",
+      "totalContribution": 3.549206349206349
+    },
+    {
+      "university": "Ministry of Health",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Ho Chi Minh National Academy of Politics",
+      "totalContribution": 0.4722222222222222
+    },
+    {
+      "university": "Hospital for Tropical Diseases",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vietnam Maritime University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.29166666666666663
+    },
+    {
+      "university": "Vietnam National University, Hanoi",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Diplomatic Academy of Vietnam",
+      "totalContribution": 0.2222222222222222
+    },
+    {
+      "university": "Ho Chi Minh City University of Education",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.14444444444444443
+    },
+    {
+      "university": "Hanoi University of Natural Resources and Environment",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Vietnamese-German University",
+      "totalContribution": 0.1
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.047619047619047616
+    },
+    {
+      "university": "Hanoi Architectural University",
+      "totalContribution": 0.041666666666666664
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.03333333333333333
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 0.03333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Diplomatic Academy of Vietnam": [
+      {
+        "author": "Ruth Vergin",
+        "contribution": 0.2222222222222222,
+        "percent": 1.0
+      }
+    ],
+    "National Institute Of Hygiene And Epidemiology": [
+      {
+        "author": "Radim J. Šrám",
+        "contribution": 0.43946540880503143,
+        "percent": 0.12382075471698113
+      },
+      {
+        "author": "Brian D. Milligan",
+        "contribution": 0.43946540880503143,
+        "percent": 0.12382075471698113
+      },
+      {
+        "author": "O Macek",
+        "contribution": 0.43946540880503143,
+        "percent": 0.12382075471698113
+      },
+      {
+        "author": "JD Swanepoel",
+        "contribution": 0.43946540880503143,
+        "percent": 0.12382075471698113
+      },
+      {
+        "author": "Pavel Rössner",
+        "contribution": 0.39551886792452823,
+        "percent": 0.111438679245283
+      },
+      {
+        "author": "B. Kufman",
+        "contribution": 0.21973270440251572,
+        "percent": 0.061910377358490566
+      },
+      {
+        "author": "V. Lenger",
+        "contribution": 0.21973270440251572,
+        "percent": 0.061910377358490566
+      },
+      {
+        "author": "Václav Hájek",
+        "contribution": 0.16113731656184488,
+        "percent": 0.04540094339622642
+      },
+      {
+        "author": "E. Hlucháň",
+        "contribution": 0.14648846960167713,
+        "percent": 0.041273584905660375
+      },
+      {
+        "author": "M. Jeník",
+        "contribution": 0.14648846960167713,
+        "percent": 0.041273584905660375
+      },
+      {
+        "author": "H Pohlová",
+        "contribution": 0.14648846960167713,
+        "percent": 0.041273584905660375
+      },
+      {
+        "author": "Thuong Nguyen",
+        "contribution": 0.11719077568134172,
+        "percent": 0.0330188679245283
+      },
+      {
+        "author": "Jaroslav Petr",
+        "contribution": 0.0878930817610063,
+        "percent": 0.02476415094339623
+      },
+      {
+        "author": "Anna Pastorková",
+        "contribution": 0.0878930817610063,
+        "percent": 0.02476415094339623
+      },
+      {
+        "author": "J. Francisco Periago",
+        "contribution": 0.06278077268643306,
+        "percent": 0.01768867924528302
+      }
+    ],
+    "Hanoi University of Natural Resources and Environment": [
+      {
+        "author": "Doan Thi Toi",
+        "contribution": 0.03333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Luong Duy Hanh",
+        "contribution": 0.03333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Nguyen Khac Kinh",
+        "contribution": 0.03333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "VNU University of Science": [
+      {
+        "author": "Vo Hoang Bao",
+        "contribution": 0.1111111111111111,
+        "percent": 0.7692307692307693
+      },
+      {
+        "author": "Pham Hung Viet",
+        "contribution": 0.03333333333333333,
+        "percent": 0.23076923076923078
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Khue Ngoc Luong",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Kim Thuy Nguyen",
+        "contribution": 0.03333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Hospital for Tropical Diseases": [
+      {
+        "author": "J. W. D. Megaw",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "M. N. Mullick",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Nguyễn Thành Tiên",
+        "contribution": 0.047619047619047616,
+        "percent": 1.0
+      }
+    ],
+    "Vietnamese-German University": [
+      {
+        "author": "Manuel Clavel",
+        "contribution": 0.1,
+        "percent": 1.0
+      }
+    ],
+    "Ministry of Health": [
+      {
+        "author": "M. Rizki Imanuddin",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Muhammad Andik Izzuddin",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Yusnita Sari",
+        "contribution": 0.3333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam National University, Hanoi": [
+      {
+        "author": "Lan Thi Thuong Vo",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Loan Phuong Thi Pham",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Tung Pham",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Vietnam Maritime University": [
+      {
+        "author": "Thi Thuy Hong Nguyen",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      },
+      {
+        "author": "Thuy-Tien Le",
+        "contribution": 0.16666666666666666,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh National Academy of Politics": [
+      {
+        "author": "Hoang Thi Kim Quy",
+        "contribution": 0.3373015873015873,
+        "percent": 0.7142857142857143
+      },
+      {
+        "author": "Tran Dinh Lam Anh",
+        "contribution": 0.13492063492063494,
+        "percent": 0.28571428571428575
+      }
+    ],
+    "Ho Chi Minh City University of Education": [
+      {
+        "author": "Anh Duc Le",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Hoang Phuong Mai",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Ngoc Chat Tran",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University Ho Chi Minh City": [
+      {
+        "author": "Quoc B Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Duy Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Long Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Minh Le",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Ngoc Le",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Phuong Anh Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Quan Le",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Tuan Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Hanoi Architectural University": [
+      {
+        "author": "Tung Vu",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

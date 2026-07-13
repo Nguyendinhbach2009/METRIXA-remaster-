@@ -1,0 +1,126 @@
+{
+  "ranking": [
+    {
+      "university": "University of Languages and International Studies",
+      "totalContribution": 1.1666666666666665
+    },
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Forest Industry Research Institute",
+      "totalContribution": 0.5555555555555556
+    },
+    {
+      "university": "Tân Tạo University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "University of Da Nang",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ho Chi Minh City University of Social Sciences and Humanities",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Hanoi Architectural University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Institute of Marine Geology and Geophysics",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 0.3333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Tân Tạo University": [
+      {
+        "author": "María Emilia Martínez Fresneda",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Emanuela Nanni",
+        "contribution": 0.38888888888888884,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "Daniel Padilha Pacheco da Costa",
+        "contribution": 0.19444444444444442,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "University of Languages and International Studies": [
+      {
+        "author": "Michele Toss",
+        "contribution": 0.7777777777777777,
+        "percent": 0.6666666666666666
+      },
+      {
+        "author": "DU Zhi-qing",
+        "contribution": 0.38888888888888884,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Hanoi Architectural University": [
+      {
+        "author": "Michael Jasper",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Da Nang": [
+      {
+        "author": "Phuong Nguyen",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Institute of Marine Geology and Geophysics": [
+      {
+        "author": "Karol Karp",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Forest Industry Research Institute": [
+      {
+        "author": "Luiz Felipe Ferreira",
+        "contribution": 0.33333333333333337,
+        "percent": 0.6000000000000001
+      },
+      {
+        "author": "Isabela Alcantara do Nascimento",
+        "contribution": 0.11111111111111112,
+        "percent": 0.2
+      },
+      {
+        "author": "Vinicius Do Nascimento Silva Mano",
+        "contribution": 0.11111111111111112,
+        "percent": 0.2
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Trang Nguyen Thi Thuy",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Social Sciences and Humanities": [
+      {
+        "author": "Kieu Thi Thu Chung",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

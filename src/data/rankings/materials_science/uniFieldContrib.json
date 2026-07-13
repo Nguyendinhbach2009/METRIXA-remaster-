@@ -1,0 +1,1335 @@
+{
+  "Vietnam Military Medical University": {
+    "Biomaterials": 4.843865801954034,
+    "Ceramics and Composites": 0.16666666666666666,
+    "Electronic, Optical and Magnetic Materials": 1.2857984607984605,
+    "General Materials Science": 0.3333333333333333,
+    "Materials Chemistry": 11.17635281385281,
+    "Polymers and Plastics": 1.885119047619048,
+    "Surfaces, Coatings and Films": 0.5777777777777777
+  },
+  "Institute of Materials Science": {
+    "Biomaterials": 4.592890905390908,
+    "Ceramics and Composites": 7.609589947089939,
+    "Electronic, Optical and Magnetic Materials": 37.3575604950606,
+    "General Materials Science": 15.013888888888884,
+    "Materials Chemistry": 81.62423271173277,
+    "Metals and Alloys": 1.1777777777777778,
+    "Polymers and Plastics": 7.559968272468269,
+    "Surfaces, Coatings and Films": 2.8571428571428554
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Biomaterials": 179.10080646477465,
+    "Ceramics and Composites": 10.56782351635291,
+    "Electronic, Optical and Magnetic Materials": 176.51602259252982,
+    "General Materials Science": 4.929395604395602,
+    "Materials Chemistry": 428.90163070746195,
+    "Metals and Alloys": 2.000132275132276,
+    "Polymers and Plastics": 83.1947510822513,
+    "Surfaces, Coatings and Films": 16.1848059348059
+  },
+  "Hanoi University of Mining and Geology": {
+    "Biomaterials": 11.71211196211195,
+    "Ceramics and Composites": 0.5888888888888888,
+    "Electronic, Optical and Magnetic Materials": 7.624650812150809,
+    "General Materials Science": 0.5138888888888888,
+    "Materials Chemistry": 25.277256077256116,
+    "Metals and Alloys": 0.1111111111111111,
+    "Polymers and Plastics": 4.636469086469087,
+    "Surfaces, Coatings and Films": 0.7083333333333333
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Biomaterials": 15.355849705849694,
+    "Ceramics and Composites": 1.6638888888888894,
+    "Electronic, Optical and Magnetic Materials": 2.299562474562475,
+    "Materials Chemistry": 19.70119024494024,
+    "Metals and Alloys": 0.5,
+    "Polymers and Plastics": 11.238624338624343,
+    "Surfaces, Coatings and Films": 0.7807539682539683
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Biomaterials": 206.20087886206537,
+    "Ceramics and Composites": 10.669973544973532,
+    "Electronic, Optical and Magnetic Materials": 137.75382256632236,
+    "General Materials Science": 2.8865079365079365,
+    "Materials Chemistry": 536.2520940567424,
+    "Metals and Alloys": 2.236507936507937,
+    "Polymers and Plastics": 125.74863030488058,
+    "Surfaces, Coatings and Films": 22.60644415497364
+  },
+  "Quảng Bình University": {
+    "Biomaterials": 0.16190476190476188,
+    "Ceramics and Composites": 0.3333333333333333,
+    "Electronic, Optical and Magnetic Materials": 0.3333333333333333,
+    "Materials Chemistry": 4.406659544159545,
+    "Polymers and Plastics": 0.514000814000814
+  },
+  "Institute for Computational Science and Technology": {
+    "Biomaterials": 1.9374458874458875,
+    "Ceramics and Composites": 0.1111111111111111,
+    "Electronic, Optical and Magnetic Materials": 2.1640211640211646,
+    "Materials Chemistry": 21.37248677248679,
+    "Polymers and Plastics": 1.402116402116402,
+    "Surfaces, Coatings and Films": 0.16666666666666666
+  },
+  "Duy Tan University": {
+    "Biomaterials": 27.186824790133585,
+    "Ceramics and Composites": 19.384734247234245,
+    "Electronic, Optical and Magnetic Materials": 51.83870607663214,
+    "General Materials Science": 1.7857142857142858,
+    "Materials Chemistry": 290.69366806295614,
+    "Metals and Alloys": 3.0362433862433886,
+    "Polymers and Plastics": 19.616459289621055,
+    "Surfaces, Coatings and Films": 3.561590343207988
+  },
+  "Hue University": {
+    "Biomaterials": 14.718387168387164,
+    "Ceramics and Composites": 1.8166666666666664,
+    "Electronic, Optical and Magnetic Materials": 11.049937510889515,
+    "General Materials Science": 0.8809523809523809,
+    "Materials Chemistry": 99.42851775417552,
+    "Metals and Alloys": 1.2,
+    "Polymers and Plastics": 6.221927963104431,
+    "Surfaces, Coatings and Films": 0.9722222222222221
+  },
+  "Hanoi University of Industry": {
+    "Biomaterials": 19.348308173308187,
+    "Ceramics and Composites": 2.277777777777778,
+    "Electronic, Optical and Magnetic Materials": 10.176550593655852,
+    "General Materials Science": 4.719444444444442,
+    "Materials Chemistry": 52.258951696451994,
+    "Polymers and Plastics": 35.04162827912838,
+    "Surfaces, Coatings and Films": 1.5219576719576717
+  },
+  "Ho Chi Minh City University of Science": {
+    "Biomaterials": 21.97621452621457,
+    "Ceramics and Composites": 0.8758267195767196,
+    "Electronic, Optical and Magnetic Materials": 14.414273689273681,
+    "General Materials Science": 0.3333333333333333,
+    "Materials Chemistry": 72.89694108995607,
+    "Metals and Alloys": 0.13333333333333333,
+    "Polymers and Plastics": 22.252162420912477,
+    "Surfaces, Coatings and Films": 2.0448653198653197
+  },
+  "Hanoi University": {
+    "Biomaterials": 2.9175384800384796,
+    "Ceramics and Composites": 7.533964646464639,
+    "Electronic, Optical and Magnetic Materials": 35.70017107075938,
+    "General Materials Science": 1.1682539682539683,
+    "Materials Chemistry": 64.7438048063051,
+    "Polymers and Plastics": 9.830555555555545,
+    "Surfaces, Coatings and Films": 1.2777777777777777
+  },
+  "Saigon Technology University": {
+    "Biomaterials": 3.3173280423280405,
+    "Electronic, Optical and Magnetic Materials": 4.45350529100529,
+    "General Materials Science": 0.3333333333333333,
+    "Materials Chemistry": 5.554713804713801,
+    "Metals and Alloys": 0.16666666666666666,
+    "Polymers and Plastics": 1.8654761904761916
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Biomaterials": 2.3863997113997124,
+    "Electronic, Optical and Magnetic Materials": 0.20833333333333331,
+    "Materials Chemistry": 1.9009615384615381
+  },
+  "Can Tho University": {
+    "Biomaterials": 48.369264667794425,
+    "Ceramics and Composites": 1.1702741702741701,
+    "Electronic, Optical and Magnetic Materials": 10.021774984274973,
+    "General Materials Science": 1.408333333333333,
+    "Materials Chemistry": 98.01709924062871,
+    "Metals and Alloys": 0.4583333333333333,
+    "Polymers and Plastics": 10.952065989565984,
+    "Surfaces, Coatings and Films": 2.2025132275132275
+  },
+  "Vietnam National University of Forestry": {
+    "Biomaterials": 1.557539682539683,
+    "Electronic, Optical and Magnetic Materials": 1.5277472527472524,
+    "General Materials Science": 0.1111111111111111,
+    "Materials Chemistry": 4.152380952380952,
+    "Polymers and Plastics": 4.649206349206347,
+    "Surfaces, Coatings and Films": 0.7047619047619047
+  },
+  "Hanoi National University of Education": {
+    "Biomaterials": 11.131342268842257,
+    "Ceramics and Composites": 5.622919672919669,
+    "Electronic, Optical and Magnetic Materials": 47.216955729455925,
+    "General Materials Science": 2.572222222222222,
+    "Materials Chemistry": 129.37297176507718,
+    "Polymers and Plastics": 20.40067525067527,
+    "Surfaces, Coatings and Films": 1.4436507936507934
+  },
+  "VNU University of Science": {
+    "Biomaterials": 14.596998752881085,
+    "Ceramics and Composites": 2.4605820105820095,
+    "Electronic, Optical and Magnetic Materials": 47.913244571332974,
+    "General Materials Science": 1.3416666666666666,
+    "Materials Chemistry": 139.19469650719628,
+    "Metals and Alloys": 0.1111111111111111,
+    "Polymers and Plastics": 10.99535233285232,
+    "Surfaces, Coatings and Films": 5.333333333333332
+  },
+  "Vietnam National University, Hanoi": {
+    "Biomaterials": 31.07238755253465,
+    "Ceramics and Composites": 1.4027777777777777,
+    "Electronic, Optical and Magnetic Materials": 80.18200382134226,
+    "General Materials Science": 3.6535714285714285,
+    "Materials Chemistry": 147.19407953157844,
+    "Metals and Alloys": 0.38095238095238093,
+    "Polymers and Plastics": 22.271506734006785,
+    "Surfaces, Coatings and Films": 4.984656084656085
+  },
+  "Hanoi University of Pharmacy": {
+    "Biomaterials": 10.047099197099199,
+    "Electronic, Optical and Magnetic Materials": 1.3981481481481481,
+    "Materials Chemistry": 5.6217985717985695,
+    "Polymers and Plastics": 2.581847781847781,
+    "Surfaces, Coatings and Films": 0.6753968253968254
+  },
+  "Viet Tri University of Industry": {
+    "Biomaterials": 2.5426587301587307,
+    "Electronic, Optical and Magnetic Materials": 0.2908249158249158,
+    "General Materials Science": 0.75,
+    "Materials Chemistry": 2.5306878306878313,
+    "Polymers and Plastics": 1.9658068783068783
+  },
+  "Hanoi University of Science and Technology": {
+    "Biomaterials": 57.03845413845441,
+    "Ceramics and Composites": 37.90171957671967,
+    "Electronic, Optical and Magnetic Materials": 126.70995023495044,
+    "General Materials Science": 6.640476190476189,
+    "Materials Chemistry": 429.4992186054566,
+    "Metals and Alloys": 5.726984126984126,
+    "Polymers and Plastics": 125.51282305657323,
+    "Surfaces, Coatings and Films": 10.356421356421343
+  },
+  "Cat Tien National Park": {
+    "Biomaterials": 2.19084249084249,
+    "Electronic, Optical and Magnetic Materials": 0.22142857142857142,
+    "Materials Chemistry": 5.3888888888888875,
+    "Metals and Alloys": 0.05555555555555555,
+    "Polymers and Plastics": 1.211111111111111
+  },
+  "Electric Power University": {
+    "Biomaterials": 10.48552789802789,
+    "Ceramics and Composites": 1.296825396825397,
+    "Electronic, Optical and Magnetic Materials": 21.208296795796812,
+    "General Materials Science": 0.45833333333333326,
+    "Materials Chemistry": 87.23387579196422,
+    "Metals and Alloys": 1.004761904761905,
+    "Polymers and Plastics": 10.58955257705257,
+    "Surfaces, Coatings and Films": 7.275396825396817
+  },
+  "Vinh University": {
+    "Biomaterials": 5.340760165760162,
+    "Ceramics and Composites": 0.7962962962962963,
+    "Electronic, Optical and Magnetic Materials": 14.982058682058668,
+    "General Materials Science": 0.7499999999999998,
+    "Materials Chemistry": 27.120654808154892,
+    "Polymers and Plastics": 2.168876262626262,
+    "Surfaces, Coatings and Films": 0.6589743589743591
+  },
+  "Ho Chi Minh City International University": {
+    "Biomaterials": 3.9314935064935046,
+    "Electronic, Optical and Magnetic Materials": 0.9555555555555556,
+    "Materials Chemistry": 3.0527777777777776,
+    "Polymers and Plastics": 0.5761904761904761,
+    "Surfaces, Coatings and Films": 0.45436507936507936
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Biomaterials": 31.056866281866284,
+    "Ceramics and Composites": 2.393386243386243,
+    "Electronic, Optical and Magnetic Materials": 16.787956025456012,
+    "General Materials Science": 0.7976190476190476,
+    "Materials Chemistry": 112.81434722684692,
+    "Metals and Alloys": 0.8988095238095237,
+    "Polymers and Plastics": 22.935185185185173,
+    "Surfaces, Coatings and Films": 0.930952380952381
+  },
+  "Institute of Mathematics": {
+    "Biomaterials": 4.108896658896657,
+    "Ceramics and Composites": 0.1388888888888889,
+    "Electronic, Optical and Magnetic Materials": 4.796896597554492,
+    "General Materials Science": 0.75,
+    "Materials Chemistry": 20.132928182928218,
+    "Polymers and Plastics": 5.704807692307693,
+    "Surfaces, Coatings and Films": 0.7441558441558439
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Biomaterials": 3.722424879042527,
+    "Ceramics and Composites": 0.27077922077922073,
+    "Electronic, Optical and Magnetic Materials": 4.077356269461529,
+    "Materials Chemistry": 20.42336020532617,
+    "Metals and Alloys": 0.041666666666666664,
+    "Polymers and Plastics": 1.1025252525252527,
+    "Surfaces, Coatings and Films": 0.5329500221141088
+  },
+  "Nha Trang University": {
+    "Biomaterials": 12.073469259498658,
+    "Ceramics and Composites": 0.625,
+    "Electronic, Optical and Magnetic Materials": 9.525529100529084,
+    "General Materials Science": 1.6964285714285714,
+    "Materials Chemistry": 23.29955414955414,
+    "Metals and Alloys": 0.06666666666666667,
+    "Polymers and Plastics": 6.06025132275132,
+    "Surfaces, Coatings and Films": 1.364285714285714
+  },
+  "General Department of Preventive Medicine": {
+    "Biomaterials": 1.2855820105820108,
+    "Ceramics and Composites": 0.030303030303030304,
+    "Electronic, Optical and Magnetic Materials": 0.19444444444444448,
+    "General Materials Science": 0.3333333333333333,
+    "Materials Chemistry": 3.63797852474323,
+    "Surfaces, Coatings and Films": 0.39999999999999997
+  },
+  "Thai Nguyen University": {
+    "Biomaterials": 18.39510882635884,
+    "Ceramics and Composites": 6.8662037037037,
+    "Electronic, Optical and Magnetic Materials": 33.34057450833781,
+    "General Materials Science": 0.29166666666666663,
+    "Materials Chemistry": 102.62914354164336,
+    "Metals and Alloys": 0.08333333333333333,
+    "Polymers and Plastics": 4.232145863395861,
+    "Surfaces, Coatings and Films": 5.077777777777778
+  },
+  "Field Crops Research Institute": {
+    "Biomaterials": 1.0892857142857142,
+    "General Materials Science": 0.3333333333333333,
+    "Materials Chemistry": 1.0041666666666667,
+    "Polymers and Plastics": 2.2222222222222223
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Biomaterials": 0.41388888888888886,
+    "Materials Chemistry": 0.5634920634920635
+  },
+  "Vietnam National University of Agriculture": {
+    "Biomaterials": 4.778474303474304,
+    "Ceramics and Composites": 0.33333333333333337,
+    "Electronic, Optical and Magnetic Materials": 0.41666666666666663,
+    "General Materials Science": 0.1111111111111111,
+    "Materials Chemistry": 4.713816738816737,
+    "Metals and Alloys": 0.3333333333333333,
+    "Polymers and Plastics": 0.925595238095238
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Biomaterials": 21.55709383209381,
+    "Ceramics and Composites": 4.7222222222222205,
+    "Electronic, Optical and Magnetic Materials": 14.450160025160013,
+    "General Materials Science": 1.1222222222222222,
+    "Materials Chemistry": 104.53528739778736,
+    "Metals and Alloys": 1.0444444444444443,
+    "Polymers and Plastics": 27.899505587005642,
+    "Surfaces, Coatings and Films": 2.434126984126985
+  },
+  "National Institute of Animal Sciences": {
+    "Biomaterials": 0.1,
+    "Materials Chemistry": 0.11396011396011396,
+    "Polymers and Plastics": 0.1
+  },
+  "Hue University of Education": {
+    "Biomaterials": 0.3781746031746031,
+    "Electronic, Optical and Magnetic Materials": 2.808333333333334,
+    "Materials Chemistry": 12.284920634920622,
+    "Metals and Alloys": 0.2222222222222222,
+    "Polymers and Plastics": 0.7228446934329289
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Biomaterials": 1.4258503401360545,
+    "Materials Chemistry": 0.3055555555555556
+  },
+  "PetroVietnam University": {
+    "Biomaterials": 2.0424603174603173,
+    "Ceramics and Composites": 0.05555555555555555,
+    "Electronic, Optical and Magnetic Materials": 1.331944444444445,
+    "General Materials Science": 0.3333333333333333,
+    "Materials Chemistry": 6.063317700817697,
+    "Metals and Alloys": 0.8222222222222221,
+    "Polymers and Plastics": 0.8870370370370372,
+    "Surfaces, Coatings and Films": 2.277777777777778
+  },
+  "National Center for Technological Progress": {
+    "Biomaterials": 1.1924603174603174,
+    "Electronic, Optical and Magnetic Materials": 0.2833333333333333,
+    "Materials Chemistry": 2.7541666666666664,
+    "Polymers and Plastics": 0.12222222222222222,
+    "Surfaces, Coatings and Films": 1.4583333333333337
+  },
+  "Quy Nhon University": {
+    "Biomaterials": 3.2238095238095243,
+    "Ceramics and Composites": 0.2222222222222222,
+    "Electronic, Optical and Magnetic Materials": 10.979324379324373,
+    "Materials Chemistry": 45.58026094276123,
+    "Polymers and Plastics": 6.237451899951899,
+    "Surfaces, Coatings and Films": 0.4666666666666667
+  },
+  "Thuyloi University": {
+    "Biomaterials": 6.463780663780665,
+    "Ceramics and Composites": 6.4783910533910545,
+    "Electronic, Optical and Magnetic Materials": 2.2204545454545457,
+    "General Materials Science": 0.45,
+    "Materials Chemistry": 30.350580438080488,
+    "Metals and Alloys": 0.5703703703703703,
+    "Polymers and Plastics": 2.547011322011321,
+    "Surfaces, Coatings and Films": 1.0
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Biomaterials": 2.5945105820105816,
+    "Electronic, Optical and Magnetic Materials": 1.1488095238095237,
+    "Materials Chemistry": 7.753780941280935,
+    "Polymers and Plastics": 0.41428571428571426,
+    "Surfaces, Coatings and Films": 0.05555555555555555
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Biomaterials": 5.596713879802112,
+    "Ceramics and Composites": 1.252777777777778,
+    "Electronic, Optical and Magnetic Materials": 3.11219336219336,
+    "General Materials Science": 0.38888888888888895,
+    "Materials Chemistry": 47.73043121595771,
+    "Metals and Alloys": 0.7083333333333333,
+    "Polymers and Plastics": 5.688916475681178,
+    "Surfaces, Coatings and Films": 1.164021164021164
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Biomaterials": 2.4770129870129862,
+    "Electronic, Optical and Magnetic Materials": 0.041666666666666664,
+    "Materials Chemistry": 1.1098544973544973,
+    "Polymers and Plastics": 0.22727272727272727,
+    "Surfaces, Coatings and Films": 0.08333333333333333
+  },
+  "International Center for Tropical Agriculture": {
+    "Biomaterials": 8.342247567247558,
+    "Ceramics and Composites": 0.7499999999999999,
+    "Electronic, Optical and Magnetic Materials": 2.613906926406927,
+    "General Materials Science": 2.1506928256928255,
+    "Materials Chemistry": 15.629906204906176,
+    "Metals and Alloys": 0.9580808080808079,
+    "Polymers and Plastics": 9.02545093795093,
+    "Surfaces, Coatings and Films": 1.1944444444444444
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Biomaterials": 5.551280663780661,
+    "Electronic, Optical and Magnetic Materials": 0.5747702589807853,
+    "Materials Chemistry": 4.867303992303988,
+    "Polymers and Plastics": 0.6965728715728716,
+    "Surfaces, Coatings and Films": 0.08270676691729323
+  },
+  "Hanoi Pedagogical University 2": {
+    "Biomaterials": 3.4103835978835977,
+    "Ceramics and Composites": 0.1812169312169312,
+    "Electronic, Optical and Magnetic Materials": 3.701936026936025,
+    "General Materials Science": 0.41666666666666663,
+    "Materials Chemistry": 21.735549173049233,
+    "Polymers and Plastics": 2.155489417989418
+  },
+  "National Economics University": {
+    "Biomaterials": 0.20555555555555555,
+    "Ceramics and Composites": 0.09722222222222221,
+    "Electronic, Optical and Magnetic Materials": 0.5805555555555555,
+    "Materials Chemistry": 1.6687104562104562,
+    "Polymers and Plastics": 0.17619047619047618
+  },
+  "Hospital for Tropical Diseases": {
+    "Biomaterials": 0.25,
+    "Electronic, Optical and Magnetic Materials": 0.09953703703703703,
+    "Materials Chemistry": 0.549537037037037,
+    "Polymers and Plastics": 0.03333333333333333
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Biomaterials": 14.688443963443948,
+    "Ceramics and Composites": 0.05555555555555555,
+    "Electronic, Optical and Magnetic Materials": 2.031547619047619,
+    "Materials Chemistry": 13.780146242646238,
+    "Polymers and Plastics": 1.6095238095238096,
+    "Surfaces, Coatings and Films": 0.5833333333333333
+  },
+  "Trung Vuong University": {
+    "Biomaterials": 1.7267316017316023,
+    "Electronic, Optical and Magnetic Materials": 0.05,
+    "General Materials Science": 0.5952380952380951,
+    "Materials Chemistry": 10.312698412698408,
+    "Metals and Alloys": 0.3333333333333333,
+    "Polymers and Plastics": 0.5833333333333333
+  },
+  "Ton Duc Thang University": {
+    "Biomaterials": 38.0741045991048,
+    "Ceramics and Composites": 10.277882395382388,
+    "Electronic, Optical and Magnetic Materials": 50.54378908128945,
+    "General Materials Science": 0.7611111111111111,
+    "Materials Chemistry": 233.9425531096558,
+    "Metals and Alloys": 2.141666666666666,
+    "Polymers and Plastics": 36.575703463203546,
+    "Surfaces, Coatings and Films": 7.073255740361002
+  },
+  "Center for Health Consultation and Community Development": {
+    "Biomaterials": 0.18333333333333335
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Biomaterials": 0.41666666666666663,
+    "General Materials Science": 0.25,
+    "Materials Chemistry": 0.4534632034632034
+  },
+  "University of Da Nang": {
+    "Biomaterials": 11.901486013986005,
+    "Ceramics and Composites": 1.5053030303030304,
+    "Electronic, Optical and Magnetic Materials": 13.609310801570848,
+    "General Materials Science": 2.380158730158731,
+    "Materials Chemistry": 72.79026602052956,
+    "Metals and Alloys": 0.6055555555555555,
+    "Polymers and Plastics": 10.44114311614311,
+    "Surfaces, Coatings and Films": 3.6064814814814823
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Biomaterials": 0.3,
+    "Ceramics and Composites": 0.9166666666666669,
+    "Electronic, Optical and Magnetic Materials": 1.1111111111111114,
+    "Materials Chemistry": 3.513209013209014,
+    "Polymers and Plastics": 1.0000000000000002,
+    "Surfaces, Coatings and Films": 0.3333333333333333
+  },
+  "Dalat University": {
+    "Biomaterials": 5.695430495430494,
+    "Ceramics and Composites": 2.2665140415140415,
+    "Electronic, Optical and Magnetic Materials": 4.39844877344877,
+    "Materials Chemistry": 49.47470869773509,
+    "Metals and Alloys": 0.3703703703703704,
+    "Polymers and Plastics": 2.8663359788359792,
+    "Surfaces, Coatings and Films": 1.0601851851851851
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Biomaterials": 1.7579365079365086,
+    "Materials Chemistry": 3.1555250305250317
+  },
+  "Hanoi University of Civil Engineering": {
+    "Biomaterials": 1.2936507936507935,
+    "Ceramics and Composites": 1.3277777777777782,
+    "Electronic, Optical and Magnetic Materials": 0.9702380952380956,
+    "General Materials Science": 6.5611111111111065,
+    "Materials Chemistry": 48.93339947089951,
+    "Metals and Alloys": 0.6111111111111112,
+    "Polymers and Plastics": 3.994444444444442,
+    "Surfaces, Coatings and Films": 0.8037037037037036
+  },
+  "Hung Yen University of Technology and Education": {
+    "Biomaterials": 1.5759259259259257,
+    "Ceramics and Composites": 0.5833333333333333,
+    "Electronic, Optical and Magnetic Materials": 9.019593491304011,
+    "General Materials Science": 0.9333333333333336,
+    "Materials Chemistry": 41.59565897065902,
+    "Metals and Alloys": 0.7,
+    "Polymers and Plastics": 4.187962962962962,
+    "Surfaces, Coatings and Films": 0.9211640211640213
+  },
+  "Bạch Mai Hospital": {
+    "Biomaterials": 0.05263157894736842,
+    "Materials Chemistry": 1.3287037037037035,
+    "Polymers and Plastics": 0.06666666666666667
+  },
+  "Lac Hong University": {
+    "Biomaterials": 3.691883116883117,
+    "Ceramics and Composites": 0.037037037037037035,
+    "Electronic, Optical and Magnetic Materials": 3.510846560846561,
+    "General Materials Science": 0.7857142857142856,
+    "Materials Chemistry": 18.121956722614613,
+    "Polymers and Plastics": 2.056878306878307,
+    "Surfaces, Coatings and Films": 1.542989417989418
+  },
+  "An Giang University": {
+    "Biomaterials": 1.9065770486823117,
+    "Electronic, Optical and Magnetic Materials": 2.944444444444444,
+    "Materials Chemistry": 9.173893065998326,
+    "Polymers and Plastics": 0.6098484848484849,
+    "Surfaces, Coatings and Films": 0.4444444444444444
+  },
+  "Hồng Đức University": {
+    "Biomaterials": 1.118269230769231,
+    "Ceramics and Composites": 0.3333333333333333,
+    "Electronic, Optical and Magnetic Materials": 6.260329485329484,
+    "General Materials Science": 0.4861111111111111,
+    "Materials Chemistry": 12.218994893994886,
+    "Polymers and Plastics": 2.0118430180930176,
+    "Surfaces, Coatings and Films": 0.25
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Biomaterials": 28.30889619639629,
+    "Ceramics and Composites": 0.49484126984126997,
+    "Electronic, Optical and Magnetic Materials": 11.673339160839145,
+    "General Materials Science": 0.9523809523809523,
+    "Materials Chemistry": 104.29190439190475,
+    "Metals and Alloys": 0.2222222222222222,
+    "Polymers and Plastics": 11.074218374218361,
+    "Surfaces, Coatings and Films": 2.5514670514670508
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Biomaterials": 0.23703703703703702,
+    "Materials Chemistry": 0.25
+  },
+  "Institute of Biomedical Physics": {
+    "Biomaterials": 0.09696969696969697,
+    "Materials Chemistry": 1.5636363636363635,
+    "Polymers and Plastics": 0.23809523809523808
+  },
+  "Tien Giang General Hospital": {
+    "Biomaterials": 0.6648148148148147,
+    "Electronic, Optical and Magnetic Materials": 0.027777777777777776,
+    "Materials Chemistry": 2.5954628704628706,
+    "Polymers and Plastics": 0.23625541125541122
+  },
+  "Dong Thap University": {
+    "Biomaterials": 0.9972222222222221,
+    "Ceramics and Composites": 0.037037037037037035,
+    "Electronic, Optical and Magnetic Materials": 3.803540903540905,
+    "Materials Chemistry": 33.160777185777235,
+    "Polymers and Plastics": 0.998160173160173,
+    "Surfaces, Coatings and Films": 0.16666666666666666
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Biomaterials": 1.64702380952381,
+    "Ceramics and Composites": 0.12169312169312169,
+    "Electronic, Optical and Magnetic Materials": 1.2699915824915826,
+    "Materials Chemistry": 4.3532106782106785,
+    "Polymers and Plastics": 1.8506944444444449,
+    "Surfaces, Coatings and Films": 0.5333333333333333
+  },
+  "Le Quy Don Technical University": {
+    "Biomaterials": 3.3870370370370373,
+    "Ceramics and Composites": 0.49999999999999994,
+    "Electronic, Optical and Magnetic Materials": 18.02945480445482,
+    "General Materials Science": 6.463888888888885,
+    "Materials Chemistry": 148.1028469079939,
+    "Metals and Alloys": 0.4444444444444444,
+    "Polymers and Plastics": 13.025441034999849,
+    "Surfaces, Coatings and Films": 2.84047619047619
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Biomaterials": 4.226587301587304,
+    "Materials Chemistry": 1.9047619047619049,
+    "Polymers and Plastics": 0.08333333333333333
+  },
+  "University of Khanh Hoa": {
+    "Biomaterials": 0.8495726495726496,
+    "Ceramics and Composites": 0.16666666666666666,
+    "Electronic, Optical and Magnetic Materials": 0.49346978557504867,
+    "Materials Chemistry": 9.78630952380952,
+    "Polymers and Plastics": 0.38095238095238093
+  },
+  "Hanoi Open University": {
+    "Biomaterials": 3.2301587301587302,
+    "Ceramics and Composites": 2.8333333333333335,
+    "Electronic, Optical and Magnetic Materials": 2.444444444444444,
+    "General Materials Science": 3.833333333333333,
+    "Materials Chemistry": 26.79477513227513,
+    "Metals and Alloys": 2.833333333333333,
+    "Polymers and Plastics": 5.3999999999999995,
+    "Surfaces, Coatings and Films": 0.7916666666666666
+  },
+  "University of Hai Duong": {
+    "Biomaterials": 1.0703703703703702,
+    "Ceramics and Composites": 0.3333333333333333,
+    "Electronic, Optical and Magnetic Materials": 0.7284511784511785,
+    "General Materials Science": 1.0,
+    "Materials Chemistry": 2.538888888888889,
+    "Metals and Alloys": 0.1,
+    "Polymers and Plastics": 0.5
+  },
+  "Tân Tạo University": {
+    "Biomaterials": 6.1656746031746,
+    "Ceramics and Composites": 3.1944444444444446,
+    "Electronic, Optical and Magnetic Materials": 6.116666666666665,
+    "General Materials Science": 1.9999999999999998,
+    "Materials Chemistry": 38.777490564990615,
+    "Metals and Alloys": 0.5,
+    "Polymers and Plastics": 7.397619047619047,
+    "Surfaces, Coatings and Films": 1.1666666666666665
+  },
+  "Van Lang University": {
+    "Biomaterials": 10.075192400192401,
+    "Ceramics and Composites": 2.944179894179894,
+    "Electronic, Optical and Magnetic Materials": 14.396692912139128,
+    "General Materials Science": 1.9555555555555555,
+    "Materials Chemistry": 79.64557456167873,
+    "Metals and Alloys": 1.622763347763348,
+    "Polymers and Plastics": 7.101467051467046,
+    "Surfaces, Coatings and Films": 0.8150793650793651
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Biomaterials": 0.2713804713804714,
+    "Ceramics and Composites": 0.3055555555555555,
+    "Electronic, Optical and Magnetic Materials": 0.11666666666666667,
+    "Materials Chemistry": 4.662319624819625,
+    "Polymers and Plastics": 0.037037037037037035
+  },
+  "Thang Long University": {
+    "Biomaterials": 2.2231792717086827,
+    "Ceramics and Composites": 0.37037037037037035,
+    "Electronic, Optical and Magnetic Materials": 4.136591478696741,
+    "General Materials Science": 2.1,
+    "Materials Chemistry": 10.870980870980867,
+    "Metals and Alloys": 0.5666666666666667,
+    "Polymers and Plastics": 11.477777777777778,
+    "Surfaces, Coatings and Films": 2.333333333333333
+  },
+  "Vietnam Sweden hospital": {
+    "Biomaterials": 0.125,
+    "Materials Chemistry": 2.0893874643874644,
+    "Polymers and Plastics": 0.0754985754985755
+  },
+  "National Library of Vietnam": {
+    "Biomaterials": 0.9924094424094427
+  },
+  "Forest Industry Research Institute": {
+    "Biomaterials": 1.7370370370370376,
+    "Ceramics and Composites": 0.06666666666666667,
+    "Materials Chemistry": 0.4972222222222222,
+    "Polymers and Plastics": 0.5158730158730158,
+    "Surfaces, Coatings and Films": 0.06666666666666667
+  },
+  "Vietnam National Children's Hospital": {
+    "Biomaterials": 0.4093434343434344,
+    "Ceramics and Composites": 0.25,
+    "Materials Chemistry": 1.7377622377622373,
+    "Polymers and Plastics": 0.07692307692307693
+  },
+  "Bình Dương University": {
+    "Biomaterials": 2.6138888888888894,
+    "Ceramics and Composites": 0.23333333333333334,
+    "Electronic, Optical and Magnetic Materials": 0.8680555555555556,
+    "Materials Chemistry": 13.896307396307392,
+    "Metals and Alloys": 0.10833333333333334,
+    "Polymers and Plastics": 0.732936507936508,
+    "Surfaces, Coatings and Films": 0.047619047619047616
+  },
+  "Hanoi Medical University": {
+    "Biomaterials": 1.5135281385281376,
+    "Ceramics and Composites": 0.0625,
+    "Electronic, Optical and Magnetic Materials": 0.27856310356310354,
+    "Materials Chemistry": 2.0077612202612203,
+    "Metals and Alloys": 0.20833333333333331,
+    "Polymers and Plastics": 0.15833333333333333,
+    "Surfaces, Coatings and Films": 0.08333333333333333
+  },
+  "Baria Vungtau University": {
+    "Biomaterials": 0.2837301587301587,
+    "Electronic, Optical and Magnetic Materials": 0.05,
+    "Materials Chemistry": 1.4055555555555554,
+    "Polymers and Plastics": 0.3333333333333333
+  },
+  "Tra Vinh University": {
+    "Biomaterials": 3.4872294372294372,
+    "Ceramics and Composites": 0.037037037037037035,
+    "Electronic, Optical and Magnetic Materials": 3.0707671957671954,
+    "Materials Chemistry": 17.832881470381476,
+    "Polymers and Plastics": 0.49915824915824913,
+    "Surfaces, Coatings and Films": 0.2976190476190476
+  },
+  "Phenikaa (Vietnam)": {
+    "Biomaterials": 1.4453472453472453,
+    "Ceramics and Composites": 2.2833333333333328,
+    "Electronic, Optical and Magnetic Materials": 4.620327357827357,
+    "Materials Chemistry": 22.441551333656594,
+    "Metals and Alloys": 0.425,
+    "Polymers and Plastics": 3.751599326599327,
+    "Surfaces, Coatings and Films": 2.6888888888888896
+  },
+  "University of Transport and Communications": {
+    "Biomaterials": 1.1165695415695418,
+    "Ceramics and Composites": 1.972222222222222,
+    "Electronic, Optical and Magnetic Materials": 2.557822270322271,
+    "General Materials Science": 1.325,
+    "Materials Chemistry": 32.52661643911646,
+    "Metals and Alloys": 0.25925925925925924,
+    "Polymers and Plastics": 6.430891330891327,
+    "Surfaces, Coatings and Films": 0.03333333333333333
+  },
+  "Phu Yen University": {
+    "Biomaterials": 0.3324074074074074,
+    "Ceramics and Composites": 0.6666666666666666,
+    "Electronic, Optical and Magnetic Materials": 0.1,
+    "Materials Chemistry": 4.432539682539683,
+    "Polymers and Plastics": 0.06666666666666667,
+    "Surfaces, Coatings and Films": 0.3333333333333333
+  },
+  "Văn Hiến University": {
+    "Biomaterials": 1.8869047619047616,
+    "Ceramics and Composites": 0.19444444444444442,
+    "Electronic, Optical and Magnetic Materials": 2.3674603174603175,
+    "Materials Chemistry": 3.011507936507936,
+    "Polymers and Plastics": 0.26587301587301587
+  },
+  "Ministry of Health": {
+    "Biomaterials": 0.5256410256410257,
+    "Ceramics and Composites": 0.125,
+    "Materials Chemistry": 0.7113095238095237,
+    "Polymers and Plastics": 0.3333333333333333
+  },
+  "RMIT Vietnam": {
+    "Biomaterials": 5.689021164021164,
+    "Electronic, Optical and Magnetic Materials": 0.8583333333333334,
+    "General Materials Science": 0.5,
+    "Materials Chemistry": 2.004647667147667,
+    "Polymers and Plastics": 7.731613756613755,
+    "Surfaces, Coatings and Films": 1.1111111111111112
+  },
+  "Oxford University Clinical Research Unit": {
+    "Biomaterials": 0.10833333333333334,
+    "Materials Chemistry": 0.23333333333333334
+  },
+  "Khanh Hoa General Hospital": {
+    "Biomaterials": 0.2361111111111111,
+    "Electronic, Optical and Magnetic Materials": 0.3777777777777777,
+    "Materials Chemistry": 0.49999999999999994,
+    "Polymers and Plastics": 0.08333333333333333
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Biomaterials": 1.5462962962962963,
+    "Materials Chemistry": 1.8019841269841275,
+    "Polymers and Plastics": 0.6055555555555557
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Biomaterials": 24.06598124098126,
+    "Ceramics and Composites": 0.6816859066859066,
+    "Electronic, Optical and Magnetic Materials": 11.168074466526468,
+    "General Materials Science": 1.3888888888888888,
+    "Materials Chemistry": 75.14588663257422,
+    "Metals and Alloys": 1.781746031746032,
+    "Polymers and Plastics": 32.050661375661434,
+    "Surfaces, Coatings and Films": 1.6033380018674137
+  },
+  "Vinmec International Hospital": {
+    "Biomaterials": 2.193132969971206,
+    "Electronic, Optical and Magnetic Materials": 0.06734006734006734,
+    "Materials Chemistry": 0.1
+  },
+  "National Institute of Nutrition": {
+    "Biomaterials": 0.9920634920634922,
+    "Materials Chemistry": 0.08928571428571427,
+    "Surfaces, Coatings and Films": 0.1111111111111111
+  },
+  "Vinh Phuc Department of Health": {
+    "Biomaterials": 0.5,
+    "Materials Chemistry": 0.5809523809523809
+  },
+  "Vietnamese-German University": {
+    "Biomaterials": 0.6027777777777777,
+    "Ceramics and Composites": 0.11666666666666667,
+    "Electronic, Optical and Magnetic Materials": 1.3110805860805863,
+    "Materials Chemistry": 7.365859140859137,
+    "Polymers and Plastics": 0.525,
+    "Surfaces, Coatings and Films": 0.2361111111111111
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Biomaterials": 2.9484103859103845,
+    "Electronic, Optical and Magnetic Materials": 0.41448412698412695,
+    "General Materials Science": 1.0,
+    "Materials Chemistry": 5.995141895141892,
+    "Polymers and Plastics": 2.0342592592592594,
+    "Surfaces, Coatings and Films": 0.16984126984126985
+  },
+  "Anova Corp (Vietnam)": {
+    "Biomaterials": 0.8262922262922261,
+    "Materials Chemistry": 0.6444444444444444,
+    "Polymers and Plastics": 0.3611111111111111
+  },
+  "Vinh Long University of Technology Education": {
+    "Biomaterials": 2.017857142857143,
+    "Ceramics and Composites": 0.5666666666666667,
+    "Electronic, Optical and Magnetic Materials": 0.8194444444444444,
+    "Materials Chemistry": 16.377777777777773,
+    "Metals and Alloys": 0.16666666666666666,
+    "Polymers and Plastics": 1.1448412698412698,
+    "Surfaces, Coatings and Films": 0.047619047619047616
+  },
+  "Saigon University": {
+    "Biomaterials": 3.94445461945462,
+    "Ceramics and Composites": 0.06666666666666667,
+    "Electronic, Optical and Magnetic Materials": 6.582972582972579,
+    "Materials Chemistry": 16.698458485958472,
+    "Metals and Alloys": 0.08333333333333333,
+    "Polymers and Plastics": 1.577777777777778
+  },
+  "Cho Ray Hospital": {
+    "Biomaterials": 0.42539682539682533,
+    "Electronic, Optical and Magnetic Materials": 0.041666666666666664,
+    "Materials Chemistry": 0.9722222222222219,
+    "Polymers and Plastics": 0.1111111111111111
+  },
+  "Viet Duc Hospital": {
+    "Biomaterials": 0.07407407407407407,
+    "Electronic, Optical and Magnetic Materials": 0.375,
+    "Materials Chemistry": 0.783080808080808,
+    "Polymers and Plastics": 0.21666666666666667,
+    "Surfaces, Coatings and Films": 0.1111111111111111
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Biomaterials": 0.9874338624338626,
+    "Materials Chemistry": 0.6666666666666666
+  },
+  "Ho Chi Minh City University of Education": {
+    "Biomaterials": 2.4485569985569993,
+    "Electronic, Optical and Magnetic Materials": 13.761860361860357,
+    "General Materials Science": 0.42222222222222217,
+    "Materials Chemistry": 25.563232600732615,
+    "Polymers and Plastics": 3.4692918192918185,
+    "Surfaces, Coatings and Films": 0.21428571428571427
+  },
+  "Agricultural Genetics Institute": {
+    "Biomaterials": 1.0046296296296295,
+    "Materials Chemistry": 1.7216931216931228,
+    "Polymers and Plastics": 0.18095238095238095
+  },
+  "Phenikaa University": {
+    "Biomaterials": 6.672180134680136,
+    "Ceramics and Composites": 3.9444444444444433,
+    "Electronic, Optical and Magnetic Materials": 27.225280506530638,
+    "General Materials Science": 0.1111111111111111,
+    "Materials Chemistry": 110.01146501202616,
+    "Metals and Alloys": 1.122222222222222,
+    "Polymers and Plastics": 13.177535862829963,
+    "Surfaces, Coatings and Films": 5.529075554075553
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Biomaterials": 0.2222222222222222,
+    "Electronic, Optical and Magnetic Materials": 0.041666666666666664,
+    "Materials Chemistry": 0.4570767195767196,
+    "Polymers and Plastics": 0.5
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Biomaterials": 0.4305555555555555,
+    "Electronic, Optical and Magnetic Materials": 0.16666666666666666,
+    "Materials Chemistry": 2.9370370370370376,
+    "Polymers and Plastics": 0.3333333333333333
+  },
+  "Vietnam Maritime University": {
+    "Biomaterials": 2.056878306878307,
+    "Electronic, Optical and Magnetic Materials": 4.1499611499611495,
+    "General Materials Science": 2.2341269841269837,
+    "Materials Chemistry": 22.95996734746735,
+    "Metals and Alloys": 1.7953703703703705,
+    "Polymers and Plastics": 3.1222222222222227,
+    "Surfaces, Coatings and Films": 0.6535714285714286
+  },
+  "Tay Bac University": {
+    "Biomaterials": 0.9285714285714286,
+    "Ceramics and Composites": 0.38095238095238093,
+    "Electronic, Optical and Magnetic Materials": 1.4365914786967418,
+    "General Materials Science": 0.15,
+    "Materials Chemistry": 9.399476911976908,
+    "Polymers and Plastics": 0.396043771043771,
+    "Surfaces, Coatings and Films": 0.047619047619047616
+  },
+  "Ho Chi Minh City Open University": {
+    "Biomaterials": 1.695634920634921,
+    "Ceramics and Composites": 0.09523809523809523,
+    "Electronic, Optical and Magnetic Materials": 2.6977513227513223,
+    "General Materials Science": 0.16666666666666666,
+    "Materials Chemistry": 22.500132275132298,
+    "Metals and Alloys": 0.26666666666666666,
+    "Polymers and Plastics": 0.36111111111111116
+  },
+  "Ministry of Science and Technology": {
+    "Biomaterials": 0.32979797979797987,
+    "Ceramics and Composites": 0.041666666666666664,
+    "Electronic, Optical and Magnetic Materials": 1.2008597883597885,
+    "Materials Chemistry": 2.1015031265031263,
+    "Polymers and Plastics": 0.43287037037037035
+  },
+  "Foreign Trade University": {
+    "Biomaterials": 0.14444444444444443,
+    "Ceramics and Composites": 0.05128205128205128,
+    "General Materials Science": 0.6111111111111112,
+    "Materials Chemistry": 2.3802503052503052,
+    "Polymers and Plastics": 0.5555555555555556,
+    "Surfaces, Coatings and Films": 0.3333333333333333
+  },
+  "Hong Bang International University": {
+    "Biomaterials": 1.0615079365079363,
+    "Ceramics and Composites": 0.16666666666666666,
+    "Electronic, Optical and Magnetic Materials": 0.125,
+    "Materials Chemistry": 0.9675925925925926,
+    "Polymers and Plastics": 0.780952380952381,
+    "Surfaces, Coatings and Films": 0.047619047619047616
+  },
+  "Da Nang Hospital": {
+    "Biomaterials": 0.07407407407407407,
+    "Materials Chemistry": 0.7215608465608467,
+    "Polymers and Plastics": 0.1111111111111111
+  },
+  "National Institute of Veterinary Research": {
+    "Biomaterials": 0.08333333333333333,
+    "General Materials Science": 0.125,
+    "Materials Chemistry": 0.8219373219373218,
+    "Polymers and Plastics": 0.3333333333333333,
+    "Surfaces, Coatings and Films": 0.1111111111111111
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Biomaterials": 0.2914141414141414,
+    "Electronic, Optical and Magnetic Materials": 0.08333333333333333,
+    "Materials Chemistry": 7.187800978977449,
+    "Metals and Alloys": 0.06666666666666667,
+    "Polymers and Plastics": 0.3611111111111111
+  },
+  "Nam Dinh University of Nursing": {
+    "Biomaterials": 0.09761904761904762,
+    "Electronic, Optical and Magnetic Materials": 0.2777777777777778,
+    "Materials Chemistry": 4.286111111111112
+  },
+  "Hai Phong University of Management and Technology": {
+    "Biomaterials": 0.16666666666666666,
+    "Electronic, Optical and Magnetic Materials": 0.23333333333333334,
+    "Materials Chemistry": 0.06666666666666667,
+    "Polymers and Plastics": 0.2222222222222222
+  },
+  "Stem Cell Institute": {
+    "Biomaterials": 0.08888888888888888,
+    "Electronic, Optical and Magnetic Materials": 0.03333333333333333,
+    "Materials Chemistry": 0.03333333333333333
+  },
+  "Vin, University": {
+    "Biomaterials": 1.0314814814814817,
+    "Electronic, Optical and Magnetic Materials": 5.005503034547153,
+    "Materials Chemistry": 11.104756069094298,
+    "Polymers and Plastics": 2.3460317460317466,
+    "Surfaces, Coatings and Films": 0.47380952380952374
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Biomaterials": 3.0999999999999988,
+    "Electronic, Optical and Magnetic Materials": 1.1446428571428573,
+    "General Materials Science": 0.5277777777777778,
+    "Materials Chemistry": 17.15551948051948,
+    "Polymers and Plastics": 2.0523809523809526
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Biomaterials": 0.46944444444444444,
+    "Ceramics and Composites": 0.4597222222222222,
+    "Electronic, Optical and Magnetic Materials": 0.5744949494949494,
+    "General Materials Science": 1.2976190476190477,
+    "Materials Chemistry": 15.805688293188277,
+    "Metals and Alloys": 0.25,
+    "Polymers and Plastics": 3.805555555555555,
+    "Surfaces, Coatings and Films": 0.7646825396825396
+  },
+  "Research Institute for Aquaculture No1": {
+    "Biomaterials": 0.8668300653594769,
+    "Ceramics and Composites": 0.3333333333333333,
+    "Electronic, Optical and Magnetic Materials": 0.5,
+    "Materials Chemistry": 1.0084776334776333,
+    "Polymers and Plastics": 0.5
+  },
+  "Hue Central Hospital": {
+    "Biomaterials": 0.3256410256410257,
+    "Ceramics and Composites": 0.25,
+    "Electronic, Optical and Magnetic Materials": 0.5115740740740742,
+    "Materials Chemistry": 3.6491582491582495
+  },
+  "Hanoi Architectural University": {
+    "Biomaterials": 0.3277777777777777,
+    "Ceramics and Composites": 0.16666666666666666,
+    "Electronic, Optical and Magnetic Materials": 1.2257395382395382,
+    "General Materials Science": 0.9925925925925927,
+    "Materials Chemistry": 24.662993025493023,
+    "Polymers and Plastics": 1.4629629629629626,
+    "Surfaces, Coatings and Films": 0.16203703703703703
+  },
+  "Long An University of Economics and Industry": {
+    "Biomaterials": 0.25,
+    "Polymers and Plastics": 0.25
+  },
+  "Ho Chi Minh University of Banking": {
+    "Biomaterials": 0.0625,
+    "General Materials Science": 0.0625,
+    "Materials Chemistry": 0.1111111111111111
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Biomaterials": 0.19444444444444442,
+    "Ceramics and Composites": 0.08333333333333333,
+    "Electronic, Optical and Magnetic Materials": 0.4761904761904761,
+    "Materials Chemistry": 4.557215007215005,
+    "Polymers and Plastics": 1.09484126984127,
+    "Surfaces, Coatings and Films": 0.16666666666666666
+  },
+  "Hanoi Lung Hospital": {
+    "Biomaterials": 0.08888888888888888,
+    "Electronic, Optical and Magnetic Materials": 0.03333333333333333,
+    "Materials Chemistry": 0.29166666666666663
+  },
+  "Vinh Medical University": {
+    "Biomaterials": 0.14285714285714285
+  },
+  "University Of Transport Technology": {
+    "Biomaterials": 1.1738095238095239,
+    "Ceramics and Composites": 0.3888888888888889,
+    "Electronic, Optical and Magnetic Materials": 1.1217106967106967,
+    "General Materials Science": 1.288888888888889,
+    "Materials Chemistry": 39.204840067340214,
+    "Metals and Alloys": 0.4722222222222222,
+    "Polymers and Plastics": 2.855489417989418
+  },
+  "University Medical Center HCMC": {
+    "Biomaterials": 0.44444444444444436,
+    "Materials Chemistry": 0.7592592592592592,
+    "Polymers and Plastics": 0.3111111111111111
+  },
+  "Academy of Cryptography Techniques": {
+    "Biomaterials": 0.08928571428571427,
+    "Electronic, Optical and Magnetic Materials": 0.26706349206349206,
+    "Materials Chemistry": 0.15595238095238095,
+    "Polymers and Plastics": 0.03333333333333333
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Biomaterials": 0.08333333333333333,
+    "Materials Chemistry": 0.041666666666666664
+  },
+  "Viet Nam Government": {
+    "Biomaterials": 0.05555555555555555
+  },
+  "National Academy of Public Administration": {
+    "Biomaterials": 0.09401709401709402,
+    "Polymers and Plastics": 0.08333333333333333
+  },
+  "FPT University": {
+    "Biomaterials": 0.26190476190476186,
+    "Ceramics and Composites": 0.24358974358974358,
+    "Electronic, Optical and Magnetic Materials": 1.498809523809524,
+    "General Materials Science": 0.1111111111111111,
+    "Materials Chemistry": 5.17797619047619,
+    "Polymers and Plastics": 0.27037037037037037,
+    "Surfaces, Coatings and Films": 0.41666666666666663
+  },
+  "Children's Hospital 2": {
+    "Biomaterials": 0.030303030303030304,
+    "Materials Chemistry": 0.1
+  },
+  "Thuongmai University": {
+    "Biomaterials": 0.4242424242424242,
+    "Materials Chemistry": 7.503174603174601,
+    "Polymers and Plastics": 3.6444444444444453
+  },
+  "Thai Nguyen National General Hospital": {
+    "Biomaterials": 0.4416666666666666,
+    "Electronic, Optical and Magnetic Materials": 0.0625,
+    "General Materials Science": 0.2222222222222222,
+    "Materials Chemistry": 7.334493746993743,
+    "Polymers and Plastics": 1.188095238095238
+  },
+  "Hai Phong University": {
+    "Biomaterials": 0.20833333333333331,
+    "Ceramics and Composites": 0.9749999999999999,
+    "Electronic, Optical and Magnetic Materials": 0.6388888888888888,
+    "General Materials Science": 0.1111111111111111,
+    "Materials Chemistry": 3.617429792429794,
+    "Metals and Alloys": 0.16666666666666666,
+    "Polymers and Plastics": 1.5303030303030303
+  },
+  "Eastern International University": {
+    "Biomaterials": 0.02564102564102564,
+    "Electronic, Optical and Magnetic Materials": 0.08333333333333333,
+    "General Materials Science": 1.0,
+    "Polymers and Plastics": 0.06666666666666667
+  },
+  "Vietnam University of Fine Arts": {
+    "Biomaterials": 0.037037037037037035
+  },
+  "Hung Vuong Hospital": {
+    "Biomaterials": 0.0196078431372549,
+    "Electronic, Optical and Magnetic Materials": 0.5555555555555556,
+    "Materials Chemistry": 2.208333333333334,
+    "Polymers and Plastics": 0.047619047619047616
+  },
+  "Ministry of Education and Training": {
+    "Biomaterials": 0.05555555555555555,
+    "Electronic, Optical and Magnetic Materials": 0.9166666666666667,
+    "Materials Chemistry": 0.8916666666666668,
+    "Polymers and Plastics": 0.12962962962962962
+  },
+  "Hung Vuong University": {
+    "Biomaterials": 0.07142857142857142,
+    "Electronic, Optical and Magnetic Materials": 0.05555555555555555,
+    "Materials Chemistry": 0.9555555555555555,
+    "Polymers and Plastics": 0.41666666666666663,
+    "Surfaces, Coatings and Films": 0.08333333333333333
+  },
+  "Ho Chi Minh City University of Law": {
+    "Biomaterials": 0.125,
+    "Materials Chemistry": 0.125
+  },
+  "Học viện Tư pháp": {
+    "Biomaterials": 0.19696969696969696,
+    "General Materials Science": 0.08333333333333333,
+    "Materials Chemistry": 3.474999999999999,
+    "Polymers and Plastics": 0.26666666666666666
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Biomaterials": 0.16666666666666666,
+    "Materials Chemistry": 1.1555555555555557
+  },
+  "Bệnh viện Phụ sản Hà Nội": {
+    "Biomaterials": 0.05555555555555555
+  },
+  "Institute of Transport Science and Technology": {
+    "Ceramics and Composites": 0.4583333333333333,
+    "Materials Chemistry": 0.5555555555555556,
+    "Polymers and Plastics": 0.08333333333333333
+  },
+  "Ministry of Information and Communications": {
+    "Ceramics and Composites": 0.1994047619047619,
+    "Electronic, Optical and Magnetic Materials": 0.08333333333333333,
+    "Materials Chemistry": 0.24107142857142855
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Ceramics and Composites": 0.6111111111111112,
+    "Electronic, Optical and Magnetic Materials": 0.654906204906205,
+    "Materials Chemistry": 3.0560966810966814,
+    "Polymers and Plastics": 0.5555555555555556
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Ceramics and Composites": 0.06666666666666667,
+    "Electronic, Optical and Magnetic Materials": 0.6482323232323234,
+    "Materials Chemistry": 2.5439814814814827,
+    "Polymers and Plastics": 0.06666666666666667
+  },
+  "Hoa Sen University": {
+    "Electronic, Optical and Magnetic Materials": 0.7944444444444445,
+    "Materials Chemistry": 0.48290598290598286,
+    "Surfaces, Coatings and Films": 0.19444444444444442
+  },
+  "University of Languages and International Studies": {
+    "Electronic, Optical and Magnetic Materials": 0.17777777777777776,
+    "Materials Chemistry": 0.9888888888888888,
+    "Polymers and Plastics": 0.09090909090909091,
+    "Surfaces, Coatings and Films": 0.06666666666666667
+  },
+  "Pham Van Dong University": {
+    "Electronic, Optical and Magnetic Materials": 0.422995522995523,
+    "Materials Chemistry": 9.226633089133085,
+    "Metals and Alloys": 0.125,
+    "Polymers and Plastics": 0.23036791639732815
+  },
+  "Bac Ha International University": {
+    "Electronic, Optical and Magnetic Materials": 0.2777777777777778,
+    "Materials Chemistry": 0.24074074074074073
+  },
+  "Academy Of Finance": {
+    "Electronic, Optical and Magnetic Materials": 0.16666666666666666
+  },
+  "Children's Hospital 1": {
+    "Electronic, Optical and Magnetic Materials": 0.041666666666666664
+  },
+  "Fulbright University Vietnam": {
+    "Electronic, Optical and Magnetic Materials": 0.125,
+    "Materials Chemistry": 1.1481481481481481,
+    "Polymers and Plastics": 0.32870370370370366
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Electronic, Optical and Magnetic Materials": 0.06666666666666667,
+    "Materials Chemistry": 0.06666666666666667
+  },
+  "Microfinance and Community Development Institute": {
+    "Electronic, Optical and Magnetic Materials": 0.5,
+    "Materials Chemistry": 3.166666666666666
+  },
+  "Health Strategy and Policy Institute": {
+    "Electronic, Optical and Magnetic Materials": 0.3333333333333333
+  },
+  "Hanoi University of Business and Technology": {
+    "Electronic, Optical and Magnetic Materials": 0.0803030303030303,
+    "Materials Chemistry": 0.3416666666666666
+  },
+  "Thai Nguyen University of Information and Communication Technology": {
+    "Electronic, Optical and Magnetic Materials": 0.0625,
+    "Materials Chemistry": 0.09545454545454546,
+    "Polymers and Plastics": 0.041666666666666664
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Electronic, Optical and Magnetic Materials": 0.1111111111111111,
+    "General Materials Science": 0.05555555555555555
+  },
+  "Hiep Phuoc Power (Vietnam)": {
+    "Electronic, Optical and Magnetic Materials": 0.2222222222222222
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Electronic, Optical and Magnetic Materials": 0.08333333333333333,
+    "Materials Chemistry": 0.15
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Electronic, Optical and Magnetic Materials": 0.08333333333333333,
+    "Materials Chemistry": 0.08333333333333333
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "General Materials Science": 0.1,
+    "Materials Chemistry": 0.664021164021164,
+    "Surfaces, Coatings and Films": 0.05555555555555555
+  },
+  "Institute of Population, Health and Development": {
+    "Materials Chemistry": 0.1111111111111111
+  },
+  "University of Labor and Social Affairs": {
+    "Materials Chemistry": 0.8968253968253967
+  },
+  "General Clinic Phương Nam": {
+    "Materials Chemistry": 0.16666666666666666
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Materials Chemistry": 1.410064935064935,
+    "Surfaces, Coatings and Films": 0.030303030303030304
+  },
+  "British University Vietnam": {
+    "Materials Chemistry": 0.27777777777777773
+  },
+  "Danang Architecture University": {
+    "Materials Chemistry": 2.041666666666667,
+    "Polymers and Plastics": 0.05555555555555555
+  },
+  "Dong Thap Hospital": {
+    "Materials Chemistry": 0.041666666666666664
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Materials Chemistry": 1.1666666666666667,
+    "Polymers and Plastics": 0.1111111111111111
+  },
+  "Saigon International University": {
+    "Materials Chemistry": 1.0
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Materials Chemistry": 0.5,
+    "Polymers and Plastics": 0.1111111111111111
+  },
+  "University of Economics - Technology for Industries": {
+    "Materials Chemistry": 0.3333333333333333
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Materials Chemistry": 0.20833333333333331
+  },
+  "Hanoi University of Culture": {
+    "Materials Chemistry": 0.08333333333333333
+  },
+  "The State Bank of Vietnam": {
+    "Materials Chemistry": 0.2777777777777778,
+    "Polymers and Plastics": 0.16666666666666666
+  },
+  "My Duc Hospital": {
+    "Materials Chemistry": 0.2777777777777778
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Materials Chemistry": 0.041666666666666664,
+    "Polymers and Plastics": 1.0
+  },
+  "University of Finance - Marketing": {
+    "Materials Chemistry": 0.1111111111111111
+  },
+  "Hanoi School Of Public Health": {
+    "Materials Chemistry": 0.047619047619047616
+  },
+  "Dalat Nuclear Research Institute": {
+    "Materials Chemistry": 0.13333333333333333,
+    "Polymers and Plastics": 0.18154761904761904
+  },
+  "Vietnam Aviation Academy": {
+    "Materials Chemistry": 0.1111111111111111
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Polymers and Plastics": 0.037037037037037035
+  },
+  "Van Xuan University of Technology": {
+    "Polymers and Plastics": 0.06666666666666667
+  }
+}

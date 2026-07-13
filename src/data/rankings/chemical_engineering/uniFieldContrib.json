@@ -1,0 +1,681 @@
+{
+  "Hanoi University of Science and Technology": {
+    "Bioengineering": 45.82241080678618,
+    "Catalysis": 21.099167961667955,
+    "Chemical Health and Safety": 0.03333333333333333,
+    "Filtration and Separation": 1.5833333333333335,
+    "Fluid Flow and Transfer Processes": 21.432344969844927,
+    "Process Chemistry and Technology": 1.975396825396827
+  },
+  "Hue University": {
+    "Bioengineering": 10.34460076960078,
+    "Catalysis": 3.948520923520924,
+    "Filtration and Separation": 1.475,
+    "Fluid Flow and Transfer Processes": 0.43703703703703706,
+    "Process Chemistry and Technology": 1.038888888888889
+  },
+  "Hue University of Education": {
+    "Bioengineering": 0.5646825396825397,
+    "Catalysis": 0.3333333333333333,
+    "Filtration and Separation": 0.06666666666666667
+  },
+  "Vietnam National University, Hanoi": {
+    "Bioengineering": 9.688636363636341,
+    "Catalysis": 4.755808080808083,
+    "Chemical Health and Safety": 0.25,
+    "Fluid Flow and Transfer Processes": 0.701851851851852,
+    "Process Chemistry and Technology": 2.543650793650793
+  },
+  "Ho Chi Minh City University of Education": {
+    "Bioengineering": 0.26706349206349206,
+    "Catalysis": 2.7658730158730163,
+    "Chemical Health and Safety": 0.16666666666666666,
+    "Fluid Flow and Transfer Processes": 0.25,
+    "Process Chemistry and Technology": 0.25
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Bioengineering": 2.1250000000000004,
+    "Catalysis": 5.952140452140452,
+    "Filtration and Separation": 0.16666666666666666,
+    "Fluid Flow and Transfer Processes": 10.423412698412683,
+    "Process Chemistry and Technology": 0.5666666666666667
+  },
+  "Hanoi University": {
+    "Bioengineering": 4.230555555555555,
+    "Catalysis": 1.8500000000000003,
+    "Filtration and Separation": 0.08333333333333333,
+    "Fluid Flow and Transfer Processes": 0.6,
+    "Process Chemistry and Technology": 0.5142857142857142
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Bioengineering": 19.145751008251022,
+    "Catalysis": 52.4763883777046,
+    "Chemical Health and Safety": 0.08333333333333333,
+    "Filtration and Separation": 2.8531746031746046,
+    "Fluid Flow and Transfer Processes": 11.399074074074054,
+    "Process Chemistry and Technology": 16.281108438345257
+  },
+  "VNU University of Science": {
+    "Bioengineering": 9.389657564657561,
+    "Catalysis": 3.534523809523809,
+    "Chemical Health and Safety": 0.14444444444444443,
+    "Filtration and Separation": 0.07407407407407407,
+    "Fluid Flow and Transfer Processes": 0.6777777777777778,
+    "Process Chemistry and Technology": 3.8017954267954264
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Bioengineering": 1.2849206349206348,
+    "Catalysis": 1.9555555555555557,
+    "Filtration and Separation": 1.4166666666666665,
+    "Fluid Flow and Transfer Processes": 5.2611111111111075,
+    "Process Chemistry and Technology": 0.15
+  },
+  "Hanoi University of Civil Engineering": {
+    "Bioengineering": 1.4111111111111108,
+    "Catalysis": 0.5944444444444444,
+    "Fluid Flow and Transfer Processes": 0.25595238095238093,
+    "Process Chemistry and Technology": 1.0702380952380954
+  },
+  "Hue Central Hospital": {
+    "Bioengineering": 0.1656084656084656,
+    "Catalysis": 0.047619047619047616
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Bioengineering": 21.019347319347382,
+    "Catalysis": 22.994251873857223,
+    "Filtration and Separation": 1.1175925925925922,
+    "Fluid Flow and Transfer Processes": 2.0225529100529096,
+    "Process Chemistry and Technology": 6.303320753320753
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Bioengineering": 0.21666666666666667,
+    "Catalysis": 1.0466095308200574,
+    "Process Chemistry and Technology": 0.3055555555555555
+  },
+  "Hanoi Open University": {
+    "Bioengineering": 2.8285714285714283,
+    "Catalysis": 2.037037037037037,
+    "Filtration and Separation": 0.3333333333333333,
+    "Fluid Flow and Transfer Processes": 1.6666666666666667,
+    "Process Chemistry and Technology": 0.3333333333333333
+  },
+  "Hung Yen University of Technology and Education": {
+    "Bioengineering": 2.8481481481481477,
+    "Catalysis": 6.941666666666664,
+    "Fluid Flow and Transfer Processes": 1.088888888888889
+  },
+  "Bạch Mai Hospital": {
+    "Bioengineering": 0.06666666666666667
+  },
+  "International Center for Tropical Agriculture": {
+    "Bioengineering": 0.4333333333333333,
+    "Catalysis": 0.47272727272727266,
+    "Fluid Flow and Transfer Processes": 0.16666666666666666,
+    "Process Chemistry and Technology": 0.4666666666666666
+  },
+  "Institute of Mathematics": {
+    "Bioengineering": 0.24444444444444444,
+    "Catalysis": 0.03333333333333333,
+    "Fluid Flow and Transfer Processes": 1.0833333333333333
+  },
+  "Hanoi National University of Education": {
+    "Bioengineering": 4.026322751322754,
+    "Catalysis": 10.177866869972135,
+    "Chemical Health and Safety": 0.08333333333333333,
+    "Fluid Flow and Transfer Processes": 0.9833333333333334,
+    "Process Chemistry and Technology": 3.3056998556998582
+  },
+  "Hanoi University of Pharmacy": {
+    "Bioengineering": 1.3648148148148147,
+    "Catalysis": 0.8555555555555556,
+    "Filtration and Separation": 0.6666666666666667,
+    "Fluid Flow and Transfer Processes": 0.761904761904762,
+    "Process Chemistry and Technology": 0.125
+  },
+  "Hanoi Pedagogical University 2": {
+    "Bioengineering": 0.4,
+    "Catalysis": 0.3727938727938728,
+    "Fluid Flow and Transfer Processes": 0.08333333333333333
+  },
+  "General Department of Preventive Medicine": {
+    "Bioengineering": 0.5277777777777778,
+    "Catalysis": 0.25,
+    "Fluid Flow and Transfer Processes": 0.2222222222222222,
+    "Process Chemistry and Technology": 0.26666666666666666
+  },
+  "Thuyloi University": {
+    "Bioengineering": 0.26190476190476186,
+    "Catalysis": 0.19444444444444442,
+    "Filtration and Separation": 0.16666666666666666,
+    "Fluid Flow and Transfer Processes": 1.2777777777777777,
+    "Process Chemistry and Technology": 1.563888888888889
+  },
+  "University of Da Nang": {
+    "Bioengineering": 3.526924001924002,
+    "Catalysis": 7.359107096607089,
+    "Fluid Flow and Transfer Processes": 19.222846597846562,
+    "Process Chemistry and Technology": 0.1037037037037037
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Bioengineering": 1.3166666666666664,
+    "Chemical Health and Safety": 3.549206349206349,
+    "Filtration and Separation": 0.5833333333333333,
+    "Fluid Flow and Transfer Processes": 0.6666666666666666,
+    "Process Chemistry and Technology": 0.5
+  },
+  "Tân Tạo University": {
+    "Bioengineering": 1.0833333333333333,
+    "Catalysis": 2.8876633986928106,
+    "Filtration and Separation": 0.38888888888888884,
+    "Fluid Flow and Transfer Processes": 0.9444444444444444,
+    "Process Chemistry and Technology": 0.41666666666666663
+  },
+  "Quy Nhon University": {
+    "Bioengineering": 3.493662818662819,
+    "Catalysis": 2.240620490620491,
+    "Fluid Flow and Transfer Processes": 0.7944444444444445,
+    "Process Chemistry and Technology": 0.6666666666666666
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Bioengineering": 0.5603174603174602,
+    "Catalysis": 1.328571428571429,
+    "Fluid Flow and Transfer Processes": 0.4444444444444444
+  },
+  "Electric Power University": {
+    "Bioengineering": 2.0159294409294417,
+    "Catalysis": 11.333358770858748,
+    "Fluid Flow and Transfer Processes": 4.994047619047613,
+    "Process Chemistry and Technology": 0.7817460317460322
+  },
+  "Institute of Materials Science": {
+    "Bioengineering": 1.123039923039923,
+    "Catalysis": 2.2803030303030307,
+    "Filtration and Separation": 0.2777777777777778,
+    "Fluid Flow and Transfer Processes": 1.097222222222222,
+    "Process Chemistry and Technology": 0.03333333333333333
+  },
+  "Nha Trang University": {
+    "Bioengineering": 0.8263888888888888,
+    "Catalysis": 0.4444444444444444,
+    "Fluid Flow and Transfer Processes": 3.977777777777778,
+    "Process Chemistry and Technology": 0.5111111111111111
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Bioengineering": 1.4244708994708994,
+    "Catalysis": 9.534126984126983,
+    "Fluid Flow and Transfer Processes": 4.776955451955451,
+    "Process Chemistry and Technology": 2.5346560846560844
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Bioengineering": 0.25,
+    "Catalysis": 2.241233766233766,
+    "Filtration and Separation": 0.3055555555555555,
+    "Fluid Flow and Transfer Processes": 0.47261904761904755,
+    "Process Chemistry and Technology": 0.44999999999999996
+  },
+  "University of Transport and Communications": {
+    "Bioengineering": 1.125,
+    "Fluid Flow and Transfer Processes": 3.8333333333333335,
+    "Process Chemistry and Technology": 0.16666666666666669
+  },
+  "Ho Chi Minh City University of Science": {
+    "Bioengineering": 5.613736263736261,
+    "Catalysis": 4.748869648869646,
+    "Fluid Flow and Transfer Processes": 0.75,
+    "Process Chemistry and Technology": 1.9848484848484842
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Bioengineering": 0.08333333333333333
+  },
+  "Van Lang University": {
+    "Bioengineering": 0.5650252525252524,
+    "Catalysis": 3.2967643467643475,
+    "Filtration and Separation": 0.4712962962962962,
+    "Fluid Flow and Transfer Processes": 1.9091931216931215,
+    "Process Chemistry and Technology": 0.3230413105413106
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Bioengineering": 1.6557659932659932,
+    "Catalysis": 14.860439560439543,
+    "Filtration and Separation": 0.21560846560846558,
+    "Fluid Flow and Transfer Processes": 1.8723544973544979,
+    "Process Chemistry and Technology": 1.37300061050061
+  },
+  "Thang Long University": {
+    "Bioengineering": 1.0,
+    "Catalysis": 2.208333333333333,
+    "Filtration and Separation": 0.25,
+    "Fluid Flow and Transfer Processes": 0.75
+  },
+  "Hong Bang International University": {
+    "Bioengineering": 0.5,
+    "Catalysis": 0.1037037037037037,
+    "Fluid Flow and Transfer Processes": 0.16666666666666666,
+    "Process Chemistry and Technology": 0.06666666666666667
+  },
+  "Hai Phong University": {
+    "Bioengineering": 0.8333333333333333,
+    "Catalysis": 0.08333333333333333
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Bioengineering": 0.24444444444444444,
+    "Catalysis": 0.23055555555555554,
+    "Chemical Health and Safety": 0.1,
+    "Fluid Flow and Transfer Processes": 0.25555555555555554,
+    "Process Chemistry and Technology": 0.03333333333333333
+  },
+  "Ministry of Science and Technology": {
+    "Bioengineering": 0.041666666666666664,
+    "Catalysis": 0.047619047619047616
+  },
+  "Ho Chi Minh City International University": {
+    "Bioengineering": 0.1638888888888889,
+    "Catalysis": 0.10317460317460317
+  },
+  "University Of Transport Technology": {
+    "Bioengineering": 1.1392857142857142,
+    "Catalysis": 0.05555555555555555,
+    "Fluid Flow and Transfer Processes": 3.277777777777778,
+    "Process Chemistry and Technology": 0.047619047619047616
+  },
+  "Ton Duc Thang University": {
+    "Bioengineering": 4.930026455026452,
+    "Catalysis": 10.83600427350426,
+    "Filtration and Separation": 2.633068783068782,
+    "Fluid Flow and Transfer Processes": 15.135016835016819,
+    "Process Chemistry and Technology": 0.30000000000000004
+  },
+  "Can Tho University": {
+    "Bioengineering": 2.1944444444444455,
+    "Catalysis": 2.5829064454064445,
+    "Chemical Health and Safety": 0.047619047619047616,
+    "Filtration and Separation": 0.9841269841269842,
+    "Fluid Flow and Transfer Processes": 1.0047619047619047,
+    "Process Chemistry and Technology": 1.0361111111111112
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Bioengineering": 0.05555555555555555
+  },
+  "Dalat University": {
+    "Bioengineering": 0.6244708994708994,
+    "Catalysis": 1.3055555555555556,
+    "Fluid Flow and Transfer Processes": 0.7037037037037035
+  },
+  "Vietnamese-German University": {
+    "Bioengineering": 0.06666666666666667,
+    "Catalysis": 0.047619047619047616,
+    "Chemical Health and Safety": 0.1,
+    "Fluid Flow and Transfer Processes": 2.6722222222222225,
+    "Process Chemistry and Technology": 0.1111111111111111
+  },
+  "Hanoi University of Mining and Geology": {
+    "Bioengineering": 0.17777777777777776,
+    "Catalysis": 2.1099206349206345,
+    "Fluid Flow and Transfer Processes": 0.20833333333333331,
+    "Process Chemistry and Technology": 0.4166666666666667
+  },
+  "Quảng Bình University": {
+    "Bioengineering": 0.44021164021164016,
+    "Fluid Flow and Transfer Processes": 0.16666666666666666
+  },
+  "Tra Vinh University": {
+    "Bioengineering": 2.033333333333333,
+    "Catalysis": 0.6249999999999999,
+    "Fluid Flow and Transfer Processes": 0.325,
+    "Process Chemistry and Technology": 0.3055555555555555
+  },
+  "Thai Nguyen University": {
+    "Bioengineering": 1.9208689458689474,
+    "Catalysis": 1.215740740740741,
+    "Filtration and Separation": 0.030303030303030304,
+    "Fluid Flow and Transfer Processes": 0.6666666666666667,
+    "Process Chemistry and Technology": 0.10846560846560846
+  },
+  "National Center for Technological Progress": {
+    "Bioengineering": 0.746031746031746
+  },
+  "Phu Yen University": {
+    "Bioengineering": 0.047619047619047616
+  },
+  "Thuongmai University": {
+    "Bioengineering": 0.1111111111111111
+  },
+  "Phenikaa (Vietnam)": {
+    "Bioengineering": 0.9437830687830688,
+    "Catalysis": 0.8399103820156453,
+    "Fluid Flow and Transfer Processes": 1.8333333333333335
+  },
+  "Duy Tan University": {
+    "Bioengineering": 3.8683381433381445,
+    "Catalysis": 10.159495426600683,
+    "Filtration and Separation": 0.842063492063492,
+    "Fluid Flow and Transfer Processes": 5.8185015420309485,
+    "Process Chemistry and Technology": 2.19323593073593
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Bioengineering": 0.037037037037037035,
+    "Catalysis": 0.027777777777777776
+  },
+  "Hanoi University of Industry": {
+    "Bioengineering": 1.5494708994708992,
+    "Catalysis": 0.46944444444444444,
+    "Filtration and Separation": 0.16666666666666666,
+    "Fluid Flow and Transfer Processes": 10.231349206349199,
+    "Process Chemistry and Technology": 0.7222222222222222
+  },
+  "RMIT Vietnam": {
+    "Bioengineering": 0.2222222222222222
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Bioengineering": 0.2333333333333333,
+    "Catalysis": 0.2472222222222222,
+    "Filtration and Separation": 0.05555555555555555,
+    "Process Chemistry and Technology": 0.03333333333333333
+  },
+  "Le Quy Don Technical University": {
+    "Bioengineering": 1.0941919191919192,
+    "Catalysis": 0.7416666666666666,
+    "Filtration and Separation": 0.3333333333333333,
+    "Fluid Flow and Transfer Processes": 9.853174603174596
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Bioengineering": 0.030303030303030304
+  },
+  "Lac Hong University": {
+    "Bioengineering": 0.5511904761904761,
+    "Catalysis": 0.5750000000000001,
+    "Fluid Flow and Transfer Processes": 0.9206265956265955,
+    "Process Chemistry and Technology": 0.9046296296296296
+  },
+  "Ministry of Health": {
+    "Bioengineering": 0.2222222222222222,
+    "Catalysis": 0.1,
+    "Chemical Health and Safety": 1.0
+  },
+  "Phenikaa University": {
+    "Bioengineering": 6.138035113035108,
+    "Catalysis": 5.000675250675253,
+    "Fluid Flow and Transfer Processes": 5.5452380952380915
+  },
+  "Dong Thap University": {
+    "Bioengineering": 0.2201178451178451,
+    "Catalysis": 0.25,
+    "Filtration and Separation": 0.08333333333333333
+  },
+  "Nam Dinh University of Nursing": {
+    "Bioengineering": 0.15595238095238095,
+    "Catalysis": 0.16666666666666666,
+    "Fluid Flow and Transfer Processes": 1.5309523809523813
+  },
+  "Cat Tien National Park": {
+    "Bioengineering": 0.05555555555555555,
+    "Catalysis": 0.02564102564102564,
+    "Fluid Flow and Transfer Processes": 0.06666666666666667
+  },
+  "Vietnam Military Medical University": {
+    "Bioengineering": 0.06666666666666667,
+    "Process Chemistry and Technology": 0.05555555555555555
+  },
+  "Tien Giang General Hospital": {
+    "Bioengineering": 0.44991582491582494,
+    "Filtration and Separation": 0.09523809523809523,
+    "Fluid Flow and Transfer Processes": 0.2222222222222222,
+    "Process Chemistry and Technology": 0.08333333333333333
+  },
+  "Ho Chi Minh City Open University": {
+    "Bioengineering": 0.21666666666666667,
+    "Catalysis": 0.25555555555555554
+  },
+  "An Giang University": {
+    "Bioengineering": 0.27474747474747474,
+    "Catalysis": 1.0119047619047619,
+    "Filtration and Separation": 0.06666666666666667,
+    "Fluid Flow and Transfer Processes": 0.8666666666666666
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Bioengineering": 0.1,
+    "Catalysis": 0.125,
+    "Fluid Flow and Transfer Processes": 0.1111111111111111
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Bioengineering": 0.5898148148148148,
+    "Catalysis": 0.1111111111111111,
+    "Fluid Flow and Transfer Processes": 1.4444444444444444
+  },
+  "Saigon University": {
+    "Bioengineering": 0.4555555555555555,
+    "Catalysis": 1.281746031746032,
+    "Process Chemistry and Technology": 0.3333333333333333
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Bioengineering": 0.15833333333333333,
+    "Catalysis": 0.16984126984126985,
+    "Fluid Flow and Transfer Processes": 0.1111111111111111
+  },
+  "Hanoi Medical University": {
+    "Bioengineering": 0.21785714285714283,
+    "Catalysis": 0.125,
+    "Chemical Health and Safety": 0.03333333333333333,
+    "Filtration and Separation": 0.125
+  },
+  "Vietnam National University of Agriculture": {
+    "Bioengineering": 0.03333333333333333,
+    "Fluid Flow and Transfer Processes": 0.5833333333333333
+  },
+  "Bac Ha International University": {
+    "Bioengineering": 0.03333333333333333
+  },
+  "Hanoi Architectural University": {
+    "Bioengineering": 0.08333333333333333,
+    "Catalysis": 1.0277777777777777,
+    "Chemical Health and Safety": 0.041666666666666664,
+    "Fluid Flow and Transfer Processes": 0.4444444444444444
+  },
+  "Ministry of Education and Training": {
+    "Bioengineering": 0.12845117845117843,
+    "Catalysis": 0.05555555555555555,
+    "Process Chemistry and Technology": 0.06666666666666667
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Bioengineering": 0.047619047619047616,
+    "Fluid Flow and Transfer Processes": 0.041666666666666664
+  },
+  "Thai Nguyen National General Hospital": {
+    "Bioengineering": 0.5,
+    "Catalysis": 0.047619047619047616
+  },
+  "Vin, University": {
+    "Bioengineering": 1.0249999999999997,
+    "Catalysis": 2.8414141414141407
+  },
+  "Văn Hiến University": {
+    "Bioengineering": 0.2222222222222222
+  },
+  "Tay Bac University": {
+    "Bioengineering": 0.19444444444444442,
+    "Catalysis": 0.6269841269841269,
+    "Process Chemistry and Technology": 0.08333333333333333
+  },
+  "Hồng Đức University": {
+    "Bioengineering": 0.07037037037037036,
+    "Process Chemistry and Technology": 0.16666666666666666
+  },
+  "Academy of Cryptography Techniques": {
+    "Bioengineering": 0.03333333333333333
+  },
+  "Institute for Computational Science and Technology": {
+    "Bioengineering": 0.09523809523809523,
+    "Catalysis": 2.118133718133719,
+    "Fluid Flow and Transfer Processes": 1.6111111111111114,
+    "Process Chemistry and Technology": 0.08333333333333333
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Bioengineering": 0.6555555555555556,
+    "Catalysis": 0.3138888888888889,
+    "Filtration and Separation": 0.1111111111111111,
+    "Fluid Flow and Transfer Processes": 0.3611111111111111
+  },
+  "Vinh University": {
+    "Bioengineering": 0.2222222222222222,
+    "Catalysis": 1.4499999999999997,
+    "Filtration and Separation": 0.3333333333333333,
+    "Fluid Flow and Transfer Processes": 2.992063492063494,
+    "Process Chemistry and Technology": 0.1976190476190476
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Bioengineering": 0.08333333333333333
+  },
+  "Hanoi University of Business and Technology": {
+    "Bioengineering": 0.06666666666666667
+  },
+  "Saigon Technology University": {
+    "Bioengineering": 0.125,
+    "Catalysis": 0.2526455026455026
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Bioengineering": 0.0625,
+    "Fluid Flow and Transfer Processes": 0.3333333333333333
+  },
+  "Bình Dương University": {
+    "Bioengineering": 0.06666666666666667,
+    "Catalysis": 0.21428571428571425
+  },
+  "Foreign Trade University": {
+    "Catalysis": 0.65,
+    "Process Chemistry and Technology": 0.06666666666666667
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Catalysis": 1.0
+  },
+  "Vietnam National Children's Hospital": {
+    "Catalysis": 0.18518518518518517
+  },
+  "Viet Tri University of Industry": {
+    "Catalysis": 0.6111111111111112,
+    "Fluid Flow and Transfer Processes": 0.16666666666666666,
+    "Process Chemistry and Technology": 0.561111111111111
+  },
+  "Hoa Sen University": {
+    "Catalysis": 1.0,
+    "Process Chemistry and Technology": 0.11666666666666667
+  },
+  "National Economics University": {
+    "Catalysis": 0.06666666666666667
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Catalysis": 1.3346560846560849,
+    "Filtration and Separation": 1.0476190476190477,
+    "Fluid Flow and Transfer Processes": 1.3333333333333333,
+    "Process Chemistry and Technology": 0.3055555555555555
+  },
+  "PetroVietnam University": {
+    "Catalysis": 0.1111111111111111,
+    "Fluid Flow and Transfer Processes": 1.288888888888889
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Catalysis": 0.16666666666666666,
+    "Fluid Flow and Transfer Processes": 1.0
+  },
+  "Pham Van Dong University": {
+    "Catalysis": 0.13992673992673993
+  },
+  "Research Institute for Aquaculture No1": {
+    "Catalysis": 0.047619047619047616,
+    "Process Chemistry and Technology": 1.25
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Catalysis": 0.2936507936507936,
+    "Process Chemistry and Technology": 1.0952380952380953
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Catalysis": 0.7736111111111111,
+    "Fluid Flow and Transfer Processes": 22.89356384356389
+  },
+  "Vinh Long University of Technology Education": {
+    "Catalysis": 0.5555555555555555,
+    "Fluid Flow and Transfer Processes": 2.7111111111111112
+  },
+  "FPT University": {
+    "Catalysis": 0.047619047619047616,
+    "Chemical Health and Safety": 0.29166666666666663,
+    "Fluid Flow and Transfer Processes": 2.2236111111111105,
+    "Process Chemistry and Technology": 0.13227513227513227
+  },
+  "Vietnam Maritime University": {
+    "Catalysis": 0.1111111111111111,
+    "Chemical Health and Safety": 0.3333333333333333,
+    "Fluid Flow and Transfer Processes": 3.8870370370370373
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Catalysis": 0.48465608465608456
+  },
+  "Baria Vungtau University": {
+    "Catalysis": 0.045454545454545456,
+    "Filtration and Separation": 0.1111111111111111
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Catalysis": 0.38888888888888884,
+    "Fluid Flow and Transfer Processes": 0.6666666666666666
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Catalysis": 0.1111111111111111
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Chemical Health and Safety": 0.2222222222222222
+  },
+  "Hospital for Tropical Diseases": {
+    "Chemical Health and Safety": 0.3333333333333333
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Chemical Health and Safety": 0.4722222222222222,
+    "Fluid Flow and Transfer Processes": 0.2222222222222222
+  },
+  "Institute of Transport Science and Technology": {
+    "Fluid Flow and Transfer Processes": 1.1666666666666665
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Fluid Flow and Transfer Processes": 0.3333333333333333
+  },
+  "Agricultural Genetics Institute": {
+    "Fluid Flow and Transfer Processes": 0.16666666666666666
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Fluid Flow and Transfer Processes": 0.1111111111111111
+  },
+  "University of Khanh Hoa": {
+    "Fluid Flow and Transfer Processes": 0.1111111111111111
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Fluid Flow and Transfer Processes": 0.08333333333333333
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Fluid Flow and Transfer Processes": 0.16666666666666666
+  },
+  "Trung Vuong University": {
+    "Fluid Flow and Transfer Processes": 0.06666666666666667
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Process Chemistry and Technology": 0.08333333333333333
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Process Chemistry and Technology": 0.9603174603174605
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Process Chemistry and Technology": 0.08333333333333333
+  },
+  "National Institute of Animal Sciences": {
+    "Process Chemistry and Technology": 0.23333333333333334
+  },
+  "Hanoi School Of Public Health": {
+    "Process Chemistry and Technology": 0.2857142857142857
+  },
+  "Da Nang Hospital": {
+    "Process Chemistry and Technology": 0.08333333333333333
+  },
+  "Field Crops Research Institute": {
+    "Process Chemistry and Technology": 0.05
+  },
+  "National Institute of Veterinary Research": {
+    "Process Chemistry and Technology": 0.1111111111111111
+  }
+}

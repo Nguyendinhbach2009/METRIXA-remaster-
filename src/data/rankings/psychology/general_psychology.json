@@ -1,0 +1,203 @@
+{
+  "ranking": [
+    {
+      "university": "General Department of Preventive Medicine",
+      "totalContribution": 1.1666666666666665
+    },
+    {
+      "university": "Ministry of Health",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Electric Power University",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "Diplomatic Academy of Vietnam",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "University of Languages and International Studies",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Institute of Materials Science",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "FPT University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vietnam Academy of Social Sciences",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "RMIT Vietnam",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Fulbright University Vietnam",
+      "totalContribution": 0.24583333333333335
+    },
+    {
+      "university": "Hội Gastroenterology Việt Nam",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Hanoi National University of Education",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "British University Vietnam",
+      "totalContribution": 0.08333333333333333
+    }
+  ],
+  "authorsByUniversity": {
+    "Ministry of Health": [
+      {
+        "author": "Claudio Schuftan",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "University of Languages and International Studies": [
+      {
+        "author": "Changxue Xue",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "General Department of Preventive Medicine": [
+      {
+        "author": "William N. Robiner",
+        "contribution": 0.38888888888888884,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Leif J. Braaten",
+        "contribution": 0.38888888888888884,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Barbara Spring",
+        "contribution": 0.19444444444444442,
+        "percent": 0.16666666666666666
+      },
+      {
+        "author": "Bonnie Spring",
+        "contribution": 0.19444444444444442,
+        "percent": 0.16666666666666666
+      }
+    ],
+    "Institute of Materials Science": [
+      {
+        "author": "Tatiana Shchyttsova",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Diplomatic Academy of Vietnam": [
+      {
+        "author": "Julian Filuchowski",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "José Luis Vílchez",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Gezgin UB",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "RMIT Vietnam": [
+      {
+        "author": "Gael McDonald",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "FPT University": [
+      {
+        "author": "Dmytryi I. Weber",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Fulbright University Vietnam": [
+      {
+        "author": "Matthew McDonald",
+        "contribution": 0.13894927536231888,
+        "percent": 0.565217391304348
+      },
+      {
+        "author": "Lan Thi Nguyen",
+        "contribution": 0.10688405797101451,
+        "percent": 0.4347826086956522
+      }
+    ],
+    "British University Vietnam": [
+      {
+        "author": "Raymond Gordon",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Van, Tuan Pham",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Electric Power University": [
+      {
+        "author": "P. W. Keppler",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Hội Gastroenterology Việt Nam": [
+      {
+        "author": "Vu Dung",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi National University of Education": [
+      {
+        "author": "Vũ Thu Trang",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Academy of Social Sciences": [
+      {
+        "author": "Linh Thi Thuy Nguyen",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

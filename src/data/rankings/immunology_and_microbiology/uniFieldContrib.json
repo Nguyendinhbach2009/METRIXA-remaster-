@@ -1,0 +1,996 @@
+{
+  "Hanoi University of Pharmacy": {
+    "Applied Microbiology and Biotechnology": 7.959496122891252,
+    "Immunology": 3.2723725348725337,
+    "Microbiology": 0.9844035594035594,
+    "Parasitology": 0.5287037037037037,
+    "Virology": 0.8001443001443
+  },
+  "Bạch Mai Hospital": {
+    "Applied Microbiology and Biotechnology": 1.6368742739458033,
+    "Immunology": 2.7359668109668105,
+    "Microbiology": 2.412698412698413,
+    "Parasitology": 1.1921814296814297,
+    "Virology": 2.946770863999126
+  },
+  "Vietnam Sweden hospital": {
+    "Applied Microbiology and Biotechnology": 0.18296296296296297,
+    "Immunology": 3.198809523809524,
+    "Microbiology": 0.4464285714285714,
+    "Parasitology": 1.1666666666666665,
+    "Virology": 0.08333333333333333
+  },
+  "General Department of Preventive Medicine": {
+    "Applied Microbiology and Biotechnology": 7.4519885710103075,
+    "Immunology": 51.0440799925052,
+    "Microbiology": 15.558805083805073,
+    "Parasitology": 11.382514353837877,
+    "Virology": 12.5217106236843
+  },
+  "Hanoi Medical University": {
+    "Applied Microbiology and Biotechnology": 8.869723312749624,
+    "Immunology": 22.368979421056167,
+    "Microbiology": 10.686814247843644,
+    "Parasitology": 8.067216016510368,
+    "Virology": 9.294058046853067
+  },
+  "Hospital for Tropical Diseases": {
+    "Applied Microbiology and Biotechnology": 7.583767115830088,
+    "Immunology": 18.360492129371526,
+    "Microbiology": 15.437413366414207,
+    "Parasitology": 48.29087304621709,
+    "Virology": 21.16790406101412
+  },
+  "Oxford University Clinical Research Unit": {
+    "Applied Microbiology and Biotechnology": 14.13850198041692,
+    "Immunology": 12.863884087556409,
+    "Microbiology": 12.354259916613923,
+    "Parasitology": 5.629633167696469,
+    "Virology": 3.0924797626317004
+  },
+  "Hanoi School Of Public Health": {
+    "Applied Microbiology and Biotechnology": 0.971825396825397,
+    "Immunology": 1.33466810966811,
+    "Microbiology": 0.6972222222222221,
+    "Parasitology": 1.989628427128428,
+    "Virology": 0.6701839826839826
+  },
+  "Ministry of Health": {
+    "Applied Microbiology and Biotechnology": 3.097842187581888,
+    "Immunology": 3.614897180895642,
+    "Microbiology": 2.8636154129551064,
+    "Parasitology": 2.172950581465761,
+    "Virology": 4.023621058771094
+  },
+  "Institute of Mathematics": {
+    "Applied Microbiology and Biotechnology": 1.3670300287947343,
+    "Immunology": 1.3400793650793652,
+    "Microbiology": 0.38055555555555554,
+    "Parasitology": 0.2222222222222222,
+    "Virology": 0.05128205128205128
+  },
+  "Viet Duc Hospital": {
+    "Applied Microbiology and Biotechnology": 0.7135437710437709,
+    "Immunology": 3.2946036734736395,
+    "Microbiology": 2.2220504441092683,
+    "Parasitology": 1.650793650793651,
+    "Virology": 0.8152472527472526
+  },
+  "Cho Ray Hospital": {
+    "Applied Microbiology and Biotechnology": 1.747517167517168,
+    "Immunology": 4.39994172494172,
+    "Microbiology": 0.9564814814814815,
+    "Parasitology": 1.9719915886582557,
+    "Virology": 0.9603174603174606
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Applied Microbiology and Biotechnology": 2.399000384159894,
+    "Immunology": 30.86085873323114,
+    "Microbiology": 16.949992491168956,
+    "Parasitology": 16.36638982792236,
+    "Virology": 11.773887017674326
+  },
+  "Khanh Hoa General Hospital": {
+    "Applied Microbiology and Biotechnology": 0.3203042328042327,
+    "Immunology": 2.1620370370370368,
+    "Microbiology": 0.9917735042735044,
+    "Parasitology": 0.9112554112554112,
+    "Virology": 0.6309523809523809
+  },
+  "National Library of Vietnam": {
+    "Applied Microbiology and Biotechnology": 0.09523809523809523,
+    "Immunology": 0.030303030303030304
+  },
+  "Ton Duc Thang University": {
+    "Applied Microbiology and Biotechnology": 0.6842352092352092,
+    "Immunology": 5.942718855218851,
+    "Microbiology": 1.198148148148148,
+    "Parasitology": 0.6499999999999999,
+    "Virology": 0.7793650793650793
+  },
+  "Health Strategy and Policy Institute": {
+    "Applied Microbiology and Biotechnology": 0.22204184704184704,
+    "Immunology": 0.6769637769637769,
+    "Microbiology": 0.09424242424242424,
+    "Virology": 0.2365079365079365
+  },
+  "Nha Trang University": {
+    "Applied Microbiology and Biotechnology": 0.5868686868686867,
+    "Immunology": 35.600102212602316,
+    "Microbiology": 2.541931216931217,
+    "Parasitology": 0.892063492063492,
+    "Virology": 0.19285714285714284
+  },
+  "Hue Central Hospital": {
+    "Applied Microbiology and Biotechnology": 0.930504680504682,
+    "Immunology": 2.944191919191919,
+    "Microbiology": 1.4692353942353937,
+    "Parasitology": 0.6888888888888889,
+    "Virology": 0.011904761904761904
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Applied Microbiology and Biotechnology": 0.02796052631578947,
+    "Immunology": 0.87202380952381,
+    "Microbiology": 0.07948717948717948,
+    "Parasitology": 0.3055555555555555,
+    "Virology": 0.5071428571428571
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Applied Microbiology and Biotechnology": 4.121992178513915,
+    "Immunology": 43.991590218061106,
+    "Microbiology": 10.395333061999706,
+    "Parasitology": 20.587698134986503,
+    "Virology": 3.2829248366013024
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 6.684062049062045,
+    "Immunology": 43.79773061466331,
+    "Microbiology": 7.667136567136558,
+    "Parasitology": 1.737484737484738,
+    "Virology": 2.13003722856664
+  },
+  "Hanoi Lung Hospital": {
+    "Applied Microbiology and Biotechnology": 0.45377846790890264,
+    "Immunology": 1.3793651910031222,
+    "Microbiology": 0.4261109035302583,
+    "Parasitology": 0.43813131313131304,
+    "Virology": 0.1493506493506494
+  },
+  "Vietnam National Children's Hospital": {
+    "Applied Microbiology and Biotechnology": 1.4284096312497427,
+    "Immunology": 21.607932693191497,
+    "Microbiology": 4.880393982291512,
+    "Parasitology": 2.6734615384615372,
+    "Virology": 2.895189630773997
+  },
+  "Ministry of Education and Training": {
+    "Applied Microbiology and Biotechnology": 0.11595238095238095,
+    "Immunology": 0.047619047619047616,
+    "Microbiology": 0.28174603174603174,
+    "Parasitology": 0.125,
+    "Virology": 0.030303030303030304
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 7.376823340058628,
+    "Immunology": 20.28810662647877,
+    "Microbiology": 5.184784654468564,
+    "Parasitology": 2.8818976829270917,
+    "Virology": 3.162006512006511
+  },
+  "Tân Tạo University": {
+    "Applied Microbiology and Biotechnology": 0.8244047619047622,
+    "Immunology": 9.170354275354274,
+    "Microbiology": 1.8992063492063491,
+    "Parasitology": 2.083333333333333,
+    "Virology": 0.8888888888888888
+  },
+  "Hue University": {
+    "Applied Microbiology and Biotechnology": 3.837173012173012,
+    "Immunology": 28.28606533848473,
+    "Microbiology": 13.463795735854529,
+    "Parasitology": 6.390003515003507,
+    "Virology": 2.3756410256410265
+  },
+  "Hanoi Open University": {
+    "Applied Microbiology and Biotechnology": 1.1666666666666665,
+    "Immunology": 7.135786435786435,
+    "Microbiology": 0.5,
+    "Parasitology": 2.2666666666666666,
+    "Virology": 0.3333333333333333
+  },
+  "National Institute of Veterinary Research": {
+    "Applied Microbiology and Biotechnology": 1.1043891293891293,
+    "Immunology": 7.920454443547662,
+    "Microbiology": 3.016329001458308,
+    "Parasitology": 8.607389832389828,
+    "Virology": 3.3890606679399786
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 1.5213675213675215,
+    "Immunology": 5.632539682539683,
+    "Microbiology": 1.2250000000000003,
+    "Virology": 0.08333333333333333
+  },
+  "Can Tho University": {
+    "Applied Microbiology and Biotechnology": 10.528463203463193,
+    "Immunology": 60.643540330499164,
+    "Microbiology": 8.261718374218365,
+    "Parasitology": 5.714255189255182,
+    "Virology": 1.9695279866332496
+  },
+  "Ho Chi Minh City University of Science": {
+    "Applied Microbiology and Biotechnology": 0.4619047619047619,
+    "Immunology": 8.542279942279936,
+    "Microbiology": 2.0340909090909096
+  },
+  "Children's Hospital 1": {
+    "Applied Microbiology and Biotechnology": 0.5675431485725604,
+    "Immunology": 4.2783145782295655,
+    "Microbiology": 1.9042453733630198,
+    "Parasitology": 0.18376068376068375,
+    "Virology": 0.943756431912812
+  },
+  "Duy Tan University": {
+    "Applied Microbiology and Biotechnology": 1.753538498538499,
+    "Immunology": 3.8194203944203915,
+    "Microbiology": 3.07025012025012,
+    "Parasitology": 1.0116073741073741,
+    "Virology": 2.395515088775959
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 1.380952380952381,
+    "Immunology": 0.6847222222222221,
+    "Microbiology": 0.06666666666666667
+  },
+  "Da Nang Hospital": {
+    "Applied Microbiology and Biotechnology": 1.3616088486676723,
+    "Immunology": 0.5459164292497626,
+    "Microbiology": 0.4162037037037037,
+    "Virology": 0.19444444444444448
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Applied Microbiology and Biotechnology": 0.7589646464646463,
+    "Immunology": 1.274632851716185,
+    "Microbiology": 2.2508044845548825,
+    "Parasitology": 0.21031746031746032,
+    "Virology": 0.30833333333333335
+  },
+  "Ho Chi Minh City International University": {
+    "Applied Microbiology and Biotechnology": 0.03333333333333333,
+    "Immunology": 1.0549783549783551,
+    "Microbiology": 0.037037037037037035
+  },
+  "Children's Hospital 2": {
+    "Applied Microbiology and Biotechnology": 0.31993145743145746,
+    "Immunology": 1.6135424488365664,
+    "Microbiology": 1.6410993145787285,
+    "Parasitology": 0.6555555555555554,
+    "Virology": 0.7020192319147427
+  },
+  "Hai Phong University of Management and Technology": {
+    "Applied Microbiology and Biotechnology": 0.037037037037037035,
+    "Immunology": 0.9532407407407407,
+    "Parasitology": 0.5,
+    "Virology": 0.11616161616161616
+  },
+  "VNU University of Science": {
+    "Applied Microbiology and Biotechnology": 1.6425925925925924,
+    "Immunology": 5.3119167869167905,
+    "Microbiology": 1.260582010582011,
+    "Parasitology": 0.25595238095238093,
+    "Virology": 0.3333333333333333
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 0.9583333333333333,
+    "Immunology": 11.198346560846556,
+    "Microbiology": 4.043939393939395,
+    "Parasitology": 4.39680311890838,
+    "Virology": 2.3930467680467666
+  },
+  "Ho Chi Minh City Open University": {
+    "Applied Microbiology and Biotechnology": 0.6944444444444444,
+    "Immunology": 1.322222222222222,
+    "Microbiology": 0.125
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Applied Microbiology and Biotechnology": 0.21428571428571427,
+    "Immunology": 8.832658817217636,
+    "Microbiology": 1.2907587782587782,
+    "Parasitology": 0.638888888888889,
+    "Virology": 0.19920634920634922
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Applied Microbiology and Biotechnology": 1.0396825396825395,
+    "Immunology": 7.636586099086094,
+    "Microbiology": 2.7660052910052904,
+    "Parasitology": 3.598412698412699,
+    "Virology": 2.6032820440429147
+  },
+  "Vietnam National University, Hanoi": {
+    "Applied Microbiology and Biotechnology": 1.713866668757973,
+    "Immunology": 13.514629814629792,
+    "Microbiology": 5.234629259629254,
+    "Parasitology": 1.8686868686868687,
+    "Virology": 1.0619507706464228
+  },
+  "Ho Chi Minh City University of Education": {
+    "Applied Microbiology and Biotechnology": 0.05698005698005698,
+    "Immunology": 3.172152847152847,
+    "Microbiology": 0.1380952380952381,
+    "Parasitology": 1.5476190476190477,
+    "Virology": 0.07407407407407407
+  },
+  "Vietnam National University of Agriculture": {
+    "Applied Microbiology and Biotechnology": 1.349482924482925,
+    "Immunology": 14.610064608594005,
+    "Microbiology": 4.6190716690716656,
+    "Parasitology": 4.593964291069553,
+    "Virology": 2.6306998556998527
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Applied Microbiology and Biotechnology": 0.33174603174603173,
+    "Immunology": 0.2916666666666667,
+    "Virology": 0.175
+  },
+  "University Medical Center HCMC": {
+    "Applied Microbiology and Biotechnology": 1.234112554112554,
+    "Immunology": 8.512201932054863,
+    "Microbiology": 1.3652777777777783,
+    "Parasitology": 0.8059523809523808,
+    "Virology": 0.46825396825396826
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 0.3375054896794028,
+    "Immunology": 4.1617194063933995,
+    "Microbiology": 6.159599398186346,
+    "Parasitology": 1.8185485810485813,
+    "Virology": 5.02883642057403
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Applied Microbiology and Biotechnology": 0.17474747474747473,
+    "Immunology": 4.056160043660045,
+    "Microbiology": 0.9523809523809521,
+    "Parasitology": 20.24778828942008,
+    "Virology": 0.2785714285714285
+  },
+  "Nam Dinh University of Nursing": {
+    "Applied Microbiology and Biotechnology": 0.989245335561125,
+    "Immunology": 0.15,
+    "Parasitology": 0.08888888888888888
+  },
+  "Hanoi University of Science and Technology": {
+    "Applied Microbiology and Biotechnology": 1.1944444444444446,
+    "Immunology": 1.878986291486292,
+    "Microbiology": 1.3925264550264553,
+    "Parasitology": 0.2928571428571428,
+    "Virology": 0.2222222222222222
+  },
+  "Hanoi University": {
+    "Applied Microbiology and Biotechnology": 0.3771916971916972,
+    "Immunology": 1.819444444444444,
+    "Microbiology": 0.8761904761904761,
+    "Parasitology": 1.5172077922077922,
+    "Virology": 1.1318095124091891
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Applied Microbiology and Biotechnology": 1.1146464646464644,
+    "Immunology": 4.446542346542349,
+    "Microbiology": 1.8809523809523812,
+    "Parasitology": 0.2,
+    "Virology": 0.125
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Applied Microbiology and Biotechnology": 0.14354575163398692,
+    "Immunology": 0.1111111111111111,
+    "Microbiology": 0.22103174603174602,
+    "Parasitology": 0.061553030303030304,
+    "Virology": 1.0560828877005346
+  },
+  "Vietnam Military Medical University": {
+    "Applied Microbiology and Biotechnology": 2.11358967829556,
+    "Immunology": 14.194037505627431,
+    "Microbiology": 3.8766173641173602,
+    "Parasitology": 4.388879478009912,
+    "Virology": 0.9761904761904763
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Applied Microbiology and Biotechnology": 1.5820887445887446,
+    "Immunology": 5.31436757686757,
+    "Microbiology": 2.4118386243386234,
+    "Parasitology": 0.11309523809523808,
+    "Virology": 1.266742032763705
+  },
+  "Hung Vuong Hospital": {
+    "Applied Microbiology and Biotechnology": 0.4658855764118922,
+    "Immunology": 2.341825277119393,
+    "Microbiology": 0.29696969696969694,
+    "Parasitology": 0.5,
+    "Virology": 0.09515974221856574
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Applied Microbiology and Biotechnology": 0.5814843886272458,
+    "Immunology": 1.8220400378488615,
+    "Microbiology": 1.9548701298701283,
+    "Parasitology": 1.5884550634550636,
+    "Virology": 0.56998556998557
+  },
+  "Thai Nguyen University": {
+    "Applied Microbiology and Biotechnology": 2.1777777777777785,
+    "Immunology": 3.0211152882205505,
+    "Microbiology": 1.3587301587301592,
+    "Parasitology": 2.7028211311106047,
+    "Virology": 1.8906084656084656
+  },
+  "Hung Yen University of Technology and Education": {
+    "Applied Microbiology and Biotechnology": 0.39130434782608703,
+    "Immunology": 0.14786967418546365,
+    "Microbiology": 0.39999999999999997,
+    "Parasitology": 0.5833333333333333,
+    "Virology": 0.1111111111111111
+  },
+  "Anova Corp (Vietnam)": {
+    "Applied Microbiology and Biotechnology": 0.11428571428571428,
+    "Immunology": 0.28937728937728935,
+    "Microbiology": 0.3714285714285714
+  },
+  "National Institute of Nutrition": {
+    "Applied Microbiology and Biotechnology": 0.7793169793169794,
+    "Immunology": 2.7157507276151347,
+    "Microbiology": 0.6690476190476189,
+    "Parasitology": 0.7222222222222222
+  },
+  "Lac Hong University": {
+    "Applied Microbiology and Biotechnology": 0.2444444444444444,
+    "Immunology": 1.3242979242979245,
+    "Microbiology": 0.027777777777777776,
+    "Parasitology": 0.07407407407407407
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Applied Microbiology and Biotechnology": 0.041666666666666664,
+    "Immunology": 1.356084656084656,
+    "Microbiology": 0.6666666666666666,
+    "Parasitology": 0.08333333333333333
+  },
+  "An Giang University": {
+    "Applied Microbiology and Biotechnology": 0.25,
+    "Immunology": 2.639261664261664,
+    "Microbiology": 0.1952214452214452,
+    "Parasitology": 0.17261904761904762,
+    "Virology": 0.49202847805788985
+  },
+  "Thuongmai University": {
+    "Applied Microbiology and Biotechnology": 0.05555555555555555,
+    "Immunology": 0.3055555555555555,
+    "Microbiology": 0.1,
+    "Parasitology": 0.2142857142857143
+  },
+  "Thai Nguyen National General Hospital": {
+    "Applied Microbiology and Biotechnology": 0.8277777777777777,
+    "Immunology": 5.267110667110666,
+    "Microbiology": 1.416666666666667,
+    "Parasitology": 2.5180555555555557,
+    "Virology": 0.27499999999999997
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Applied Microbiology and Biotechnology": 2.362500000000002,
+    "Immunology": 9.382986815481651,
+    "Microbiology": 1.9879900963234303,
+    "Parasitology": 3.048412698412698,
+    "Virology": 0.8888888888888887
+  },
+  "Dong Thap Hospital": {
+    "Applied Microbiology and Biotechnology": 0.3046240601503759,
+    "Immunology": 1.3923545408839528,
+    "Microbiology": 0.15043290043290042,
+    "Parasitology": 0.8555555555555554,
+    "Virology": 0.03042328042328042
+  },
+  "Institute of Population, Health and Development": {
+    "Applied Microbiology and Biotechnology": 0.21428571428571427,
+    "Immunology": 0.3615079365079365,
+    "Microbiology": 0.6166666666666667,
+    "Parasitology": 0.09325396825396826
+  },
+  "Hanoi Medical University Hospital": {
+    "Applied Microbiology and Biotechnology": 0.16474867724867726,
+    "Immunology": 0.708774111193466,
+    "Microbiology": 1.2276479368584632,
+    "Parasitology": 0.3619047619047619,
+    "Virology": 0.014492753623188406
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Applied Microbiology and Biotechnology": 1.1471933621933623,
+    "Immunology": 0.8175747863247862,
+    "Microbiology": 1.1916666666666667,
+    "Parasitology": 0.2446078431372549,
+    "Virology": 0.2103174603174603
+  },
+  "Phenikaa University": {
+    "Applied Microbiology and Biotechnology": 2.3,
+    "Immunology": 3.8520202020202015,
+    "Microbiology": 7.2147065897065845,
+    "Parasitology": 0.023809523809523808,
+    "Virology": 0.2444444444444444
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Applied Microbiology and Biotechnology": 0.030303030303030304,
+    "Immunology": 1.7019013702347032,
+    "Microbiology": 1.4061457061457059,
+    "Parasitology": 1.5224747474747473,
+    "Virology": 1.319191919191919
+  },
+  "Bình Dương University": {
+    "Applied Microbiology and Biotechnology": 0.5,
+    "Immunology": 0.35507246376811596,
+    "Microbiology": 0.027777777777777776,
+    "Virology": 0.17261904761904762
+  },
+  "Research Institute for Aquaculture No1": {
+    "Applied Microbiology and Biotechnology": 0.1111111111111111,
+    "Immunology": 19.9065083065083,
+    "Microbiology": 0.6662494912494914,
+    "Parasitology": 2.6689153439153457
+  },
+  "Phu Yen University": {
+    "Applied Microbiology and Biotechnology": 0.125,
+    "Immunology": 1.5648809523809524,
+    "Parasitology": 0.492989417989418,
+    "Virology": 0.3333333333333333
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Applied Microbiology and Biotechnology": 0.38095238095238093,
+    "Immunology": 0.7750000000000001,
+    "Microbiology": 0.23333333333333334,
+    "Parasitology": 1.2333333333333332,
+    "Virology": 0.19166666666666665
+  },
+  "National Institute of Animal Sciences": {
+    "Applied Microbiology and Biotechnology": 0.18055555555555555,
+    "Immunology": 0.4605820105820105,
+    "Microbiology": 0.4749999999999999,
+    "Parasitology": 1.311507936507937,
+    "Virology": 0.047619047619047616
+  },
+  "Vinh Long University of Technology Education": {
+    "Applied Microbiology and Biotechnology": 0.2976190476190476,
+    "Immunology": 2.853240740740742,
+    "Microbiology": 0.6189153439153439,
+    "Parasitology": 0.06666666666666667
+  },
+  "University of Hai Duong": {
+    "Applied Microbiology and Biotechnology": 0.06666666666666667,
+    "Immunology": 0.7172619047619049,
+    "Microbiology": 0.3117845117845118,
+    "Parasitology": 0.5703703703703703,
+    "Virology": 0.023809523809523808
+  },
+  "Tay Bac University": {
+    "Applied Microbiology and Biotechnology": 0.06666666666666667,
+    "Immunology": 1.1271284271284272,
+    "Microbiology": 0.1865079365079365,
+    "Parasitology": 0.736111111111111,
+    "Virology": 0.28923160173160173
+  },
+  "Vinh University": {
+    "Applied Microbiology and Biotechnology": 0.07692307692307693,
+    "Immunology": 3.139814814814813,
+    "Microbiology": 0.15476190476190474,
+    "Parasitology": 0.4583333333333333,
+    "Virology": 0.13927738927738928
+  },
+  "University of Da Nang": {
+    "Applied Microbiology and Biotechnology": 0.6944444444444444,
+    "Immunology": 1.3015873015873016,
+    "Microbiology": 1.47008547008547,
+    "Parasitology": 0.24537037037037035,
+    "Virology": 0.037037037037037035
+  },
+  "Tien Giang General Hospital": {
+    "Applied Microbiology and Biotechnology": 0.39999999999999997,
+    "Immunology": 0.9380776287123036,
+    "Microbiology": 0.2952380952380952,
+    "Parasitology": 0.13095238095238093,
+    "Virology": 0.4367965367965368
+  },
+  "Hong Bang International University": {
+    "Applied Microbiology and Biotechnology": 0.38888888888888884,
+    "Immunology": 1.0666666666666667,
+    "Microbiology": 0.38333333333333336,
+    "Parasitology": 0.8944444444444445,
+    "Virology": 0.26666666666666666
+  },
+  "National Economics University": {
+    "Applied Microbiology and Biotechnology": 0.06666666666666667,
+    "Virology": 0.18115942028985507
+  },
+  "Trung Vuong University": {
+    "Applied Microbiology and Biotechnology": 0.2,
+    "Immunology": 1.9087301587301586,
+    "Microbiology": 0.1388888888888889,
+    "Parasitology": 1.3833333333333333,
+    "Virology": 0.08333333333333333
+  },
+  "Tra Vinh University": {
+    "Applied Microbiology and Biotechnology": 0.41666666666666663,
+    "Immunology": 5.600138287638285,
+    "Microbiology": 1.62037037037037,
+    "Parasitology": 1.9444444444444446,
+    "Virology": 0.5892857142857144
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Applied Microbiology and Biotechnology": 0.33333333333333337,
+    "Immunology": 2.2014652014652016,
+    "Microbiology": 0.38888888888888895,
+    "Parasitology": 0.06666666666666667
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Applied Microbiology and Biotechnology": 0.23333333333333334,
+    "Immunology": 1.0555555555555556,
+    "Microbiology": 0.4837962962962963,
+    "Parasitology": 0.2,
+    "Virology": 0.05555555555555555
+  },
+  "Van Lang University": {
+    "Applied Microbiology and Biotechnology": 0.39999999999999997,
+    "Immunology": 2.842867916397327,
+    "Microbiology": 1.3883838383838383,
+    "Parasitology": 0.7,
+    "Virology": 0.2738733488733489
+  },
+  "Thang Long University": {
+    "Applied Microbiology and Biotechnology": 0.08333333333333333,
+    "Immunology": 6.215824915824914,
+    "Microbiology": 0.5277777777777777,
+    "Parasitology": 1.4238095238095236,
+    "Virology": 0.574074074074074
+  },
+  "Vin, University": {
+    "Applied Microbiology and Biotechnology": 0.4722222222222222,
+    "Immunology": 3.8998085837546603,
+    "Microbiology": 0.5256410256410257,
+    "Parasitology": 0.8333333333333333,
+    "Virology": 0.8093434343434344
+  },
+  "Vinmec International Hospital": {
+    "Applied Microbiology and Biotechnology": 0.13194444444444445,
+    "Immunology": 13.26939651691038,
+    "Microbiology": 1.9854353707294887,
+    "Parasitology": 0.303030303030303,
+    "Virology": 0.023809523809523808
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Applied Microbiology and Biotechnology": 0.3333333333333333,
+    "Immunology": 0.1955026455026455,
+    "Virology": 0.27962962962962956
+  },
+  "Ministry Of Health": {
+    "Applied Microbiology and Biotechnology": 0.21139971139971142,
+    "Immunology": 0.06111111111111111,
+    "Microbiology": 0.06727272727272728
+  },
+  "Hai Phong University": {
+    "Applied Microbiology and Biotechnology": 0.023809523809523808,
+    "Immunology": 0.4722222222222222,
+    "Microbiology": 0.16666666666666666,
+    "Parasitology": 0.13333333333333333,
+    "Virology": 0.5185185185185185
+  },
+  "Institute for Reproductive and Family Health": {
+    "Applied Microbiology and Biotechnology": 0.030303030303030304,
+    "Immunology": 0.15555555555555556,
+    "Parasitology": 0.047619047619047616,
+    "Virology": 0.0673076923076923
+  },
+  "Saigon Technology University": {
+    "Immunology": 0.041666666666666664,
+    "Microbiology": 0.2924242424242425
+  },
+  "RMIT Vietnam": {
+    "Immunology": 0.375,
+    "Microbiology": 0.2,
+    "Parasitology": 0.047619047619047616
+  },
+  "Center for Health Consultation and Community Development": {
+    "Immunology": 0.10833333333333334,
+    "Microbiology": 0.1111111111111111,
+    "Virology": 0.1111111111111111
+  },
+  "University of Languages and International Studies": {
+    "Immunology": 0.10833333333333334
+  },
+  "National Center for Technological Progress": {
+    "Immunology": 0.8412698412698416,
+    "Microbiology": 0.3333333333333333
+  },
+  "International Center for Tropical Agriculture": {
+    "Immunology": 2.4660210160210156,
+    "Microbiology": 1.1055675805675802,
+    "Parasitology": 2.8745429278323993,
+    "Virology": 0.6087962962962963
+  },
+  "National Institute for Control of Vaccines and Biologicals": {
+    "Immunology": 0.7146688560481663,
+    "Parasitology": 0.030303030303030304
+  },
+  "Hanoi National University of Education": {
+    "Immunology": 3.0325757575757586,
+    "Microbiology": 0.7333333333333334,
+    "Virology": 0.005050505050505051
+  },
+  "Thuyloi University": {
+    "Immunology": 1.3174603174603174,
+    "Microbiology": 0.0625,
+    "Parasitology": 0.38095238095238093
+  },
+  "Institute of Materials Science": {
+    "Immunology": 0.3611111111111111,
+    "Virology": 0.047619047619047616
+  },
+  "Vabiotech (Vietnam)": {
+    "Immunology": 0.035480859010270774,
+    "Microbiology": 0.041666666666666664,
+    "Virology": 0.1111111111111111
+  },
+  "Saigon University": {
+    "Immunology": 3.577777777777778,
+    "Microbiology": 0.8333333333333333,
+    "Parasitology": 1.6825396825396828,
+    "Virology": 0.725
+  },
+  "Agricultural Genetics Institute": {
+    "Immunology": 5.748957061457058,
+    "Microbiology": 0.047619047619047616,
+    "Parasitology": 0.21428571428571425,
+    "Virology": 0.06666666666666667
+  },
+  "Dalat University": {
+    "Immunology": 0.948015873015873,
+    "Microbiology": 0.041666666666666664
+  },
+  "Quy Nhon University": {
+    "Immunology": 1.7322344322344314,
+    "Microbiology": 0.5833333333333334,
+    "Parasitology": 1.101190476190476
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Immunology": 0.9404761904761906
+  },
+  "Institute for Computational Science and Technology": {
+    "Immunology": 0.625,
+    "Virology": 0.08333333333333333
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Immunology": 2.168650793650793,
+    "Microbiology": 0.42222222222222217,
+    "Virology": 0.8333333333333335
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Immunology": 0.3990079365079365,
+    "Parasitology": 0.1,
+    "Virology": 0.1111111111111111
+  },
+  "Hanoi University of Mining and Geology": {
+    "Immunology": 0.18804112554112554
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Immunology": 7.1738095238095205,
+    "Microbiology": 0.38095238095238093,
+    "Parasitology": 1.770299145299145,
+    "Virology": 0.5
+  },
+  "Vietnam International Education Cooperation Department": {
+    "Immunology": 0.02564102564102564
+  },
+  "Văn Hiến University": {
+    "Immunology": 1.081869981869982
+  },
+  "Phenikaa (Vietnam)": {
+    "Immunology": 0.6072668072668072,
+    "Microbiology": 0.16666666666666666,
+    "Virology": 0.041666666666666664
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Immunology": 0.3,
+    "Microbiology": 0.5222222222222221,
+    "Parasitology": 0.16666666666666666,
+    "Virology": 0.1111111111111111
+  },
+  "Cat Tien National Park": {
+    "Immunology": 0.7117724867724866,
+    "Microbiology": 1.1484994876299228,
+    "Parasitology": 1.5709114959114965,
+    "Virology": 0.6571428571428571
+  },
+  "Hồng Đức University": {
+    "Immunology": 2.3087301587301585,
+    "Parasitology": 0.1111111111111111,
+    "Virology": 0.06666666666666667
+  },
+  "Center for Promotion of Advancement of Society": {
+    "Immunology": 0.21079495217426253,
+    "Virology": 0.022727272727272728
+  },
+  "Institut Pasteur de Nha Trang": {
+    "Immunology": 0.462962962962963
+  },
+  "Dong Thap University": {
+    "Immunology": 0.3580693815987933,
+    "Virology": 0.05555555555555555
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Immunology": 0.2037037037037037,
+    "Microbiology": 0.15787545787545787,
+    "Parasitology": 0.05555555555555555,
+    "Virology": 0.05
+  },
+  "Vinh Medical University": {
+    "Immunology": 0.3333333333333333,
+    "Microbiology": 0.041666666666666664,
+    "Parasitology": 0.3277777777777777
+  },
+  "Vietnam National University of Forestry": {
+    "Immunology": 0.10555555555555556,
+    "Microbiology": 0.02564102564102564,
+    "Parasitology": 0.9129629629629628,
+    "Virology": 0.21212121212121213
+  },
+  "Ministry of Science and Technology": {
+    "Immunology": 0.42353643966547194,
+    "Microbiology": 0.5555555555555556,
+    "Virology": 0.05
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Immunology": 1.2500000000000002
+  },
+  "University of Khanh Hoa": {
+    "Immunology": 0.46039682539682536,
+    "Microbiology": 1.2380952380952381,
+    "Parasitology": 0.19285714285714284,
+    "Virology": 0.09523809523809523
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Immunology": 1.1756410256410255,
+    "Microbiology": 0.8571428571428571,
+    "Virology": 0.06666666666666667
+  },
+  "Hanoi University of Civil Engineering": {
+    "Immunology": 0.045454545454545456,
+    "Parasitology": 0.30000000000000004
+  },
+  "Hanoi Pedagogical University 2": {
+    "Immunology": 0.1111111111111111
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Immunology": 0.1111111111111111,
+    "Virology": 0.2222222222222222
+  },
+  "General Clinic Phương Nam": {
+    "Immunology": 0.023809523809523808,
+    "Parasitology": 0.18253968253968253
+  },
+  "Quảng Bình University": {
+    "Immunology": 0.05555555555555555,
+    "Microbiology": 0.041666666666666664
+  },
+  "PetroVietnam University": {
+    "Immunology": 0.08333333333333333
+  },
+  "Field Crops Research Institute": {
+    "Immunology": 0.5666666666666667,
+    "Parasitology": 0.8888888888888888
+  },
+  "Stem Cell Institute": {
+    "Immunology": 0.125
+  },
+  "Học viện Tư pháp": {
+    "Immunology": 1.3460317460317466,
+    "Microbiology": 0.3472222222222222,
+    "Parasitology": 1.1805555555555556
+  },
+  "Bac Ha International University": {
+    "Immunology": 0.011299435028248588
+  },
+  "Hanoi University of Industry": {
+    "Immunology": 0.4814814814814814,
+    "Parasitology": 0.13333333333333333
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Immunology": 0.08333333333333333,
+    "Virology": 0.20893719806763283
+  },
+  "Le Quy Don Technical University": {
+    "Immunology": 0.3333333333333333,
+    "Microbiology": 0.0625,
+    "Virology": 0.06666666666666667
+  },
+  "Foreign Trade University": {
+    "Immunology": 0.125,
+    "Virology": 0.027777777777777776
+  },
+  "Electric Power University": {
+    "Immunology": 0.7830687830687832
+  },
+  "FPT University": {
+    "Immunology": 0.3768115942028985,
+    "Microbiology": 0.25,
+    "Virology": 1.7121212121212126
+  },
+  "Academy of Policy and Development": {
+    "Immunology": 0.1111111111111111
+  },
+  "My Duc Hospital": {
+    "Immunology": 1.1309523809523814,
+    "Microbiology": 0.3333333333333333,
+    "Parasitology": 0.25555555555555554
+  },
+  "Bệnh viện Đa khoa Xanh pôn": {
+    "Immunology": 0.1111111111111111
+  },
+  "Viet Tri University of Industry": {
+    "Immunology": 0.6666666666666666,
+    "Microbiology": 0.13333333333333333
+  },
+  "Bệnh viện Bình Dân": {
+    "Immunology": 0.16666666666666666
+  },
+  "Ministry of Justice": {
+    "Immunology": 0.4375
+  },
+  "Pham Van Dong University": {
+    "Immunology": 0.022222222222222223,
+    "Microbiology": 0.05128205128205128
+  },
+  "Fulbright University Vietnam": {
+    "Immunology": 0.5
+  },
+  "Hung Vuong University": {
+    "Immunology": 0.13333333333333333
+  },
+  "Dai Nam University": {
+    "Immunology": 0.06666666666666667
+  },
+  "Vinh Phuc Department of Health": {
+    "Immunology": 0.3333333333333333,
+    "Parasitology": 0.07870370370370369
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Immunology": 0.05555555555555555,
+    "Microbiology": 0.047619047619047616,
+    "Virology": 0.07407407407407407
+  },
+  "The State Bank of Vietnam": {
+    "Microbiology": 0.047619047619047616
+  },
+  "Saigon International University": {
+    "Microbiology": 0.1111111111111111,
+    "Parasitology": 1.0
+  },
+  "Da Nang University of Economics": {
+    "Microbiology": 0.13333333333333333
+  },
+  "Forest Industry Research Institute": {
+    "Microbiology": 0.2,
+    "Virology": 0.14285714285714285
+  },
+  "Hue University of Education": {
+    "Microbiology": 0.041666666666666664,
+    "Virology": 0.05
+  },
+  "Center for Environment and Community Assets Development": {
+    "Parasitology": 0.08465608465608465
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Parasitology": 0.15277777777777776,
+    "Virology": 0.3333333333333333
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Parasitology": 0.047619047619047616
+  },
+  "Baria Vungtau University": {
+    "Parasitology": 0.1111111111111111,
+    "Virology": 0.06172839506172839
+  },
+  "Vietnamese-German University": {
+    "Virology": 0.1111111111111111
+  }
+}

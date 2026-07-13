@@ -1,0 +1,975 @@
+{
+  "Institute of Population, Health and Development": {
+    "Economics and Econometrics": 5.341666666666665,
+    "Finance": 2.586453823953824,
+    "General Economics, Econometrics and Finance": 0.16666666666666666
+  },
+  "National Economics University": {
+    "Economics and Econometrics": 382.8183697670054,
+    "Finance": 87.08842592592619,
+    "General Economics, Econometrics and Finance": 88.79254535147423
+  },
+  "Hanoi School Of Public Health": {
+    "Economics and Econometrics": 11.340571139100549,
+    "Finance": 9.865392369068832,
+    "General Economics, Econometrics and Finance": 1.0
+  },
+  "RMIT Vietnam": {
+    "Economics and Econometrics": 70.5393593674846,
+    "Finance": 24.811546338965677,
+    "General Economics, Econometrics and Finance": 17.998015873015866
+  },
+  "General Department of Preventive Medicine": {
+    "Economics and Econometrics": 94.19977640201105,
+    "Finance": 4.396004866593102,
+    "General Economics, Econometrics and Finance": 0.05555555555555555
+  },
+  "Ho Chi Minh University of Banking": {
+    "Economics and Econometrics": 146.24285714285713,
+    "Finance": 93.90396825396844,
+    "General Economics, Econometrics and Finance": 35.74920634920636
+  },
+  "Hanoi University of Pharmacy": {
+    "Economics and Econometrics": 8.489584952084943,
+    "Finance": 3.4574074074074077,
+    "General Economics, Econometrics and Finance": 0.25
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Economics and Econometrics": 503.0769055019013,
+    "Finance": 161.99351851851839,
+    "General Economics, Econometrics and Finance": 107.83955026455034
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Economics and Econometrics": 55.7125901875903,
+    "Finance": 9.804166666666658,
+    "General Economics, Econometrics and Finance": 34.07500000000001
+  },
+  "Nha Trang University": {
+    "Economics and Econometrics": 27.014999999999986,
+    "Finance": 4.249999999999999,
+    "General Economics, Econometrics and Finance": 8.616666666666665
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Economics and Econometrics": 265.805649665038,
+    "Finance": 91.32303391053418,
+    "General Economics, Econometrics and Finance": 70.72823565323579
+  },
+  "Hospital for Tropical Diseases": {
+    "Economics and Econometrics": 6.777270284063759,
+    "Finance": 1.0838827838827838
+  },
+  "The State Bank of Vietnam": {
+    "Economics and Econometrics": 171.90436507936465,
+    "Finance": 66.59880952380989,
+    "General Economics, Econometrics and Finance": 44.08055555555562
+  },
+  "Dalat University": {
+    "Economics and Econometrics": 39.82189691400224,
+    "Finance": 9.516666666666667,
+    "General Economics, Econometrics and Finance": 8.205555555555554
+  },
+  "Can Tho University": {
+    "Economics and Econometrics": 92.15542096792124,
+    "Finance": 19.677777777777756,
+    "General Economics, Econometrics and Finance": 15.499999999999995
+  },
+  "Thai Nguyen University": {
+    "Economics and Econometrics": 64.4785943223444,
+    "Finance": 10.941666666666666,
+    "General Economics, Econometrics and Finance": 21.224206349206334
+  },
+  "Ton Duc Thang University": {
+    "Economics and Econometrics": 101.65794541136626,
+    "Finance": 50.145370370370436,
+    "General Economics, Econometrics and Finance": 23.05595238095236
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Economics and Econometrics": 16.705996472663138,
+    "Finance": 1.5,
+    "General Economics, Econometrics and Finance": 12.304761904761904
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Economics and Econometrics": 24.898099272902716,
+    "Finance": 3.4972222222222227,
+    "General Economics, Econometrics and Finance": 5.349206349206348
+  },
+  "University of Da Nang": {
+    "Economics and Econometrics": 65.12391127391136,
+    "Finance": 36.19142246642246,
+    "General Economics, Econometrics and Finance": 14.388888888888884
+  },
+  "Ministry of Health": {
+    "Economics and Econometrics": 6.261920560828004,
+    "Finance": 4.576016156791008,
+    "General Economics, Econometrics and Finance": 0.25
+  },
+  "Le Quy Don Technical University": {
+    "Economics and Econometrics": 3.440476190476189,
+    "Finance": 2.6388888888888893,
+    "General Economics, Econometrics and Finance": 1.7592592592592597
+  },
+  "Thang Long University": {
+    "Economics and Econometrics": 52.96695526695528,
+    "Finance": 10.119191919191918,
+    "General Economics, Econometrics and Finance": 9.605555555555556
+  },
+  "Academy Of Finance": {
+    "Economics and Econometrics": 80.15634920634922,
+    "Finance": 22.469841269841247,
+    "General Economics, Econometrics and Finance": 20.35277777777777
+  },
+  "Vietnam National University, Hanoi": {
+    "Economics and Econometrics": 178.2063178655801,
+    "Finance": 46.020839345839555,
+    "General Economics, Econometrics and Finance": 45.61666666666675
+  },
+  "Foreign Trade University": {
+    "Economics and Econometrics": 128.97513227513232,
+    "Finance": 31.73862433862438,
+    "General Economics, Econometrics and Finance": 55.02777777777788
+  },
+  "Field Crops Research Institute": {
+    "Economics and Econometrics": 0.5104731525784157,
+    "Finance": 1.0,
+    "General Economics, Econometrics and Finance": 0.08333333333333333
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Economics and Econometrics": 6.847095959595958,
+    "Finance": 2.1527777777777777,
+    "General Economics, Econometrics and Finance": 2.7388888888888894
+  },
+  "Health Strategy and Policy Institute": {
+    "Economics and Econometrics": 12.665854311380617,
+    "Finance": 5.183394682659387,
+    "General Economics, Econometrics and Finance": 0.3333333333333333
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Economics and Econometrics": 1.1878787878787878,
+    "Finance": 2.4642543859649124
+  },
+  "Hanoi Law University": {
+    "Economics and Econometrics": 14.849999999999998,
+    "Finance": 3.4999999999999996,
+    "General Economics, Econometrics and Finance": 8.33888888888889
+  },
+  "Forest Industry Research Institute": {
+    "Economics and Econometrics": 4.071969696969697,
+    "General Economics, Econometrics and Finance": 0.9166666666666665
+  },
+  "Vietnam National University of Agriculture": {
+    "Economics and Econometrics": 27.368869831292457,
+    "Finance": 3.4568542568542564,
+    "General Economics, Econometrics and Finance": 4.002777777777778
+  },
+  "Hanoi Medical University": {
+    "Economics and Econometrics": 21.905937502899604,
+    "Finance": 18.016028663247344
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Economics and Econometrics": 3.9410934744268094,
+    "Finance": 2.5571248196248195
+  },
+  "Khanh Hoa General Hospital": {
+    "Economics and Econometrics": 0.2361111111111111,
+    "Finance": 1.25
+  },
+  "National Council for Science and Technology Policy": {
+    "Economics and Econometrics": 2.0,
+    "General Economics, Econometrics and Finance": 0.08333333333333333
+  },
+  "Hoa Sen University": {
+    "Economics and Econometrics": 14.708333333333334,
+    "Finance": 2.8888888888888897,
+    "General Economics, Econometrics and Finance": 3.0388888888888888
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Economics and Econometrics": 6.833496133496135,
+    "Finance": 2.3083325300430557,
+    "General Economics, Econometrics and Finance": 0.8666666666666667
+  },
+  "Ho Chi Minh City International University": {
+    "Economics and Econometrics": 5.165472075927148,
+    "Finance": 1.7361111111111112,
+    "General Economics, Econometrics and Finance": 2.4166666666666665
+  },
+  "Vin, University": {
+    "Economics and Econometrics": 21.231944444444437,
+    "Finance": 11.023976608187134,
+    "General Economics, Econometrics and Finance": 1.1666666666666667
+  },
+  "Hue University": {
+    "Economics and Econometrics": 50.66090945439552,
+    "Finance": 16.63112073112072,
+    "General Economics, Econometrics and Finance": 11.774603174603168
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Economics and Econometrics": 6.284523809523808,
+    "Finance": 0.654040404040404,
+    "General Economics, Econometrics and Finance": 1.1666666666666667
+  },
+  "VNU University of Science": {
+    "Economics and Econometrics": 22.59345238095236,
+    "Finance": 7.466666666666665,
+    "General Economics, Econometrics and Finance": 3.6458333333333335
+  },
+  "University of Finance - Marketing": {
+    "Economics and Econometrics": 151.67222222222216,
+    "Finance": 38.42777777777779,
+    "General Economics, Econometrics and Finance": 29.666666666666675
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Economics and Econometrics": 27.710119047619038,
+    "Finance": 4.33095238095238,
+    "General Economics, Econometrics and Finance": 10.765674603174599
+  },
+  "Institute of Mathematics": {
+    "Economics and Econometrics": 8.246969696969696,
+    "Finance": 8.536111111111108,
+    "General Economics, Econometrics and Finance": 1.5833333333333333
+  },
+  "Microfinance and Community Development Institute": {
+    "Economics and Econometrics": 1.6388888888888888,
+    "Finance": 0.17857142857142855
+  },
+  "University of Languages and International Studies": {
+    "Economics and Econometrics": 19.35277777777778,
+    "Finance": 1.1416666666666666,
+    "General Economics, Econometrics and Finance": 5.277777777777778
+  },
+  "Electric Power University": {
+    "Economics and Econometrics": 14.90670995670995,
+    "Finance": 2.0500000000000003,
+    "General Economics, Econometrics and Finance": 4.333333333333334
+  },
+  "Vietnam National University of Forestry": {
+    "Economics and Econometrics": 8.24052840434419,
+    "Finance": 0.041666666666666664,
+    "General Economics, Econometrics and Finance": 1.5
+  },
+  "National Institute of Veterinary Research": {
+    "Economics and Econometrics": 1.2438375350140056,
+    "Finance": 0.9450456950456954,
+    "General Economics, Econometrics and Finance": 0.5833333333333334
+  },
+  "Hanoi University of Science and Technology": {
+    "Economics and Econometrics": 28.288554463554494,
+    "Finance": 6.761507936507936,
+    "General Economics, Econometrics and Finance": 4.35
+  },
+  "Fulbright University Vietnam": {
+    "Economics and Econometrics": 13.384126984126977,
+    "Finance": 4.325396825396825,
+    "General Economics, Econometrics and Finance": 5.491666666666667
+  },
+  "Hanoi Open University": {
+    "Economics and Econometrics": 32.187301587301576,
+    "Finance": 8.655555555555555,
+    "General Economics, Econometrics and Finance": 7.9714285714285715
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Economics and Econometrics": 0.9279220779220779
+  },
+  "Vinh University": {
+    "Economics and Econometrics": 23.927132936507938,
+    "Finance": 11.627380952380944,
+    "General Economics, Econometrics and Finance": 4.30595238095238
+  },
+  "University of Transport and Communications": {
+    "Economics and Econometrics": 13.92777777777777,
+    "Finance": 1.2777777777777777,
+    "General Economics, Econometrics and Finance": 3.0
+  },
+  "Van Lang University": {
+    "Economics and Econometrics": 44.95337301587309,
+    "Finance": 14.64444444444444,
+    "General Economics, Econometrics and Finance": 8.924999999999995
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Economics and Econometrics": 4.281812169312169,
+    "Finance": 0.8845238095238095,
+    "General Economics, Econometrics and Finance": 0.09523809523809523
+  },
+  "Hanoi University": {
+    "Economics and Econometrics": 30.87398511981844,
+    "Finance": 28.549382237777454,
+    "General Economics, Econometrics and Finance": 4.041666666666666
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Economics and Econometrics": 19.52319529885321,
+    "Finance": 4.453174603174603,
+    "General Economics, Econometrics and Finance": 4.479166666666666
+  },
+  "Vietnam Military Medical University": {
+    "Economics and Econometrics": 3.933992763772175,
+    "Finance": 2.0,
+    "General Economics, Econometrics and Finance": 0.48611111111111105
+  },
+  "Hồng Đức University": {
+    "Economics and Econometrics": 16.228174603174605,
+    "Finance": 3.3849206349206344,
+    "General Economics, Econometrics and Finance": 4.666666666666666
+  },
+  "Institute of Transport Science and Technology": {
+    "Economics and Econometrics": 0.5,
+    "General Economics, Econometrics and Finance": 1.0555555555555556
+  },
+  "Vietnam National Children's Hospital": {
+    "Economics and Econometrics": 4.116563042220935,
+    "Finance": 2.802055950585362
+  },
+  "FPT University": {
+    "Economics and Econometrics": 67.634523809524,
+    "Finance": 42.7166666666667,
+    "General Economics, Econometrics and Finance": 15.956944444444439
+  },
+  "Hue Central Hospital": {
+    "Economics and Econometrics": 2.048644411144411,
+    "Finance": 0.28807488807488807
+  },
+  "Tay Bac University": {
+    "Economics and Econometrics": 9.355555555555547,
+    "Finance": 1.5027777777777778,
+    "General Economics, Econometrics and Finance": 1.5
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Economics and Econometrics": 4.185714285714285,
+    "General Economics, Econometrics and Finance": 0.7666666666666666
+  },
+  "Hung Vuong University": {
+    "Economics and Econometrics": 1.2916666666666665,
+    "General Economics, Econometrics and Finance": 0.8333333333333333
+  },
+  "Tân Tạo University": {
+    "Economics and Econometrics": 50.241269841269904,
+    "Finance": 3.4166666666666665,
+    "General Economics, Econometrics and Finance": 4.499999999999999
+  },
+  "Oxford University Clinical Research Unit": {
+    "Economics and Econometrics": 4.2493806540946135,
+    "Finance": 0.5950854700854701
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Economics and Econometrics": 13.180042016806716,
+    "Finance": 1.7929292929292928,
+    "General Economics, Econometrics and Finance": 2.3666666666666667
+  },
+  "Van Xuan University of Technology": {
+    "Economics and Econometrics": 0.16666666666666666
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Economics and Econometrics": 22.608269971708093,
+    "Finance": 9.143384584763886,
+    "General Economics, Econometrics and Finance": 0.1111111111111111
+  },
+  "Ho Chi Minh City University of Science": {
+    "Economics and Econometrics": 9.811507936507944,
+    "Finance": 2.9611111111111117,
+    "General Economics, Econometrics and Finance": 1.2499999999999998
+  },
+  "National Institute of Animal Sciences": {
+    "Economics and Econometrics": 0.18571428571428572
+  },
+  "International Center for Tropical Agriculture": {
+    "Economics and Econometrics": 5.380704602415129,
+    "General Economics, Econometrics and Finance": 1.1666666666666667
+  },
+  "Thuyloi University": {
+    "Economics and Econometrics": 14.337830687830687,
+    "Finance": 2.775000000000001,
+    "General Economics, Econometrics and Finance": 3.3750000000000004
+  },
+  "Lac Hong University": {
+    "Economics and Econometrics": 29.417063492063487,
+    "Finance": 5.860449735449736,
+    "General Economics, Econometrics and Finance": 3.888888888888888
+  },
+  "Research Institute for Aquaculture No1": {
+    "Economics and Econometrics": 1.3055555555555556
+  },
+  "Ministry of Justice": {
+    "Economics and Econometrics": 0.08333333333333333,
+    "General Economics, Econometrics and Finance": 0.16666666666666666
+  },
+  "University of Labor and Social Affairs": {
+    "Economics and Econometrics": 51.8420634920635,
+    "Finance": 6.552777777777777,
+    "General Economics, Econometrics and Finance": 7.661111111111109
+  },
+  "Ho Chi Minh City University of Law": {
+    "Economics and Econometrics": 30.82037037037038,
+    "Finance": 9.12222222222222,
+    "General Economics, Econometrics and Finance": 20.8888888888889
+  },
+  "Ho Chi Minh City University of Education": {
+    "Economics and Econometrics": 2.635714285714286,
+    "Finance": 0.6111111111111112,
+    "General Economics, Econometrics and Finance": 0.26666666666666666
+  },
+  "Anova Corp (Vietnam)": {
+    "Economics and Econometrics": 3.319444444444444,
+    "Finance": 1.6527777777777777,
+    "General Economics, Econometrics and Finance": 1.4166666666666667
+  },
+  "Viet Duc Hospital": {
+    "Economics and Econometrics": 1.6744237758126643,
+    "Finance": 1.9105481190190514,
+    "General Economics, Econometrics and Finance": 0.2777777777777778
+  },
+  "Bạch Mai Hospital": {
+    "Economics and Econometrics": 3.254135200407129,
+    "Finance": 0.7268755935422602
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Economics and Econometrics": 2.511868686868687,
+    "Finance": 1.2638888888888888,
+    "General Economics, Econometrics and Finance": 1.1944444444444446
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Economics and Econometrics": 82.11991341991352,
+    "Finance": 29.64166666666666,
+    "General Economics, Econometrics and Finance": 14.63888888888889
+  },
+  "Institute for Computational Science and Technology": {
+    "Economics and Econometrics": 0.5555555555555556,
+    "Finance": 0.8333333333333333
+  },
+  "Cho Ray Hospital": {
+    "Economics and Econometrics": 2.3264503852223153,
+    "Finance": 1.7999999999999996
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Economics and Econometrics": 34.920184104394615,
+    "Finance": 6.42945066915655,
+    "General Economics, Econometrics and Finance": 11.28472222222222
+  },
+  "Hanoi National University of Education": {
+    "Economics and Econometrics": 13.288888888888884,
+    "Finance": 13.747222222222206,
+    "General Economics, Econometrics and Finance": 4.6499999999999995
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Economics and Econometrics": 0.5,
+    "General Economics, Econometrics and Finance": 1.0000000000000002
+  },
+  "An Giang University": {
+    "Economics and Econometrics": 9.458119658119656,
+    "Finance": 1.3497863247863247,
+    "General Economics, Econometrics and Finance": 2.0555555555555554
+  },
+  "Institute for Reproductive and Family Health": {
+    "Economics and Econometrics": 1.7238095238095241,
+    "Finance": 0.3682539682539682
+  },
+  "Ho Chi Minh City Open University": {
+    "Economics and Econometrics": 158.09259259259255,
+    "Finance": 50.38981481481485,
+    "General Economics, Econometrics and Finance": 33.30277777777776
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Economics and Econometrics": 0.1111111111111111
+  },
+  "Hanoi University of Civil Engineering": {
+    "Economics and Econometrics": 18.406746031746007,
+    "Finance": 7.127777777777776,
+    "General Economics, Econometrics and Finance": 15.716666666666645
+  },
+  "Vietnamese-German University": {
+    "Economics and Econometrics": 9.35798611111111,
+    "Finance": 3.5555555555555554,
+    "General Economics, Econometrics and Finance": 1.4444444444444444
+  },
+  "National Academy of Public Administration": {
+    "Economics and Econometrics": 11.604563492063491,
+    "Finance": 1.0277777777777777,
+    "General Economics, Econometrics and Finance": 2.666666666666667
+  },
+  "Tra Vinh University": {
+    "Economics and Econometrics": 20.543452380952374,
+    "Finance": 3.825396825396825,
+    "General Economics, Econometrics and Finance": 3.6309523809523805
+  },
+  "Da Nang University of Economics": {
+    "Economics and Econometrics": 3.3444444444444446,
+    "Finance": 2.833333333333333,
+    "General Economics, Econometrics and Finance": 2.444444444444444
+  },
+  "Agricultural Genetics Institute": {
+    "Economics and Econometrics": 0.7012626262626261,
+    "Finance": 0.05555555555555555,
+    "General Economics, Econometrics and Finance": 0.2222222222222222
+  },
+  "Hung Vuong Hospital": {
+    "Economics and Econometrics": 1.0777777777777777,
+    "Finance": 0.39999999999999997,
+    "General Economics, Econometrics and Finance": 0.3333333333333333
+  },
+  "Thuongmai University": {
+    "Economics and Econometrics": 94.96214896214903,
+    "Finance": 16.130952380952383,
+    "General Economics, Econometrics and Finance": 25.761904761904766
+  },
+  "Hanoi Lung Hospital": {
+    "Economics and Econometrics": 1.438194548574666,
+    "Finance": 1.9575578607011357
+  },
+  "Ministry of Education and Training": {
+    "Economics and Econometrics": 4.46111111111111,
+    "Finance": 1.0916666666666668,
+    "General Economics, Econometrics and Finance": 1.5944444444444443
+  },
+  "Phu Yen University": {
+    "Economics and Econometrics": 3.5238095238095233,
+    "Finance": 0.24444444444444444,
+    "General Economics, Econometrics and Finance": 1.3333333333333333
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Economics and Econometrics": 9.792460317460312,
+    "Finance": 0.9333333333333333,
+    "General Economics, Econometrics and Finance": 2.1500000000000004
+  },
+  "University Medical Center HCMC": {
+    "Economics and Econometrics": 1.9283068783068789,
+    "Finance": 0.4365079365079365,
+    "General Economics, Econometrics and Finance": 0.49999999999999994
+  },
+  "Hanoi University of Industry": {
+    "Economics and Econometrics": 32.547895622895616,
+    "Finance": 5.252777777777778,
+    "General Economics, Econometrics and Finance": 5.414814814814814
+  },
+  "University of Hai Duong": {
+    "Economics and Econometrics": 2.3977633477633478,
+    "Finance": 0.27499999999999997,
+    "General Economics, Econometrics and Finance": 0.9166666666666666
+  },
+  "Hai Phong University": {
+    "Economics and Econometrics": 12.516666666666666,
+    "Finance": 0.43421052631578944,
+    "General Economics, Econometrics and Finance": 6.499999999999999
+  },
+  "Quy Nhon University": {
+    "Economics and Econometrics": 25.05833333333336,
+    "Finance": 8.874999999999998,
+    "General Economics, Econometrics and Finance": 5.033333333333333
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Economics and Econometrics": 0.8679653679653679
+  },
+  "Hung Yen University of Technology and Education": {
+    "Economics and Econometrics": 3.5000000000000004,
+    "Finance": 0.8944444444444444,
+    "General Economics, Econometrics and Finance": 2.138888888888889
+  },
+  "Eastern International University": {
+    "Economics and Econometrics": 18.33650793650794,
+    "Finance": 3.9444444444444455,
+    "General Economics, Econometrics and Finance": 1.9861111111111116
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Economics and Econometrics": 26.543867243867258,
+    "Finance": 3.166666666666667,
+    "General Economics, Econometrics and Finance": 3.6416666666666675
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Economics and Econometrics": 2.102777777777778,
+    "Finance": 0.06666666666666667,
+    "General Economics, Econometrics and Finance": 0.738095238095238
+  },
+  "Saigon University": {
+    "Economics and Econometrics": 21.746955726735138,
+    "Finance": 7.280555555555556,
+    "General Economics, Econometrics and Finance": 4.499999999999999
+  },
+  "University Of Transport Technology": {
+    "Economics and Econometrics": 11.05092592592592,
+    "Finance": 1.8333333333333333,
+    "General Economics, Econometrics and Finance": 3.5138888888888893
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Economics and Econometrics": 1.8086684243847984,
+    "Finance": 0.8547031158142268
+  },
+  "Vinh Long University of Technology Education": {
+    "Economics and Econometrics": 3.5277777777777777,
+    "Finance": 1.2361111111111112
+  },
+  "Saigon International University": {
+    "Economics and Econometrics": 6.73611111111111,
+    "General Economics, Econometrics and Finance": 0.41666666666666663
+  },
+  "Da Nang Hospital": {
+    "Economics and Econometrics": 3.0731990231990225,
+    "Finance": 0.2556390977443609,
+    "General Economics, Econometrics and Finance": 1.0
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Economics and Econometrics": 15.995370370370367,
+    "Finance": 3.194444444444445,
+    "General Economics, Econometrics and Finance": 2.9333333333333336
+  },
+  "Phenikaa University": {
+    "Economics and Econometrics": 35.479008442824295,
+    "Finance": 17.587037037037028,
+    "General Economics, Econometrics and Finance": 6.680555555555556
+  },
+  "Quảng Bình University": {
+    "Economics and Econometrics": 2.874999999999999,
+    "Finance": 0.9583333333333331,
+    "General Economics, Econometrics and Finance": 1.75
+  },
+  "Phenikaa (Vietnam)": {
+    "Economics and Econometrics": 2.641666666666667,
+    "Finance": 0.4666666666666666,
+    "General Economics, Econometrics and Finance": 0.06666666666666667
+  },
+  "Hanoi Medical University Hospital": {
+    "Economics and Econometrics": 0.9886752136752136
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Economics and Econometrics": 7.858730158730154,
+    "Finance": 2.022222222222222,
+    "General Economics, Econometrics and Finance": 0.6458333333333334
+  },
+  "Ho Chi Minh City University of Culture": {
+    "Economics and Econometrics": 0.8888888888888888,
+    "General Economics, Econometrics and Finance": 0.29166666666666663
+  },
+  "Hanoi University of Business and Technology": {
+    "Economics and Econometrics": 11.612896825396824,
+    "Finance": 0.5369047619047619,
+    "General Economics, Econometrics and Finance": 1.6833333333333333
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Economics and Econometrics": 0.4074074074074074,
+    "Finance": 0.24074074074074073
+  },
+  "Duy Tan University": {
+    "Economics and Econometrics": 36.90915779152631,
+    "Finance": 6.294958690546922,
+    "General Economics, Econometrics and Finance": 8.004761904761905
+  },
+  "National Institute of Nutrition": {
+    "Economics and Econometrics": 2.3922188922188914,
+    "Finance": 0.03333333333333333
+  },
+  "Văn Hiến University": {
+    "Economics and Econometrics": 5.955687830687831,
+    "Finance": 3.116666666666667,
+    "General Economics, Econometrics and Finance": 4.742857142857143
+  },
+  "Hanoi University of Mining and Geology": {
+    "Economics and Econometrics": 8.461507936507928,
+    "Finance": 1.0555555555555556,
+    "General Economics, Econometrics and Finance": 0.5666666666666667
+  },
+  "Hong Bang International University": {
+    "Economics and Econometrics": 9.715416666666668,
+    "Finance": 4.110317460317461,
+    "General Economics, Econometrics and Finance": 1.3611111111111112
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Economics and Econometrics": 1.329629629629629
+  },
+  "Ministry of Foreign Affairs": {
+    "Economics and Econometrics": 0.3888888888888889,
+    "Finance": 0.2222222222222222,
+    "General Economics, Econometrics and Finance": 0.1111111111111111
+  },
+  "Vietnam Maritime University": {
+    "Economics and Econometrics": 10.174801587301584,
+    "Finance": 1.9392857142857145,
+    "General Economics, Econometrics and Finance": 8.338888888888887
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Economics and Econometrics": 16.200000000000003,
+    "Finance": 4.9833333333333325,
+    "General Economics, Econometrics and Finance": 4.969444444444444
+  },
+  "Hue University of Education": {
+    "Economics and Econometrics": 0.8888888888888888
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Economics and Econometrics": 2.4361111111111113,
+    "General Economics, Econometrics and Finance": 0.7357142857142858
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Economics and Econometrics": 6.583333333333334,
+    "Finance": 8.416666666666664,
+    "General Economics, Econometrics and Finance": 0.7777777777777777
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Economics and Econometrics": 5.8960317460317455,
+    "Finance": 1.8591269841269844,
+    "General Economics, Econometrics and Finance": 1.238888888888889
+  },
+  "Institute of Materials Science": {
+    "Economics and Econometrics": 0.3333333333333333
+  },
+  "Center for Health Consultation and Community Development": {
+    "Economics and Econometrics": 0.10897435897435898
+  },
+  "Thanhtay University": {
+    "Economics and Econometrics": 0.08333333333333333
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Economics and Econometrics": 9.09458874458874,
+    "Finance": 2.513888888888889,
+    "General Economics, Econometrics and Finance": 0.9305555555555557
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Economics and Econometrics": 5.889489214489208,
+    "Finance": 3.1375000000000006,
+    "General Economics, Econometrics and Finance": 0.5
+  },
+  "Dong Thap Hospital": {
+    "Economics and Econometrics": 0.2707070707070707,
+    "Finance": 0.08333333333333333
+  },
+  "British University Vietnam": {
+    "Economics and Econometrics": 4.861111111111111,
+    "Finance": 0.25,
+    "General Economics, Econometrics and Finance": 1.3333333333333333
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Economics and Econometrics": 12.84365079365079,
+    "Finance": 3.2444444444444436,
+    "General Economics, Econometrics and Finance": 6.7
+  },
+  "Ministry of Science and Technology": {
+    "Economics and Econometrics": 3.588888888888889
+  },
+  "Bình Dương University": {
+    "Economics and Econometrics": 20.40714285714285,
+    "Finance": 4.955555555555557,
+    "General Economics, Econometrics and Finance": 2.201190476190476
+  },
+  "Dong Thap University": {
+    "Economics and Econometrics": 3.927777777777777,
+    "Finance": 0.3333333333333333,
+    "General Economics, Econometrics and Finance": 0.625
+  },
+  "BioMed, Press": {
+    "Economics and Econometrics": 1.0833333333333333,
+    "General Economics, Econometrics and Finance": 0.25
+  },
+  "PetroVietnam University": {
+    "Economics and Econometrics": 1.4999999999999998
+  },
+  "Hanoi Architectural University": {
+    "Economics and Econometrics": 12.680555555555548,
+    "Finance": 5.116666666666667,
+    "General Economics, Econometrics and Finance": 5.366666666666666
+  },
+  "Academy of Policy and Development": {
+    "Economics and Econometrics": 10.631746031746031,
+    "Finance": 1.825,
+    "General Economics, Econometrics and Finance": 3.6277777777777778
+  },
+  "Tien Giang General Hospital": {
+    "Economics and Econometrics": 5.8166666666666655,
+    "Finance": 0.8749999999999999,
+    "General Economics, Econometrics and Finance": 2.7083333333333335
+  },
+  "Pham Van Dong University": {
+    "Economics and Econometrics": 0.2638888888888889,
+    "Finance": 1.1111111111111112,
+    "General Economics, Econometrics and Finance": 0.20833333333333331
+  },
+  "University of Khanh Hoa": {
+    "Economics and Econometrics": 9.95833333333333,
+    "Finance": 0.7777777777777777,
+    "General Economics, Econometrics and Finance": 2.2777777777777777
+  },
+  "Ministry of Labour, Invalids and Social Affairs": {
+    "Economics and Econometrics": 0.48164682539682535,
+    "Finance": 0.016666666666666666
+  },
+  "Viet Nam Government": {
+    "Economics and Econometrics": 0.1
+  },
+  "Danang Architecture University": {
+    "Economics and Econometrics": 1.9444444444444444,
+    "Finance": 1.0444444444444445,
+    "General Economics, Econometrics and Finance": 0.5555555555555556
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Economics and Econometrics": 0.1
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Economics and Econometrics": 6.397222222222219,
+    "Finance": 0.5666666666666667,
+    "General Economics, Econometrics and Finance": 1.3166666666666667
+  },
+  "Cat Tien National Park": {
+    "Economics and Econometrics": 6.038636363636361,
+    "Finance": 0.43333333333333335,
+    "General Economics, Econometrics and Finance": 1.488095238095238
+  },
+  "Trung Vuong University": {
+    "Economics and Econometrics": 7.758333333333332,
+    "Finance": 2.764285714285714,
+    "General Economics, Econometrics and Finance": 1.3333333333333335
+  },
+  "Baria Vungtau University": {
+    "Economics and Econometrics": 4.872222222222223,
+    "Finance": 0.8888888888888888,
+    "General Economics, Econometrics and Finance": 0.027777777777777776
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Economics and Econometrics": 6.372222222222223,
+    "General Economics, Econometrics and Finance": 2.125
+  },
+  "Children's Hospital 2": {
+    "Economics and Econometrics": 0.20833333333333331,
+    "Finance": 0.1962121212121212
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Economics and Econometrics": 1.1506410256410255,
+    "Finance": 0.7723515519568153,
+    "General Economics, Econometrics and Finance": 0.5
+  },
+  "Vinh Medical University": {
+    "Economics and Econometrics": 0.16666666666666666,
+    "Finance": 0.047619047619047616
+  },
+  "Center for Promotion of Advancement of Society": {
+    "Economics and Econometrics": 0.13345864661654133
+  },
+  "Hai Phong University of Management and Technology": {
+    "Economics and Econometrics": 0.42777777777777776,
+    "Finance": 0.125,
+    "General Economics, Econometrics and Finance": 0.8333333333333333
+  },
+  "Nam Dinh University of Nursing": {
+    "Economics and Econometrics": 2.7525196552050777,
+    "Finance": 0.1111111111111111
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Economics and Econometrics": 6.40178571428571,
+    "Finance": 2.9654761904761906,
+    "General Economics, Econometrics and Finance": 1.0000000000000002
+  },
+  "Vietnam Aviation Academy": {
+    "Economics and Econometrics": 0.75,
+    "General Economics, Econometrics and Finance": 0.25
+  },
+  "General Clinic Phương Nam": {
+    "Economics and Econometrics": 0.015873015873015872
+  },
+  "National Center for Technological Progress": {
+    "Economics and Econometrics": 0.3571428571428571
+  },
+  "Hội Tim mạch học Việt Nam": {
+    "Economics and Econometrics": 0.16666666666666669
+  },
+  "Dai Nam University": {
+    "Economics and Econometrics": 0.9166666666666666,
+    "Finance": 0.05555555555555555
+  },
+  "Academy of Cryptography Techniques": {
+    "Economics and Econometrics": 0.6203703703703703,
+    "Finance": 0.9555555555555555
+  },
+  "Học viện Tư pháp": {
+    "Economics and Econometrics": 1.65,
+    "Finance": 0.47619047619047616,
+    "General Economics, Econometrics and Finance": 0.3333333333333333
+  },
+  "Hanoi Pedagogical University 2": {
+    "Economics and Econometrics": 0.23194444444444445,
+    "Finance": 0.8888888888888888
+  },
+  "Saigon Technology University": {
+    "Economics and Econometrics": 0.6481481481481481,
+    "Finance": 0.16666666666666666,
+    "General Economics, Econometrics and Finance": 0.125
+  },
+  "Bac Ha International University": {
+    "Economics and Econometrics": 1.0138888888888888,
+    "General Economics, Econometrics and Finance": 0.5
+  },
+  "PSB College Vietnam": {
+    "Economics and Econometrics": 1.0,
+    "General Economics, Econometrics and Finance": 0.6666666666666666
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Economics and Econometrics": 1.6666666666666665,
+    "Finance": 0.3333333333333333
+  },
+  "Thai Nguyen National General Hospital": {
+    "Economics and Econometrics": 5.777777777777777,
+    "Finance": 1.1666666666666665
+  },
+  "Vinmec International Hospital": {
+    "Economics and Econometrics": 2.0970695970695963,
+    "Finance": 0.28888888888888886
+  },
+  "East Asia University of Technology": {
+    "Economics and Econometrics": 0.25
+  },
+  "National Institute for Control of Vaccines and Biologicals": {
+    "Economics and Econometrics": 0.13333333333333333
+  },
+  "Vinh Phuc Department of Health": {
+    "Economics and Econometrics": 1.0833333333333333,
+    "Finance": 0.08333333333333333
+  },
+  "Children's Hospital 1": {
+    "Economics and Econometrics": 0.1923076923076923,
+    "Finance": 0.8333333333333333
+  },
+  "CARE International in Vietnam": {
+    "Economics and Econometrics": 0.3333333333333333,
+    "Finance": 1.2277777777777779,
+    "General Economics, Econometrics and Finance": 0.3333333333333333
+  },
+  "Vietnam University of Fine Arts": {
+    "Economics and Econometrics": 0.08333333333333333,
+    "Finance": 0.07407407407407407
+  },
+  "Viet Tri University of Industry": {
+    "Economics and Econometrics": 1.3333333333333335,
+    "Finance": 0.06666666666666667,
+    "General Economics, Econometrics and Finance": 0.1111111111111111
+  },
+  "Vietnam Sweden hospital": {
+    "Economics and Econometrics": 0.75,
+    "Finance": 0.663888888888889,
+    "General Economics, Econometrics and Finance": 0.3333333333333333
+  },
+  "University of Theatre and Cinema Ho Chi Minh City": {
+    "Economics and Econometrics": 1.0
+  },
+  "Thanh Hoa Department of Health": {
+    "Economics and Econometrics": 0.25,
+    "Finance": 0.10317460317460317
+  },
+  "Vietnam Journalists Association": {
+    "Economics and Econometrics": 0.16666666666666666
+  },
+  "Bệnh viện Phổi Trung ương": {
+    "Economics and Econometrics": 0.16666666666666666
+  },
+  "My Duc Hospital": {
+    "Economics and Econometrics": 0.8333333333333333,
+    "Finance": 0.9809523809523808
+  },
+  "Center for Environment and Community Assets Development": {
+    "Economics and Econometrics": 0.6666666666666666,
+    "Finance": 0.9166666666666665
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Finance": 0.15873015873015872,
+    "General Economics, Econometrics and Finance": 0.25
+  },
+  "Institute for Social Development Studies": {
+    "Finance": 0.6666666666666667
+  },
+  "Ho Chi Minh City University of Fine Arts": {
+    "Finance": 0.1111111111111111,
+    "General Economics, Econometrics and Finance": 0.3333333333333333
+  },
+  "Văn phòng ban chỉ đạo 33": {
+    "Finance": 0.11666666666666667
+  }
+}

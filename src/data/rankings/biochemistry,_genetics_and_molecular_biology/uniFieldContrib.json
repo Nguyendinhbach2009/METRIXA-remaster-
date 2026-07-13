@@ -1,0 +1,2007 @@
+{
+  "Can Tho University": {
+    "Aging": 0.28968253968253965,
+    "Biochemistry": 41.92779165279187,
+    "Biophysics": 2.1448412698412693,
+    "Biotechnology": 19.46766751766751,
+    "Cancer Research": 11.679661452786398,
+    "Cell Biology": 17.004610435860418,
+    "Clinical Biochemistry": 2.063514263514264,
+    "Endocrinology": 12.521114262493573,
+    "Genetics": 37.528770425696486,
+    "Molecular Biology": 162.71847601561427,
+    "Molecular Medicine": 17.492304383288964,
+    "Structural Biology": 0.08333333333333333
+  },
+  "General Department of Preventive Medicine": {
+    "Aging": 0.7948412698412699,
+    "Biochemistry": 13.398057960557967,
+    "Biophysics": 1.8234126984126984,
+    "Biotechnology": 5.064397639397638,
+    "Cancer Research": 34.16030618174978,
+    "Cell Biology": 17.92047348363137,
+    "Clinical Biochemistry": 14.985571373071368,
+    "Developmental Biology": 0.25,
+    "Endocrinology": 3.7427404295051367,
+    "Genetics": 106.05957838590056,
+    "Molecular Biology": 105.83928908350126,
+    "Molecular Medicine": 4.2768558333775735
+  },
+  "Vietnam National Children's Hospital": {
+    "Aging": 0.06984126984126984,
+    "Biochemistry": 3.205393217893219,
+    "Biophysics": 0.0196078431372549,
+    "Biotechnology": 1.0798076923076927,
+    "Cancer Research": 15.289905949642545,
+    "Cell Biology": 11.861221719456989,
+    "Clinical Biochemistry": 7.139749173590629,
+    "Developmental Biology": 1.4277777777777776,
+    "Endocrinology": 1.1080648926237164,
+    "Genetics": 39.22264794359412,
+    "Molecular Biology": 55.43474836786131,
+    "Molecular Medicine": 1.6462181380383238
+  },
+  "Tay Bac University": {
+    "Aging": 0.16666666666666666,
+    "Biochemistry": 1.0812409812409811,
+    "Biophysics": 0.022222222222222223,
+    "Biotechnology": 0.7880952380952382,
+    "Cancer Research": 0.43650793650793646,
+    "Cell Biology": 0.5759018759018759,
+    "Developmental Biology": 0.10512820512820513,
+    "Endocrinology": 0.3630952380952381,
+    "Genetics": 4.5539908039908035,
+    "Molecular Biology": 10.627276427276415
+  },
+  "Hai Phong University": {
+    "Aging": 0.3333333333333333,
+    "Biochemistry": 0.041666666666666664,
+    "Biophysics": 0.5555555555555556,
+    "Biotechnology": 0.6378968253968254,
+    "Cancer Research": 0.5092592592592592,
+    "Cell Biology": 0.08333333333333333,
+    "Endocrinology": 0.6666666666666666,
+    "Genetics": 1.3345238095238097,
+    "Molecular Biology": 4.684541847041848
+  },
+  "Hanoi Medical University": {
+    "Aging": 0.42380952380952375,
+    "Biochemistry": 3.74306680161943,
+    "Biophysics": 0.15406162464985995,
+    "Biotechnology": 1.7937220187220186,
+    "Cancer Research": 16.831260208337415,
+    "Cell Biology": 11.404607701666514,
+    "Clinical Biochemistry": 3.817699243767353,
+    "Developmental Biology": 0.06666666666666667,
+    "Endocrinology": 3.5520483897082356,
+    "Genetics": 62.43718917607407,
+    "Molecular Biology": 56.78621009359889,
+    "Molecular Medicine": 5.833918118435541
+  },
+  "Vietnam National University of Forestry": {
+    "Aging": 4.25595238095238,
+    "Biochemistry": 2.5625,
+    "Biotechnology": 1.3931818181818183,
+    "Cancer Research": 0.047619047619047616,
+    "Cell Biology": 1.6175925925925925,
+    "Developmental Biology": 2.321914659414659,
+    "Endocrinology": 0.12222222222222222,
+    "Genetics": 5.292031117031113,
+    "Molecular Biology": 23.54573728740397
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Aging": 1.8953703703703704,
+    "Biochemistry": 71.59404623154713,
+    "Biophysics": 17.535099622599617,
+    "Biotechnology": 43.5595515352097,
+    "Cancer Research": 35.84096823942038,
+    "Cell Biology": 30.023167860746593,
+    "Clinical Biochemistry": 5.846733821733818,
+    "Developmental Biology": 3.277777777777778,
+    "Endocrinology": 12.340265127029818,
+    "Genetics": 110.84558325117165,
+    "Molecular Biology": 431.08341611322106,
+    "Molecular Medicine": 41.0892686480189,
+    "Structural Biology": 0.6
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Aging": 2.0249338624338624,
+    "Biochemistry": 105.01388703888756,
+    "Biophysics": 6.1041005291005295,
+    "Biotechnology": 117.9342408444389,
+    "Cancer Research": 46.43541181041214,
+    "Cell Biology": 27.758009245656428,
+    "Clinical Biochemistry": 5.552248677248669,
+    "Developmental Biology": 4.734447496947495,
+    "Endocrinology": 8.734604872251914,
+    "Genetics": 147.09947191005327,
+    "Molecular Biology": 705.9819944318878,
+    "Molecular Medicine": 31.32725615887399,
+    "Structural Biology": 0.17777777777777776
+  },
+  "Ton Duc Thang University": {
+    "Aging": 0.46944444444444444,
+    "Biochemistry": 14.921523982553383,
+    "Biophysics": 1.4993386243386246,
+    "Biotechnology": 7.774985662485655,
+    "Cancer Research": 6.670121853455183,
+    "Cell Biology": 5.669724719724718,
+    "Clinical Biochemistry": 0.32087912087912085,
+    "Endocrinology": 1.6682345160286338,
+    "Genetics": 11.601540700728,
+    "Molecular Biology": 96.21224157392939,
+    "Molecular Medicine": 7.454405316905313,
+    "Structural Biology": 0.09761904761904762
+  },
+  "Duy Tan University": {
+    "Aging": 0.125,
+    "Biochemistry": 11.700878726536613,
+    "Biophysics": 1.9605820105820106,
+    "Biotechnology": 4.582577145077145,
+    "Cancer Research": 5.6825803582382495,
+    "Cell Biology": 3.6866101491101477,
+    "Clinical Biochemistry": 0.6459579309579311,
+    "Developmental Biology": 0.40476190476190477,
+    "Endocrinology": 0.4763391845168825,
+    "Genetics": 14.770881076077144,
+    "Molecular Biology": 71.25839148882913,
+    "Molecular Medicine": 5.707860287860289
+  },
+  "Vietnam National University, Hanoi": {
+    "Aging": 0.19642857142857142,
+    "Biochemistry": 9.559076571576558,
+    "Biophysics": 6.451599326599325,
+    "Biotechnology": 11.813305675805656,
+    "Cancer Research": 16.152959540459523,
+    "Cell Biology": 10.520538258038245,
+    "Clinical Biochemistry": 0.9111111111111111,
+    "Developmental Biology": 0.5367521367521368,
+    "Endocrinology": 2.751262626262624,
+    "Genetics": 30.766113152357192,
+    "Molecular Biology": 161.92734352301744,
+    "Molecular Medicine": 6.2357757982757995
+  },
+  "Van Lang University": {
+    "Aging": 0.16501322751322753,
+    "Biochemistry": 1.901280663780664,
+    "Biophysics": 1.1333333333333333,
+    "Biotechnology": 2.3203703703703704,
+    "Cancer Research": 1.7524782135076256,
+    "Cell Biology": 0.9132270894627871,
+    "Clinical Biochemistry": 0.13333333333333333,
+    "Endocrinology": 0.42857142857142855,
+    "Genetics": 4.145864456893868,
+    "Molecular Biology": 25.68613627736811,
+    "Molecular Medicine": 2.7989538239538243
+  },
+  "International Center for Tropical Agriculture": {
+    "Aging": 0.44999999999999996,
+    "Biochemistry": 0.7499999999999999,
+    "Biophysics": 0.05555555555555555,
+    "Biotechnology": 3.07008547008547,
+    "Cancer Research": 1.9054232804232805,
+    "Cell Biology": 3.0557720057720066,
+    "Developmental Biology": 0.30595959595959593,
+    "Endocrinology": 1.1125300625300625,
+    "Genetics": 13.380571185350588,
+    "Molecular Biology": 25.632454580025907,
+    "Molecular Medicine": 0.1976190476190476
+  },
+  "Ho Chi Minh City University of Education": {
+    "Aging": 0.023809523809523808,
+    "Biochemistry": 3.8216450216450215,
+    "Biophysics": 0.4722222222222222,
+    "Biotechnology": 0.4100566100566101,
+    "Cancer Research": 0.45649350649350645,
+    "Cell Biology": 0.08333333333333333,
+    "Clinical Biochemistry": 0.094017094017094,
+    "Endocrinology": 0.6666666666666666,
+    "Genetics": 0.43650793650793646,
+    "Molecular Biology": 19.952909127909155,
+    "Molecular Medicine": 0.5388648388648386
+  },
+  "Ho Chi Minh City University of Science": {
+    "Aging": 0.5383597883597884,
+    "Biochemistry": 6.124715099715098,
+    "Biophysics": 1.7268518518518519,
+    "Biotechnology": 13.356283068783062,
+    "Cancer Research": 5.136892177589852,
+    "Cell Biology": 3.702525252525252,
+    "Developmental Biology": 0.3555555555555555,
+    "Endocrinology": 2.6976190476190482,
+    "Genetics": 17.95790448658095,
+    "Molecular Biology": 102.65029188579518,
+    "Molecular Medicine": 3.640223665223663,
+    "Structural Biology": 0.23333333333333334
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Aging": 0.07017543859649122,
+    "Biochemistry": 2.4805555555555565,
+    "Biophysics": 0.1,
+    "Biotechnology": 1.4862816764132554,
+    "Cancer Research": 1.0783597883597882,
+    "Cell Biology": 1.3892857142857142,
+    "Clinical Biochemistry": 0.935606060606061,
+    "Endocrinology": 0.6445887445887446,
+    "Genetics": 7.656298775756983,
+    "Molecular Biology": 11.045284371058354,
+    "Molecular Medicine": 0.6943121693121692
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Aging": 0.03508771929824561,
+    "Cancer Research": 0.09523809523809523,
+    "Cell Biology": 0.125,
+    "Clinical Biochemistry": 0.03333333333333333,
+    "Endocrinology": 0.023809523809523808,
+    "Genetics": 0.1056998556998557,
+    "Molecular Biology": 0.13826232247284878
+  },
+  "Hung Vuong Hospital": {
+    "Aging": 0.03976608187134503,
+    "Biochemistry": 0.06565023670286828,
+    "Biophysics": 0.2690700104493208,
+    "Biotechnology": 0.1553030303030303,
+    "Cancer Research": 1.2314814814814812,
+    "Cell Biology": 0.255050505050505,
+    "Clinical Biochemistry": 0.23154087292018327,
+    "Developmental Biology": 0.3833333333333333,
+    "Endocrinology": 0.2398046398046398,
+    "Genetics": 2.383390996329593,
+    "Molecular Biology": 4.998981249419841,
+    "Molecular Medicine": 0.5656084656084657
+  },
+  "Bạch Mai Hospital": {
+    "Aging": 0.25,
+    "Biochemistry": 0.2062289562289562,
+    "Biophysics": 0.07625272331154684,
+    "Biotechnology": 0.18253968253968253,
+    "Cancer Research": 2.5592592592592593,
+    "Cell Biology": 0.5908730158730158,
+    "Clinical Biochemistry": 1.3148268398268397,
+    "Developmental Biology": 0.06666666666666667,
+    "Endocrinology": 1.288794518685823,
+    "Genetics": 11.963784977100179,
+    "Molecular Biology": 8.43427366450821,
+    "Molecular Medicine": 3.322209838029932
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Aging": 0.1111111111111111,
+    "Biochemistry": 19.592697988286183,
+    "Biotechnology": 8.39735449735449,
+    "Cancer Research": 2.7190476190476187,
+    "Cell Biology": 4.695117845117846,
+    "Clinical Biochemistry": 0.5294117647058824,
+    "Endocrinology": 4.631565656565657,
+    "Genetics": 15.59436350686349,
+    "Molecular Biology": 41.07247645070805,
+    "Molecular Medicine": 5.120851370851371
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Aging": 0.03333333333333333,
+    "Biochemistry": 0.38992673992673993,
+    "Biotechnology": 0.6386904761904761,
+    "Cancer Research": 0.10780022446689114,
+    "Cell Biology": 0.5416666666666666,
+    "Clinical Biochemistry": 0.31625781625781624,
+    "Endocrinology": 1.9635762385762394,
+    "Genetics": 4.866550116550116,
+    "Molecular Biology": 2.756526266942934,
+    "Molecular Medicine": 2.9136556036556036
+  },
+  "Văn Hiến University": {
+    "Aging": 0.05555555555555555,
+    "Biochemistry": 1.2952621452621451,
+    "Biotechnology": 0.041666666666666664,
+    "Cancer Research": 0.3333333333333333,
+    "Cell Biology": 0.9166666666666667,
+    "Developmental Biology": 0.2222222222222222,
+    "Endocrinology": 0.1,
+    "Genetics": 1.3166666666666667,
+    "Molecular Biology": 6.798831261331257
+  },
+  "Tra Vinh University": {
+    "Aging": 0.05555555555555555,
+    "Biochemistry": 2.461111111111111,
+    "Biophysics": 0.037037037037037035,
+    "Biotechnology": 2.761111111111111,
+    "Cancer Research": 0.7047619047619047,
+    "Cell Biology": 1.4444444444444446,
+    "Clinical Biochemistry": 0.1111111111111111,
+    "Developmental Biology": 0.06666666666666667,
+    "Endocrinology": 0.9300925925925925,
+    "Genetics": 3.714165464165466,
+    "Molecular Biology": 16.66544117647058,
+    "Molecular Medicine": 1.6785714285714288
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Aging": 0.05555555555555555,
+    "Biochemistry": 23.78696534946531,
+    "Biophysics": 1.3564814814814818,
+    "Biotechnology": 9.046200096200096,
+    "Cancer Research": 1.3624999999999998,
+    "Cell Biology": 2.9618386243386263,
+    "Clinical Biochemistry": 0.5,
+    "Endocrinology": 0.5555555555555557,
+    "Genetics": 3.290315240315241,
+    "Molecular Biology": 61.451983800513474,
+    "Molecular Medicine": 6.603446226975633
+  },
+  "Lac Hong University": {
+    "Aging": 0.3095238095238095,
+    "Biochemistry": 1.8025974025974025,
+    "Biotechnology": 0.437037037037037,
+    "Cancer Research": 0.2165581332247999,
+    "Cell Biology": 0.6965538847117794,
+    "Clinical Biochemistry": 0.2222222222222222,
+    "Endocrinology": 0.380952380952381,
+    "Genetics": 2.0003513394817745,
+    "Molecular Biology": 11.640180652680645,
+    "Molecular Medicine": 0.6683862433862433
+  },
+  "University of Da Nang": {
+    "Aging": 0.07142857142857142,
+    "Biochemistry": 12.657100769600747,
+    "Biophysics": 4.263888888888887,
+    "Biotechnology": 3.290137177637178,
+    "Cancer Research": 1.8996392496392496,
+    "Cell Biology": 3.0177513227513244,
+    "Clinical Biochemistry": 0.13333333333333333,
+    "Developmental Biology": 0.33333333333333337,
+    "Endocrinology": 1.0534188034188032,
+    "Genetics": 5.841798941798943,
+    "Molecular Biology": 38.84837731440698,
+    "Molecular Medicine": 1.1388888888888893
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Aging": 0.3333333333333333,
+    "Biochemistry": 2.9415584415584406,
+    "Biophysics": 0.9333333333333332,
+    "Biotechnology": 4.836752136752135,
+    "Cancer Research": 0.5795967190704032,
+    "Cell Biology": 2.3722222222222222,
+    "Developmental Biology": 0.2222222222222222,
+    "Endocrinology": 1.2249999999999999,
+    "Genetics": 4.102777777777778,
+    "Molecular Biology": 17.132029310633442,
+    "Molecular Medicine": 1.5923076923076922
+  },
+  "Hanoi University of Mining and Geology": {
+    "Biochemistry": 0.4121609871609872,
+    "Biotechnology": 0.564033189033189,
+    "Cancer Research": 0.26125541125541124,
+    "Cell Biology": 0.047619047619047616,
+    "Genetics": 0.06267806267806267,
+    "Molecular Biology": 4.097619972619974,
+    "Molecular Medicine": 0.26666666666666666,
+    "Structural Biology": 0.42857142857142855
+  },
+  "Vietnam Military Medical University": {
+    "Biochemistry": 5.129142762695391,
+    "Biophysics": 0.45198412698412693,
+    "Biotechnology": 2.642892755392755,
+    "Cancer Research": 10.511606811851898,
+    "Cell Biology": 1.9669948787595857,
+    "Clinical Biochemistry": 2.6645516792575594,
+    "Developmental Biology": 0.5,
+    "Endocrinology": 1.6333998245762948,
+    "Genetics": 17.92678425394272,
+    "Molecular Biology": 44.65791410869713,
+    "Molecular Medicine": 4.623450541832892
+  },
+  "Dalat University": {
+    "Biochemistry": 5.63851611351611,
+    "Biotechnology": 5.956493506493506,
+    "Cancer Research": 0.7707782309562061,
+    "Cell Biology": 6.600226162726163,
+    "Endocrinology": 0.8387445887445888,
+    "Genetics": 3.896286393345218,
+    "Molecular Biology": 47.63215762995198,
+    "Molecular Medicine": 1.5214526214526218
+  },
+  "Nha Trang University": {
+    "Biochemistry": 10.010858585858577,
+    "Biotechnology": 7.3683621933621914,
+    "Cancer Research": 2.54710703526493,
+    "Cell Biology": 2.4055555555555546,
+    "Clinical Biochemistry": 0.5683760683760684,
+    "Developmental Biology": 0.041666666666666664,
+    "Endocrinology": 1.5912698412698414,
+    "Genetics": 19.01982323232323,
+    "Molecular Biology": 47.28064000556288,
+    "Molecular Medicine": 0.5916666666666667
+  },
+  "Vinh University": {
+    "Biochemistry": 21.715143652643714,
+    "Biophysics": 0.125,
+    "Biotechnology": 1.6850529100529101,
+    "Cancer Research": 2.585741971207087,
+    "Cell Biology": 1.2474627224627222,
+    "Clinical Biochemistry": 0.16666666666666666,
+    "Endocrinology": 0.336002886002886,
+    "Genetics": 4.111137068899313,
+    "Molecular Biology": 46.78467389440399,
+    "Molecular Medicine": 0.7101370851370851
+  },
+  "Field Crops Research Institute": {
+    "Biochemistry": 3.7761904761904783,
+    "Biophysics": 0.1111111111111111,
+    "Biotechnology": 1.9565476190476185,
+    "Cancer Research": 0.687037037037037,
+    "Cell Biology": 9.806481481481475,
+    "Clinical Biochemistry": 0.16666666666666666,
+    "Endocrinology": 2.654761904761905,
+    "Genetics": 26.247264708051976,
+    "Molecular Biology": 36.7377379166173,
+    "Structural Biology": 0.1111111111111111
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Biochemistry": 12.619047619047626,
+    "Biophysics": 2.270767195767196,
+    "Biotechnology": 8.700178062678056,
+    "Cancer Research": 1.103571428571429,
+    "Cell Biology": 4.5473544973544975,
+    "Clinical Biochemistry": 0.30846560846560844,
+    "Endocrinology": 0.931216931216931,
+    "Genetics": 6.603174603174598,
+    "Molecular Biology": 33.89908933658944,
+    "Molecular Medicine": 4.3695767195767194
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Biochemistry": 6.077823786519436,
+    "Biophysics": 3.1092592592592583,
+    "Biotechnology": 7.382263740158483,
+    "Cancer Research": 15.582467500200062,
+    "Cell Biology": 5.012896825396827,
+    "Clinical Biochemistry": 7.3124794160088245,
+    "Developmental Biology": 0.4222222222222222,
+    "Endocrinology": 27.731963433244854,
+    "Genetics": 20.510768436356724,
+    "Molecular Biology": 44.837363305053124,
+    "Molecular Medicine": 8.463491625429175
+  },
+  "Institute of Mathematics": {
+    "Biochemistry": 4.830357142857144,
+    "Biophysics": 0.4333333333333333,
+    "Biotechnology": 3.576984126984131,
+    "Cancer Research": 2.2405844155844155,
+    "Clinical Biochemistry": 0.07407407407407407,
+    "Endocrinology": 0.07196969696969696,
+    "Genetics": 2.7787698412698427,
+    "Molecular Biology": 24.58201613201617,
+    "Molecular Medicine": 0.7586811336811338
+  },
+  "National Institute of Nutrition": {
+    "Biochemistry": 4.37186147186147,
+    "Biotechnology": 1.398989898989899,
+    "Cancer Research": 2.6863816738816735,
+    "Cell Biology": 0.6914141414141416,
+    "Clinical Biochemistry": 0.7444444444444445,
+    "Endocrinology": 0.5111111111111111,
+    "Genetics": 6.298574801689207,
+    "Molecular Biology": 16.653592472342464,
+    "Molecular Medicine": 1.5482804232804228
+  },
+  "Quy Nhon University": {
+    "Biochemistry": 0.9710678210678212,
+    "Biophysics": 1.0,
+    "Biotechnology": 1.595238095238095,
+    "Cancer Research": 0.20735930735930735,
+    "Cell Biology": 1.8972222222222224,
+    "Clinical Biochemistry": 0.037037037037037035,
+    "Genetics": 2.247985347985348,
+    "Molecular Biology": 12.025428275428265,
+    "Molecular Medicine": 0.09953703703703703
+  },
+  "Thai Nguyen University": {
+    "Biochemistry": 8.284315221815218,
+    "Biophysics": 0.17777777777777778,
+    "Biotechnology": 18.885904373404376,
+    "Cancer Research": 4.77689995189995,
+    "Cell Biology": 2.9394179894179877,
+    "Clinical Biochemistry": 0.7270833333333332,
+    "Endocrinology": 0.501984126984127,
+    "Genetics": 10.807738095238092,
+    "Molecular Biology": 96.54917859917857,
+    "Molecular Medicine": 2.609920634920635
+  },
+  "Center for Health Consultation and Community Development": {
+    "Biochemistry": 1.0527777777777778,
+    "Biotechnology": 0.041666666666666664,
+    "Cancer Research": 0.35833333333333334,
+    "Molecular Biology": 3.2707671957671964,
+    "Molecular Medicine": 0.4722222222222222
+  },
+  "Vietnam National University of Agriculture": {
+    "Biochemistry": 7.2530016280016225,
+    "Biophysics": 0.4916666666666666,
+    "Biotechnology": 6.568774743774735,
+    "Cancer Research": 2.062055074555074,
+    "Cell Biology": 6.645803270803263,
+    "Clinical Biochemistry": 0.3412698412698412,
+    "Endocrinology": 7.549294061058761,
+    "Genetics": 24.790877949211318,
+    "Molecular Biology": 33.61827225194177,
+    "Molecular Medicine": 5.2488247863247866
+  },
+  "Cat Tien National Park": {
+    "Biochemistry": 2.108285233285233,
+    "Biophysics": 0.14285714285714285,
+    "Biotechnology": 2.0959235209235207,
+    "Cancer Research": 0.13015463917525774,
+    "Cell Biology": 1.8488562091503267,
+    "Clinical Biochemistry": 0.41798941798941797,
+    "Developmental Biology": 1.0785409035409033,
+    "Endocrinology": 0.8380952380952381,
+    "Genetics": 10.78473070683204,
+    "Molecular Biology": 21.875950200060352,
+    "Molecular Medicine": 0.5619288119288119
+  },
+  "An Giang University": {
+    "Biochemistry": 5.08546176046176,
+    "Biotechnology": 2.3108465608465614,
+    "Cancer Research": 0.6489926739926739,
+    "Cell Biology": 0.7962962962962963,
+    "Developmental Biology": 0.10416666666666666,
+    "Endocrinology": 2.0110704110704116,
+    "Genetics": 4.354898573648571,
+    "Molecular Biology": 12.681359979889384,
+    "Molecular Medicine": 1.1261904761904764
+  },
+  "Hanoi University of Pharmacy": {
+    "Biochemistry": 10.070319957819947,
+    "Biophysics": 0.5277777777777777,
+    "Biotechnology": 3.5794608169608173,
+    "Cancer Research": 3.8197931697931704,
+    "Cell Biology": 1.93968253968254,
+    "Clinical Biochemistry": 0.8046416546416546,
+    "Endocrinology": 0.16102198455139632,
+    "Genetics": 3.057651607651608,
+    "Molecular Biology": 59.87745263995319,
+    "Molecular Medicine": 5.410690045248861
+  },
+  "Hanoi University": {
+    "Biochemistry": 1.373941798941799,
+    "Biophysics": 1.1555555555555557,
+    "Biotechnology": 1.967241554741555,
+    "Cancer Research": 3.2141691641691645,
+    "Cell Biology": 0.8333333333333333,
+    "Clinical Biochemistry": 0.26320901320901324,
+    "Developmental Biology": 0.3333333333333333,
+    "Endocrinology": 0.09047619047619047,
+    "Genetics": 3.2167448292448286,
+    "Molecular Biology": 18.100850769600797,
+    "Molecular Medicine": 0.46860583860583854
+  },
+  "National Library of Vietnam": {
+    "Biochemistry": 3.0395141895141893,
+    "Biotechnology": 0.45159932659932656,
+    "Cancer Research": 0.20734126984126983,
+    "Cell Biology": 0.49999999999999994,
+    "Clinical Biochemistry": 0.11904761904761904,
+    "Genetics": 0.44696969696969696,
+    "Molecular Biology": 10.114253339253324
+  },
+  "VNU University of Science": {
+    "Biochemistry": 4.1125781625781626,
+    "Biophysics": 4.394444444444446,
+    "Biotechnology": 6.136345598845595,
+    "Cancer Research": 6.302260702260701,
+    "Cell Biology": 3.498302623302623,
+    "Clinical Biochemistry": 2.816402116402117,
+    "Developmental Biology": 0.13333333333333333,
+    "Endocrinology": 2.339646464646465,
+    "Genetics": 11.706481943981936,
+    "Molecular Biology": 94.30582875729964,
+    "Molecular Medicine": 3.238574388574387,
+    "Structural Biology": 0.08888888888888888
+  },
+  "Hung Yen University of Technology and Education": {
+    "Biochemistry": 1.0000000000000002,
+    "Biophysics": 0.7730158730158729,
+    "Biotechnology": 0.6666666666666666,
+    "Cancer Research": 1.3407407407407408,
+    "Cell Biology": 0.6976190476190477,
+    "Endocrinology": 0.3582251082251082,
+    "Genetics": 1.9275641025641024,
+    "Molecular Biology": 19.39564694564695,
+    "Molecular Medicine": 0.5082251082251082
+  },
+  "Vinh Medical University": {
+    "Biochemistry": 0.5166666666666666,
+    "Cancer Research": 0.08333333333333333,
+    "Cell Biology": 0.07142857142857142,
+    "Endocrinology": 0.03812636165577342,
+    "Genetics": 1.5666666666666673,
+    "Molecular Biology": 1.0662698412698413,
+    "Molecular Medicine": 0.06842939195880372
+  },
+  "Hanoi University of Science and Technology": {
+    "Biochemistry": 10.281686831686828,
+    "Biophysics": 2.9611809486809486,
+    "Biotechnology": 9.992125004624995,
+    "Cancer Research": 3.3225529100529094,
+    "Cell Biology": 2.3204314204314214,
+    "Clinical Biochemistry": 0.8623015873015872,
+    "Developmental Biology": 1.5476190476190474,
+    "Endocrinology": 1.1555777555777553,
+    "Genetics": 14.706319789168607,
+    "Molecular Biology": 114.3120922574415,
+    "Molecular Medicine": 4.422222222222222,
+    "Structural Biology": 0.8194444444444443
+  },
+  "Hanoi University of Industry": {
+    "Biochemistry": 2.6632215007215017,
+    "Biophysics": 1.0833333333333333,
+    "Biotechnology": 2.594600769600769,
+    "Cancer Research": 2.3430555555555546,
+    "Cell Biology": 1.0074074074074073,
+    "Clinical Biochemistry": 0.05555555555555555,
+    "Genetics": 0.20883190883190883,
+    "Molecular Biology": 22.106105468605545,
+    "Molecular Medicine": 0.851190476190476
+  },
+  "Institute for Computational Science and Technology": {
+    "Biochemistry": 0.9500781625781624,
+    "Biophysics": 0.10833333333333334,
+    "Biotechnology": 0.3333333333333333,
+    "Cell Biology": 1.0257936507936507,
+    "Clinical Biochemistry": 0.3888888888888889,
+    "Genetics": 0.7214285714285714,
+    "Molecular Biology": 13.530763680763673,
+    "Molecular Medicine": 0.6587301587301586,
+    "Structural Biology": 0.19907407407407407
+  },
+  "PetroVietnam University": {
+    "Biochemistry": 0.2222222222222222,
+    "Biotechnology": 0.1111111111111111,
+    "Genetics": 0.5833333333333331,
+    "Molecular Biology": 0.24206349206349204
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Biochemistry": 1.9089225589225587,
+    "Biotechnology": 8.953600566100567,
+    "Cancer Research": 0.8129629629629627,
+    "Cell Biology": 0.9761904761904764,
+    "Endocrinology": 0.3888888888888889,
+    "Genetics": 0.4457671957671957,
+    "Molecular Biology": 19.309594572094564,
+    "Molecular Medicine": 0.08333333333333333
+  },
+  "Oxford University Clinical Research Unit": {
+    "Biochemistry": 0.08095238095238094,
+    "Biotechnology": 1.869723667137459,
+    "Cancer Research": 0.2916990416990417,
+    "Cell Biology": 1.2579088693546518,
+    "Clinical Biochemistry": 4.448495890973224,
+    "Endocrinology": 23.770814952135186,
+    "Genetics": 7.112625034093061,
+    "Molecular Biology": 12.203874062820477,
+    "Molecular Medicine": 19.661358728810693
+  },
+  "Hospital for Tropical Diseases": {
+    "Biochemistry": 1.7527777777777778,
+    "Biophysics": 0.3333333333333333,
+    "Biotechnology": 3.591690408357074,
+    "Cancer Research": 2.5081714581714585,
+    "Cell Biology": 9.1291447452592,
+    "Clinical Biochemistry": 4.67737808332263,
+    "Endocrinology": 25.850213074463536,
+    "Genetics": 22.076299537848413,
+    "Molecular Biology": 29.684010944937828,
+    "Molecular Medicine": 10.251752742084141
+  },
+  "Hanoi Open University": {
+    "Biochemistry": 1.9163817663817662,
+    "Biophysics": 3.2777777777777777,
+    "Biotechnology": 9.342592592592593,
+    "Cancer Research": 3.287037037037037,
+    "Cell Biology": 1.6144781144781144,
+    "Developmental Biology": 0.6666666666666666,
+    "Endocrinology": 1.3138528138528136,
+    "Genetics": 9.104176379176376,
+    "Molecular Biology": 36.83217661967665,
+    "Molecular Medicine": 1.4878787878787878,
+    "Structural Biology": 0.30000000000000004
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Biochemistry": 0.15873015873015872,
+    "Biotechnology": 0.047619047619047616,
+    "Cancer Research": 1.11984126984127,
+    "Cell Biology": 0.3694444444444444,
+    "Clinical Biochemistry": 1.226264608407465,
+    "Endocrinology": 1.0079670329670334,
+    "Genetics": 2.0818362193362194,
+    "Molecular Biology": 4.171493613912963,
+    "Molecular Medicine": 0.9867715034731845
+  },
+  "Saigon University": {
+    "Biochemistry": 1.0604858104858104,
+    "Biophysics": 0.06312636165577343,
+    "Biotechnology": 0.1037037037037037,
+    "Cancer Research": 0.47156084656084657,
+    "Cell Biology": 0.4444444444444444,
+    "Clinical Biochemistry": 0.3888888888888889,
+    "Endocrinology": 0.6269841269841269,
+    "Genetics": 4.3880782616076734,
+    "Molecular Biology": 6.235553607612431,
+    "Molecular Medicine": 1.7555555555555553
+  },
+  "Hue University": {
+    "Biochemistry": 25.517386076081795,
+    "Biophysics": 1.0182234432234434,
+    "Biotechnology": 21.261595811595782,
+    "Cancer Research": 10.723924686424683,
+    "Cell Biology": 10.949598223127632,
+    "Clinical Biochemistry": 4.273361823361823,
+    "Developmental Biology": 0.9666666666666666,
+    "Endocrinology": 8.700685425685412,
+    "Genetics": 41.32471898533498,
+    "Molecular Biology": 135.10365253192916,
+    "Molecular Medicine": 6.034077959077963
+  },
+  "Hue University of Education": {
+    "Biochemistry": 1.4326719576719578,
+    "Biophysics": 0.2222222222222222,
+    "Biotechnology": 1.0402116402116401,
+    "Cancer Research": 0.4722222222222222,
+    "Cell Biology": 0.1111111111111111,
+    "Genetics": 0.6055555555555555,
+    "Molecular Biology": 3.5643518518518524
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Biochemistry": 7.571815976421231,
+    "Biophysics": 1.2665584415584419,
+    "Biotechnology": 6.086390461390456,
+    "Cancer Research": 13.213761409730955,
+    "Cell Biology": 7.320199659015443,
+    "Clinical Biochemistry": 4.651387855064324,
+    "Developmental Biology": 0.5722222222222222,
+    "Endocrinology": 4.588828671328667,
+    "Genetics": 39.1550410967864,
+    "Molecular Biology": 84.6012628508808,
+    "Molecular Medicine": 12.486654973566727
+  },
+  "Thuyloi University": {
+    "Biochemistry": 1.0666666666666667,
+    "Biophysics": 0.15740740740740738,
+    "Biotechnology": 0.08703703703703704,
+    "Cancer Research": 1.6666666666666665,
+    "Cell Biology": 1.3462962962962963,
+    "Clinical Biochemistry": 0.05555555555555555,
+    "Endocrinology": 0.125,
+    "Genetics": 3.042532467532467,
+    "Molecular Biology": 24.8496151996152,
+    "Molecular Medicine": 0.0625
+  },
+  "Ho Chi Minh City International University": {
+    "Biochemistry": 1.5500000000000003,
+    "Biophysics": 1.2527777777777784,
+    "Biotechnology": 1.766005291005291,
+    "Cancer Research": 0.43506493506493504,
+    "Cell Biology": 0.40476190476190477,
+    "Clinical Biochemistry": 0.025641025641025644,
+    "Genetics": 2.4710113960113946,
+    "Molecular Biology": 14.64142616642616,
+    "Molecular Medicine": 0.9158730158730157,
+    "Structural Biology": 0.125
+  },
+  "Hanoi School Of Public Health": {
+    "Biochemistry": 0.18518518518518517,
+    "Biophysics": 0.04044117647058823,
+    "Biotechnology": 0.2857142857142857,
+    "Cancer Research": 0.6982683982683984,
+    "Cell Biology": 0.2777777777777778,
+    "Clinical Biochemistry": 0.2857142857142857,
+    "Endocrinology": 0.696969696969697,
+    "Genetics": 0.707936507936508,
+    "Molecular Biology": 2.240223665223666,
+    "Molecular Medicine": 0.10014430014430015
+  },
+  "Hồng Đức University": {
+    "Biochemistry": 3.8825396825396834,
+    "Biotechnology": 0.2222222222222222,
+    "Cancer Research": 1.2499999999999998,
+    "Cell Biology": 1.25,
+    "Clinical Biochemistry": 0.1111111111111111,
+    "Endocrinology": 0.0196078431372549,
+    "Genetics": 2.163095238095239,
+    "Molecular Biology": 14.062854737854721,
+    "Molecular Medicine": 0.2698412698412699
+  },
+  "Thai Nguyen National General Hospital": {
+    "Biochemistry": 0.6814814814814816,
+    "Biotechnology": 2.2333333333333334,
+    "Cancer Research": 0.8361711510599279,
+    "Cell Biology": 0.7444444444444445,
+    "Clinical Biochemistry": 0.25,
+    "Endocrinology": 1.7777777777777777,
+    "Genetics": 1.9117845117845125,
+    "Molecular Biology": 18.693291808180582,
+    "Molecular Medicine": 1.2757936507936505
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Biochemistry": 12.444787157287161,
+    "Biophysics": 0.2777777777777778,
+    "Biotechnology": 5.2313612313612285,
+    "Cancer Research": 0.5787037037037037,
+    "Cell Biology": 2.0910052910052914,
+    "Clinical Biochemistry": 0.14285714285714285,
+    "Endocrinology": 0.24444444444444444,
+    "Genetics": 2.2513986013986016,
+    "Molecular Biology": 17.60396572381865,
+    "Molecular Medicine": 2.628571428571428
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Biochemistry": 7.227128427128423,
+    "Biophysics": 0.7166666666666666,
+    "Biotechnology": 3.9472222222222215,
+    "Cancer Research": 1.8333333333333335,
+    "Cell Biology": 1.476984126984127,
+    "Endocrinology": 0.3333333333333333,
+    "Genetics": 1.8566919191919191,
+    "Molecular Biology": 19.944744607244605,
+    "Molecular Medicine": 6.756060606060606
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Biochemistry": 0.46428571428571425,
+    "Biotechnology": 0.8637566137566138,
+    "Cancer Research": 0.28903318903318903,
+    "Cell Biology": 0.16666666666666666,
+    "Clinical Biochemistry": 0.11707602339181286,
+    "Endocrinology": 5.788477491583558,
+    "Genetics": 1.2388359788359793,
+    "Molecular Biology": 4.93851957221522,
+    "Molecular Medicine": 2.4266463166463157
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Biochemistry": 2.6515549265549265,
+    "Biotechnology": 0.7547619047619047,
+    "Cancer Research": 0.3179292929292929,
+    "Cell Biology": 3.6481240981240974,
+    "Endocrinology": 0.9155844155844156,
+    "Genetics": 1.1044566544566545,
+    "Molecular Biology": 14.260713360713357,
+    "Molecular Medicine": 0.32619047619047614
+  },
+  "Hue Central Hospital": {
+    "Biochemistry": 0.5559523809523809,
+    "Biotechnology": 0.5694444444444444,
+    "Cancer Research": 1.5976062540400766,
+    "Cell Biology": 0.49999999999999994,
+    "Clinical Biochemistry": 0.21241351241351242,
+    "Endocrinology": 0.2369689697275904,
+    "Genetics": 7.028186976645872,
+    "Molecular Biology": 5.794576952410856,
+    "Molecular Medicine": 0.8305291005291021
+  },
+  "Quảng Bình University": {
+    "Biochemistry": 0.36111111111111105,
+    "Biotechnology": 0.09696969696969697,
+    "Cancer Research": 0.3333333333333333,
+    "Clinical Biochemistry": 0.008547008547008548,
+    "Endocrinology": 0.023809523809523808,
+    "Genetics": 0.5,
+    "Molecular Biology": 1.5811507936507936,
+    "Molecular Medicine": 0.08333333333333333
+  },
+  "Ho Chi Minh City University of Law": {
+    "Biochemistry": 0.3333333333333333,
+    "Genetics": 0.16666666666666666
+  },
+  "Agricultural Genetics Institute": {
+    "Biochemistry": 2.5143301143301127,
+    "Biotechnology": 4.221969696969698,
+    "Cancer Research": 18.276703188638756,
+    "Cell Biology": 2.9691086691086688,
+    "Clinical Biochemistry": 0.6538461538461533,
+    "Developmental Biology": 0.05128205128205128,
+    "Endocrinology": 0.6303030303030303,
+    "Genetics": 18.248567464227982,
+    "Molecular Biology": 38.39699028611132,
+    "Molecular Medicine": 0.0625
+  },
+  "Tân Tạo University": {
+    "Biochemistry": 4.11984126984127,
+    "Biophysics": 2.6666666666666665,
+    "Biotechnology": 5.7430555555555545,
+    "Cancer Research": 7.079875679875676,
+    "Cell Biology": 6.4837231968810904,
+    "Clinical Biochemistry": 0.7003968253968255,
+    "Developmental Biology": 0.020833333333333332,
+    "Endocrinology": 0.6444444444444444,
+    "Genetics": 12.621957657140728,
+    "Molecular Biology": 53.18802696871459,
+    "Molecular Medicine": 0.9069444444444444
+  },
+  "Thang Long University": {
+    "Biochemistry": 1.9166666666666665,
+    "Biophysics": 0.2916666666666667,
+    "Biotechnology": 2.5574074074074074,
+    "Cancer Research": 2.666666666666667,
+    "Cell Biology": 1.361111111111111,
+    "Clinical Biochemistry": 0.5,
+    "Endocrinology": 0.404040404040404,
+    "Genetics": 7.149450549450548,
+    "Molecular Biology": 26.895502645502642,
+    "Molecular Medicine": 0.7083333333333333
+  },
+  "Saigon International University": {
+    "Biochemistry": 0.3333333333333333,
+    "Biophysics": 0.3333333333333333,
+    "Clinical Biochemistry": 0.16666666666666666,
+    "Endocrinology": 0.16666666666666666,
+    "Genetics": 1.5,
+    "Molecular Biology": 1.607142857142857
+  },
+  "Phu Yen University": {
+    "Biochemistry": 0.6611111111111111,
+    "Biotechnology": 0.07142857142857142,
+    "Cancer Research": 1.05,
+    "Cell Biology": 0.2637362637362637,
+    "Endocrinology": 0.5575396825396824,
+    "Genetics": 3.7306878306878315,
+    "Molecular Biology": 11.459834147334144,
+    "Molecular Medicine": 0.3333333333333333
+  },
+  "Hoa Sen University": {
+    "Biochemistry": 0.38095238095238093,
+    "Biotechnology": 0.3333333333333333,
+    "Endocrinology": 1.0,
+    "Genetics": 0.8888888888888888,
+    "Molecular Biology": 3.512962962962963
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Biochemistry": 0.4427248677248677,
+    "Biophysics": 0.25,
+    "Biotechnology": 0.08465608465608465,
+    "Cancer Research": 0.037037037037037035,
+    "Cell Biology": 0.48888888888888893,
+    "Endocrinology": 0.17976190476190473,
+    "Genetics": 0.6848544973544974,
+    "Molecular Biology": 4.432641895141897,
+    "Molecular Medicine": 0.1380952380952381
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Biochemistry": 1.943915343915344,
+    "Biophysics": 0.1,
+    "Biotechnology": 0.8996031746031745,
+    "Cancer Research": 1.3103801169590648,
+    "Cell Biology": 1.0472606246799796,
+    "Clinical Biochemistry": 0.08333333333333333,
+    "Genetics": 1.5706349206349204,
+    "Molecular Biology": 13.406998556998554,
+    "Molecular Medicine": 0.7698412698412698
+  },
+  "Cho Ray Hospital": {
+    "Biochemistry": 0.32499999999999996,
+    "Biotechnology": 0.32275132275132273,
+    "Cancer Research": 3.663756617415339,
+    "Cell Biology": 0.23032212885154063,
+    "Clinical Biochemistry": 0.836935286935287,
+    "Developmental Biology": 0.05555555555555555,
+    "Endocrinology": 2.29318783068783,
+    "Genetics": 12.570918895918881,
+    "Molecular Biology": 12.70744480487908,
+    "Molecular Medicine": 2.7295026270026255
+  },
+  "Vietnamese-German University": {
+    "Biochemistry": 0.29166666666666663,
+    "Biophysics": 1.3351139601139599,
+    "Cancer Research": 0.05,
+    "Developmental Biology": 0.6,
+    "Genetics": 0.2583333333333333,
+    "Molecular Biology": 1.3298229548229548
+  },
+  "Dong Thap University": {
+    "Biochemistry": 0.6527777777777778,
+    "Biophysics": 0.2222222222222222,
+    "Biotechnology": 1.386111111111111,
+    "Cell Biology": 0.8999999999999999,
+    "Endocrinology": 0.12727272727272726,
+    "Genetics": 1.075,
+    "Molecular Biology": 8.79246031746031,
+    "Molecular Medicine": 0.041666666666666664
+  },
+  "Ministry of Education and Training": {
+    "Biochemistry": 0.3788156288156288,
+    "Biophysics": 0.2777777777777778,
+    "Cell Biology": 0.02564102564102564,
+    "Clinical Biochemistry": 0.09523809523809523,
+    "Endocrinology": 0.09523809523809523,
+    "Genetics": 1.1374338624338622,
+    "Molecular Biology": 0.8675264550264549,
+    "Molecular Medicine": 0.3476984126984127
+  },
+  "Hanoi National University of Education": {
+    "Biochemistry": 2.8277597402597396,
+    "Biophysics": 1.6294973544973543,
+    "Biotechnology": 3.5221560846560838,
+    "Cancer Research": 4.073382173382173,
+    "Cell Biology": 2.493223443223442,
+    "Clinical Biochemistry": 0.1111111111111111,
+    "Developmental Biology": 0.13333333333333333,
+    "Endocrinology": 0.6929403929403929,
+    "Genetics": 8.814112739112739,
+    "Molecular Biology": 47.65451660912212,
+    "Molecular Medicine": 1.8948412698412702
+  },
+  "Vinh Long University of Technology Education": {
+    "Biochemistry": 3.8243386243386244,
+    "Biophysics": 0.16666666666666666,
+    "Biotechnology": 1.5888888888888888,
+    "Cancer Research": 0.37023809523809526,
+    "Cell Biology": 1.8249999999999997,
+    "Endocrinology": 0.8902777777777776,
+    "Genetics": 0.8018591714243888,
+    "Molecular Biology": 6.468783068783067,
+    "Molecular Medicine": 0.5198412698412698
+  },
+  "Foreign Trade University": {
+    "Biochemistry": 0.44999999999999996,
+    "Biotechnology": 0.16666666666666666,
+    "Cancer Research": 0.13095238095238093,
+    "Cell Biology": 0.4444444444444444,
+    "Genetics": 0.7611111111111112,
+    "Molecular Biology": 1.9300264550264548
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Biochemistry": 49.738623876124336,
+    "Biophysics": 0.36666666666666664,
+    "Biotechnology": 11.554116254116241,
+    "Cancer Research": 3.5016237758343016,
+    "Cell Biology": 4.404241265270678,
+    "Clinical Biochemistry": 1.547619047619048,
+    "Developmental Biology": 0.06666666666666667,
+    "Endocrinology": 2.5269841269841278,
+    "Genetics": 12.270760874927525,
+    "Molecular Biology": 100.35276107334987,
+    "Molecular Medicine": 6.38793891293891
+  },
+  "National Center for Technological Progress": {
+    "Biochemistry": 0.8083333333333336,
+    "Biophysics": 0.23333333333333334,
+    "Biotechnology": 0.39999999999999997,
+    "Cell Biology": 1.2968253968253969,
+    "Endocrinology": 0.6555555555555556,
+    "Genetics": 0.380952380952381,
+    "Molecular Biology": 4.920857383357379,
+    "Molecular Medicine": 0.33333333333333337
+  },
+  "University of Transport and Communications": {
+    "Biochemistry": 1.0996632996632998,
+    "Biophysics": 0.6,
+    "Biotechnology": 0.7386363636363635,
+    "Cancer Research": 0.375,
+    "Cell Biology": 0.16666666666666666,
+    "Clinical Biochemistry": 0.13333333333333333,
+    "Genetics": 0.9444444444444444,
+    "Molecular Biology": 4.534676897176895,
+    "Structural Biology": 0.03333333333333333
+  },
+  "Forest Industry Research Institute": {
+    "Biochemistry": 0.5247474747474747,
+    "Biotechnology": 0.35791615791615794,
+    "Cell Biology": 6.5030381636279975,
+    "Endocrinology": 1.3821759259259252,
+    "Genetics": 5.503052503052498,
+    "Molecular Biology": 24.329857951211373,
+    "Molecular Medicine": 0.07142857142857142
+  },
+  "University of Khanh Hoa": {
+    "Biochemistry": 1.0189153439153438,
+    "Biophysics": 0.022222222222222223,
+    "Biotechnology": 0.041666666666666664,
+    "Cancer Research": 0.6441798941798942,
+    "Clinical Biochemistry": 0.3333333333333333,
+    "Genetics": 1.2083333333333335,
+    "Molecular Biology": 6.057671957671957,
+    "Molecular Medicine": 0.2777777777777778
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Biochemistry": 0.2779003783102144,
+    "Cancer Research": 4.105391795497293,
+    "Cell Biology": 1.375709013209013,
+    "Clinical Biochemistry": 0.37514245014245007,
+    "Developmental Biology": 1.0944444444444446,
+    "Endocrinology": 0.4946950710108605,
+    "Genetics": 9.73570217529936,
+    "Molecular Biology": 7.699437941581474,
+    "Molecular Medicine": 0.31746031746031744
+  },
+  "Baria Vungtau University": {
+    "Biochemistry": 1.830555555555556,
+    "Biotechnology": 0.1111111111111111,
+    "Cell Biology": 0.25,
+    "Genetics": 0.8708827404479578,
+    "Molecular Biology": 2.028787878787879,
+    "Molecular Medicine": 0.22777777777777777
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Biochemistry": 0.3472018722018722,
+    "Biotechnology": 0.3644179894179894,
+    "Cancer Research": 1.5519841269841266,
+    "Cell Biology": 0.11428571428571428,
+    "Endocrinology": 0.022222222222222223,
+    "Genetics": 0.4666666666666666,
+    "Molecular Biology": 8.521205431876172,
+    "Molecular Medicine": 0.14761904761904762
+  },
+  "Ministry of Science and Technology": {
+    "Biochemistry": 0.7409511784511784,
+    "Biophysics": 0.3333333333333333,
+    "Biotechnology": 0.25,
+    "Cancer Research": 0.9020202020202016,
+    "Cell Biology": 2.245269360269359,
+    "Clinical Biochemistry": 0.2074074074074074,
+    "Endocrinology": 0.06984126984126984,
+    "Genetics": 3.3179390621564093,
+    "Molecular Biology": 11.233334027084021,
+    "Molecular Medicine": 0.1111111111111111
+  },
+  "Ho Chi Minh City Open University": {
+    "Biochemistry": 2.0490259740259744,
+    "Biophysics": 1.3111111111111111,
+    "Biotechnology": 2.127777777777778,
+    "Cancer Research": 11.582936507936504,
+    "Cell Biology": 2.2333333333333334,
+    "Endocrinology": 0.9357142857142855,
+    "Genetics": 11.437698412698401,
+    "Molecular Biology": 45.97414021164028,
+    "Molecular Medicine": 0.2444444444444444
+  },
+  "Tien Giang General Hospital": {
+    "Biochemistry": 1.635161135161135,
+    "Biophysics": 0.06666666666666667,
+    "Biotechnology": 0.9013227513227514,
+    "Cancer Research": 0.047619047619047616,
+    "Cell Biology": 0.047619047619047616,
+    "Endocrinology": 0.4910633484162895,
+    "Genetics": 0.9732947232947233,
+    "Molecular Biology": 4.396949346949345,
+    "Molecular Medicine": 0.7110805860805861
+  },
+  "Research Institute for Aquaculture No1": {
+    "Biochemistry": 0.3492063492063492,
+    "Biotechnology": 2.3444444444444446,
+    "Cancer Research": 0.6453703703703704,
+    "Cell Biology": 0.07142857142857142,
+    "Endocrinology": 4.274137899137901,
+    "Genetics": 8.493330773169484,
+    "Molecular Biology": 5.605765993265988,
+    "Molecular Medicine": 0.24761904761904763
+  },
+  "Phenikaa (Vietnam)": {
+    "Biochemistry": 0.8456349206349206,
+    "Biotechnology": 0.31666666666666665,
+    "Cancer Research": 0.17247659747659747,
+    "Cell Biology": 0.038461538461538464,
+    "Endocrinology": 0.15151515151515152,
+    "Genetics": 1.1791666666666667,
+    "Molecular Biology": 4.871633459133459,
+    "Molecular Medicine": 0.030303030303030304
+  },
+  "Children's Hospital 2": {
+    "Biochemistry": 1.0305555555555554,
+    "Cancer Research": 0.24060150375939846,
+    "Cell Biology": 0.378996003996004,
+    "Clinical Biochemistry": 0.8364729225023343,
+    "Developmental Biology": 0.7444444444444444,
+    "Endocrinology": 0.6615921125302466,
+    "Genetics": 6.1101430976430935,
+    "Molecular Biology": 4.302504074872493,
+    "Molecular Medicine": 0.34169372294372297
+  },
+  "Hung Vuong University": {
+    "Biochemistry": 0.6114996114996114,
+    "Biotechnology": 0.21428571428571427,
+    "Cell Biology": 0.02564102564102564,
+    "Genetics": 0.11655011655011656,
+    "Molecular Biology": 5.118518518518522
+  },
+  "Electric Power University": {
+    "Biochemistry": 0.5031746031746033,
+    "Biophysics": 2.0309523809523813,
+    "Biotechnology": 0.6333333333333333,
+    "Cancer Research": 1.0833333333333333,
+    "Cell Biology": 0.625,
+    "Developmental Biology": 0.08333333333333333,
+    "Endocrinology": 0.5,
+    "Genetics": 0.9564814814814815,
+    "Molecular Biology": 10.484259259259241,
+    "Molecular Medicine": 2.716005291005291,
+    "Structural Biology": 0.13095238095238093
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Biochemistry": 0.9666666666666666,
+    "Biotechnology": 4.440752765752765,
+    "Cell Biology": 0.8769841269841268,
+    "Endocrinology": 3.0833333333333335,
+    "Genetics": 2.028451178451178,
+    "Molecular Biology": 11.159294384952272
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Biochemistry": 0.2222222222222222,
+    "Biotechnology": 0.07142857142857142,
+    "Cancer Research": 0.3761904761904763,
+    "Cell Biology": 0.05555555555555555,
+    "Developmental Biology": 0.1575757575757576,
+    "Endocrinology": 0.530345471521942,
+    "Genetics": 0.6323062558356674,
+    "Molecular Biology": 3.3909096894390998,
+    "Molecular Medicine": 0.017543859649122806
+  },
+  "Anova Corp (Vietnam)": {
+    "Biochemistry": 0.20370370370370366,
+    "Biophysics": 0.041666666666666664,
+    "Biotechnology": 0.875,
+    "Cancer Research": 0.4555555555555556,
+    "Cell Biology": 0.34325396825396826,
+    "Clinical Biochemistry": 0.037037037037037035,
+    "Endocrinology": 0.21428571428571427,
+    "Genetics": 0.4755291005291005,
+    "Molecular Biology": 1.9505244755244755,
+    "Molecular Medicine": 0.1513227513227513
+  },
+  "National Institute of Veterinary Research": {
+    "Biochemistry": 0.15277777777777776,
+    "Biotechnology": 2.072851377018044,
+    "Cancer Research": 1.6193783068783074,
+    "Cell Biology": 0.6352813852813852,
+    "Clinical Biochemistry": 0.1311111111111111,
+    "Developmental Biology": 0.02564102564102564,
+    "Endocrinology": 3.7427364302364263,
+    "Genetics": 4.81790736496619,
+    "Molecular Biology": 5.764137945387944,
+    "Molecular Medicine": 2.005838551426786
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Biochemistry": 0.9670634920634922,
+    "Biophysics": 0.3958333333333333,
+    "Biotechnology": 2.4564814814814815,
+    "Cancer Research": 4.816167067366756,
+    "Cell Biology": 3.6164141414141433,
+    "Clinical Biochemistry": 1.6607142857142863,
+    "Developmental Biology": 0.25,
+    "Endocrinology": 1.5872623212203425,
+    "Genetics": 20.40526124163895,
+    "Molecular Biology": 15.961142413232752,
+    "Molecular Medicine": 2.208001309495628,
+    "Structural Biology": 0.3333333333333333
+  },
+  "Vin, University": {
+    "Biochemistry": 0.908068783068783,
+    "Biophysics": 0.43253968253968245,
+    "Biotechnology": 0.09523809523809523,
+    "Cancer Research": 0.7962962962962963,
+    "Cell Biology": 0.2626633986928104,
+    "Clinical Biochemistry": 0.7037037037037036,
+    "Endocrinology": 0.9444444444444444,
+    "Genetics": 7.327668757011972,
+    "Molecular Biology": 12.931853945302707,
+    "Molecular Medicine": 0.39460784313725483,
+    "Structural Biology": 0.18253968253968253
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Biochemistry": 0.15,
+    "Biophysics": 0.1111111111111111,
+    "Biotechnology": 0.030303030303030304,
+    "Cancer Research": 0.21203703703703702,
+    "Endocrinology": 1.9839862298195607,
+    "Genetics": 0.9287373737373739,
+    "Molecular Biology": 0.6647534872534872,
+    "Molecular Medicine": 1.2218462823725975
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Biochemistry": 0.8997474747474749,
+    "Biophysics": 0.08333333333333333,
+    "Biotechnology": 0.5478956228956229,
+    "Cancer Research": 0.17916666666666664,
+    "Cell Biology": 0.3222222222222222,
+    "Genetics": 1.0166666666666666,
+    "Molecular Biology": 5.1927729677729655,
+    "Molecular Medicine": 0.24444444444444444
+  },
+  "Bình Dương University": {
+    "Biochemistry": 0.8490860990860991,
+    "Biophysics": 0.2148148148148148,
+    "Biotechnology": 0.516998741998742,
+    "Cancer Research": 0.26068376068376065,
+    "Cell Biology": 0.7916666666666665,
+    "Genetics": 1.5743325743325745,
+    "Molecular Biology": 8.11621665371665,
+    "Molecular Medicine": 0.2492063492063492
+  },
+  "Institute of Materials Science": {
+    "Biochemistry": 0.1414141414141414,
+    "Biophysics": 0.7694444444444446,
+    "Cell Biology": 0.16666666666666666,
+    "Genetics": 2.5,
+    "Molecular Biology": 7.818713693713688,
+    "Molecular Medicine": 1.6257252007252012,
+    "Structural Biology": 0.19047619047619047
+  },
+  "Hanoi Pedagogical University 2": {
+    "Biochemistry": 2.233862433862434,
+    "Biophysics": 0.17777777777777776,
+    "Biotechnology": 1.348148148148148,
+    "Cancer Research": 0.7222222222222223,
+    "Cell Biology": 1.6833333333333336,
+    "Clinical Biochemistry": 0.3333333333333333,
+    "Developmental Biology": 0.4444444444444444,
+    "Endocrinology": 0.0196078431372549,
+    "Genetics": 2.05925925925926,
+    "Molecular Biology": 15.475787638287622,
+    "Molecular Medicine": 0.6
+  },
+  "Phenikaa University": {
+    "Biochemistry": 2.0786976911976907,
+    "Biophysics": 3.045726495726496,
+    "Biotechnology": 1.5861111111111121,
+    "Cancer Research": 1.680002405002405,
+    "Cell Biology": 0.9709776334776338,
+    "Clinical Biochemistry": 0.047619047619047616,
+    "Developmental Biology": 0.13333333333333333,
+    "Endocrinology": 0.2976190476190476,
+    "Genetics": 6.758624651604102,
+    "Molecular Biology": 48.89512076088188,
+    "Molecular Medicine": 2.3281746031746033
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Biochemistry": 0.03333333333333333,
+    "Biotechnology": 0.027777777777777776,
+    "Cancer Research": 0.20039273441335298,
+    "Cell Biology": 0.05555555555555555,
+    "Clinical Biochemistry": 0.13333333333333333,
+    "Genetics": 0.8380531031531638,
+    "Molecular Biology": 1.1155704216498639
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Biochemistry": 0.03333333333333333,
+    "Biophysics": 0.19166666666666665,
+    "Biotechnology": 0.037037037037037035,
+    "Cancer Research": 0.06662245800176834,
+    "Cell Biology": 0.7222222222222221,
+    "Endocrinology": 0.0625,
+    "Genetics": 1.6608669108669096,
+    "Molecular Biology": 3.7420192833985926,
+    "Molecular Medicine": 0.358974358974359
+  },
+  "Ministry of Health": {
+    "Biochemistry": 0.634006734006734,
+    "Biotechnology": 0.06666666666666667,
+    "Cancer Research": 2.1349880820933476,
+    "Cell Biology": 0.31746031746031744,
+    "Clinical Biochemistry": 1.9853938167096055,
+    "Developmental Biology": 0.06068376068376069,
+    "Endocrinology": 2.813240436383708,
+    "Genetics": 7.116350814205474,
+    "Molecular Biology": 11.11739811386871,
+    "Molecular Medicine": 2.4673952266057517
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Biochemistry": 0.8226310726310726,
+    "Biophysics": 0.2936507936507936,
+    "Biotechnology": 0.6458333333333334,
+    "Cancer Research": 0.1898148148148148,
+    "Cell Biology": 0.5047619047619049,
+    "Clinical Biochemistry": 0.34615384615384615,
+    "Genetics": 1.352777777777778,
+    "Molecular Biology": 4.712613775113772,
+    "Molecular Medicine": 0.8222222222222221
+  },
+  "Ministry of Justice": {
+    "Biochemistry": 0.027777777777777776,
+    "Endocrinology": 0.1111111111111111,
+    "Genetics": 0.1111111111111111,
+    "Molecular Medicine": 0.1111111111111111
+  },
+  "Saigon Technology University": {
+    "Biochemistry": 0.8564814814814817,
+    "Biotechnology": 0.29878917378917375,
+    "Cancer Research": 0.13273707143676183,
+    "Cell Biology": 0.08333333333333333,
+    "Endocrinology": 0.4325396825396825,
+    "Genetics": 0.28654970760233917,
+    "Molecular Biology": 6.909486710686399,
+    "Molecular Medicine": 1.608730158730159
+  },
+  "Hong Bang International University": {
+    "Biochemistry": 1.763437950937951,
+    "Biotechnology": 0.14957264957264957,
+    "Cancer Research": 0.9902874902874902,
+    "Cell Biology": 0.8976190476190475,
+    "Clinical Biochemistry": 0.08333333333333333,
+    "Endocrinology": 0.0196078431372549,
+    "Genetics": 1.804298941798942,
+    "Molecular Biology": 7.2246512746512765,
+    "Molecular Medicine": 0.2222222222222222
+  },
+  "Viet Duc Hospital": {
+    "Biochemistry": 1.0416666666666665,
+    "Biophysics": 1.0,
+    "Biotechnology": 0.07407407407407407,
+    "Cancer Research": 2.4259700270871596,
+    "Cell Biology": 0.125,
+    "Clinical Biochemistry": 1.0906593406593406,
+    "Developmental Biology": 0.25555555555555554,
+    "Endocrinology": 0.5475129445717682,
+    "Genetics": 11.464108196889597,
+    "Molecular Biology": 5.731446389895153,
+    "Molecular Medicine": 1.1621666242254478
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Biochemistry": 0.08249158249158249,
+    "Cancer Research": 0.16666666666666666,
+    "Clinical Biochemistry": 0.1111111111111111,
+    "Genetics": 0.5277777777777778,
+    "Molecular Biology": 2.2509259259259267
+  },
+  "Children's Hospital 1": {
+    "Biochemistry": 0.08333333333333333,
+    "Cancer Research": 0.004761904761904762,
+    "Cell Biology": 0.38095238095238093,
+    "Clinical Biochemistry": 0.3555555555555555,
+    "Endocrinology": 0.7768483432276537,
+    "Genetics": 4.351251410696527,
+    "Molecular Biology": 4.779408164934479,
+    "Molecular Medicine": 0.6342906167906167
+  },
+  "Da Nang Hospital": {
+    "Biochemistry": 0.15079365079365079,
+    "Biotechnology": 0.05555555555555555,
+    "Cancer Research": 0.7342954086336252,
+    "Clinical Biochemistry": 0.37599340230919176,
+    "Developmental Biology": 0.16666666666666666,
+    "Endocrinology": 0.031746031746031744,
+    "Genetics": 2.3889574678274363,
+    "Molecular Biology": 2.1783256703109455,
+    "Molecular Medicine": 0.08761904761904762
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Biochemistry": 1.3019179894179889,
+    "Biotechnology": 0.2777777777777778,
+    "Cancer Research": 0.41933621933621934,
+    "Cell Biology": 0.9383838383838383,
+    "Genetics": 0.16666666666666666,
+    "Molecular Biology": 6.810479797979793,
+    "Molecular Medicine": 0.16666666666666666
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Biochemistry": 0.018031189083820662,
+    "Biophysics": 0.5555555555555556,
+    "Cancer Research": 0.575325627541707,
+    "Cell Biology": 0.44940476190476186,
+    "Clinical Biochemistry": 0.10484330484330484,
+    "Endocrinology": 0.20687830687830688,
+    "Genetics": 3.688263879643188,
+    "Molecular Biology": 3.4090394491231755,
+    "Molecular Medicine": 0.7094133644133644
+  },
+  "National Institute of Animal Sciences": {
+    "Biochemistry": 0.7462121212121211,
+    "Biotechnology": 0.0625,
+    "Cancer Research": 2.0584150326797386,
+    "Cell Biology": 0.21428571428571427,
+    "Endocrinology": 0.5256410256410257,
+    "Genetics": 16.041082694248843,
+    "Molecular Biology": 7.7884236134236025,
+    "Molecular Medicine": 0.16666666666666666
+  },
+  "Academy Of Finance": {
+    "Biochemistry": 0.05555555555555555,
+    "Genetics": 0.38095238095238093,
+    "Molecular Biology": 0.9757936507936509
+  },
+  "Hanoi University of Business and Technology": {
+    "Biochemistry": 0.030303030303030304,
+    "Clinical Biochemistry": 0.07142857142857142,
+    "Genetics": 0.047619047619047616,
+    "Molecular Biology": 1.151875901875902
+  },
+  "Vinmec International Hospital": {
+    "Biochemistry": 0.2753968253968254,
+    "Biophysics": 0.16666666666666666,
+    "Biotechnology": 0.25,
+    "Cancer Research": 5.490524290524286,
+    "Cell Biology": 0.9681492799139855,
+    "Clinical Biochemistry": 1.1650793650793654,
+    "Endocrinology": 0.24166666666666664,
+    "Genetics": 31.604877901174493,
+    "Molecular Biology": 26.448738745716785,
+    "Molecular Medicine": 0.7986111111111112
+  },
+  "University of Hai Duong": {
+    "Biochemistry": 0.1111111111111111,
+    "Biotechnology": 0.30158730158730157,
+    "Cancer Research": 0.03333333333333333,
+    "Cell Biology": 0.5655844155844156,
+    "Clinical Biochemistry": 0.3333333333333333,
+    "Genetics": 0.3555555555555555,
+    "Molecular Biology": 3.029563492063492,
+    "Molecular Medicine": 0.030303030303030304
+  },
+  "Trung Vuong University": {
+    "Biochemistry": 0.7142857142857142,
+    "Biophysics": 0.25,
+    "Biotechnology": 0.4444444444444444,
+    "Cancer Research": 0.16666666666666666,
+    "Cell Biology": 0.5833333333333335,
+    "Endocrinology": 0.15,
+    "Genetics": 0.7777777777777777,
+    "Molecular Biology": 6.816086691086693,
+    "Molecular Medicine": 0.07792207792207792
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Biochemistry": 0.05555555555555555,
+    "Biotechnology": 0.16666666666666669,
+    "Cancer Research": 0.36363636363636365,
+    "Cell Biology": 0.5396825396825398,
+    "Genetics": 0.6416666666666666,
+    "Molecular Biology": 4.062247474747476,
+    "Molecular Medicine": 0.5111111111111111
+  },
+  "RMIT Vietnam": {
+    "Biochemistry": 0.16666666666666666,
+    "Biophysics": 0.5666666666666667,
+    "Biotechnology": 0.625,
+    "Cancer Research": 0.2,
+    "Cell Biology": 0.1388888888888889,
+    "Endocrinology": 0.06666666666666667,
+    "Genetics": 1.1326923076923077,
+    "Molecular Biology": 1.7035714285714287
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Biochemistry": 0.1388888888888889,
+    "Biotechnology": 0.18373015873015874,
+    "Cell Biology": 7.2313732563732565,
+    "Endocrinology": 0.42980929745635615,
+    "Genetics": 4.960553964769079,
+    "Molecular Biology": 9.497654983668413,
+    "Molecular Medicine": 0.08333333333333333
+  },
+  "Dong Thap Hospital": {
+    "Biochemistry": 0.16666666666666666,
+    "Biotechnology": 0.1388888888888889,
+    "Cancer Research": 0.2408145741785448,
+    "Clinical Biochemistry": 0.17085133648601142,
+    "Endocrinology": 0.9575230325230324,
+    "Genetics": 0.3392857142857143,
+    "Molecular Biology": 0.34051558123249304,
+    "Molecular Medicine": 0.49838994338994336
+  },
+  "Nam Dinh University of Nursing": {
+    "Biochemistry": 0.13333333333333333,
+    "Biophysics": 0.3333333333333333,
+    "Biotechnology": 0.16666666666666666,
+    "Cell Biology": 0.175,
+    "Endocrinology": 0.13333333333333333,
+    "Genetics": 0.8666666666666667,
+    "Molecular Biology": 1.7083333333333333,
+    "Molecular Medicine": 0.10592592592592592
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Biochemistry": 0.08095238095238094,
+    "Biophysics": 0.4444444444444444,
+    "Cancer Research": 0.030303030303030304,
+    "Clinical Biochemistry": 0.041666666666666664,
+    "Endocrinology": 0.1,
+    "Genetics": 1.5564814814814814,
+    "Molecular Biology": 5.556565656565653
+  },
+  "Viet Tri University of Industry": {
+    "Biochemistry": 0.20833333333333331,
+    "Biotechnology": 0.18095238095238095,
+    "Cell Biology": 0.1388888888888889,
+    "Endocrinology": 0.3333333333333333,
+    "Molecular Biology": 3.356367243867243,
+    "Molecular Medicine": 0.14444444444444443
+  },
+  "University Medical Center HCMC": {
+    "Biochemistry": 0.6249999999999999,
+    "Biotechnology": 0.08333333333333333,
+    "Cancer Research": 8.766629176488546,
+    "Cell Biology": 0.8598590951532129,
+    "Clinical Biochemistry": 1.5178212310565253,
+    "Developmental Biology": 0.49444444444444446,
+    "Endocrinology": 1.0646008403361342,
+    "Genetics": 9.242113883566297,
+    "Molecular Biology": 15.071069204220635,
+    "Molecular Medicine": 1.9215849673202616
+  },
+  "Le Quy Don Technical University": {
+    "Biochemistry": 0.21428571428571427,
+    "Biophysics": 7.02215608465608,
+    "Biotechnology": 0.30158730158730157,
+    "Cancer Research": 0.3333333333333333,
+    "Cell Biology": 0.33333333333333337,
+    "Clinical Biochemistry": 0.030303030303030304,
+    "Genetics": 1.1222222222222225,
+    "Molecular Biology": 16.105778018278016,
+    "Molecular Medicine": 0.05113636363636363,
+    "Structural Biology": 0.05555555555555555
+  },
+  "Vietnam Maritime University": {
+    "Biochemistry": 0.037037037037037035,
+    "Cancer Research": 0.03333333333333333,
+    "Molecular Biology": 0.9462301587301587
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Biochemistry": 0.047619047619047616,
+    "Biotechnology": 0.06666666666666667,
+    "Cell Biology": 0.5656509612391967,
+    "Clinical Biochemistry": 0.18518518518518517,
+    "Endocrinology": 1.870899470899471,
+    "Genetics": 3.3333063875447544,
+    "Molecular Biology": 2.528874438664353,
+    "Molecular Medicine": 0.17777777777777776
+  },
+  "Pham Van Dong University": {
+    "Biochemistry": 0.047619047619047616,
+    "Biophysics": 0.19444444444444442,
+    "Biotechnology": 0.125,
+    "Cancer Research": 0.16666666666666666,
+    "Cell Biology": 0.20833333333333331,
+    "Endocrinology": 0.5,
+    "Molecular Biology": 4.113293650793651,
+    "Molecular Medicine": 0.6088935574229692
+  },
+  "Thuongmai University": {
+    "Biochemistry": 0.037037037037037035,
+    "Biotechnology": 0.9221491228070176,
+    "Cancer Research": 0.030303030303030304,
+    "Cell Biology": 0.16666666666666666,
+    "Endocrinology": 0.08333333333333333,
+    "Genetics": 1.1198412698412699,
+    "Molecular Biology": 2.1203703703703702,
+    "Molecular Medicine": 0.05555555555555555
+  },
+  "Hanoi Architectural University": {
+    "Biochemistry": 0.19444444444444442,
+    "Cancer Research": 0.06666666666666667,
+    "Genetics": 0.5,
+    "Molecular Biology": 0.6511904761904761
+  },
+  "Health Strategy and Policy Institute": {
+    "Biochemistry": 0.030303030303030304,
+    "Cancer Research": 0.22916666666666663,
+    "Endocrinology": 0.1455026455026455,
+    "Genetics": 0.4658730158730158,
+    "Molecular Biology": 0.5324915824915823,
+    "Molecular Medicine": 0.10173160173160173
+  },
+  "Hai Phong University of Management and Technology": {
+    "Biophysics": 0.20555555555555555,
+    "Biotechnology": 0.1425925925925926,
+    "Cancer Research": 0.5555555555555556,
+    "Cell Biology": 0.42328042328042326,
+    "Endocrinology": 0.30588235294117644,
+    "Genetics": 0.9232804232804235,
+    "Molecular Biology": 2.028373015873016,
+    "Molecular Medicine": 0.16648841354723704
+  },
+  "Hanoi Lung Hospital": {
+    "Biophysics": 0.20710180623973723,
+    "Cancer Research": 0.5789682539682539,
+    "Cell Biology": 0.06666666666666667,
+    "Clinical Biochemistry": 0.21125043538836638,
+    "Genetics": 1.396242183742184,
+    "Molecular Biology": 2.406602132260027,
+    "Molecular Medicine": 0.013888888888888888
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Biophysics": 0.1111111111111111,
+    "Cell Biology": 0.08333333333333333,
+    "Genetics": 0.7619047619047619,
+    "Molecular Biology": 0.02564102564102564
+  },
+  "Eastern International University": {
+    "Biophysics": 0.01282051282051282,
+    "Cancer Research": 0.08333333333333333,
+    "Endocrinology": 0.03333333333333333,
+    "Molecular Biology": 1.434249084249084
+  },
+  "FPT University": {
+    "Biophysics": 1.5444444444444447,
+    "Biotechnology": 0.16666666666666666,
+    "Cancer Research": 0.041666666666666664,
+    "Cell Biology": 0.9791666666666667,
+    "Developmental Biology": 0.5,
+    "Genetics": 7.507407407407406,
+    "Molecular Biology": 21.33571428571427
+  },
+  "National Economics University": {
+    "Biophysics": 0.3333333333333333,
+    "Biotechnology": 0.03333333333333333,
+    "Cancer Research": 0.125,
+    "Molecular Biology": 4.814520202020201
+  },
+  "Academy of Cryptography Techniques": {
+    "Biophysics": 0.07539682539682539,
+    "Cancer Research": 0.16666666666666666,
+    "Genetics": 0.25,
+    "Molecular Biology": 1.0345238095238094
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Biophysics": 0.26666666666666666,
+    "Endocrinology": 0.1111111111111111,
+    "Genetics": 0.05555555555555555,
+    "Molecular Biology": 0.8333333333333333
+  },
+  "The State Bank of Vietnam": {
+    "Biophysics": 0.06666666666666667
+  },
+  "Institute of Biomedical Physics": {
+    "Biophysics": 0.3333333333333333,
+    "Cell Biology": 0.08333333333333333,
+    "Molecular Biology": 0.23333333333333334,
+    "Molecular Medicine": 0.23809523809523808
+  },
+  "University Of Transport Technology": {
+    "Biophysics": 0.037037037037037035,
+    "Molecular Biology": 0.586111111111111
+  },
+  "Vietnam Sweden hospital": {
+    "Biophysics": 0.25,
+    "Cancer Research": 0.3839285714285714,
+    "Cell Biology": 0.35416666666666663,
+    "Clinical Biochemistry": 0.07407407407407407,
+    "Endocrinology": 0.015873015873015872,
+    "Genetics": 2.312499999999999,
+    "Molecular Biology": 2.1506410256410255,
+    "Molecular Medicine": 0.5455026455026454
+  },
+  "Fulbright University Vietnam": {
+    "Biophysics": 0.08333333333333333,
+    "Cancer Research": 0.8333333333333333,
+    "Molecular Biology": 1.7857142857142856
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Biophysics": 0.06666666666666667
+  },
+  "Ho Chi Minh University of Banking": {
+    "Biophysics": 0.13333333333333333,
+    "Genetics": 0.2727272727272727,
+    "Molecular Biology": 1.3
+  },
+  "Khanh Hoa General Hospital": {
+    "Biotechnology": 0.3756313131313131,
+    "Cancer Research": 0.6276507251451307,
+    "Clinical Biochemistry": 0.8984962406015038,
+    "Developmental Biology": 0.13333333333333333,
+    "Endocrinology": 1.4412287903667216,
+    "Genetics": 4.699559299559298,
+    "Molecular Biology": 4.247462966280899,
+    "Molecular Medicine": 0.30995115995115985
+  },
+  "Viet Nam National Academy of Music": {
+    "Biotechnology": 0.041666666666666664,
+    "Molecular Biology": 0.7500000000000002
+  },
+  "University of Labor and Social Affairs": {
+    "Biotechnology": 0.3333333333333333,
+    "Cancer Research": 0.6666666666666666,
+    "Genetics": 0.3333333333333333,
+    "Molecular Biology": 0.8333333333333333
+  },
+  "Hanoi Medical University Hospital": {
+    "Biotechnology": 0.36111111111111116,
+    "Cancer Research": 1.1182116257355654,
+    "Cell Biology": 0.6483645983645984,
+    "Clinical Biochemistry": 0.19173049173049173,
+    "Developmental Biology": 0.175,
+    "Endocrinology": 0.5555555555555556,
+    "Genetics": 4.436444938864291,
+    "Molecular Biology": 3.8646110796814597,
+    "Molecular Medicine": 0.052248677248677246
+  },
+  "Học viện Tư pháp": {
+    "Biotechnology": 0.7666666666666668,
+    "Cancer Research": 0.1111111111111111,
+    "Cell Biology": 0.06060606060606061,
+    "Endocrinology": 0.29166666666666663,
+    "Genetics": 1.4121699285492384,
+    "Molecular Biology": 3.2644287808080907,
+    "Molecular Medicine": 0.16363636363636364
+  },
+  "National Institute for Control of Vaccines and Biologicals": {
+    "Biotechnology": 0.19005847953216373,
+    "Endocrinology": 0.19135802469135801,
+    "Genetics": 0.6666666666666666,
+    "Molecular Biology": 0.6366843033509701,
+    "Molecular Medicine": 0.024691358024691357
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Biotechnology": 0.047619047619047616,
+    "Cancer Research": 2.5833333333333335,
+    "Cell Biology": 0.1,
+    "Developmental Biology": 0.16666666666666666,
+    "Endocrinology": 0.1,
+    "Genetics": 1.4408150128738366,
+    "Molecular Biology": 4.202443199502021,
+    "Molecular Medicine": 0.18333333333333332
+  },
+  "Dai Nam University": {
+    "Biotechnology": 0.8,
+    "Molecular Biology": 0.875
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Biotechnology": 0.0992063492063492,
+    "Clinical Biochemistry": 0.047619047619047616,
+    "Endocrinology": 0.4476190476190476,
+    "Genetics": 0.5772794389073462,
+    "Molecular Biology": 2.874567014455792,
+    "Molecular Medicine": 0.06666666666666667
+  },
+  "Hanoi University of Civil Engineering": {
+    "Biotechnology": 0.3055555555555556,
+    "Cancer Research": 0.5,
+    "Clinical Biochemistry": 0.05555555555555555,
+    "Endocrinology": 0.0196078431372549,
+    "Genetics": 0.5555555555555556,
+    "Molecular Biology": 1.387463924963925,
+    "Molecular Medicine": 0.049910873440285206
+  },
+  "My Duc Hospital": {
+    "Biotechnology": 0.16666666666666666,
+    "Genetics": 0.39285714285714285,
+    "Molecular Biology": 1.2569444444444442
+  },
+  "Ho Chi Minh City University of Culture": {
+    "Cancer Research": 0.20833333333333331
+  },
+  "Stem Cell Institute": {
+    "Cancer Research": 0.1111111111111111,
+    "Genetics": 0.25555555555555554,
+    "Molecular Biology": 0.1111111111111111
+  },
+  "Institute of Population, Health and Development": {
+    "Cancer Research": 0.28703703703703703,
+    "Endocrinology": 1.3333333333333333,
+    "Genetics": 0.4281832298136645,
+    "Molecular Biology": 0.5078703703703704,
+    "Molecular Medicine": 0.20833333333333331
+  },
+  "Hanoi Oncology Hospital": {
+    "Cancer Research": 0.24512317747611867,
+    "Molecular Biology": 0.02987736900780379
+  },
+  "Bac Ha International University": {
+    "Cancer Research": 0.1111111111111111,
+    "Clinical Biochemistry": 0.015873015873015872,
+    "Genetics": 0.2335216572504708,
+    "Molecular Biology": 0.30714285714285716
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Cancer Research": 0.125,
+    "Molecular Biology": 0.20833333333333331
+  },
+  "Vinh Phuc Department of Health": {
+    "Cell Biology": 0.06666666666666667,
+    "Genetics": 0.38888888888888895,
+    "Molecular Biology": 0.2698412698412698,
+    "Molecular Medicine": 0.3333333333333333
+  },
+  "General Clinic Phương Nam": {
+    "Cell Biology": 0.030303030303030304,
+    "Endocrinology": 0.1380952380952381,
+    "Molecular Biology": 0.2827838827838828,
+    "Molecular Medicine": 0.3142857142857143
+  },
+  "Vietnam University of Fine Arts": {
+    "Cell Biology": 0.037037037037037035
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Clinical Biochemistry": 0.06666666666666667
+  },
+  "Ministry Of Health": {
+    "Clinical Biochemistry": 0.12301587301587301,
+    "Endocrinology": 0.11988908013004397,
+    "Genetics": 0.6008547008547008,
+    "Molecular Biology": 0.31666666666666665,
+    "Molecular Medicine": 0.03228228228228228
+  },
+  "Vabiotech (Vietnam)": {
+    "Endocrinology": 0.015873015873015872,
+    "Molecular Biology": 0.14814814814814814
+  },
+  "Center for Environment and Community Assets Development": {
+    "Endocrinology": 0.05555555555555555,
+    "Genetics": 0.21858974358974356
+  },
+  "Institut Pasteur de Nha Trang": {
+    "Endocrinology": 0.40476190476190477,
+    "Genetics": 0.24242424242424243,
+    "Molecular Medicine": 0.3571428571428571
+  },
+  "National Academy of Public Administration": {
+    "Endocrinology": 0.022222222222222223,
+    "Genetics": 0.12222222222222222,
+    "Molecular Biology": 0.88015873015873
+  },
+  "University of Languages and International Studies": {
+    "Genetics": 2.212962962962963,
+    "Molecular Biology": 3.5176767676767664,
+    "Molecular Medicine": 0.39999999999999997
+  },
+  "Hanoi Law University": {
+    "Genetics": 0.6666666666666666,
+    "Molecular Biology": 0.37037037037037035
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Genetics": 0.2777777777777778,
+    "Molecular Biology": 0.1111111111111111
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Genetics": 0.3333333333333333
+  },
+  "University of Finance - Marketing": {
+    "Genetics": 0.17777777777777776,
+    "Molecular Biology": 0.5
+  },
+  "British University Vietnam": {
+    "Genetics": 0.375,
+    "Molecular Biology": 0.3333333333333333
+  },
+  "Green Innovation and Development Centre": {
+    "Genetics": 0.03333333333333333
+  },
+  "Academy of Policy and Development": {
+    "Genetics": 0.1,
+    "Molecular Biology": 2.2666666666666666
+  },
+  "Da Nang University of Economics": {
+    "Genetics": 0.027777777777777776,
+    "Molecular Biology": 0.12777777777777777
+  },
+  "CARE International in Vietnam": {
+    "Genetics": 0.06666666666666667,
+    "Molecular Biology": 0.1
+  },
+  "Thanh Hoa Department of Health": {
+    "Genetics": 0.1111111111111111,
+    "Molecular Biology": 0.2222222222222222,
+    "Molecular Medicine": 0.08333333333333333
+  },
+  "Ministry of Agriculture and Rural development": {
+    "Molecular Biology": 0.06926406926406926
+  },
+  "Viet Nam Government": {
+    "Molecular Biology": 0.1
+  },
+  "Thai Nguyen University of Information and Communication Technology": {
+    "Molecular Biology": 0.47777777777777786
+  },
+  "International Centre for Interdisciplinary Science and Education": {
+    "Molecular Biology": 0.07142857142857142
+  },
+  "Hanoi University of Culture": {
+    "Molecular Biology": 0.16666666666666666
+  },
+  "The American University of Vietnam": {
+    "Molecular Biology": 0.08333333333333333
+  },
+  "Dalat Nuclear Research Institute": {
+    "Molecular Biology": 0.030303030303030304
+  },
+  "Danang Architecture University": {
+    "Molecular Biology": 0.06666666666666667
+  },
+  "An Binh Hospital": {
+    "Molecular Biology": 0.047619047619047616
+  },
+  "Institute for Studies of Society, Economy and Environment": {
+    "Molecular Biology": 0.08333333333333333
+  },
+  "Hiep Phuoc Power (Vietnam)": {
+    "Molecular Biology": 0.2222222222222222
+  },
+  "Bệnh viện Nhân Dân Gia Định": {
+    "Molecular Biology": 0.16666666666666666
+  },
+  "Van Xuan University of Technology": {
+    "Molecular Biology": 0.06666666666666667
+  },
+  "Institute for Reproductive and Family Health": {
+    "Molecular Medicine": 0.030303030303030304
+  }
+}

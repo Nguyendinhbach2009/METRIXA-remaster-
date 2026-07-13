@@ -1,0 +1,198 @@
+@import "tailwindcss";
+
+/* Dark purple/magenta color palette matching the main website */
+:root {
+  --bg-primary: #01000a;
+  --bg-secondary: #140a23;
+  --surface: rgba(20, 10, 35, 0.8);
+  --text-primary: #E2E8F0;
+  --text-secondary: #CBD5E1;
+  --text-muted: #94A3B8;
+  --primary: #751fc6;
+  --primary-light: #c084fc;
+  --primary-dark: #9333ea;
+  --accent: #ec4899;
+  --border: rgba(168, 85, 247, 0.2);
+  --shadow-sm: 0 1px 2px 0 rgb(168 85 247 / 0.1);
+  --shadow: 0 1px 3px 0 rgb(168 85 247 / 0.2), 0 1px 2px -1px rgb(168 85 247 / 0.1);
+  --shadow-md: 0 4px 6px -1px rgb(168 85 247 / 0.2), 0 2px 4px -2px rgb(168 85 247 / 0.15);
+  --shadow-lg: 0 10px 15px -3px rgb(168 85 247 / 0.3), 0 4px 6px -4px rgb(168 85 247 / 0.2);
+  --radius-sm: 8px;
+  --radius: 12px;
+  --radius-lg: 16px;
+  
+  /* font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 400;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  position: relative;
+  background-color: var(--bg-primary);
+  background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+body::before {
+  background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+  opacity: 0.75;
+}
+
+body::after {
+  background: radial-gradient(ellipse at center, transparent 0%, rgba(1, 0, 10, 0.5) 100%);
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+}
+
+/* Gradient button styles */
+.gradient-button {
+  background: linear-gradient(90deg, #7c3aed 0%, #7c3aed 2%, #a855f7 15%, #d946ef 50%, #ec4899 85%, #ec4899 98%, #ec4899 100%);
+  border: none;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.gradient-button:hover {
+  background: linear-gradient(90deg, #9333ea 0%, #9333ea 2%, #c084fc 15%, #e879f9 50%, #f472b6 85%, #f472b6 98%, #f472b6 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(168, 85, 247, 0.3);
+}
+
+/* Typography utilities */
+@utility heading-xl {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--text-primary);
+}
+
+@utility heading-lg {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text-primary);
+}
+
+@utility heading-md {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--text-primary);
+}
+
+@utility text-body {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--text-primary);
+}
+
+@utility text-sm {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+@utility text-xs {
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--text-muted);
+}
+
+/* Scrollbar styling */
+@utility scrollbar-custom {
+  &::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background: #64748B;
+    border-radius: 10px;
+  }
+  
+  &::-webkit-scrollbar-thumb:hover {
+    background: #94A3B8;
+  }
+}
+
+/* Global scrollbar for all elements */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #64748B transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #64748B;
+  border-radius: 10px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Interactive elements should show hand cursor */
+button, 
+.cursor-pointer,
+[role="button"],
+.clickable {
+  cursor: pointer !important;
+}
+
+/* Ensure all hover states on interactive elements show hand cursor */
+button:hover,
+.cursor-pointer:hover,
+[role="button"]:hover,
+.clickable:hover {
+  cursor: pointer !important;
+}

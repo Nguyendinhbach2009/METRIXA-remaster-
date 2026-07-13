@@ -1,0 +1,1216 @@
+{
+  "ranking": [
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 2.8531746031746046
+    },
+    {
+      "university": "Ton Duc Thang University",
+      "totalContribution": 2.633068783068782
+    },
+    {
+      "university": "Hanoi University of Science and Technology",
+      "totalContribution": 1.5833333333333335
+    },
+    {
+      "university": "Hue University",
+      "totalContribution": 1.475
+    },
+    {
+      "university": "Ho Chi Minh City University of Technology and Engineering",
+      "totalContribution": 1.4166666666666665
+    },
+    {
+      "university": "Vietnam Academy of Science and Technology",
+      "totalContribution": 1.1175925925925922
+    },
+    {
+      "university": "Nong Lam University Ho Chi Minh City",
+      "totalContribution": 1.0476190476190477
+    },
+    {
+      "university": "Can Tho University",
+      "totalContribution": 0.9841269841269842
+    },
+    {
+      "university": "Duy Tan University",
+      "totalContribution": 0.842063492063492
+    },
+    {
+      "university": "Hanoi University of Pharmacy",
+      "totalContribution": 0.6666666666666667
+    },
+    {
+      "university": "National Institute Of Hygiene And Epidemiology",
+      "totalContribution": 0.5833333333333333
+    },
+    {
+      "university": "Van Lang University",
+      "totalContribution": 0.4712962962962962
+    },
+    {
+      "university": "Tân Tạo University",
+      "totalContribution": 0.38888888888888884
+    },
+    {
+      "university": "Hanoi Open University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Le Quy Don Technical University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Ho Chi Minh City University of Industry and Trade",
+      "totalContribution": 0.3055555555555555
+    },
+    {
+      "university": "Institute of Materials Science",
+      "totalContribution": 0.2777777777777778
+    },
+    {
+      "university": "Thang Long University",
+      "totalContribution": 0.25
+    },
+    {
+      "university": "Trường ĐH Nguyễn Tất Thành",
+      "totalContribution": 0.21560846560846558
+    },
+    {
+      "university": "Thuyloi University",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Industrial University of Ho Chi Minh City",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hanoi University of Industry",
+      "totalContribution": 0.16666666666666666
+    },
+    {
+      "university": "Hanoi Medical University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Baria Vungtau University",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Tien Giang General Hospital",
+      "totalContribution": 0.09523809523809523
+    },
+    {
+      "university": "Hanoi University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "Dong Thap University",
+      "totalContribution": 0.08333333333333333
+    },
+    {
+      "university": "VNU University of Science",
+      "totalContribution": 0.07407407407407407
+    },
+    {
+      "university": "An Giang University",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Hue University of Education",
+      "totalContribution": 0.06666666666666667
+    },
+    {
+      "university": "Thai Nguyen University of Agriculture and Forestry",
+      "totalContribution": 0.05555555555555555
+    },
+    {
+      "university": "Thai Nguyen University",
+      "totalContribution": 0.030303030303030304
+    }
+  ],
+  "authorsByUniversity": {
+    "Hanoi University": [
+      {
+        "author": "Tran Ti Le",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "National Institute Of Hygiene And Epidemiology": [
+      {
+        "author": "K. Boček",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5714285714285715
+      },
+      {
+        "author": "Pavel Hobza",
+        "contribution": 0.16666666666666666,
+        "percent": 0.28571428571428575
+      },
+      {
+        "author": "M Tichý",
+        "contribution": 0.08333333333333333,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "An Giang University": [
+      {
+        "author": "Trung Thanh Nguyen",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University Ho Chi Minh City": [
+      {
+        "author": "Khoi Tan Nguyen",
+        "contribution": 0.22222222222222246,
+        "percent": 0.07788595271210018
+      },
+      {
+        "author": "Dinh Quan Nguyen",
+        "contribution": 0.1587301587301589,
+        "percent": 0.055632823365785844
+      },
+      {
+        "author": "Tan Phat Vo",
+        "contribution": 0.1587301587301589,
+        "percent": 0.055632823365785844
+      },
+      {
+        "author": "Duc-Phuong Vu",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "Minh-Trung Le",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "Xuan-Tien Le",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "Nguyen Minh Huy Ha",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "Thai Anh Thi Ho",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "N Q A Phan",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "T A Vu",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "T N P Nguyen",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "T P L Dinh",
+        "contribution": 0.08333333333333343,
+        "percent": 0.02920723226703757
+      },
+      {
+        "author": "Hoàng Dũng Nguyễn",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Nguyễn Hữu Lân",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Nguyen Thi Huong",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Pham Huu Thinh",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Quoc Dat Lại",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Khac‐Minh Thai",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Minh-Tri Le",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Minh Nhat Nguyen",
+        "contribution": 0.06666666666666675,
+        "percent": 0.02336578581363006
+      },
+      {
+        "author": "Phuc Van Hoang",
+        "contribution": 0.055555555555555615,
+        "percent": 0.019471488178025045
+      },
+      {
+        "author": "Phuong Vu Quynh Duong",
+        "contribution": 0.055555555555555615,
+        "percent": 0.019471488178025045
+      },
+      {
+        "author": "Thy D. U. Phan",
+        "contribution": 0.055555555555555615,
+        "percent": 0.019471488178025045
+      },
+      {
+        "author": "Hoang Van Thang",
+        "contribution": 0.04761904761904767,
+        "percent": 0.016689847009735755
+      },
+      {
+        "author": "Le Thao Vy Vo",
+        "contribution": 0.04761904761904767,
+        "percent": 0.016689847009735755
+      },
+      {
+        "author": "Ngoc Duyen Pham",
+        "contribution": 0.04761904761904767,
+        "percent": 0.016689847009735755
+      },
+      {
+        "author": "Thi Ngoc Huyen Tran",
+        "contribution": 0.04761904761904767,
+        "percent": 0.016689847009735755
+      },
+      {
+        "author": "Thuy Vy Pham",
+        "contribution": 0.04761904761904767,
+        "percent": 0.016689847009735755
+      },
+      {
+        "author": "Trong Thuc Vu",
+        "contribution": 0.04761904761904767,
+        "percent": 0.016689847009735755
+      },
+      {
+        "author": "Hien Minh Nguyen",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Lan Thi Nguyen",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Minh Tri Le",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Nguyen Thien Han Le",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Phuoc Thuan Tran Nguyen",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Tan Ha",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Thien Bao Chu",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Trong Nghia Ngoc Chau",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Yen Nhi Thi Nguyen",
+        "contribution": 0.033333333333333375,
+        "percent": 0.01168289290681503
+      },
+      {
+        "author": "Hong Quang Nguyen",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Le Duc Thinh",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Le Gia Kiet Nguyen",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Ngoc Tuyet Vo",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Phan Thu Thao Chau",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Thanh Quynh Chung",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Thi Cam Tu Dang",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Thuy Han Phan",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Tran Ha Phuong Nguyen",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      },
+      {
+        "author": "Vy Khang Nguyen",
+        "contribution": 0.027777777777777807,
+        "percent": 0.009735744089012522
+      }
+    ],
+    "Hue University": [
+      {
+        "author": "Nguyễn Hoàng Lộc",
+        "contribution": 0.261111111111111,
+        "percent": 0.1770244821092278
+      },
+      {
+        "author": "Đỗ Thị Bích Thủy",
+        "contribution": 0.11111111111111108,
+        "percent": 0.07532956685499055
+      },
+      {
+        "author": "Nguyen Thi Thuy Mien",
+        "contribution": 0.11111111111111108,
+        "percent": 0.07532956685499055
+      },
+      {
+        "author": "Nhan Trong Le",
+        "contribution": 0.10833333333333331,
+        "percent": 0.0734463276836158
+      },
+      {
+        "author": "Huynh Thi Quynh Trang",
+        "contribution": 0.08333333333333331,
+        "percent": 0.056497175141242924
+      },
+      {
+        "author": "Nguyen Hoang Minh",
+        "contribution": 0.08333333333333331,
+        "percent": 0.056497175141242924
+      },
+      {
+        "author": "Tran Bao Van",
+        "contribution": 0.08333333333333331,
+        "percent": 0.056497175141242924
+      },
+      {
+        "author": "Dương Tuấn Quang",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "Nguyen Hoang Phuc",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "Nguyen Hoang Tue",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "Nguyễn Quang Đức Tiến",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "Hoai Thi Nguyen",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "T D K Nguyen",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "The‐Huan Tran",
+        "contribution": 0.06666666666666665,
+        "percent": 0.045197740112994336
+      },
+      {
+        "author": "Đức Việt Hồ",
+        "contribution": 0.04166666666666666,
+        "percent": 0.028248587570621462
+      },
+      {
+        "author": "Giang Le",
+        "contribution": 0.04166666666666666,
+        "percent": 0.028248587570621462
+      },
+      {
+        "author": "Khan Viet Nguyen",
+        "contribution": 0.04166666666666666,
+        "percent": 0.028248587570621462
+      },
+      {
+        "author": "Trang Huyen Xuan Hoang",
+        "contribution": 0.04166666666666666,
+        "percent": 0.028248587570621462
+      }
+    ],
+    "Thai Nguyen University": [
+      {
+        "author": "Ngoc Minh Pham",
+        "contribution": 0.030303030303030304,
+        "percent": 1.0
+      }
+    ],
+    "Can Tho University": [
+      {
+        "author": "Nguyen Mt",
+        "contribution": 0.4012944983818771,
+        "percent": 0.4077669902912622
+      },
+      {
+        "author": "M T Nguyen",
+        "contribution": 0.4012944983818771,
+        "percent": 0.4077669902912622
+      },
+      {
+        "author": "Phuong Lan Tran‐Nguyen",
+        "contribution": 0.0668824163969795,
+        "percent": 0.06796116504854369
+      },
+      {
+        "author": "Lan Nguyen Tran",
+        "contribution": 0.057327785483125296,
+        "percent": 0.05825242718446602
+      },
+      {
+        "author": "Nguyễn Văn Mười",
+        "contribution": 0.057327785483125296,
+        "percent": 0.05825242718446602
+      }
+    ],
+    "Thuyloi University": [
+      {
+        "author": "Mehdi M. Mokarram",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "William H. Casey",
+        "contribution": 0.08333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Tân Tạo University": [
+      {
+        "author": "Bei Liu",
+        "contribution": 0.33333333333333326,
+        "percent": 0.8571428571428571
+      },
+      {
+        "author": "Van Thuan Le",
+        "contribution": 0.05555555555555554,
+        "percent": 0.14285714285714282
+      }
+    ],
+    "Hanoi Open University": [
+      {
+        "author": "Yang Yong-jian",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thang Long University": [
+      {
+        "author": "Huang Yu",
+        "contribution": 0.25,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam Academy of Science and Technology": [
+      {
+        "author": "Van‐Thai Pham",
+        "contribution": 0.17312105565117605,
+        "percent": 0.15490533562822717
+      },
+      {
+        "author": "Lan Pham Thi",
+        "contribution": 0.14426754637598002,
+        "percent": 0.12908777969018928
+      },
+      {
+        "author": "Phạm Thị Lan",
+        "contribution": 0.11541403710078403,
+        "percent": 0.10327022375215145
+      },
+      {
+        "author": "Minh Tâm Lê",
+        "contribution": 0.08656052782558803,
+        "percent": 0.07745266781411358
+      },
+      {
+        "author": "No Nguyen Thi Hong",
+        "contribution": 0.08656052782558803,
+        "percent": 0.07745266781411358
+      },
+      {
+        "author": "Thao Phan Thanh",
+        "contribution": 0.08656052782558803,
+        "percent": 0.07745266781411358
+      },
+      {
+        "author": "Vuong Phan Minh",
+        "contribution": 0.08656052782558803,
+        "percent": 0.07745266781411358
+      },
+      {
+        "author": "Thao Thi",
+        "contribution": 0.06924842226047043,
+        "percent": 0.06196213425129087
+      },
+      {
+        "author": "N. P. L. Hong",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      },
+      {
+        "author": "Nam Nguyen Hoai",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      },
+      {
+        "author": "Oanh Vuong Thi Kim",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      },
+      {
+        "author": "Phong Le Thi Hong",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      },
+      {
+        "author": "T. Xuan",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      },
+      {
+        "author": "Thang To Xuan",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      },
+      {
+        "author": "Trang Tran Thanh Huyen",
+        "contribution": 0.038471345700261346,
+        "percent": 0.03442340791738382
+      }
+    ],
+    "Duy Tan University": [
+      {
+        "author": "Duy Quang Dao",
+        "contribution": 0.13333333333333336,
+        "percent": 0.15834118755890675
+      },
+      {
+        "author": "Thị Chinh Ngo",
+        "contribution": 0.13333333333333336,
+        "percent": 0.15834118755890675
+      },
+      {
+        "author": "Ali Farajtabar",
+        "contribution": 0.08333333333333334,
+        "percent": 0.09896324222431671
+      },
+      {
+        "author": "Tran Thi Dieu Thuan",
+        "contribution": 0.06666666666666668,
+        "percent": 0.07917059377945337
+      },
+      {
+        "author": "The Hung Tran",
+        "contribution": 0.06666666666666668,
+        "percent": 0.07917059377945337
+      },
+      {
+        "author": "Hossein Moayedi",
+        "contribution": 0.06666666666666668,
+        "percent": 0.07917059377945337
+      },
+      {
+        "author": "Dinh Hieu Truong",
+        "contribution": 0.06666666666666668,
+        "percent": 0.07917059377945337
+      },
+      {
+        "author": "Thi Thuy Nga Nguyen",
+        "contribution": 0.06666666666666668,
+        "percent": 0.07917059377945337
+      },
+      {
+        "author": "Thanh‐Do Le",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06597549481621114
+      },
+      {
+        "author": "Tolulope Joshua Ashaolu",
+        "contribution": 0.05555555555555556,
+        "percent": 0.06597549481621114
+      },
+      {
+        "author": "Ky Nguyen",
+        "contribution": 0.04761904761904762,
+        "percent": 0.056550424128180975
+      }
+    ],
+    "Ton Duc Thang University": [
+      {
+        "author": "Dileep Kumar",
+        "contribution": 1.5015873015873005,
+        "percent": 0.5702803174922132
+      },
+      {
+        "author": "Fardad Koohyar",
+        "contribution": 0.5444444444444442,
+        "percent": 0.20677182758967144
+      },
+      {
+        "author": "Rohit L. Vekariya",
+        "contribution": 0.33333333333333315,
+        "percent": 0.1265949964834723
+      },
+      {
+        "author": "Saeed Shirazian",
+        "contribution": 0.08333333333333329,
+        "percent": 0.031648749120868076
+      },
+      {
+        "author": "Amin Asadi",
+        "contribution": 0.06666666666666664,
+        "percent": 0.025318999296694462
+      },
+      {
+        "author": "Hoàng M. Nguyẽn",
+        "contribution": 0.06666666666666664,
+        "percent": 0.025318999296694462
+      },
+      {
+        "author": "Zahoor Ullah",
+        "contribution": 0.037037037037037014,
+        "percent": 0.01406611072038581
+      }
+    ],
+    "Ho Chi Minh City University of Industry and Trade": [
+      {
+        "author": "Chi Hai Tran",
+        "contribution": 0.11111111111111112,
+        "percent": 0.3636363636363637
+      },
+      {
+        "author": "Thi Hong Anh Le",
+        "contribution": 0.11111111111111112,
+        "percent": 0.3636363636363637
+      },
+      {
+        "author": "Hoai Lam Tran",
+        "contribution": 0.08333333333333334,
+        "percent": 0.27272727272727276
+      }
+    ],
+    "Institute of Materials Science": [
+      {
+        "author": "Hajime ARAI",
+        "contribution": 0.11111111111111112,
+        "percent": 0.4
+      },
+      {
+        "author": "Son Lam Ho",
+        "contribution": 0.08333333333333334,
+        "percent": 0.30000000000000004
+      },
+      {
+        "author": "Thanh Son Cu",
+        "contribution": 0.08333333333333334,
+        "percent": 0.30000000000000004
+      }
+    ],
+    "Dong Thap University": [
+      {
+        "author": "Thanh Xuan Le Thi",
+        "contribution": 0.08333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Industrial University of Ho Chi Minh City": [
+      {
+        "author": "Tran Thi Dieu Thuan",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Trường ĐH Nguyễn Tất Thành": [
+      {
+        "author": "Thanh Ngoc Nguyen",
+        "contribution": 0.08333333333333333,
+        "percent": 0.3865030674846626
+      },
+      {
+        "author": "Long Giang Bạch",
+        "contribution": 0.047619047619047616,
+        "percent": 0.22085889570552147
+      },
+      {
+        "author": "Tan Phat Dao",
+        "contribution": 0.047619047619047616,
+        "percent": 0.22085889570552147
+      },
+      {
+        "author": "Dai‐Viet N. Vo",
+        "contribution": 0.037037037037037035,
+        "percent": 0.17177914110429449
+      }
+    ],
+    "Nong Lam University Ho Chi Minh City": [
+      {
+        "author": "Phuong Hong Le",
+        "contribution": 0.23333333333333334,
+        "percent": 0.22272727272727272
+      },
+      {
+        "author": "Viet Nguyen",
+        "contribution": 0.23333333333333334,
+        "percent": 0.22272727272727272
+      },
+      {
+        "author": "Dao Hong Thi Le",
+        "contribution": 0.08333333333333334,
+        "percent": 0.07954545454545454
+      },
+      {
+        "author": "L. Ho",
+        "contribution": 0.08333333333333334,
+        "percent": 0.07954545454545454
+      },
+      {
+        "author": "Kien Trung Nguyen",
+        "contribution": 0.08333333333333334,
+        "percent": 0.07954545454545454
+      },
+      {
+        "author": "Oanh Kieu Thi Pham",
+        "contribution": 0.08333333333333334,
+        "percent": 0.07954545454545454
+      },
+      {
+        "author": "Duy N. Dao",
+        "contribution": 0.06666666666666668,
+        "percent": 0.06363636363636364
+      },
+      {
+        "author": "Tin Q. Huynh",
+        "contribution": 0.06666666666666668,
+        "percent": 0.06363636363636364
+      },
+      {
+        "author": "Tra T. T. Tran",
+        "contribution": 0.06666666666666668,
+        "percent": 0.06363636363636364
+      },
+      {
+        "author": "Mai Huyng Cang",
+        "contribution": 0.04761904761904762,
+        "percent": 0.045454545454545456
+      }
+    ],
+    "Tien Giang General Hospital": [
+      {
+        "author": "Nguyen Van Gia Phap",
+        "contribution": 0.047619047619047616,
+        "percent": 0.5
+      },
+      {
+        "author": "Quang Khoi Le",
+        "contribution": 0.047619047619047616,
+        "percent": 0.5
+      }
+    ],
+    "Ho Chi Minh City University of Technology and Engineering": [
+      {
+        "author": "Minh Hao Hoang",
+        "contribution": 0.2203703703703703,
+        "percent": 0.15555555555555553
+      },
+      {
+        "author": "Thi Nga Vo",
+        "contribution": 0.2203703703703703,
+        "percent": 0.15555555555555553
+      },
+      {
+        "author": "Tam Minh Le",
+        "contribution": 0.18888888888888886,
+        "percent": 0.13333333333333333
+      },
+      {
+        "author": "Thi Hao Cao",
+        "contribution": 0.12592592592592589,
+        "percent": 0.08888888888888886
+      },
+      {
+        "author": "Minh Tam Le",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Thi Thu Nhu Vo",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Giang T. Nguyen",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Nhung Thi Tran",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Tan Dzung Nguyen",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Binh Phuc Pham",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      },
+      {
+        "author": "Son Loc Hua",
+        "contribution": 0.09444444444444443,
+        "percent": 0.06666666666666667
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Bui Dinh Thuan",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Chu Van Lanh",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Dinh Xuan Khoa",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Do Thanh Thuy",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Dung Tien Nguyen",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Ha Vinh",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Ho Dinh Quang",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Le Canh Trung",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Nguyễn Duy Cương",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      },
+      {
+        "author": "Nguyen Van Phu",
+        "contribution": 0.03333333333333334,
+        "percent": 0.10000000000000002
+      }
+    ],
+    "Hanoi University of Pharmacy": [
+      {
+        "author": "Nguyen Van Phuong",
+        "contribution": 0.22222222222222227,
+        "percent": 0.33333333333333337
+      },
+      {
+        "author": "Nguyễn Thu Hằng",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Trieu Thi Tu Uyen",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Hang Nguyen Thu",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      },
+      {
+        "author": "Trang Vu Thi Huyen",
+        "contribution": 0.11111111111111113,
+        "percent": 0.16666666666666669
+      }
+    ],
+    "Hanoi University of Science and Technology": [
+      {
+        "author": "Truong Xuan",
+        "contribution": 0.17924528301886794,
+        "percent": 0.11320754716981132
+      },
+      {
+        "author": "Le Tuan",
+        "contribution": 0.17924528301886794,
+        "percent": 0.11320754716981132
+      },
+      {
+        "author": "Nhu Tuyen Pham",
+        "contribution": 0.11949685534591195,
+        "percent": 0.07547169811320754
+      },
+      {
+        "author": "Thị Hiền Nguyễn",
+        "contribution": 0.11949685534591195,
+        "percent": 0.07547169811320754
+      },
+      {
+        "author": "Anh-Tuan Nguyen",
+        "contribution": 0.11949685534591195,
+        "percent": 0.07547169811320754
+      },
+      {
+        "author": "Tuong-Linh Nha",
+        "contribution": 0.11949685534591195,
+        "percent": 0.07547169811320754
+      },
+      {
+        "author": "Chinh Dang",
+        "contribution": 0.08962264150943397,
+        "percent": 0.05660377358490566
+      },
+      {
+        "author": "Nguyen Thi Hong Vien",
+        "contribution": 0.08962264150943397,
+        "percent": 0.05660377358490566
+      },
+      {
+        "author": "Tran",
+        "contribution": 0.08962264150943397,
+        "percent": 0.05660377358490566
+      },
+      {
+        "author": "Vinh Truong Hoang",
+        "contribution": 0.08962264150943397,
+        "percent": 0.05660377358490566
+      },
+      {
+        "author": "Duc Hong Ta",
+        "contribution": 0.08962264150943397,
+        "percent": 0.05660377358490566
+      },
+      {
+        "author": "Huong Lan Phung",
+        "contribution": 0.059748427672955975,
+        "percent": 0.03773584905660377
+      },
+      {
+        "author": "Thao Thi Nguyen",
+        "contribution": 0.059748427672955975,
+        "percent": 0.03773584905660377
+      },
+      {
+        "author": "Trần Trung Kiên",
+        "contribution": 0.059748427672955975,
+        "percent": 0.03773584905660377
+      },
+      {
+        "author": "Tuấn Anh Vũ",
+        "contribution": 0.059748427672955975,
+        "percent": 0.03773584905660377
+      },
+      {
+        "author": "Van Xa Nguyen",
+        "contribution": 0.059748427672955975,
+        "percent": 0.03773584905660377
+      }
+    ],
+    "University of Medicine and Pharmacy at Ho Chi Minh City": [
+      {
+        "author": "Nam Van Ho Phan",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      },
+      {
+        "author": "Trần Thị Vân Anh",
+        "contribution": 0.05555555555555555,
+        "percent": 0.5
+      }
+    ],
+    "Van Lang University": [
+      {
+        "author": "Dileep Kumar",
+        "contribution": 0.47129629629629627,
+        "percent": 1.0000000000000002
+      }
+    ],
+    "Le Quy Don Technical University": [
+      {
+        "author": "Cao Hai Thuong",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Le Dong",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Pham Ngoc Son",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "The Son Le",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Tran Viet Thu",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Vu Ngoc Doan",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      },
+      {
+        "author": "Vu Quang Hung",
+        "contribution": 0.04761904761904762,
+        "percent": 0.14285714285714288
+      }
+    ],
+    "Hanoi University of Industry": [
+      {
+        "author": "Nhan Tran Thi",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hue University of Education": [
+      {
+        "author": "Phùng Thị Bích Hòa",
+        "contribution": 0.06666666666666667,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Medical University": [
+      {
+        "author": "Ha Thu Thi Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hoai Thi Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Hung Van Nguyen",
+        "contribution": 0.041666666666666664,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Baria Vungtau University": [
+      {
+        "author": "Van Man Phan",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Thai Nguyen University of Agriculture and Forestry": [
+      {
+        "author": "Bang Phuong Pham",
+        "contribution": 0.05555555555555555,
+        "percent": 1.0
+      }
+    ],
+    "VNU University of Science": [
+      {
+        "author": "Ngọc Vũ Thị Bích",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5
+      },
+      {
+        "author": "T. T. V. Anh",
+        "contribution": 0.037037037037037035,
+        "percent": 0.5
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

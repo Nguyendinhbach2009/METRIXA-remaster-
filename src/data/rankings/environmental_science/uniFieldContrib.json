@@ -1,0 +1,2202 @@
+{
+  "Cat Tien National Park": {
+    "Ecological Modeling": 4.482933362933361,
+    "Ecology": 82.36572575300525,
+    "Environmental Chemistry": 0.9166666666666666,
+    "Environmental Engineering": 1.6761904761904767,
+    "Global and Planetary Change": 15.610374810374795,
+    "Health, Toxicology and Mutagenesis": 1.5162698412698412,
+    "Management, Monitoring, Policy and Law": 7.0630815018315,
+    "Nature and Landscape Conservation": 7.792481592481588,
+    "Pollution": 1.3445563695563696,
+    "Water Science and Technology": 1.6477429977429974
+  },
+  "Vietnam National University, Hanoi": {
+    "Ecological Modeling": 8.997990843579077,
+    "Ecology": 87.4272056543127,
+    "Environmental Chemistry": 31.89735121116709,
+    "Environmental Engineering": 43.3087245358833,
+    "Global and Planetary Change": 100.72144117922038,
+    "Health, Toxicology and Mutagenesis": 67.25484102664036,
+    "Management, Monitoring, Policy and Law": 47.82155450758414,
+    "Nature and Landscape Conservation": 8.962469937469935,
+    "Pollution": 62.68786692604042,
+    "Water Science and Technology": 79.2264046139049
+  },
+  "Tay Bac University": {
+    "Ecological Modeling": 2.5642857142857136,
+    "Ecology": 23.62018953268954,
+    "Environmental Chemistry": 0.825175175175175,
+    "Environmental Engineering": 0.6666666666666666,
+    "Global and Planetary Change": 8.039484126984124,
+    "Health, Toxicology and Mutagenesis": 0.8416666666666667,
+    "Management, Monitoring, Policy and Law": 2.3305555555555557,
+    "Nature and Landscape Conservation": 2.4015873015873015,
+    "Pollution": 0.775,
+    "Water Science and Technology": 1.7063492063492063
+  },
+  "Hanoi National University of Education": {
+    "Ecological Modeling": 2.0424603174603173,
+    "Ecology": 35.118989818374544,
+    "Environmental Chemistry": 3.986563436563435,
+    "Environmental Engineering": 5.703132515632512,
+    "Global and Planetary Change": 20.070541169070566,
+    "Health, Toxicology and Mutagenesis": 6.741804029304023,
+    "Management, Monitoring, Policy and Law": 9.877105647620349,
+    "Nature and Landscape Conservation": 10.017013215542619,
+    "Pollution": 4.11750379250379,
+    "Water Science and Technology": 14.266090853590834
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Ecological Modeling": 24.037069154404055,
+    "Ecology": 223.99914357809314,
+    "Environmental Chemistry": 58.66452696913279,
+    "Environmental Engineering": 50.38341792925037,
+    "Global and Planetary Change": 154.73392538280225,
+    "Health, Toxicology and Mutagenesis": 60.188519115689125,
+    "Management, Monitoring, Policy and Law": 38.179876414435356,
+    "Nature and Landscape Conservation": 38.16877931000319,
+    "Pollution": 110.70399342661027,
+    "Water Science and Technology": 110.00915883633319
+  },
+  "Hospital for Tropical Diseases": {
+    "Ecological Modeling": 2.001731601731602,
+    "Ecology": 19.929429264310976,
+    "Environmental Chemistry": 1.1333333333333333,
+    "Environmental Engineering": 0.625,
+    "Global and Planetary Change": 4.000694444444445,
+    "Health, Toxicology and Mutagenesis": 9.623324514991177,
+    "Management, Monitoring, Policy and Law": 0.33859715164062987,
+    "Nature and Landscape Conservation": 1.77008547008547,
+    "Pollution": 0.8053365880765262,
+    "Water Science and Technology": 3.937016687016687
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Ecological Modeling": 6.332451291396761,
+    "Ecology": 147.95045174610928,
+    "Environmental Chemistry": 35.780101978631464,
+    "Environmental Engineering": 115.9716601232909,
+    "Global and Planetary Change": 120.88182461606416,
+    "Health, Toxicology and Mutagenesis": 94.62090545856523,
+    "Management, Monitoring, Policy and Law": 62.57686270585239,
+    "Nature and Landscape Conservation": 9.795860258972375,
+    "Pollution": 98.0102485737972,
+    "Water Science and Technology": 203.0446255092327
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Ecological Modeling": 0.4619047619047619,
+    "Ecology": 7.205957049486455,
+    "Environmental Chemistry": 3.3266890516890513,
+    "Environmental Engineering": 4.537974987974986,
+    "Global and Planetary Change": 13.624107247241904,
+    "Health, Toxicology and Mutagenesis": 6.393761304055412,
+    "Management, Monitoring, Policy and Law": 0.5714285714285714,
+    "Nature and Landscape Conservation": 0.2472222222222222,
+    "Pollution": 6.574626401290487,
+    "Water Science and Technology": 7.2736568986568955
+  },
+  "Ministry of Health": {
+    "Ecological Modeling": 0.6013024331989849,
+    "Ecology": 4.1754022202409296,
+    "Environmental Chemistry": 0.09859006734006734,
+    "Environmental Engineering": 0.625,
+    "Global and Planetary Change": 0.9586241971536089,
+    "Health, Toxicology and Mutagenesis": 4.424435671540935,
+    "Management, Monitoring, Policy and Law": 0.723383793570129,
+    "Nature and Landscape Conservation": 0.029708853238265005,
+    "Pollution": 1.1445892509050404,
+    "Water Science and Technology": 1.6944444444444444
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Ecological Modeling": 0.23801811215604318,
+    "Ecology": 11.180121036371048,
+    "Environmental Chemistry": 3.5690476190476184,
+    "Environmental Engineering": 1.1881868131868127,
+    "Global and Planetary Change": 7.178596866096865,
+    "Health, Toxicology and Mutagenesis": 36.910680814663365,
+    "Management, Monitoring, Policy and Law": 0.06666666666666667,
+    "Pollution": 9.779625467125461,
+    "Water Science and Technology": 11.272787397787395
+  },
+  "Thai Nguyen University": {
+    "Ecological Modeling": 13.893915343915348,
+    "Ecology": 30.266804029304044,
+    "Environmental Chemistry": 2.2567460317460313,
+    "Environmental Engineering": 9.242724867724863,
+    "Global and Planetary Change": 11.719775132275121,
+    "Health, Toxicology and Mutagenesis": 9.379748029748024,
+    "Management, Monitoring, Policy and Law": 8.109152421652414,
+    "Nature and Landscape Conservation": 2.9497150997151014,
+    "Pollution": 12.248232323232312,
+    "Water Science and Technology": 33.89576393105821
+  },
+  "Hanoi University": {
+    "Ecological Modeling": 0.9999999999999999,
+    "Ecology": 21.514646464646443,
+    "Environmental Chemistry": 1.2228345728345729,
+    "Environmental Engineering": 12.835197210197204,
+    "Global and Planetary Change": 11.882022607022591,
+    "Health, Toxicology and Mutagenesis": 8.281835006780653,
+    "Management, Monitoring, Policy and Law": 9.733281342840163,
+    "Nature and Landscape Conservation": 1.1666666666666665,
+    "Pollution": 4.523478835978838,
+    "Water Science and Technology": 6.249938949938949
+  },
+  "Electric Power University": {
+    "Ecological Modeling": 7.916666666666662,
+    "Ecology": 6.9323870573870545,
+    "Environmental Chemistry": 4.015712065712064,
+    "Environmental Engineering": 23.692225829725828,
+    "Global and Planetary Change": 5.930555555555556,
+    "Health, Toxicology and Mutagenesis": 8.21630314130314,
+    "Management, Monitoring, Policy and Law": 7.718253968253963,
+    "Nature and Landscape Conservation": 1.15,
+    "Pollution": 17.664960039960008,
+    "Water Science and Technology": 21.962101555851582
+  },
+  "International Center for Tropical Agriculture": {
+    "Ecological Modeling": 3.6738948524242656,
+    "Ecology": 36.84979703528828,
+    "Environmental Chemistry": 3.756593406593405,
+    "Environmental Engineering": 5.9631401006401,
+    "Global and Planetary Change": 24.60148282001227,
+    "Health, Toxicology and Mutagenesis": 10.39857773133635,
+    "Management, Monitoring, Policy and Law": 5.807602582602584,
+    "Nature and Landscape Conservation": 14.895652958152949,
+    "Pollution": 10.69810787834044,
+    "Water Science and Technology": 7.148945498945495
+  },
+  "Vietnam National University of Forestry": {
+    "Ecological Modeling": 7.391205399538726,
+    "Ecology": 24.081962944462965,
+    "Environmental Chemistry": 0.2671957671957672,
+    "Environmental Engineering": 6.574230399230392,
+    "Global and Planetary Change": 29.91547713934202,
+    "Health, Toxicology and Mutagenesis": 1.7175925925925928,
+    "Management, Monitoring, Policy and Law": 4.82598605098605,
+    "Nature and Landscape Conservation": 22.043403880070564,
+    "Pollution": 2.0240253411306046,
+    "Water Science and Technology": 3.5211640211640205
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Ecological Modeling": 2.6499999999999995,
+    "Ecology": 111.10642135642148,
+    "Environmental Chemistry": 7.242309542309539,
+    "Environmental Engineering": 11.416249491249468,
+    "Global and Planetary Change": 8.826738909238905,
+    "Health, Toxicology and Mutagenesis": 7.655518847624106,
+    "Management, Monitoring, Policy and Law": 6.814052287581697,
+    "Nature and Landscape Conservation": 2.3640211640211644,
+    "Pollution": 21.659270821770843,
+    "Water Science and Technology": 61.1153628778633
+  },
+  "Hanoi University of Mining and Geology": {
+    "Ecological Modeling": 2.5361111111111114,
+    "Ecology": 16.65293780293779,
+    "Environmental Chemistry": 12.53967560217561,
+    "Environmental Engineering": 31.07060485810487,
+    "Global and Planetary Change": 28.520360195360215,
+    "Health, Toxicology and Mutagenesis": 4.416137566137565,
+    "Management, Monitoring, Policy and Law": 23.22493154993152,
+    "Nature and Landscape Conservation": 0.02564102564102564,
+    "Pollution": 10.633465608465594,
+    "Water Science and Technology": 24.19698542198542
+  },
+  "University of Languages and International Studies": {
+    "Ecological Modeling": 6.972222222222223,
+    "Ecology": 43.91666666666668,
+    "Environmental Engineering": 0.8611111111111112,
+    "Global and Planetary Change": 0.6851851851851851,
+    "Health, Toxicology and Mutagenesis": 24.22222222222222,
+    "Management, Monitoring, Policy and Law": 4.933333333333334,
+    "Nature and Landscape Conservation": 1.3333333333333333,
+    "Pollution": 0.35833333333333334,
+    "Water Science and Technology": 1.35
+  },
+  "Institute of Mathematics": {
+    "Ecological Modeling": 0.2777777777777778,
+    "Ecology": 8.996428571428565,
+    "Environmental Chemistry": 1.879298941798942,
+    "Environmental Engineering": 5.095238095238091,
+    "Global and Planetary Change": 4.862622100122099,
+    "Health, Toxicology and Mutagenesis": 1.00026455026455,
+    "Management, Monitoring, Policy and Law": 1.3880952380952378,
+    "Nature and Landscape Conservation": 0.08333333333333333,
+    "Pollution": 3.973007384772092,
+    "Water Science and Technology": 4.273743386243386
+  },
+  "Thuyloi University": {
+    "Ecological Modeling": 1.2855940355940356,
+    "Ecology": 83.02714831464858,
+    "Environmental Chemistry": 21.346195144724547,
+    "Environmental Engineering": 62.6693112443117,
+    "Global and Planetary Change": 84.48536662139642,
+    "Health, Toxicology and Mutagenesis": 17.035888648388653,
+    "Management, Monitoring, Policy and Law": 21.52168090623972,
+    "Nature and Landscape Conservation": 6.313768638768635,
+    "Pollution": 14.090855672105668,
+    "Water Science and Technology": 73.2160628723133
+  },
+  "Vinh University": {
+    "Ecological Modeling": 1.0177078477078476,
+    "Ecology": 43.83842407592416,
+    "Environmental Chemistry": 1.5892857142857144,
+    "Environmental Engineering": 3.4548941798941795,
+    "Global and Planetary Change": 8.733569344598745,
+    "Health, Toxicology and Mutagenesis": 3.10517676767677,
+    "Management, Monitoring, Policy and Law": 8.944663669663669,
+    "Nature and Landscape Conservation": 4.068211091740504,
+    "Pollution": 3.0228354978354983,
+    "Water Science and Technology": 4.197498797498795
+  },
+  "Ho Chi Minh City University of Science": {
+    "Ecological Modeling": 0.892207792207792,
+    "Ecology": 27.561619861619842,
+    "Environmental Chemistry": 6.947865097865093,
+    "Environmental Engineering": 10.27702922077921,
+    "Global and Planetary Change": 21.564477068824914,
+    "Health, Toxicology and Mutagenesis": 10.958911662955769,
+    "Management, Monitoring, Policy and Law": 3.2113553113553115,
+    "Nature and Landscape Conservation": 2.2887305255949326,
+    "Pollution": 9.757321817615928,
+    "Water Science and Technology": 26.388996068343896
+  },
+  "Lac Hong University": {
+    "Ecological Modeling": 2.8277777777777775,
+    "Ecology": 21.76863044363044,
+    "Environmental Chemistry": 0.8338955026455024,
+    "Environmental Engineering": 4.628826960076961,
+    "Global and Planetary Change": 4.035986235986234,
+    "Health, Toxicology and Mutagenesis": 4.715911634661633,
+    "Management, Monitoring, Policy and Law": 3.6460317460317455,
+    "Nature and Landscape Conservation": 0.25925925925925924,
+    "Pollution": 6.1472101972101925,
+    "Water Science and Technology": 6.171352952602947
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Ecological Modeling": 0.371031746031746,
+    "Ecology": 6.6327883469187805,
+    "Environmental Chemistry": 0.4634920634920635,
+    "Environmental Engineering": 1.283399470899471,
+    "Global and Planetary Change": 8.402434139934137,
+    "Health, Toxicology and Mutagenesis": 0.6986111111111111,
+    "Management, Monitoring, Policy and Law": 2.541666666666667,
+    "Nature and Landscape Conservation": 1.6029882154882151,
+    "Pollution": 1.026906719011982,
+    "Water Science and Technology": 2.1373136123136116
+  },
+  "Foreign Trade University": {
+    "Ecological Modeling": 0.5833333333333333,
+    "Ecology": 8.733333333333327,
+    "Environmental Chemistry": 0.19444444444444442,
+    "Environmental Engineering": 5.641666666666664,
+    "Global and Planetary Change": 4.736111111111111,
+    "Health, Toxicology and Mutagenesis": 2.3888888888888893,
+    "Management, Monitoring, Policy and Law": 18.178291316526604,
+    "Nature and Landscape Conservation": 0.33333333333333337,
+    "Pollution": 2.6722222222222234,
+    "Water Science and Technology": 2.437518037518038
+  },
+  "Hue University": {
+    "Ecological Modeling": 5.472001763668431,
+    "Ecology": 148.94885962802644,
+    "Environmental Chemistry": 5.579232804232805,
+    "Environmental Engineering": 13.498611111111098,
+    "Global and Planetary Change": 38.46018888518905,
+    "Health, Toxicology and Mutagenesis": 13.773494299581243,
+    "Management, Monitoring, Policy and Law": 23.524504442925483,
+    "Nature and Landscape Conservation": 6.009523809523804,
+    "Pollution": 12.074684112184112,
+    "Water Science and Technology": 25.08882090132096
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Ecological Modeling": 0.030303030303030304,
+    "Ecology": 9.283933374588019,
+    "Health, Toxicology and Mutagenesis": 0.9304232804232803,
+    "Management, Monitoring, Policy and Law": 0.2222222222222222,
+    "Pollution": 0.06363636363636363,
+    "Water Science and Technology": 0.027777777777777776
+  },
+  "Vietnam National University of Agriculture": {
+    "Ecological Modeling": 0.5805976430976432,
+    "Ecology": 23.944513332671242,
+    "Environmental Chemistry": 4.651984126984127,
+    "Environmental Engineering": 9.468973156473153,
+    "Global and Planetary Change": 29.643338995312725,
+    "Health, Toxicology and Mutagenesis": 5.84180865430865,
+    "Management, Monitoring, Policy and Law": 14.1575702075702,
+    "Nature and Landscape Conservation": 4.77459716209716,
+    "Pollution": 9.285045948203841,
+    "Water Science and Technology": 12.985020535020533
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Ecological Modeling": 1.1143939393939393,
+    "Ecology": 36.289895382395436,
+    "Environmental Chemistry": 3.6652262089762084,
+    "Environmental Engineering": 23.201821789321798,
+    "Global and Planetary Change": 33.273145139174595,
+    "Health, Toxicology and Mutagenesis": 13.03651302401303,
+    "Management, Monitoring, Policy and Law": 20.908579846079846,
+    "Nature and Landscape Conservation": 2.2453823953823946,
+    "Pollution": 18.65922338826753,
+    "Water Science and Technology": 31.897346281169828
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Ecological Modeling": 3.9555555555555553,
+    "Ecology": 43.00346320346329,
+    "Environmental Chemistry": 5.831349206349206,
+    "Environmental Engineering": 12.411401098901088,
+    "Global and Planetary Change": 16.36674482924482,
+    "Health, Toxicology and Mutagenesis": 11.270935545935542,
+    "Management, Monitoring, Policy and Law": 15.90138888888888,
+    "Nature and Landscape Conservation": 2.898148148148149,
+    "Pollution": 17.30346320346319,
+    "Water Science and Technology": 38.803884078884145
+  },
+  "Can Tho University": {
+    "Ecological Modeling": 2.744932844932845,
+    "Ecology": 262.67457276120814,
+    "Environmental Chemistry": 32.127588308838334,
+    "Environmental Engineering": 36.25431836681844,
+    "Global and Planetary Change": 88.83566387316425,
+    "Health, Toxicology and Mutagenesis": 21.579558078087487,
+    "Management, Monitoring, Policy and Law": 33.75595238095237,
+    "Nature and Landscape Conservation": 53.0745888370892,
+    "Pollution": 35.06513821146187,
+    "Water Science and Technology": 126.61524812906401
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Ecological Modeling": 2.8083333333333327,
+    "Ecology": 25.42283549783552,
+    "Environmental Chemistry": 8.739910089910094,
+    "Environmental Engineering": 26.592946405446444,
+    "Global and Planetary Change": 19.583393458393495,
+    "Health, Toxicology and Mutagenesis": 10.701091038591024,
+    "Management, Monitoring, Policy and Law": 7.691450216450215,
+    "Nature and Landscape Conservation": 2.1962962962962953,
+    "Pollution": 24.603898878898917,
+    "Water Science and Technology": 51.118601768602076
+  },
+  "Forest Industry Research Institute": {
+    "Ecological Modeling": 1.3711004603861747,
+    "Ecology": 18.59326732093287,
+    "Environmental Chemistry": 1.5555555555555558,
+    "Environmental Engineering": 1.8291005291005293,
+    "Global and Planetary Change": 19.40346436179946,
+    "Health, Toxicology and Mutagenesis": 0.16544566544566544,
+    "Management, Monitoring, Policy and Law": 3.0066161616161624,
+    "Nature and Landscape Conservation": 20.312890976349916,
+    "Pollution": 0.4087301587301587,
+    "Water Science and Technology": 3.0416005291005286
+  },
+  "Nha Trang University": {
+    "Ecological Modeling": 1.3222222222222222,
+    "Ecology": 77.7226310726312,
+    "Environmental Chemistry": 6.725582750582748,
+    "Environmental Engineering": 4.344841269841266,
+    "Global and Planetary Change": 41.82720302573253,
+    "Health, Toxicology and Mutagenesis": 6.241401653901651,
+    "Management, Monitoring, Policy and Law": 10.622751322751316,
+    "Nature and Landscape Conservation": 18.457671957671945,
+    "Pollution": 6.964496151996149,
+    "Water Science and Technology": 7.7099206349206355
+  },
+  "Hồng Đức University": {
+    "Ecological Modeling": 1.4161375661375661,
+    "Ecology": 72.53029100529125,
+    "Environmental Chemistry": 0.6865079365079365,
+    "Environmental Engineering": 2.341666666666667,
+    "Global and Planetary Change": 8.733994708994704,
+    "Health, Toxicology and Mutagenesis": 1.0458333333333334,
+    "Management, Monitoring, Policy and Law": 3.3307189542483657,
+    "Nature and Landscape Conservation": 0.963888888888889,
+    "Pollution": 1.4142857142857141,
+    "Water Science and Technology": 1.7611111111111113
+  },
+  "Thang Long University": {
+    "Ecological Modeling": 9.38888888888889,
+    "Ecology": 32.36679894179892,
+    "Environmental Chemistry": 4.955555555555554,
+    "Environmental Engineering": 2.513888888888888,
+    "Global and Planetary Change": 14.313217936747344,
+    "Health, Toxicology and Mutagenesis": 5.946296296296296,
+    "Management, Monitoring, Policy and Law": 6.9611111111111095,
+    "Nature and Landscape Conservation": 1.4166666666666665,
+    "Pollution": 2.960918710918709,
+    "Water Science and Technology": 20.706944444444442
+  },
+  "Tân Tạo University": {
+    "Ecological Modeling": 14.783333333333339,
+    "Ecology": 33.24052669552671,
+    "Environmental Chemistry": 6.658333333333332,
+    "Environmental Engineering": 5.630303030303032,
+    "Global and Planetary Change": 15.644027093596064,
+    "Health, Toxicology and Mutagenesis": 11.644444444444437,
+    "Management, Monitoring, Policy and Law": 10.12041598248495,
+    "Nature and Landscape Conservation": 5.258477633477633,
+    "Pollution": 6.456944444444442,
+    "Water Science and Technology": 20.836111111111112
+  },
+  "Hanoi Open University": {
+    "Ecological Modeling": 6.499999999999999,
+    "Ecology": 19.719444444444438,
+    "Environmental Chemistry": 4.194444444444445,
+    "Environmental Engineering": 3.9007936507936494,
+    "Global and Planetary Change": 12.12373737373738,
+    "Health, Toxicology and Mutagenesis": 4.408730158730157,
+    "Management, Monitoring, Policy and Law": 7.334126984126981,
+    "Nature and Landscape Conservation": 5.611111111111111,
+    "Pollution": 5.587878787878784,
+    "Water Science and Technology": 21.625
+  },
+  "Van Lang University": {
+    "Ecological Modeling": 2.333333333333333,
+    "Ecology": 30.8438038813039,
+    "Environmental Chemistry": 2.670658970658971,
+    "Environmental Engineering": 17.709511784511776,
+    "Global and Planetary Change": 15.295301457801452,
+    "Health, Toxicology and Mutagenesis": 11.003484015984014,
+    "Management, Monitoring, Policy and Law": 10.54667785917786,
+    "Nature and Landscape Conservation": 1.8311965811965814,
+    "Pollution": 12.611413496169584,
+    "Water Science and Technology": 16.163359788359788
+  },
+  "Quy Nhon University": {
+    "Ecological Modeling": 1.3333333333333333,
+    "Ecology": 22.82095959595959,
+    "Environmental Chemistry": 1.573015873015873,
+    "Environmental Engineering": 0.5075757575757576,
+    "Global and Planetary Change": 7.3362628207621725,
+    "Health, Toxicology and Mutagenesis": 3.4305555555555554,
+    "Management, Monitoring, Policy and Law": 4.297619047619048,
+    "Nature and Landscape Conservation": 0.46428571428571425,
+    "Pollution": 4.099206349206349,
+    "Water Science and Technology": 10.151479076479074
+  },
+  "Hai Phong University": {
+    "Ecological Modeling": 0.42777777777777776,
+    "Ecology": 37.08571428571437,
+    "Environmental Chemistry": 0.26666666666666666,
+    "Environmental Engineering": 2.4583333333333335,
+    "Global and Planetary Change": 1.274447910477322,
+    "Health, Toxicology and Mutagenesis": 0.5833333333333333,
+    "Management, Monitoring, Policy and Law": 2.1277777777777778,
+    "Nature and Landscape Conservation": 0.23333333333333334,
+    "Pollution": 2.1527777777777777,
+    "Water Science and Technology": 2.877941176470588
+  },
+  "Research Institute for Aquaculture No1": {
+    "Ecological Modeling": 1.0,
+    "Ecology": 16.228168590668577,
+    "Environmental Chemistry": 1.7146825396825396,
+    "Environmental Engineering": 0.5600649350649352,
+    "Global and Planetary Change": 13.603169651699057,
+    "Health, Toxicology and Mutagenesis": 2.242063492063492,
+    "Management, Monitoring, Policy and Law": 0.783974358974359,
+    "Nature and Landscape Conservation": 10.848292448292424,
+    "Pollution": 2.5592352092352098,
+    "Water Science and Technology": 4.525120250120249
+  },
+  "Institute of Population, Health and Development": {
+    "Ecological Modeling": 0.5555555555555556,
+    "Ecology": 1.0416666666666667,
+    "Environmental Chemistry": 0.6111111111111112,
+    "Environmental Engineering": 0.5388888888888889,
+    "Global and Planetary Change": 0.34444444444444444,
+    "Health, Toxicology and Mutagenesis": 0.1962962962962963,
+    "Management, Monitoring, Policy and Law": 0.44027777777777777,
+    "Pollution": 0.5410888331940964
+  },
+  "Hoa Sen University": {
+    "Ecological Modeling": 1.0000000000000002,
+    "Ecology": 3.9145833333333337,
+    "Environmental Chemistry": 0.1423611111111111,
+    "Environmental Engineering": 0.5138888888888888,
+    "Global and Planetary Change": 1.3555555555555552,
+    "Health, Toxicology and Mutagenesis": 0.6666666666666666,
+    "Management, Monitoring, Policy and Law": 2.0277777777777777,
+    "Pollution": 0.5166666666666666,
+    "Water Science and Technology": 0.4097222222222222
+  },
+  "VNU University of Science": {
+    "Ecological Modeling": 4.178042328042329,
+    "Ecology": 69.43613516113533,
+    "Environmental Chemistry": 15.382897950003189,
+    "Environmental Engineering": 26.164475801975822,
+    "Global and Planetary Change": 50.111947747385365,
+    "Health, Toxicology and Mutagenesis": 30.835318401754034,
+    "Management, Monitoring, Policy and Law": 31.22609550036019,
+    "Nature and Landscape Conservation": 6.286916786916789,
+    "Pollution": 22.98718693443924,
+    "Water Science and Technology": 42.642502706633344
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Ecological Modeling": 0.43650793650793657,
+    "Ecology": 3.950006012506012,
+    "Environmental Chemistry": 0.2745726495726496,
+    "Environmental Engineering": 0.22817460317460317,
+    "Global and Planetary Change": 4.565103415103414,
+    "Health, Toxicology and Mutagenesis": 0.3944444444444445,
+    "Management, Monitoring, Policy and Law": 2.6717171717171717,
+    "Nature and Landscape Conservation": 1.1448412698412698,
+    "Pollution": 0.4232924482924483,
+    "Water Science and Technology": 1.7337301587301588
+  },
+  "Hanoi University of Science and Technology": {
+    "Ecological Modeling": 4.288383838383839,
+    "Ecology": 22.29395263102158,
+    "Environmental Chemistry": 9.85762738219633,
+    "Environmental Engineering": 49.880287144417856,
+    "Global and Planetary Change": 20.19489341283071,
+    "Health, Toxicology and Mutagenesis": 22.558911249357468,
+    "Management, Monitoring, Policy and Law": 9.548644077514036,
+    "Nature and Landscape Conservation": 0.9075036075036076,
+    "Pollution": 26.119191919191938,
+    "Water Science and Technology": 82.34383024383047
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Ecological Modeling": 0.9111111111111112,
+    "Ecology": 8.988293650793652,
+    "Environmental Chemistry": 0.7944444444444444,
+    "Environmental Engineering": 3.355952380952381,
+    "Global and Planetary Change": 8.384422657952067,
+    "Health, Toxicology and Mutagenesis": 0.44002525252525254,
+    "Management, Monitoring, Policy and Law": 4.138888888888889,
+    "Nature and Landscape Conservation": 2.914285714285714,
+    "Pollution": 2.834493746993747,
+    "Water Science and Technology": 4.282221019721018
+  },
+  "Phu Yen University": {
+    "Ecological Modeling": 0.6313492063492063,
+    "Ecology": 13.703968253968245,
+    "Environmental Chemistry": 0.6458333333333333,
+    "Environmental Engineering": 2.0555555555555554,
+    "Global and Planetary Change": 4.091402116402119,
+    "Health, Toxicology and Mutagenesis": 1.1861111111111111,
+    "Management, Monitoring, Policy and Law": 0.3333333333333333,
+    "Nature and Landscape Conservation": 0.2037037037037037,
+    "Pollution": 0.1111111111111111,
+    "Water Science and Technology": 1.4722222222222225
+  },
+  "Ton Duc Thang University": {
+    "Ecological Modeling": 0.5185185185185185,
+    "Ecology": 57.94871609871638,
+    "Environmental Chemistry": 7.793259518259514,
+    "Environmental Engineering": 44.29940614940642,
+    "Global and Planetary Change": 48.97178768827727,
+    "Health, Toxicology and Mutagenesis": 21.481580919080912,
+    "Management, Monitoring, Policy and Law": 23.827090718580063,
+    "Nature and Landscape Conservation": 5.078318903318903,
+    "Pollution": 25.479273720763086,
+    "Water Science and Technology": 61.514461695712036
+  },
+  "Da Nang University of Economics": {
+    "Ecological Modeling": 0.3333333333333333,
+    "Ecology": 0.7103174603174603,
+    "Environmental Engineering": 0.1111111111111111,
+    "Global and Planetary Change": 0.022222222222222223,
+    "Management, Monitoring, Policy and Law": 0.2222222222222222,
+    "Pollution": 0.1111111111111111,
+    "Water Science and Technology": 0.022222222222222223
+  },
+  "University Of Transport Technology": {
+    "Ecological Modeling": 0.4027777777777778,
+    "Ecology": 6.055952380952379,
+    "Environmental Chemistry": 1.011111111111111,
+    "Environmental Engineering": 11.281351056351042,
+    "Global and Planetary Change": 13.500450937950928,
+    "Health, Toxicology and Mutagenesis": 0.8444444444444444,
+    "Management, Monitoring, Policy and Law": 17.1197118785354,
+    "Nature and Landscape Conservation": 0.6666666666666666,
+    "Pollution": 5.404166666666667,
+    "Water Science and Technology": 4.5336358086358075
+  },
+  "Le Quy Don Technical University": {
+    "Ecological Modeling": 6.911111111111106,
+    "Ecology": 10.881746031746028,
+    "Environmental Chemistry": 0.9259259259259258,
+    "Environmental Engineering": 23.064430014430013,
+    "Global and Planetary Change": 15.610882173382153,
+    "Health, Toxicology and Mutagenesis": 1.3108585858585857,
+    "Management, Monitoring, Policy and Law": 9.57698412698412,
+    "Nature and Landscape Conservation": 1.5944444444444446,
+    "Pollution": 4.430501443001442,
+    "Water Science and Technology": 13.31341991341991
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Ecological Modeling": 0.10317460317460317,
+    "Ecology": 3.076214526214526,
+    "Environmental Chemistry": 0.4444444444444444,
+    "Environmental Engineering": 0.7222222222222219,
+    "Global and Planetary Change": 0.8174603174603174,
+    "Nature and Landscape Conservation": 0.7559523809523809,
+    "Pollution": 0.7182539682539684
+  },
+  "University of Da Nang": {
+    "Ecological Modeling": 3.4311111111111106,
+    "Ecology": 45.12334656084661,
+    "Environmental Chemistry": 10.15317460317459,
+    "Environmental Engineering": 30.865776815776847,
+    "Global and Planetary Change": 25.730439005439017,
+    "Health, Toxicology and Mutagenesis": 13.708333333333316,
+    "Management, Monitoring, Policy and Law": 18.407862285870177,
+    "Nature and Landscape Conservation": 1.662037037037037,
+    "Pollution": 25.200270562770626,
+    "Water Science and Technology": 38.7328523328524
+  },
+  "Duy Tan University": {
+    "Ecological Modeling": 3.1074446359740477,
+    "Ecology": 32.015933233433266,
+    "Environmental Chemistry": 9.584830447330448,
+    "Environmental Engineering": 38.91219349822304,
+    "Global and Planetary Change": 37.894417202510674,
+    "Health, Toxicology and Mutagenesis": 15.495921224489408,
+    "Management, Monitoring, Policy and Law": 18.980548754078168,
+    "Nature and Landscape Conservation": 6.022823472823469,
+    "Pollution": 25.121318727568784,
+    "Water Science and Technology": 71.1692951928252
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Ecological Modeling": 0.2222222222222222,
+    "Ecology": 4.154761904761905,
+    "Environmental Engineering": 3.6722222222222225,
+    "Global and Planetary Change": 7.384722222222218,
+    "Health, Toxicology and Mutagenesis": 3.742063492063492,
+    "Management, Monitoring, Policy and Law": 2.761111111111111,
+    "Nature and Landscape Conservation": 0.3333333333333333,
+    "Pollution": 0.7883597883597884,
+    "Water Science and Technology": 3.079365079365079
+  },
+  "Hanoi University of Industry": {
+    "Ecological Modeling": 4.037896825396826,
+    "Ecology": 6.297402597402595,
+    "Environmental Chemistry": 2.0356939356939363,
+    "Environmental Engineering": 6.012698412698411,
+    "Global and Planetary Change": 3.5088203463203445,
+    "Health, Toxicology and Mutagenesis": 5.580078109025476,
+    "Management, Monitoring, Policy and Law": 6.443253968253966,
+    "Nature and Landscape Conservation": 0.15138888888888888,
+    "Pollution": 3.142761867761869,
+    "Water Science and Technology": 14.067597680097668
+  },
+  "Thai Nguyen National General Hospital": {
+    "Ecological Modeling": 1.5166666666666668,
+    "Ecology": 183.50943223443147,
+    "Environmental Chemistry": 1.0185185185185184,
+    "Environmental Engineering": 0.875,
+    "Global and Planetary Change": 2.430555555555556,
+    "Health, Toxicology and Mutagenesis": 1.9999999999999998,
+    "Management, Monitoring, Policy and Law": 2.393650793650794,
+    "Nature and Landscape Conservation": 0.38888888888888884,
+    "Pollution": 0.34953703703703703,
+    "Water Science and Technology": 3.773809523809524
+  },
+  "Ho Chi Minh University of Banking": {
+    "Ecological Modeling": 0.6666666666666666,
+    "Ecology": 4.7559523809523805,
+    "Environmental Engineering": 1.3055555555555556,
+    "Global and Planetary Change": 2.083333333333333,
+    "Health, Toxicology and Mutagenesis": 2.791666666666667,
+    "Management, Monitoring, Policy and Law": 3.972222222222222,
+    "Pollution": 0.2222222222222222,
+    "Water Science and Technology": 0.8333333333333333
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Ecological Modeling": 0.2698412698412698,
+    "Ecology": 9.490277777777777,
+    "Environmental Engineering": 1.3031746031746032,
+    "Global and Planetary Change": 2.0257936507936507,
+    "Health, Toxicology and Mutagenesis": 0.65,
+    "Management, Monitoring, Policy and Law": 1.835714285714286,
+    "Nature and Landscape Conservation": 0.4666666666666667,
+    "Pollution": 0.2222222222222222,
+    "Water Science and Technology": 1.103968253968254
+  },
+  "Ministry of Education and Training": {
+    "Ecological Modeling": 0.817989417989418,
+    "Ecology": 3.5166666666666666,
+    "Environmental Engineering": 1.200595238095238,
+    "Global and Planetary Change": 1.6662698412698413,
+    "Health, Toxicology and Mutagenesis": 0.42222222222222217,
+    "Management, Monitoring, Policy and Law": 3.3037037037037043,
+    "Nature and Landscape Conservation": 1.037037037037037,
+    "Pollution": 0.42857142857142855,
+    "Water Science and Technology": 0.37777777777777777
+  },
+  "Institute of Materials Science": {
+    "Ecological Modeling": 0.38095238095238093,
+    "Ecology": 0.8679894179894181,
+    "Environmental Chemistry": 0.734006734006734,
+    "Environmental Engineering": 1.572222222222222,
+    "Health, Toxicology and Mutagenesis": 0.598758320532514,
+    "Management, Monitoring, Policy and Law": 0.1,
+    "Pollution": 1.7512265512265512,
+    "Water Science and Technology": 2.72075887075887
+  },
+  "An Giang University": {
+    "Ecological Modeling": 0.7333333333333333,
+    "Ecology": 26.03043900543901,
+    "Environmental Chemistry": 1.849747474747475,
+    "Environmental Engineering": 3.3416666666666677,
+    "Global and Planetary Change": 7.711613756613752,
+    "Health, Toxicology and Mutagenesis": 0.6444444444444444,
+    "Management, Monitoring, Policy and Law": 3.633333333333333,
+    "Nature and Landscape Conservation": 1.8027777777777778,
+    "Pollution": 3.115632515632515,
+    "Water Science and Technology": 9.522354497354497
+  },
+  "Viet Tri University of Industry": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 9.01692289192289,
+    "Environmental Chemistry": 0.17724867724867724,
+    "Environmental Engineering": 0.03333333333333333,
+    "Global and Planetary Change": 0.38888888888888884,
+    "Health, Toxicology and Mutagenesis": 0.4834175084175085,
+    "Pollution": 1.9593434343434344,
+    "Water Science and Technology": 1.5063492063492063
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Ecological Modeling": 0.39999999999999997,
+    "Ecology": 54.666942316942546,
+    "Environmental Chemistry": 18.14683415712829,
+    "Environmental Engineering": 7.578908128908122,
+    "Global and Planetary Change": 38.24662605912619,
+    "Health, Toxicology and Mutagenesis": 2.6531998910675374,
+    "Management, Monitoring, Policy and Law": 29.057671957671978,
+    "Nature and Landscape Conservation": 3.868809523809526,
+    "Pollution": 8.258102300749357,
+    "Water Science and Technology": 15.698544973544951
+  },
+  "Ho Chi Minh City Open University": {
+    "Ecological Modeling": 0.9999999999999999,
+    "Ecology": 17.905988455988464,
+    "Environmental Engineering": 7.866702741702737,
+    "Global and Planetary Change": 5.846969696969696,
+    "Health, Toxicology and Mutagenesis": 1.5,
+    "Management, Monitoring, Policy and Law": 11.494444444444436,
+    "Nature and Landscape Conservation": 0.6666666666666666,
+    "Pollution": 5.562590187590189,
+    "Water Science and Technology": 2.79484126984127
+  },
+  "National Center for Technological Progress": {
+    "Ecological Modeling": 0.15,
+    "Ecology": 0.7916666666666665,
+    "Environmental Chemistry": 0.19047619047619047,
+    "Environmental Engineering": 0.6845238095238096,
+    "Global and Planetary Change": 0.5361111111111111,
+    "Management, Monitoring, Policy and Law": 0.08333333333333333,
+    "Pollution": 1.755555555555556,
+    "Water Science and Technology": 3.7912698412698425
+  },
+  "Hung Yen University of Technology and Education": {
+    "Ecological Modeling": 1.5638888888888887,
+    "Ecology": 4.8194444444444455,
+    "Environmental Chemistry": 1.8177248677248672,
+    "Environmental Engineering": 1.647354497354497,
+    "Global and Planetary Change": 0.9634920634920634,
+    "Health, Toxicology and Mutagenesis": 2.003174603174603,
+    "Management, Monitoring, Policy and Law": 0.5370370370370371,
+    "Nature and Landscape Conservation": 0.08928571428571427,
+    "Pollution": 1.328341384863124,
+    "Water Science and Technology": 3.9506613756613773
+  },
+  "Saigon University": {
+    "Ecological Modeling": 0.125,
+    "Ecology": 14.811358684888093,
+    "Environmental Chemistry": 1.8439028564028563,
+    "Environmental Engineering": 3.9672619047619038,
+    "Global and Planetary Change": 3.5232804232804233,
+    "Health, Toxicology and Mutagenesis": 4.4910233285233305,
+    "Management, Monitoring, Policy and Law": 1.898809523809524,
+    "Nature and Landscape Conservation": 0.09523809523809523,
+    "Pollution": 4.3164418642359825,
+    "Water Science and Technology": 11.125179912679899
+  },
+  "University of Khanh Hoa": {
+    "Ecological Modeling": 1.6944444444444446,
+    "Ecology": 128.67016594516605,
+    "Environmental Chemistry": 0.36111111111111105,
+    "Environmental Engineering": 1.0180555555555555,
+    "Global and Planetary Change": 1.3559523809523804,
+    "Health, Toxicology and Mutagenesis": 2.380952380952381,
+    "Management, Monitoring, Policy and Law": 4.411904761904764,
+    "Nature and Landscape Conservation": 0.9583333333333333,
+    "Pollution": 0.7722222222222224,
+    "Water Science and Technology": 2.7388888888888885
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Ecological Modeling": 0.06666666666666667,
+    "Ecology": 13.363383838383834,
+    "Environmental Chemistry": 0.6666666666666666,
+    "Environmental Engineering": 0.0625,
+    "Global and Planetary Change": 0.10714285714285714,
+    "Health, Toxicology and Mutagenesis": 1.2704390516890518,
+    "Nature and Landscape Conservation": 0.08333333333333333,
+    "Pollution": 0.3426761347813979,
+    "Water Science and Technology": 0.8715608465608466
+  },
+  "Dalat University": {
+    "Ecological Modeling": 0.8969610636277303,
+    "Ecology": 55.198740914054426,
+    "Environmental Chemistry": 5.82308201058201,
+    "Environmental Engineering": 4.051070226070228,
+    "Global and Planetary Change": 10.056539838157475,
+    "Health, Toxicology and Mutagenesis": 5.553571428571429,
+    "Management, Monitoring, Policy and Law": 6.929365079365077,
+    "Nature and Landscape Conservation": 1.2410493827160494,
+    "Pollution": 6.644992010626679,
+    "Water Science and Technology": 20.147107984608006
+  },
+  "Oxford University Clinical Research Unit": {
+    "Ecological Modeling": 0.14204912734324499,
+    "Ecology": 2.99408337576496,
+    "Environmental Engineering": 0.08137254901960785,
+    "Global and Planetary Change": 1.305952380952381,
+    "Health, Toxicology and Mutagenesis": 2.5664173789173796,
+    "Management, Monitoring, Policy and Law": 0.05314009661835749,
+    "Nature and Landscape Conservation": 0.047619047619047616,
+    "Pollution": 5.9223457852378285,
+    "Water Science and Technology": 0.6277777777777778
+  },
+  "Vinh Phuc Department of Health": {
+    "Ecological Modeling": 0.3055555555555555,
+    "Ecology": 7.785503848003838,
+    "Global and Planetary Change": 0.4277777777777778,
+    "Nature and Landscape Conservation": 0.08333333333333333,
+    "Water Science and Technology": 0.1111111111111111
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Ecological Modeling": 0.5698005698005698,
+    "Ecology": 26.38670634920636,
+    "Environmental Chemistry": 0.556060606060606,
+    "Environmental Engineering": 3.15,
+    "Global and Planetary Change": 11.465287490287498,
+    "Health, Toxicology and Mutagenesis": 2.5000000000000004,
+    "Management, Monitoring, Policy and Law": 16.045654808154808,
+    "Nature and Landscape Conservation": 1.8444444444444446,
+    "Pollution": 4.343287037037035,
+    "Water Science and Technology": 1.4994949494949499
+  },
+  "Phenikaa (Vietnam)": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 3.6166666666666676,
+    "Environmental Engineering": 1.2142857142857142,
+    "Global and Planetary Change": 1.0138888888888888,
+    "Health, Toxicology and Mutagenesis": 0.2857142857142857,
+    "Management, Monitoring, Policy and Law": 1.4674603174603174,
+    "Pollution": 1.2456349206349207,
+    "Water Science and Technology": 1.158831908831909
+  },
+  "Hanoi University of Civil Engineering": {
+    "Ecological Modeling": 0.5444444444444444,
+    "Ecology": 30.717394179894196,
+    "Environmental Chemistry": 2.298809523809524,
+    "Environmental Engineering": 22.250992063492035,
+    "Global and Planetary Change": 21.61744227994227,
+    "Health, Toxicology and Mutagenesis": 7.664682539682533,
+    "Management, Monitoring, Policy and Law": 26.505026455026446,
+    "Nature and Landscape Conservation": 2.231481481481482,
+    "Pollution": 7.518597742127146,
+    "Water Science and Technology": 21.651124338624328
+  },
+  "Phenikaa University": {
+    "Ecological Modeling": 1.806944444444444,
+    "Ecology": 19.62341269841269,
+    "Environmental Chemistry": 0.8318903318903318,
+    "Environmental Engineering": 7.669576719576716,
+    "Global and Planetary Change": 16.486932000747785,
+    "Health, Toxicology and Mutagenesis": 7.63024718945771,
+    "Management, Monitoring, Policy and Law": 17.2424458167105,
+    "Nature and Landscape Conservation": 4.365277777777778,
+    "Pollution": 7.6786611536611495,
+    "Water Science and Technology": 7.377471139971141
+  },
+  "University of Transport and Communications": {
+    "Ecological Modeling": 2.7777777777777786,
+    "Ecology": 21.736507936507927,
+    "Environmental Chemistry": 0.47619047619047616,
+    "Environmental Engineering": 15.980555555555538,
+    "Global and Planetary Change": 9.694576719576714,
+    "Health, Toxicology and Mutagenesis": 4.742989417989417,
+    "Management, Monitoring, Policy and Law": 12.774568160597559,
+    "Nature and Landscape Conservation": 0.5833333333333333,
+    "Pollution": 6.0083333333333355,
+    "Water Science and Technology": 4.240740740740743
+  },
+  "Hanoi Medical University": {
+    "Ecological Modeling": 0.08333333333333333,
+    "Ecology": 16.42588483330418,
+    "Environmental Chemistry": 0.7500036727977902,
+    "Environmental Engineering": 0.3333333333333333,
+    "Global and Planetary Change": 0.9962962962962962,
+    "Health, Toxicology and Mutagenesis": 11.990269922019499,
+    "Management, Monitoring, Policy and Law": 1.0722222222222222,
+    "Pollution": 2.301358267921734,
+    "Water Science and Technology": 0.5166666666666666
+  },
+  "Hanoi School Of Public Health": {
+    "Ecological Modeling": 0.08333333333333333,
+    "Ecology": 2.417267917267917,
+    "Environmental Chemistry": 0.16666666666666666,
+    "Environmental Engineering": 0.16666666666666666,
+    "Global and Planetary Change": 1.6881410256410259,
+    "Health, Toxicology and Mutagenesis": 4.655119186369185,
+    "Management, Monitoring, Policy and Law": 0.4444444444444444,
+    "Pollution": 0.42605820105820097,
+    "Water Science and Technology": 0.9369047619047619
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Ecological Modeling": 1.2916666666666665,
+    "Ecology": 185.8035353535351,
+    "Environmental Chemistry": 2.108465608465609,
+    "Environmental Engineering": 1.0861111111111112,
+    "Global and Planetary Change": 2.1207070707070703,
+    "Health, Toxicology and Mutagenesis": 2.3202792956891303,
+    "Management, Monitoring, Policy and Law": 4.825000000000002,
+    "Nature and Landscape Conservation": 1.15,
+    "Pollution": 1.3842592592592589,
+    "Water Science and Technology": 0.7630952380952383
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Ecological Modeling": 1.6074074074074072,
+    "Ecology": 56.40691197691209,
+    "Environmental Chemistry": 4.256439393939395,
+    "Environmental Engineering": 12.376878908128905,
+    "Global and Planetary Change": 28.056332685028362,
+    "Health, Toxicology and Mutagenesis": 8.843188891718293,
+    "Management, Monitoring, Policy and Law": 7.971572871572866,
+    "Nature and Landscape Conservation": 4.507960557960556,
+    "Pollution": 13.976311787341185,
+    "Water Science and Technology": 27.265061327561355
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Ecological Modeling": 0.27424242424242423,
+    "Ecology": 5.823069201330069,
+    "Environmental Chemistry": 0.3833333333333333,
+    "Environmental Engineering": 2.042989417989418,
+    "Global and Planetary Change": 3.679845562641261,
+    "Health, Toxicology and Mutagenesis": 1.068015873015873,
+    "Management, Monitoring, Policy and Law": 1.936255411255411,
+    "Nature and Landscape Conservation": 0.014492753623188406,
+    "Pollution": 0.9111111111111111,
+    "Water Science and Technology": 2.2702380952380956
+  },
+  "General Department of Preventive Medicine": {
+    "Ecological Modeling": 0.03333333333333333,
+    "Ecology": 4.407127594627595,
+    "Environmental Chemistry": 0.91998556998557,
+    "Environmental Engineering": 1.6726190476190472,
+    "Global and Planetary Change": 0.7541666666666667,
+    "Health, Toxicology and Mutagenesis": 24.009443103193096,
+    "Management, Monitoring, Policy and Law": 2.846969696969697,
+    "Nature and Landscape Conservation": 0.08333333333333333,
+    "Pollution": 2.8983026233026234,
+    "Water Science and Technology": 6.692724867724867
+  },
+  "Hue University of Education": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 13.19444444444444,
+    "Environmental Engineering": 0.25,
+    "Global and Planetary Change": 1.1954545454545455,
+    "Health, Toxicology and Mutagenesis": 0.5833333333333333,
+    "Management, Monitoring, Policy and Law": 0.6010101010101011,
+    "Nature and Landscape Conservation": 0.3333333333333333,
+    "Pollution": 0.3492063492063492,
+    "Water Science and Technology": 0.6666666666666666
+  },
+  "Dong Thap University": {
+    "Ecological Modeling": 0.5,
+    "Ecology": 9.757341269841264,
+    "Environmental Chemistry": 0.8253968253968254,
+    "Environmental Engineering": 3.872222222222224,
+    "Global and Planetary Change": 7.809722222222222,
+    "Health, Toxicology and Mutagenesis": 4.6722222222222225,
+    "Management, Monitoring, Policy and Law": 3.2777777777777795,
+    "Nature and Landscape Conservation": 0.9861111111111109,
+    "Pollution": 22.26666666666668,
+    "Water Science and Technology": 8.809523809523807
+  },
+  "University of Hai Duong": {
+    "Ecological Modeling": 0.5,
+    "Ecology": 12.714892977392969,
+    "Environmental Engineering": 1.3000000000000003,
+    "Global and Planetary Change": 1.2083333333333333,
+    "Health, Toxicology and Mutagenesis": 1.6425925925925926,
+    "Management, Monitoring, Policy and Law": 0.9166666666666666,
+    "Pollution": 0.3555555555555555,
+    "Water Science and Technology": 0.23333333333333334
+  },
+  "The State Bank of Vietnam": {
+    "Ecological Modeling": 0.3333333333333333,
+    "Ecology": 13.248412698412693,
+    "Environmental Engineering": 3.133333333333332,
+    "Global and Planetary Change": 3.708333333333333,
+    "Health, Toxicology and Mutagenesis": 0.16666666666666666,
+    "Management, Monitoring, Policy and Law": 10.358660130718947,
+    "Nature and Landscape Conservation": 0.3214285714285714,
+    "Pollution": 4.722222222222222,
+    "Water Science and Technology": 2.5277777777777777
+  },
+  "Vietnam Aviation Academy": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 3.277777777777778,
+    "Environmental Engineering": 0.1,
+    "Global and Planetary Change": 0.1,
+    "Water Science and Technology": 0.1
+  },
+  "Da Nang Hospital": {
+    "Ecological Modeling": 0.625,
+    "Ecology": 10.59007936507936,
+    "Environmental Chemistry": 0.08333333333333333,
+    "Environmental Engineering": 0.1111111111111111,
+    "Global and Planetary Change": 0.4333333333333333,
+    "Health, Toxicology and Mutagenesis": 0.22307692307692306,
+    "Management, Monitoring, Policy and Law": 0.5,
+    "Pollution": 0.1111111111111111,
+    "Water Science and Technology": 0.2222222222222222
+  },
+  "Trung Vuong University": {
+    "Ecological Modeling": 0.18097643097643099,
+    "Ecology": 187.399787249787,
+    "Environmental Chemistry": 1.4166666666666665,
+    "Environmental Engineering": 1.0476190476190477,
+    "Global and Planetary Change": 1.2500000000000002,
+    "Health, Toxicology and Mutagenesis": 2.6884920634920633,
+    "Management, Monitoring, Policy and Law": 1.9595238095238092,
+    "Nature and Landscape Conservation": 0.45,
+    "Pollution": 1.4166666666666667,
+    "Water Science and Technology": 2.2
+  },
+  "Vinh Long University of Technology Education": {
+    "Ecological Modeling": 0.5416666666666666,
+    "Ecology": 28.41341991341989,
+    "Environmental Engineering": 1.5166666666666668,
+    "Global and Planetary Change": 1.1760582010582008,
+    "Health, Toxicology and Mutagenesis": 0.6805555555555556,
+    "Management, Monitoring, Policy and Law": 0.9166666666666667,
+    "Nature and Landscape Conservation": 0.19949494949494948,
+    "Pollution": 0.39999999999999997,
+    "Water Science and Technology": 1.2357503607503606
+  },
+  "Ho Chi Minh City University of Education": {
+    "Ecological Modeling": 1.130952380952381,
+    "Ecology": 66.47220695970701,
+    "Environmental Chemistry": 1.6175925925925922,
+    "Environmental Engineering": 0.9408730158730159,
+    "Global and Planetary Change": 1.117857142857143,
+    "Health, Toxicology and Mutagenesis": 1.7420634920634919,
+    "Management, Monitoring, Policy and Law": 1.9833333333333334,
+    "Nature and Landscape Conservation": 0.7166666666666666,
+    "Pollution": 0.9886363636363636,
+    "Water Science and Technology": 6.26165223665223
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Ecological Modeling": 2.5555555555555554,
+    "Ecology": 14.448629148629147,
+    "Environmental Chemistry": 3.5607454092748205,
+    "Environmental Engineering": 4.946883903133903,
+    "Global and Planetary Change": 4.108092833092833,
+    "Health, Toxicology and Mutagenesis": 5.123623136123136,
+    "Management, Monitoring, Policy and Law": 4.444444444444444,
+    "Nature and Landscape Conservation": 0.3333333333333333,
+    "Pollution": 7.394252044252039,
+    "Water Science and Technology": 18.211854335751372
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Ecological Modeling": 1.791666666666667,
+    "Ecology": 5.963690476190472,
+    "Environmental Chemistry": 1.173611111111111,
+    "Environmental Engineering": 10.233730158730154,
+    "Global and Planetary Change": 5.49722222222222,
+    "Health, Toxicology and Mutagenesis": 7.597420634920631,
+    "Management, Monitoring, Policy and Law": 5.9047619047619015,
+    "Nature and Landscape Conservation": 0.1111111111111111,
+    "Pollution": 9.980952380952372,
+    "Water Science and Technology": 18.894019869019864
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Ecological Modeling": 0.10822510822510822,
+    "Ecology": 3.8895743145743142,
+    "Environmental Chemistry": 0.2303030303030303,
+    "Environmental Engineering": 2.4862554112554114,
+    "Global and Planetary Change": 2.2892977392977394,
+    "Health, Toxicology and Mutagenesis": 0.3722222222222222,
+    "Management, Monitoring, Policy and Law": 1.3115079365079363,
+    "Nature and Landscape Conservation": 0.2361111111111111,
+    "Pollution": 0.4833333333333333,
+    "Water Science and Technology": 3.052465127465128
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Ecological Modeling": 0.017543859649122806,
+    "Ecology": 8.890417452917449,
+    "Environmental Chemistry": 1.152867965367965,
+    "Environmental Engineering": 1.0128427128427129,
+    "Global and Planetary Change": 2.350692635251458,
+    "Health, Toxicology and Mutagenesis": 0.8416666666666668,
+    "Management, Monitoring, Policy and Law": 1.6777472527472526,
+    "Nature and Landscape Conservation": 0.9263979039682834,
+    "Pollution": 1.3759259259259262,
+    "Water Science and Technology": 0.9824696545284781
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Ecological Modeling": 0.6666666666666666,
+    "Ecology": 15.564285714285711,
+    "Environmental Engineering": 0.8668109668109668,
+    "Global and Planetary Change": 2.537181337181337,
+    "Health, Toxicology and Mutagenesis": 1.3499999999999999,
+    "Management, Monitoring, Policy and Law": 7.794444444444443,
+    "Nature and Landscape Conservation": 0.4444444444444444,
+    "Pollution": 0.41666666666666663,
+    "Water Science and Technology": 1.0666666666666667
+  },
+  "University of Finance - Marketing": {
+    "Ecological Modeling": 0.25,
+    "Ecology": 54.25000000000003,
+    "Environmental Engineering": 2.9277777777777785,
+    "Global and Planetary Change": 2.111111111111111,
+    "Health, Toxicology and Mutagenesis": 1.0555555555555554,
+    "Management, Monitoring, Policy and Law": 9.816666666666661,
+    "Nature and Landscape Conservation": 0.1111111111111111,
+    "Pollution": 2.208333333333333,
+    "Water Science and Technology": 0.3333333333333333
+  },
+  "Văn Hiến University": {
+    "Ecological Modeling": 0.5,
+    "Ecology": 11.425925925925924,
+    "Environmental Chemistry": 0.25,
+    "Environmental Engineering": 0.3277777777777778,
+    "Global and Planetary Change": 1.2452380952380953,
+    "Health, Toxicology and Mutagenesis": 0.5674603174603174,
+    "Management, Monitoring, Policy and Law": 1.5972222222222223,
+    "Nature and Landscape Conservation": 0.273015873015873,
+    "Pollution": 0.8915343915343915,
+    "Water Science and Technology": 1.4797619047619048
+  },
+  "Hanoi Pedagogical University 2": {
+    "Ecological Modeling": 0.1037037037037037,
+    "Ecology": 6.258080808080808,
+    "Environmental Chemistry": 0.3106060606060606,
+    "Environmental Engineering": 0.047619047619047616,
+    "Global and Planetary Change": 1.0972222222222225,
+    "Health, Toxicology and Mutagenesis": 1.7200854700854702,
+    "Management, Monitoring, Policy and Law": 0.75,
+    "Nature and Landscape Conservation": 0.5421652421652421,
+    "Pollution": 0.8787878787878787,
+    "Water Science and Technology": 3.577661227661228
+  },
+  "Tien Giang General Hospital": {
+    "Ecological Modeling": 0.06666666666666667,
+    "Ecology": 24.69484126984127,
+    "Environmental Chemistry": 1.9166666666666665,
+    "Environmental Engineering": 0.8611111111111112,
+    "Global and Planetary Change": 1.097931381484013,
+    "Health, Toxicology and Mutagenesis": 0.6592592592592592,
+    "Management, Monitoring, Policy and Law": 2.6583333333333337,
+    "Nature and Landscape Conservation": 0.2003030303030303,
+    "Pollution": 1.3629629629629634,
+    "Water Science and Technology": 1.9555555555555557
+  },
+  "FPT University": {
+    "Ecological Modeling": 0.7499999999999999,
+    "Ecology": 13.99814814814814,
+    "Environmental Chemistry": 0.25,
+    "Environmental Engineering": 11.457088744588736,
+    "Global and Planetary Change": 6.114760702260698,
+    "Health, Toxicology and Mutagenesis": 2.597222222222223,
+    "Management, Monitoring, Policy and Law": 14.577777777777763,
+    "Nature and Landscape Conservation": 0.38095238095238093,
+    "Pollution": 1.9230158730158735,
+    "Water Science and Technology": 6.073358585858581
+  },
+  "Eastern International University": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 1.2444444444444445,
+    "Environmental Engineering": 0.4444444444444444,
+    "Global and Planetary Change": 1.4777777777777776,
+    "Health, Toxicology and Mutagenesis": 0.25,
+    "Management, Monitoring, Policy and Law": 0.2222222222222222,
+    "Pollution": 0.3333333333333333,
+    "Water Science and Technology": 0.6
+  },
+  "Thuongmai University": {
+    "Ecological Modeling": 3.402777777777779,
+    "Ecology": 127.07190355940335,
+    "Environmental Chemistry": 1.8333333333333335,
+    "Environmental Engineering": 1.7448532948532949,
+    "Global and Planetary Change": 4.710317460317459,
+    "Health, Toxicology and Mutagenesis": 1.9330808080808084,
+    "Management, Monitoring, Policy and Law": 17.399618736383434,
+    "Nature and Landscape Conservation": 0.13333333333333333,
+    "Pollution": 2.772883597883598,
+    "Water Science and Technology": 1.7334656084656086
+  },
+  "University of Labor and Social Affairs": {
+    "Ecological Modeling": 0.25,
+    "Ecology": 5.402777777777779,
+    "Environmental Engineering": 0.7222222222222221,
+    "Global and Planetary Change": 0.6944444444444443,
+    "Health, Toxicology and Mutagenesis": 1.6666666666666665,
+    "Management, Monitoring, Policy and Law": 5.971031746031747,
+    "Water Science and Technology": 0.5694444444444444
+  },
+  "Bac Ha International University": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 1.7333333333333332,
+    "Pollution": 0.047619047619047616,
+    "Water Science and Technology": 0.06666666666666667
+  },
+  "Nam Dinh University of Nursing": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 29.942658730158694,
+    "Environmental Engineering": 0.19444444444444442,
+    "Global and Planetary Change": 0.39999999999999997,
+    "Health, Toxicology and Mutagenesis": 1.125272331154684,
+    "Management, Monitoring, Policy and Law": 0.4833333333333333,
+    "Pollution": 0.47500000000000003,
+    "Water Science and Technology": 0.8555555555555556
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Ecological Modeling": 0.3666666666666667,
+    "Ecology": 69.3439814814817,
+    "Environmental Chemistry": 0.3333333333333333,
+    "Environmental Engineering": 0.369047619047619,
+    "Global and Planetary Change": 0.1111111111111111,
+    "Health, Toxicology and Mutagenesis": 3.371143892339545,
+    "Management, Monitoring, Policy and Law": 1.0535714285714284,
+    "Pollution": 1.3589371980676326,
+    "Water Science and Technology": 1.5999999999999999
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Ecological Modeling": 0.8809523809523809,
+    "Ecology": 39.770433631746855,
+    "Environmental Chemistry": 0.55,
+    "Environmental Engineering": 13.026291423001943,
+    "Global and Planetary Change": 17.29216524216523,
+    "Health, Toxicology and Mutagenesis": 6.556481481481481,
+    "Management, Monitoring, Policy and Law": 39.193015873015916,
+    "Nature and Landscape Conservation": 0.25,
+    "Pollution": 18.28347763347764,
+    "Water Science and Technology": 6.963822751322747
+  },
+  "Hanoi Architectural University": {
+    "Ecological Modeling": 0.28888888888888886,
+    "Ecology": 7.472222222222222,
+    "Environmental Chemistry": 0.23333333333333334,
+    "Environmental Engineering": 4.700396825396824,
+    "Global and Planetary Change": 10.605092592592586,
+    "Health, Toxicology and Mutagenesis": 1.8253968253968256,
+    "Management, Monitoring, Policy and Law": 5.683730158730158,
+    "Nature and Landscape Conservation": 0.16666666666666666,
+    "Pollution": 3.087500000000001,
+    "Water Science and Technology": 4.301851851851851
+  },
+  "Anova Corp (Vietnam)": {
+    "Ecological Modeling": 0.5833333333333333,
+    "Ecology": 10.039718614718609,
+    "Environmental Engineering": 0.2222222222222222,
+    "Global and Planetary Change": 0.9328703703703702,
+    "Health, Toxicology and Mutagenesis": 0.15555555555555556,
+    "Management, Monitoring, Policy and Law": 1.7023809523809523,
+    "Nature and Landscape Conservation": 0.1164021164021164,
+    "Water Science and Technology": 0.33611111111111114
+  },
+  "Vietnam Sweden hospital": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 153.35756095756062,
+    "Environmental Engineering": 0.1,
+    "Global and Planetary Change": 0.7555555555555555,
+    "Health, Toxicology and Mutagenesis": 0.4444444444444444,
+    "Management, Monitoring, Policy and Law": 0.75,
+    "Nature and Landscape Conservation": 0.1111111111111111,
+    "Pollution": 0.125,
+    "Water Science and Technology": 0.2
+  },
+  "Vietnamese-German University": {
+    "Ecological Modeling": 0.41666666666666663,
+    "Ecology": 2.9059523809523813,
+    "Environmental Chemistry": 2.3230158730158736,
+    "Environmental Engineering": 5.568412837162834,
+    "Global and Planetary Change": 4.704023427552837,
+    "Health, Toxicology and Mutagenesis": 3.480158730158731,
+    "Management, Monitoring, Policy and Law": 0.375,
+    "Nature and Landscape Conservation": 0.2222222222222222,
+    "Pollution": 4.082359307359305,
+    "Water Science and Technology": 14.582282205811607
+  },
+  "Ministry of Labour, Invalids and Social Affairs": {
+    "Ecological Modeling": 0.375,
+    "Ecology": 1.6666666666666665,
+    "Global and Planetary Change": 0.06666666666666667,
+    "Management, Monitoring, Policy and Law": 0.06666666666666667
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Ecological Modeling": 0.3333333333333333,
+    "Ecology": 7.829761904761902,
+    "Environmental Chemistry": 0.15873015873015872,
+    "Environmental Engineering": 22.150132275132297,
+    "Global and Planetary Change": 5.750925925925923,
+    "Health, Toxicology and Mutagenesis": 0.6214285714285714,
+    "Management, Monitoring, Policy and Law": 9.728571428571424,
+    "Pollution": 8.277176527176522,
+    "Water Science and Technology": 3.0432659932659942
+  },
+  "Vin, University": {
+    "Ecological Modeling": 0.7253968253968255,
+    "Ecology": 8.672949735449736,
+    "Environmental Chemistry": 0.12222222222222222,
+    "Environmental Engineering": 2.694444444444443,
+    "Global and Planetary Change": 4.909391534391531,
+    "Health, Toxicology and Mutagenesis": 2.9198015873015866,
+    "Management, Monitoring, Policy and Law": 3.013888888888889,
+    "Nature and Landscape Conservation": 0.4930555555555555,
+    "Pollution": 1.4050264550264546,
+    "Water Science and Technology": 2.424338624338624
+  },
+  "Vietnam Maritime University": {
+    "Ecological Modeling": 0.8333333333333333,
+    "Ecology": 7.722284469343289,
+    "Environmental Chemistry": 0.7057387057387059,
+    "Environmental Engineering": 28.64484126984125,
+    "Global and Planetary Change": 4.5033512239394575,
+    "Health, Toxicology and Mutagenesis": 0.6773148148148148,
+    "Management, Monitoring, Policy and Law": 6.853703703703704,
+    "Pollution": 7.442649309754566,
+    "Water Science and Technology": 5.378091815591817
+  },
+  "Green Innovation and Development Centre": {
+    "Ecological Modeling": 0.09393939393939393,
+    "Ecology": 0.1111111111111111,
+    "Environmental Engineering": 0.027777777777777776,
+    "Global and Planetary Change": 0.12171717171717172,
+    "Health, Toxicology and Mutagenesis": 0.027777777777777776,
+    "Pollution": 0.2222222222222222
+  },
+  "Saigon Technology University": {
+    "Ecological Modeling": 0.09523809523809523,
+    "Ecology": 2.222222222222222,
+    "Environmental Chemistry": 0.2222222222222222,
+    "Environmental Engineering": 0.7611111111111111,
+    "Global and Planetary Change": 0.41666666666666663,
+    "Health, Toxicology and Mutagenesis": 1.111111111111111,
+    "Management, Monitoring, Policy and Law": 0.16666666666666666,
+    "Pollution": 1.8353174603174607,
+    "Water Science and Technology": 1.0388888888888888
+  },
+  "Học viện Tư pháp": {
+    "Ecological Modeling": 0.5,
+    "Ecology": 73.75467032967057,
+    "Environmental Chemistry": 0.3333333333333333,
+    "Environmental Engineering": 0.16666666666666666,
+    "Global and Planetary Change": 0.7114942528735632,
+    "Health, Toxicology and Mutagenesis": 1.363095238095238,
+    "Pollution": 0.3214285714285714,
+    "Water Science and Technology": 0.16666666666666666
+  },
+  "Ministry of Science and Technology": {
+    "Ecological Modeling": 0.037037037037037035,
+    "Ecology": 1.5566257816257816,
+    "Environmental Chemistry": 0.027777777777777776,
+    "Environmental Engineering": 0.946969696969697,
+    "Global and Planetary Change": 1.3728771228771226,
+    "Health, Toxicology and Mutagenesis": 0.6833333333333333,
+    "Management, Monitoring, Policy and Law": 0.4461760461760462,
+    "Nature and Landscape Conservation": 0.11904761904761904,
+    "Pollution": 1.5882090132090136,
+    "Water Science and Technology": 3.0238150738150753
+  },
+  "Hai Phong University of Management and Technology": {
+    "Ecological Modeling": 0.125,
+    "Ecology": 2.0694444444444446,
+    "Environmental Chemistry": 0.4090608465608465,
+    "Environmental Engineering": 0.7138888888888888,
+    "Global and Planetary Change": 0.43981481481481477,
+    "Health, Toxicology and Mutagenesis": 1.3243386243386246,
+    "Management, Monitoring, Policy and Law": 0.16666666666666666,
+    "Nature and Landscape Conservation": 0.19444444444444442,
+    "Pollution": 0.342390289449113,
+    "Water Science and Technology": 1.0527777777777776
+  },
+  "Hanoi University of Pharmacy": {
+    "Ecological Modeling": 0.030303030303030304,
+    "Ecology": 4.083140933140934,
+    "Environmental Chemistry": 1.1666666666666665,
+    "Environmental Engineering": 0.35714285714285715,
+    "Global and Planetary Change": 0.8886363636363637,
+    "Health, Toxicology and Mutagenesis": 1.6831529581529583,
+    "Management, Monitoring, Policy and Law": 0.125,
+    "Pollution": 2.123989898989899,
+    "Water Science and Technology": 1.0500000000000003
+  },
+  "National Institute of Veterinary Research": {
+    "Ecological Modeling": 0.15,
+    "Ecology": 9.127096052096043,
+    "Environmental Chemistry": 1.1309523809523807,
+    "Environmental Engineering": 0.45925925925925926,
+    "Global and Planetary Change": 0.6907458282458283,
+    "Health, Toxicology and Mutagenesis": 0.9231601731601732,
+    "Management, Monitoring, Policy and Law": 1.2690476190476194,
+    "Nature and Landscape Conservation": 0.24206349206349204,
+    "Pollution": 2.9687463322711625,
+    "Water Science and Technology": 0.5833333333333333
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Ecological Modeling": 0.5,
+    "Ecology": 22.888114663114663,
+    "Environmental Chemistry": 0.7972222222222222,
+    "Environmental Engineering": 4.777552308802306,
+    "Global and Planetary Change": 1.3429937378341905,
+    "Health, Toxicology and Mutagenesis": 10.747392501491923,
+    "Management, Monitoring, Policy and Law": 0.47023809523809523,
+    "Nature and Landscape Conservation": 0.2361111111111111,
+    "Pollution": 3.4063347532097508,
+    "Water Science and Technology": 2.1517105579605578
+  },
+  "Bình Dương University": {
+    "Ecological Modeling": 0.16666666666666666,
+    "Ecology": 37.518774743774735,
+    "Environmental Engineering": 3.024404761904761,
+    "Global and Planetary Change": 4.44404761904762,
+    "Health, Toxicology and Mutagenesis": 1.651984126984127,
+    "Management, Monitoring, Policy and Law": 2.351566951566952,
+    "Nature and Landscape Conservation": 0.16666666666666666,
+    "Pollution": 0.8656746031746032,
+    "Water Science and Technology": 4.159523809523809
+  },
+  "Hung Vuong Hospital": {
+    "Ecological Modeling": 0.037037037037037035,
+    "Ecology": 15.61111111111111,
+    "Environmental Engineering": 0.08333333333333333,
+    "Global and Planetary Change": 0.47777777777777775,
+    "Health, Toxicology and Mutagenesis": 0.5812499999999999,
+    "Management, Monitoring, Policy and Law": 0.5,
+    "Nature and Landscape Conservation": 0.2537037037037037,
+    "Water Science and Technology": 0.15
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Ecological Modeling": 0.1,
+    "Ecology": 2.0528490028490025,
+    "Global and Planetary Change": 0.0625,
+    "Health, Toxicology and Mutagenesis": 0.6261904761904762,
+    "Pollution": 0.33650793650793653,
+    "Water Science and Technology": 0.08333333333333333
+  },
+  "Saigon International University": {
+    "Ecological Modeling": 0.3333333333333333,
+    "Ecology": 0.6666666666666666,
+    "Environmental Engineering": 0.1388888888888889,
+    "Global and Planetary Change": 0.08333333333333333,
+    "Health, Toxicology and Mutagenesis": 0.3333333333333333,
+    "Management, Monitoring, Policy and Law": 1.0,
+    "Nature and Landscape Conservation": 0.6666666666666666,
+    "Water Science and Technology": 0.08333333333333333
+  },
+  "Institute for Computational Science and Technology": {
+    "Ecology": 3.288840788840789,
+    "Environmental Chemistry": 0.13333333333333333,
+    "Environmental Engineering": 3.0386243386243383,
+    "Global and Planetary Change": 2.5575396825396837,
+    "Health, Toxicology and Mutagenesis": 0.41666666666666663,
+    "Management, Monitoring, Policy and Law": 0.16666666666666666,
+    "Pollution": 0.3148148148148148,
+    "Water Science and Technology": 2.312433862433863
+  },
+  "Dong Thap Hospital": {
+    "Ecology": 0.5025641025641026,
+    "Environmental Engineering": 0.05555555555555555,
+    "Health, Toxicology and Mutagenesis": 0.2976190476190476,
+    "Pollution": 0.041666666666666664,
+    "Water Science and Technology": 0.05555555555555555
+  },
+  "Agricultural Genetics Institute": {
+    "Ecology": 3.47337061087061,
+    "Environmental Chemistry": 0.7249185999185999,
+    "Environmental Engineering": 0.47222222222222227,
+    "Global and Planetary Change": 1.5853089725836662,
+    "Health, Toxicology and Mutagenesis": 0.25,
+    "Management, Monitoring, Policy and Law": 0.7115079365079365,
+    "Nature and Landscape Conservation": 0.3007990867579909,
+    "Pollution": 1.0288770053475935,
+    "Water Science and Technology": 0.5570688083845978
+  },
+  "Field Crops Research Institute": {
+    "Ecology": 10.723997110921664,
+    "Environmental Chemistry": 8.354365079365074,
+    "Environmental Engineering": 1.6890959282263633,
+    "Global and Planetary Change": 3.6950505050505034,
+    "Health, Toxicology and Mutagenesis": 1.4930555555555556,
+    "Management, Monitoring, Policy and Law": 4.472222222222221,
+    "Nature and Landscape Conservation": 3.5,
+    "Pollution": 2.0800925925925924,
+    "Water Science and Technology": 1.3333333333333333
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Ecology": 5.618253968253969,
+    "Global and Planetary Change": 0.15,
+    "Health, Toxicology and Mutagenesis": 0.1111111111111111,
+    "Nature and Landscape Conservation": 0.16666666666666666,
+    "Water Science and Technology": 0.5
+  },
+  "Institute for Studies of Society, Economy and Environment": {
+    "Ecology": 0.6027777777777777,
+    "Environmental Engineering": 0.9745726495726496,
+    "Global and Planetary Change": 1.2988095238095236,
+    "Management, Monitoring, Policy and Law": 0.047619047619047616,
+    "Water Science and Technology": 2.098316035816036
+  },
+  "Academy Of Finance": {
+    "Ecology": 7.433333333333331,
+    "Environmental Chemistry": 0.06666666666666667,
+    "Environmental Engineering": 0.3611111111111111,
+    "Global and Planetary Change": 1.552777777777778,
+    "Management, Monitoring, Policy and Law": 6.455555555555555,
+    "Nature and Landscape Conservation": 1.1833333333333333,
+    "Pollution": 1.7722222222222224
+  },
+  "National Institute of Animal Sciences": {
+    "Ecology": 2.254143677673089,
+    "Environmental Chemistry": 0.6890522875816992,
+    "Global and Planetary Change": 0.08333333333333333,
+    "Health, Toxicology and Mutagenesis": 0.27350427350427353,
+    "Management, Monitoring, Policy and Law": 1.422385620915033,
+    "Pollution": 0.43539426523297486,
+    "Water Science and Technology": 1.0703703703703702
+  },
+  "Vietnam National Children's Hospital": {
+    "Ecology": 20.14717348927874,
+    "Environmental Chemistry": 0.1388888888888889,
+    "Environmental Engineering": 0.30753968253968256,
+    "Global and Planetary Change": 1.2916666666666665,
+    "Health, Toxicology and Mutagenesis": 4.448053009082418,
+    "Nature and Landscape Conservation": 0.3333333333333333,
+    "Pollution": 0.550925925925926,
+    "Water Science and Technology": 0.13333333333333333
+  },
+  "Vietnam Military Medical University": {
+    "Ecology": 13.645481209611637,
+    "Environmental Chemistry": 0.36363636363636365,
+    "Environmental Engineering": 0.49761904761904757,
+    "Global and Planetary Change": 0.19761904761904758,
+    "Health, Toxicology and Mutagenesis": 11.674531541443294,
+    "Management, Monitoring, Policy and Law": 0.3333333333333333,
+    "Nature and Landscape Conservation": 0.1111111111111111,
+    "Pollution": 1.2620915032679747,
+    "Water Science and Technology": 2.1877705627705626
+  },
+  "Hue Central Hospital": {
+    "Ecology": 19.506321839080456,
+    "Environmental Chemistry": 0.1111111111111111,
+    "Environmental Engineering": 0.3333333333333333,
+    "Global and Planetary Change": 1.7444444444444447,
+    "Health, Toxicology and Mutagenesis": 0.5361111111111111,
+    "Management, Monitoring, Policy and Law": 0.638888888888889,
+    "Nature and Landscape Conservation": 0.28888888888888886,
+    "Pollution": 0.27777777777777773,
+    "Water Science and Technology": 0.2875180375180375
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Ecology": 51.38650434207505,
+    "Environmental Chemistry": 0.744047619047619,
+    "Environmental Engineering": 1.54021164021164,
+    "Global and Planetary Change": 13.83353174603174,
+    "Health, Toxicology and Mutagenesis": 0.3673400673400673,
+    "Management, Monitoring, Policy and Law": 9.061111111111103,
+    "Nature and Landscape Conservation": 1.7596560846560847,
+    "Pollution": 1.6115079365079361,
+    "Water Science and Technology": 3.2951779701779706
+  },
+  "Quảng Bình University": {
+    "Ecology": 11.124999999999998,
+    "Environmental Chemistry": 0.6666666666666666,
+    "Environmental Engineering": 1.0416666666666667,
+    "Global and Planetary Change": 0.39743589743589747,
+    "Health, Toxicology and Mutagenesis": 0.4305555555555555,
+    "Management, Monitoring, Policy and Law": 2.733333333333333,
+    "Pollution": 1.138095238095238,
+    "Water Science and Technology": 0.2611111111111111
+  },
+  "Center for Environment and Community Assets Development": {
+    "Ecology": 0.045454545454545456,
+    "Global and Planetary Change": 0.25,
+    "Health, Toxicology and Mutagenesis": 0.16666666666666666,
+    "Management, Monitoring, Policy and Law": 0.045454545454545456,
+    "Water Science and Technology": 0.25
+  },
+  "Children's Hospital 1": {
+    "Ecology": 1.3170498084291187,
+    "Environmental Chemistry": 0.06666666666666667,
+    "Global and Planetary Change": 0.16666666666666666,
+    "Pollution": 0.0196078431372549
+  },
+  "Khanh Hoa General Hospital": {
+    "Ecology": 19.181187905325835,
+    "Global and Planetary Change": 0.574074074074074,
+    "Health, Toxicology and Mutagenesis": 0.6388888888888888,
+    "Management, Monitoring, Policy and Law": 0.14285714285714285,
+    "Water Science and Technology": 0.03333333333333333
+  },
+  "Children's Hospital 2": {
+    "Ecology": 1.3114942528735631,
+    "Health, Toxicology and Mutagenesis": 0.2361111111111111,
+    "Pollution": 0.625
+  },
+  "Viet Nam National Academy of Music": {
+    "Ecology": 0.041666666666666664,
+    "Global and Planetary Change": 0.06666666666666667
+  },
+  "National Institute of Nutrition": {
+    "Ecology": 2.8960858585858573,
+    "Environmental Chemistry": 0.591991341991342,
+    "Environmental Engineering": 0.3333333333333333,
+    "Global and Planetary Change": 0.6666666666666667,
+    "Health, Toxicology and Mutagenesis": 3.6815476190476155,
+    "Management, Monitoring, Policy and Law": 0.041666666666666664,
+    "Pollution": 0.9660714285714285,
+    "Water Science and Technology": 1.8083333333333336
+  },
+  "National Economics University": {
+    "Ecology": 17.291053391053392,
+    "Environmental Chemistry": 1.6534188034188035,
+    "Environmental Engineering": 17.439682539682533,
+    "Global and Planetary Change": 28.93067897015263,
+    "Health, Toxicology and Mutagenesis": 4.708730158730159,
+    "Management, Monitoring, Policy and Law": 50.47301587301599,
+    "Nature and Landscape Conservation": 0.3333333333333333,
+    "Pollution": 12.987433862433859,
+    "Water Science and Technology": 6.823015873015873
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Ecology": 7.733333333333331,
+    "Environmental Chemistry": 1.3555555555555554,
+    "Environmental Engineering": 1.1472222222222221,
+    "Global and Planetary Change": 2.7287878787878803,
+    "Health, Toxicology and Mutagenesis": 2.462619787619787,
+    "Management, Monitoring, Policy and Law": 0.7611111111111111,
+    "Nature and Landscape Conservation": 0.3333333333333333,
+    "Pollution": 1.0848003848003847,
+    "Water Science and Technology": 3.7408249158249176
+  },
+  "Ho Chi Minh City International University": {
+    "Ecology": 4.666203703703703,
+    "Environmental Chemistry": 1.6333333333333335,
+    "Environmental Engineering": 0.8666666666666667,
+    "Global and Planetary Change": 1.2380952380952381,
+    "Health, Toxicology and Mutagenesis": 1.5206349206349206,
+    "Management, Monitoring, Policy and Law": 2.225396825396825,
+    "Pollution": 0.7166666666666666,
+    "Water Science and Technology": 1.905952380952381
+  },
+  "Bạch Mai Hospital": {
+    "Ecology": 13.426924001924005,
+    "Environmental Chemistry": 0.030303030303030304,
+    "Environmental Engineering": 0.37499999999999994,
+    "Global and Planetary Change": 0.861111111111111,
+    "Health, Toxicology and Mutagenesis": 2.322519534129441,
+    "Nature and Landscape Conservation": 0.2777777777777778,
+    "Pollution": 0.28209412419938734,
+    "Water Science and Technology": 0.3333333333333333
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Ecology": 1.402777777777778,
+    "Environmental Chemistry": 0.06666666666666667,
+    "Global and Planetary Change": 0.34259259259259256,
+    "Health, Toxicology and Mutagenesis": 0.2916666666666667,
+    "Management, Monitoring, Policy and Law": 16.96666666666667,
+    "Pollution": 0.625
+  },
+  "Hanoi Lung Hospital": {
+    "Ecology": 10.199747474747474,
+    "Global and Planetary Change": 0.1111111111111111,
+    "Health, Toxicology and Mutagenesis": 1.175213675213675,
+    "Pollution": 0.5376068376068376
+  },
+  "Hong Bang International University": {
+    "Ecology": 9.039682539682538,
+    "Environmental Chemistry": 0.25,
+    "Environmental Engineering": 0.6749999999999999,
+    "Global and Planetary Change": 1.8083333333333331,
+    "Health, Toxicology and Mutagenesis": 0.25,
+    "Management, Monitoring, Policy and Law": 1.4166666666666667,
+    "Nature and Landscape Conservation": 0.5277777777777778,
+    "Pollution": 1.1416666666666666,
+    "Water Science and Technology": 0.8952380952380953
+  },
+  "Viet Duc Hospital": {
+    "Ecology": 7.058152958152956,
+    "Environmental Engineering": 0.3333333333333333,
+    "Global and Planetary Change": 0.07407407407407407,
+    "Health, Toxicology and Mutagenesis": 0.2861641282693914,
+    "Pollution": 0.06601731601731602,
+    "Water Science and Technology": 0.05555555555555555
+  },
+  "RMIT Vietnam": {
+    "Ecology": 3.265364265364265,
+    "Environmental Chemistry": 0.26666666666666666,
+    "Environmental Engineering": 3.167989417989419,
+    "Global and Planetary Change": 4.512042124542126,
+    "Health, Toxicology and Mutagenesis": 2.281486568986569,
+    "Management, Monitoring, Policy and Law": 7.897222222222216,
+    "Nature and Landscape Conservation": 0.9166666666666667,
+    "Pollution": 4.851587301587299,
+    "Water Science and Technology": 1.0003968253968254
+  },
+  "Pan, Nature": {
+    "Ecology": 0.09523809523809523,
+    "Global and Planetary Change": 0.09523809523809523
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Ecology": 19.002777777777776,
+    "Environmental Engineering": 0.05555555555555555,
+    "Global and Planetary Change": 0.225,
+    "Health, Toxicology and Mutagenesis": 0.9969696969696968,
+    "Management, Monitoring, Policy and Law": 0.08333333333333333,
+    "Pollution": 1.7783281533281536,
+    "Water Science and Technology": 0.35
+  },
+  "Institut Pasteur de Nha Trang": {
+    "Ecology": 6.150096104875514
+  },
+  "Academy of Policy and Development": {
+    "Ecology": 0.8166666666666667,
+    "Environmental Engineering": 0.25,
+    "Global and Planetary Change": 0.5111111111111111,
+    "Management, Monitoring, Policy and Law": 1.296825396825397,
+    "Pollution": 0.29166666666666663
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Ecology": 13.444444444444448,
+    "Environmental Chemistry": 0.1111111111111111,
+    "Environmental Engineering": 1.4313492063492061,
+    "Global and Planetary Change": 2.128787878787879,
+    "Health, Toxicology and Mutagenesis": 2.8333333333333335,
+    "Management, Monitoring, Policy and Law": 4.449999999999999,
+    "Nature and Landscape Conservation": 0.7333333333333333,
+    "Pollution": 0.6499999999999999,
+    "Water Science and Technology": 1.6944444444444444
+  },
+  "National Academy of Public Administration": {
+    "Ecology": 3.197619047619047,
+    "Environmental Chemistry": 0.2,
+    "Environmental Engineering": 0.7095238095238097,
+    "Global and Planetary Change": 0.9476190476190476,
+    "Health, Toxicology and Mutagenesis": 0.6448412698412698,
+    "Management, Monitoring, Policy and Law": 1.511111111111111,
+    "Pollution": 0.6805555555555556,
+    "Water Science and Technology": 0.3333333333333333
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Ecology": 4.2756410256410255,
+    "Global and Planetary Change": 0.3333333333333333,
+    "Health, Toxicology and Mutagenesis": 0.4444444444444444,
+    "Management, Monitoring, Policy and Law": 0.6416666666666666,
+    "Nature and Landscape Conservation": 0.02564102564102564
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Ecology": 1.9631195258130238,
+    "Environmental Chemistry": 1.120879120879121,
+    "Environmental Engineering": 1.2555555555555555,
+    "Global and Planetary Change": 4.750186706997849,
+    "Health, Toxicology and Mutagenesis": 3.8368386243386263,
+    "Management, Monitoring, Policy and Law": 1.0198412698412698,
+    "Pollution": 2.942803030303031,
+    "Water Science and Technology": 4.814892977392976
+  },
+  "Vinh Medical University": {
+    "Ecology": 3.1370370370370373,
+    "Environmental Chemistry": 0.05555555555555555,
+    "Environmental Engineering": 0.08333333333333333,
+    "Global and Planetary Change": 0.1,
+    "Health, Toxicology and Mutagenesis": 0.11666666666666667,
+    "Nature and Landscape Conservation": 0.06666666666666667,
+    "Pollution": 0.5215919701213819,
+    "Water Science and Technology": 0.041666666666666664
+  },
+  "Baria Vungtau University": {
+    "Ecology": 7.018650793650791,
+    "Environmental Chemistry": 0.3333333333333333,
+    "Environmental Engineering": 1.5972222222222223,
+    "Health, Toxicology and Mutagenesis": 0.6361111111111111,
+    "Management, Monitoring, Policy and Law": 1.902777777777778,
+    "Nature and Landscape Conservation": 1.0,
+    "Pollution": 1.972222222222222,
+    "Water Science and Technology": 1.1944444444444444
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Ecology": 5.833333333333334,
+    "Environmental Engineering": 0.7888888888888889,
+    "Global and Planetary Change": 0.3333333333333333,
+    "Management, Monitoring, Policy and Law": 0.4944444444444444,
+    "Pollution": 0.1111111111111111,
+    "Water Science and Technology": 0.9999999999999999
+  },
+  "University Medical Center HCMC": {
+    "Ecology": 2.6768518518518536,
+    "Global and Planetary Change": 0.041666666666666664,
+    "Health, Toxicology and Mutagenesis": 0.43263888888888885,
+    "Management, Monitoring, Policy and Law": 0.11805555555555554,
+    "Pollution": 0.3402777777777778
+  },
+  "Hanoi Law University": {
+    "Ecology": 3.283333333333333,
+    "Environmental Engineering": 0.8888888888888891,
+    "Global and Planetary Change": 1.4166666666666665,
+    "Health, Toxicology and Mutagenesis": 1.6250000000000002,
+    "Management, Monitoring, Policy and Law": 8.663888888888886,
+    "Nature and Landscape Conservation": 0.5833333333333333,
+    "Pollution": 0.736111111111111
+  },
+  "Tra Vinh University": {
+    "Ecology": 22.486351611351616,
+    "Environmental Chemistry": 0.8277777777777777,
+    "Environmental Engineering": 1.746296296296296,
+    "Global and Planetary Change": 2.382251082251082,
+    "Health, Toxicology and Mutagenesis": 1.3095238095238098,
+    "Management, Monitoring, Policy and Law": 4.986111111111111,
+    "Nature and Landscape Conservation": 0.21587301587301588,
+    "Pollution": 0.9527777777777777,
+    "Water Science and Technology": 7.100992063492062
+  },
+  "Vinmec International Hospital": {
+    "Ecology": 8.821957671957662,
+    "Health, Toxicology and Mutagenesis": 1.4416666666666664,
+    "Nature and Landscape Conservation": 0.3333333333333333
+  },
+  "Health Strategy and Policy Institute": {
+    "Ecology": 1.8055555555555551,
+    "Environmental Chemistry": 0.05555555555555555,
+    "Environmental Engineering": 0.06060606060606061,
+    "Global and Planetary Change": 1.2414141414141415,
+    "Health, Toxicology and Mutagenesis": 2.07520140889706,
+    "Management, Monitoring, Policy and Law": 0.47916666666666663,
+    "Pollution": 0.5554029304029304,
+    "Water Science and Technology": 0.14393939393939392
+  },
+  "Hung Vuong University": {
+    "Ecology": 28.870370370370367,
+    "Environmental Chemistry": 0.15925925925925927,
+    "Environmental Engineering": 0.08333333333333333,
+    "Global and Planetary Change": 0.06666666666666667,
+    "Health, Toxicology and Mutagenesis": 0.337037037037037,
+    "Management, Monitoring, Policy and Law": 0.12222222222222222,
+    "Nature and Landscape Conservation": 0.34444444444444444,
+    "Pollution": 0.262037037037037,
+    "Water Science and Technology": 0.929014939309057
+  },
+  "Pham Van Dong University": {
+    "Ecology": 13.413492063492066,
+    "Environmental Chemistry": 0.06666666666666667,
+    "Environmental Engineering": 0.1111111111111111,
+    "Global and Planetary Change": 0.5944444444444443,
+    "Health, Toxicology and Mutagenesis": 1.4999999999999998,
+    "Management, Monitoring, Policy and Law": 0.3916666666666666,
+    "Pollution": 0.2803030303030303,
+    "Water Science and Technology": 0.43585858585858583
+  },
+  "Hanoi Procuratorate University": {
+    "Ecology": 0.041666666666666664,
+    "Global and Planetary Change": 0.041666666666666664,
+    "Nature and Landscape Conservation": 0.041666666666666664
+  },
+  "My Duc Hospital": {
+    "Ecology": 34.05535621785626,
+    "Global and Planetary Change": 0.6666666666666666,
+    "Management, Monitoring, Policy and Law": 0.25
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Ecology": 3.561387686387688,
+    "Environmental Chemistry": 0.29259259259259257,
+    "Environmental Engineering": 0.2976190476190476,
+    "Global and Planetary Change": 0.5916666666666666,
+    "Health, Toxicology and Mutagenesis": 1.0999999999999999,
+    "Management, Monitoring, Policy and Law": 0.16666666666666666,
+    "Nature and Landscape Conservation": 0.6386363636363636,
+    "Pollution": 0.4180555555555555,
+    "Water Science and Technology": 1.4259259259259258
+  },
+  "National Institute for Control of Vaccines and Biologicals": {
+    "Ecology": 1.9444444444444444
+  },
+  "Hanoi Medical University Hospital": {
+    "Ecology": 2.0666666666666673,
+    "Global and Planetary Change": 0.041666666666666664,
+    "Health, Toxicology and Mutagenesis": 0.08055555555555555
+  },
+  "Long An University of Economics and Industry": {
+    "Ecology": 0.75
+  },
+  "Centre for Social Research and Development": {
+    "Ecology": 0.7222222222222221,
+    "Global and Planetary Change": 0.5972222222222222
+  },
+  "PetroVietnam University": {
+    "Ecology": 0.5666666666666667,
+    "Environmental Chemistry": 1.2898809523809525,
+    "Environmental Engineering": 0.6145021645021644,
+    "Global and Planetary Change": 0.8,
+    "Health, Toxicology and Mutagenesis": 0.2272727272727273,
+    "Management, Monitoring, Policy and Law": 0.3333333333333333,
+    "Pollution": 0.5222222222222221,
+    "Water Science and Technology": 0.1111111111111111
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Ecology": 4.083333333333333,
+    "Environmental Chemistry": 0.06666666666666667,
+    "Environmental Engineering": 0.08333333333333333,
+    "Health, Toxicology and Mutagenesis": 0.39267676767676774,
+    "Management, Monitoring, Policy and Law": 0.125,
+    "Pollution": 0.25,
+    "Water Science and Technology": 0.26666666666666666
+  },
+  "Thanh Hoa Department of Health": {
+    "Ecology": 1.5833333333333333,
+    "Health, Toxicology and Mutagenesis": 0.08333333333333333,
+    "Management, Monitoring, Policy and Law": 0.08333333333333333
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Ecology": 8.808201058201059,
+    "Environmental Chemistry": 0.051754385964912275,
+    "Environmental Engineering": 0.4476190476190476,
+    "Global and Planetary Change": 0.4555555555555555,
+    "Health, Toxicology and Mutagenesis": 1.0666666666666667,
+    "Management, Monitoring, Policy and Law": 1.4444444444444444,
+    "Pollution": 0.876984126984127
+  },
+  "Academy of Cryptography Techniques": {
+    "Ecology": 1.0,
+    "Environmental Engineering": 0.05555555555555555,
+    "Health, Toxicology and Mutagenesis": 0.05555555555555555,
+    "Nature and Landscape Conservation": 0.047619047619047616,
+    "Water Science and Technology": 0.05
+  },
+  "Dai Nam University": {
+    "Ecology": 8.178968253968254
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Ecology": 1.25,
+    "Environmental Engineering": 0.16666666666666666
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Ecology": 1.4583333333333333,
+    "Health, Toxicology and Mutagenesis": 1.2714285714285714,
+    "Pollution": 0.46848852901484483,
+    "Water Science and Technology": 0.02564102564102564
+  },
+  "Vabiotech (Vietnam)": {
+    "Ecology": 0.1111111111111111
+  },
+  "Bệnh viện Đa khoa Xanh Pôn": {
+    "Ecology": 0.25555555555555554
+  },
+  "Fulbright University Vietnam": {
+    "Ecology": 0.5,
+    "Environmental Chemistry": 0.5115740740740741,
+    "Environmental Engineering": 1.583333333333333,
+    "Global and Planetary Change": 0.06666666666666667,
+    "Health, Toxicology and Mutagenesis": 0.41435185185185186,
+    "Management, Monitoring, Policy and Law": 0.530952380952381,
+    "Pollution": 1.2958333333333334,
+    "Water Science and Technology": 0.7638888888888888
+  },
+  "Ho Chi Minh City University of Law": {
+    "Ecology": 3.6388888888888893,
+    "Environmental Engineering": 0.5944444444444443,
+    "Global and Planetary Change": 2.416666666666667,
+    "Management, Monitoring, Policy and Law": 8.623015873015872,
+    "Nature and Landscape Conservation": 0.19444444444444442,
+    "Pollution": 2.466666666666667
+  },
+  "The American University of Vietnam": {
+    "Ecology": 0.3333333333333333,
+    "Environmental Engineering": 0.08333333333333333,
+    "Global and Planetary Change": 0.3333333333333333,
+    "Management, Monitoring, Policy and Law": 0.25,
+    "Water Science and Technology": 0.08333333333333333
+  },
+  "Cho Ray Hospital": {
+    "Ecology": 2.1373015873015873,
+    "Environmental Chemistry": 0.2777777777777778,
+    "Environmental Engineering": 0.21424501424501424,
+    "Global and Planetary Change": 0.26190476190476186,
+    "Health, Toxicology and Mutagenesis": 1.8190069190069191,
+    "Management, Monitoring, Policy and Law": 0.020833333333333332,
+    "Pollution": 0.08888888888888888,
+    "Water Science and Technology": 0.40277777777777773
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Ecology": 0.047619047619047616,
+    "Environmental Engineering": 1.2222222222222223,
+    "Pollution": 0.2810457516339869
+  },
+  "Trường THPT Chuyên Nguyễn Quang Diêu": {
+    "Ecology": 0.25
+  },
+  "Baoson Hospital": {
+    "Ecology": 0.2916666666666667
+  },
+  "Hanoi University of Business and Technology": {
+    "Ecology": 2.0238095238095237,
+    "Environmental Engineering": 0.20740740740740737,
+    "Global and Planetary Change": 0.3148148148148148,
+    "Management, Monitoring, Policy and Law": 1.7604497354497353,
+    "Pollution": 0.8027777777777776,
+    "Water Science and Technology": 0.14074074074074072
+  },
+  "Institute of Biomedical Physics": {
+    "Ecology": 0.25,
+    "Water Science and Technology": 0.16666666666666666
+  },
+  "Bệnh viện Phổi Trung ương": {
+    "Ecology": 0.39285714285714285
+  },
+  "Viet Nam Government": {
+    "Ecology": 0.25
+  },
+  "Bệnh viện Phụ sản Hà Nội": {
+    "Ecology": 0.3063492063492063
+  },
+  "Bệnh viện Phụ Sản Hà Nội": {
+    "Ecology": 0.15000000000000002
+  },
+  "Bệnh viện Đa khoa Xanh pôn": {
+    "Ecology": 0.1111111111111111
+  },
+  "General Clinic Phương Nam": {
+    "Ecology": 1.686706349206349,
+    "Health, Toxicology and Mutagenesis": 0.03333333333333333,
+    "Pollution": 0.047619047619047616
+  },
+  "Bệnh viện Nhân Dân Gia Định": {
+    "Ecology": 0.2
+  },
+  "Bệnh viện Nhân dân Gia Định": {
+    "Ecology": 0.833333333333333
+  },
+  "Bệnh viện đa khoa Xanh Pôn": {
+    "Ecology": 0.25
+  },
+  "Bệnh viện Bình Dân": {
+    "Ecology": 1.1944444444444444
+  },
+  "Văn phòng ban chỉ đạo 33": {
+    "Ecology": 0.22777777777777777,
+    "Health, Toxicology and Mutagenesis": 0.1111111111111111
+  },
+  "Danang Architecture University": {
+    "Ecology": 0.5,
+    "Environmental Engineering": 1.0833333333333333,
+    "Global and Planetary Change": 0.5666666666666667,
+    "Health, Toxicology and Mutagenesis": 0.1111111111111111,
+    "Management, Monitoring, Policy and Law": 3.8888888888888897,
+    "Pollution": 0.16666666666666666,
+    "Water Science and Technology": 0.14285714285714285
+  },
+  "Bệnh viện Phổi Trung Ương": {
+    "Ecology": 0.16666666666666666
+  },
+  "Dalat Nuclear Research Institute": {
+    "Ecology": 0.0392156862745098,
+    "Environmental Chemistry": 0.08333333333333333,
+    "Global and Planetary Change": 0.0392156862745098,
+    "Pollution": 0.047619047619047616,
+    "Water Science and Technology": 0.13095238095238093
+  },
+  "Ho Chi Minh City University of Culture": {
+    "Ecology": 0.3333333333333333,
+    "Management, Monitoring, Policy and Law": 0.16666666666666666
+  },
+  "Hiep Phuoc Power (Vietnam)": {
+    "Ecology": 0.1111111111111111,
+    "Environmental Engineering": 0.4888888888888888
+  },
+  "Hanoi University of Culture": {
+    "Ecology": 0.5,
+    "Global and Planetary Change": 0.5,
+    "Health, Toxicology and Mutagenesis": 0.3333333333333333,
+    "Nature and Landscape Conservation": 0.5
+  },
+  "National Library of Vietnam": {
+    "Environmental Chemistry": 0.18253968253968253,
+    "Health, Toxicology and Mutagenesis": 0.07142857142857142,
+    "Pollution": 0.08333333333333333
+  },
+  "Center for Health Consultation and Community Development": {
+    "Environmental Chemistry": 0.041666666666666664,
+    "Health, Toxicology and Mutagenesis": 0.16666666666666666,
+    "Water Science and Technology": 1.0
+  },
+  "Ministry of Information and Communications": {
+    "Environmental Engineering": 0.21944444444444441,
+    "Management, Monitoring, Policy and Law": 0.05555555555555555
+  },
+  "Institute of Transport Science and Technology": {
+    "Environmental Engineering": 0.6944444444444444,
+    "Global and Planetary Change": 0.4775132275132275,
+    "Management, Monitoring, Policy and Law": 1.9414021164021165,
+    "Water Science and Technology": 0.05555555555555555
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Environmental Engineering": 0.06666666666666667,
+    "Management, Monitoring, Policy and Law": 0.25
+  },
+  "British University Vietnam": {
+    "Environmental Engineering": 0.125,
+    "Global and Planetary Change": 0.39999999999999997,
+    "Management, Monitoring, Policy and Law": 0.3333333333333333,
+    "Pollution": 0.25,
+    "Water Science and Technology": 0.08333333333333333
+  },
+  "Vietnam Journalists Association": {
+    "Environmental Engineering": 0.16666666666666666,
+    "Pollution": 0.16666666666666666
+  },
+  "CARE International in Vietnam": {
+    "Global and Planetary Change": 0.2222222222222222,
+    "Management, Monitoring, Policy and Law": 0.05555555555555555,
+    "Pollution": 0.1111111111111111,
+    "Water Science and Technology": 0.1111111111111111
+  },
+  "National Council for Science and Technology Policy": {
+    "Global and Planetary Change": 0.12173913043478261,
+    "Management, Monitoring, Policy and Law": 0.14074074074074072
+  },
+  "Da Nang Institute For Socio - Economic Development": {
+    "Global and Planetary Change": 0.05555555555555555
+  },
+  "Vietnam University of Fine Arts": {
+    "Global and Planetary Change": 0.07407407407407407,
+    "Nature and Landscape Conservation": 1.0
+  },
+  "Ho Chi Minh City University of Fine Arts": {
+    "Global and Planetary Change": 0.24074074074074073
+  },
+  "Ministry of Foreign Affairs": {
+    "Global and Planetary Change": 0.05555555555555555,
+    "Management, Monitoring, Policy and Law": 0.3333333333333333
+  },
+  "Vietnam Public Health Association": {
+    "Health, Toxicology and Mutagenesis": 0.16666666666666666
+  },
+  "Center for Promotion of Advancement of Society": {
+    "Health, Toxicology and Mutagenesis": 0.2692307692307693
+  },
+  "National Foundation for Science and Technology Development": {
+    "Management, Monitoring, Policy and Law": 0.16666666666666666
+  },
+  "Hội Tim mạch học Việt Nam": {
+    "Management, Monitoring, Policy and Law": 0.3333333333333333
+  },
+  "Van Xuan University of Technology": {
+    "Pollution": 0.16666666666666666
+  },
+  "International Centre for Interdisciplinary Science and Education": {
+    "Pollution": 0.16666666666666666
+  },
+  "PSB College Vietnam": {
+    "Pollution": 0.3333333333333333
+  },
+  "Thai Nguyen University of Information and Communication Technology": {
+    "Water Science and Technology": 0.6666666666666666
+  },
+  "University of Theatre and Cinema Ho Chi Minh City": {
+    "Water Science and Technology": 0.1
+  }
+}

@@ -1,0 +1,906 @@
+{
+  "Hanoi University of Science and Technology": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 7.797023809523805,
+    "Management Science and Operations Research": 44.16746031746056,
+    "Statistics, Probability and Uncertainty": 7.998015873015868
+  },
+  "National Economics University": {
+    "General Decision Sciences": 1.8333333333333333,
+    "Information Systems and Management": 73.91116780045397,
+    "Management Science and Operations Research": 48.82988400488411,
+    "Statistics, Probability and Uncertainty": 1.0833333333333333
+  },
+  "General Department of Preventive Medicine": {
+    "General Decision Sciences": 0.2222222222222222,
+    "Information Systems and Management": 2.1944444444444438,
+    "Management Science and Operations Research": 10.277777777777775,
+    "Statistics, Probability and Uncertainty": 11.251887293992551
+  },
+  "Hue University": {
+    "General Decision Sciences": 0.3833333333333333,
+    "Information Systems and Management": 9.423346560846559,
+    "Management Science and Operations Research": 16.52777777777777,
+    "Statistics, Probability and Uncertainty": 2.65410052910053
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "General Decision Sciences": 0.1,
+    "Management Science and Operations Research": 0.5333333333333333,
+    "Statistics, Probability and Uncertainty": 0.9916666666666666
+  },
+  "Hồng Đức University": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 4.740079365079366,
+    "Management Science and Operations Research": 2.2916666666666665
+  },
+  "University of Economics Ho Chi Minh City": {
+    "General Decision Sciences": 2.5833333333333335,
+    "Information Systems and Management": 83.11230158730183,
+    "Management Science and Operations Research": 64.4902380952382,
+    "Statistics, Probability and Uncertainty": 3.677777777777779
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "General Decision Sciences": 0.08333333333333333,
+    "Information Systems and Management": 4.553968253968253,
+    "Management Science and Operations Research": 7.634126984126983,
+    "Statistics, Probability and Uncertainty": 0.861111111111111
+  },
+  "University of Finance - Marketing": {
+    "General Decision Sciences": 0.3333333333333333,
+    "Information Systems and Management": 22.108333333333345,
+    "Management Science and Operations Research": 25.219444444444438,
+    "Statistics, Probability and Uncertainty": 1.983333333333333
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "General Decision Sciences": 2.5,
+    "Information Systems and Management": 52.54545454545482,
+    "Management Science and Operations Research": 169.2949735449735,
+    "Statistics, Probability and Uncertainty": 21.491666666666653
+  },
+  "Thang Long University": {
+    "General Decision Sciences": 0.6666666666666666,
+    "Information Systems and Management": 7.1388888888888875,
+    "Management Science and Operations Research": 13.697222222222214,
+    "Statistics, Probability and Uncertainty": 1.9416666666666669
+  },
+  "Ho Chi Minh University of Banking": {
+    "General Decision Sciences": 0.47222222222222215,
+    "Information Systems and Management": 24.85648148148149,
+    "Management Science and Operations Research": 31.462962962962948,
+    "Statistics, Probability and Uncertainty": 0.6222222222222222
+  },
+  "Vietnam Maritime University": {
+    "General Decision Sciences": 0.1111111111111111,
+    "Information Systems and Management": 0.5666666666666667,
+    "Management Science and Operations Research": 6.35648148148148,
+    "Statistics, Probability and Uncertainty": 4.666666666666664
+  },
+  "Thuongmai University": {
+    "General Decision Sciences": 0.21428571428571427,
+    "Information Systems and Management": 32.586111111111116,
+    "Management Science and Operations Research": 25.728174603174605,
+    "Statistics, Probability and Uncertainty": 2.191269841269842
+  },
+  "Ton Duc Thang University": {
+    "General Decision Sciences": 0.41666666666666663,
+    "Information Systems and Management": 12.634523809523804,
+    "Management Science and Operations Research": 45.32923280423291,
+    "Statistics, Probability and Uncertainty": 16.085165433694836
+  },
+  "Vietnam National University, Hanoi": {
+    "General Decision Sciences": 0.6527777777777777,
+    "Information Systems and Management": 24.902669552669543,
+    "Management Science and Operations Research": 65.4207611832615,
+    "Statistics, Probability and Uncertainty": 8.342632204396907
+  },
+  "Ho Chi Minh City International University": {
+    "General Decision Sciences": 0.1111111111111111,
+    "Information Systems and Management": 3.9805555555555556,
+    "Management Science and Operations Research": 4.58888888888889,
+    "Statistics, Probability and Uncertainty": 1.8472222222222219
+  },
+  "University of Da Nang": {
+    "General Decision Sciences": 0.6666666666666666,
+    "Information Systems and Management": 23.633730158730156,
+    "Management Science and Operations Research": 35.81858465608466,
+    "Statistics, Probability and Uncertainty": 5.929263927793337
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "General Decision Sciences": 0.5,
+    "Information Systems and Management": 5.094444444444443,
+    "Management Science and Operations Research": 27.55396825396824,
+    "Statistics, Probability and Uncertainty": 3.990873015873018
+  },
+  "Electric Power University": {
+    "General Decision Sciences": 0.25,
+    "Information Systems and Management": 3.776190476190477,
+    "Management Science and Operations Research": 14.61964285714284,
+    "Statistics, Probability and Uncertainty": 4.050000000000001
+  },
+  "Center for Health Consultation and Community Development": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 0.08333333333333333,
+    "Management Science and Operations Research": 0.16666666666666666,
+    "Statistics, Probability and Uncertainty": 0.08333333333333333
+  },
+  "Can Tho University": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 13.791666666666659,
+    "Management Science and Operations Research": 44.65360750360759,
+    "Statistics, Probability and Uncertainty": 4.58101851851852
+  },
+  "Hoa Sen University": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 2.722222222222222,
+    "Management Science and Operations Research": 4.294444444444445,
+    "Statistics, Probability and Uncertainty": 0.43333333333333335
+  },
+  "Phenikaa University": {
+    "General Decision Sciences": 2.55,
+    "Information Systems and Management": 18.842791005291012,
+    "Management Science and Operations Research": 12.577380952380954,
+    "Statistics, Probability and Uncertainty": 9.02866161616161
+  },
+  "University of Transport and Communications": {
+    "General Decision Sciences": 0.3333333333333333,
+    "Information Systems and Management": 1.257936507936508,
+    "Management Science and Operations Research": 17.568055555555546,
+    "Statistics, Probability and Uncertainty": 8.104563492063491
+  },
+  "VNU University of Science": {
+    "General Decision Sciences": 0.16666666666666669,
+    "Information Systems and Management": 4.450396825396823,
+    "Management Science and Operations Research": 17.921362433862424,
+    "Statistics, Probability and Uncertainty": 3.1111111111111116
+  },
+  "Phenikaa (Vietnam)": {
+    "General Decision Sciences": 0.5,
+    "Information Systems and Management": 0.5,
+    "Management Science and Operations Research": 1.8805555555555553,
+    "Statistics, Probability and Uncertainty": 0.2777777777777778
+  },
+  "Foreign Trade University": {
+    "General Decision Sciences": 0.35185185185185186,
+    "Information Systems and Management": 24.464285714285726,
+    "Management Science and Operations Research": 20.32129629629631,
+    "Statistics, Probability and Uncertainty": 1.35
+  },
+  "Vin, University": {
+    "General Decision Sciences": 0.08333333333333333,
+    "Information Systems and Management": 1.287037037037037,
+    "Management Science and Operations Research": 7.795039682539678,
+    "Statistics, Probability and Uncertainty": 0.6388888888888888
+  },
+  "Ho Chi Minh City Open University": {
+    "General Decision Sciences": 0.41666666666666663,
+    "Information Systems and Management": 17.18333333333332,
+    "Management Science and Operations Research": 35.25198412698416,
+    "Statistics, Probability and Uncertainty": 4.667857142857141
+  },
+  "Fulbright University Vietnam": {
+    "General Decision Sciences": 0.6666666666666666,
+    "Information Systems and Management": 1.7803030303030303,
+    "Management Science and Operations Research": 0.22554112554112554
+  },
+  "University of Languages and International Studies": {
+    "General Decision Sciences": 0.3333333333333333,
+    "Information Systems and Management": 5.444444444444444,
+    "Management Science and Operations Research": 4.844444444444445,
+    "Statistics, Probability and Uncertainty": 0.6666666666666666
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "General Decision Sciences": 0.13333333333333333,
+    "Information Systems and Management": 6.172222222222222,
+    "Management Science and Operations Research": 19.97063492063491,
+    "Statistics, Probability and Uncertainty": 1.7231481481481483
+  },
+  "Vinh University": {
+    "General Decision Sciences": 0.08333333333333333,
+    "Information Systems and Management": 4.305555555555557,
+    "Management Science and Operations Research": 28.895238095238074,
+    "Statistics, Probability and Uncertainty": 9.433730158730148
+  },
+  "Vietnamese-German University": {
+    "General Decision Sciences": 0.1111111111111111,
+    "Information Systems and Management": 0.7083333333333334,
+    "Management Science and Operations Research": 4.497222222222221,
+    "Statistics, Probability and Uncertainty": 0.4111111111111111
+  },
+  "Ho Chi Minh City University of Education": {
+    "General Decision Sciences": 0.1111111111111111,
+    "Information Systems and Management": 2.6805555555555554,
+    "Management Science and Operations Research": 1.3055555555555556,
+    "Statistics, Probability and Uncertainty": 0.19444444444444442
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 55.88888888888911,
+    "Management Science and Operations Research": 43.600793650793676,
+    "Statistics, Probability and Uncertainty": 2.261111111111111
+  },
+  "FPT University": {
+    "General Decision Sciences": 0.16666666666666666,
+    "Information Systems and Management": 53.02222222222247,
+    "Management Science and Operations Research": 51.77103174603194,
+    "Statistics, Probability and Uncertainty": 1.266666666666667
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Information Systems and Management": 1.2277777777777779,
+    "Management Science and Operations Research": 13.464138584726811,
+    "Statistics, Probability and Uncertainty": 3.8750000000000004
+  },
+  "Saigon International University": {
+    "Information Systems and Management": 0.6666666666666666,
+    "Management Science and Operations Research": 0.7777777777777777
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Information Systems and Management": 13.580555555555549,
+    "Management Science and Operations Research": 40.49722222222224,
+    "Statistics, Probability and Uncertainty": 4.597222222222224
+  },
+  "RMIT Vietnam": {
+    "Information Systems and Management": 17.140476190476182,
+    "Management Science and Operations Research": 16.678968253968232,
+    "Statistics, Probability and Uncertainty": 3.1722222222222225
+  },
+  "Phu Yen University": {
+    "Information Systems and Management": 0.5,
+    "Management Science and Operations Research": 0.42777777777777776
+  },
+  "Da Nang University of Economics": {
+    "Information Systems and Management": 0.775,
+    "Management Science and Operations Research": 2.5
+  },
+  "Ho Chi Minh City University of Science": {
+    "Information Systems and Management": 3.2976190476190466,
+    "Management Science and Operations Research": 9.561507936507935,
+    "Statistics, Probability and Uncertainty": 0.4365079365079365
+  },
+  "Lac Hong University": {
+    "Information Systems and Management": 8.99722222222222,
+    "Management Science and Operations Research": 18.057275132275127,
+    "Statistics, Probability and Uncertainty": 3.905555555555557
+  },
+  "Hospital for Tropical Diseases": {
+    "Information Systems and Management": 1.8999999999999997,
+    "Management Science and Operations Research": 1.4920634920634919,
+    "Statistics, Probability and Uncertainty": 2.204365079365079
+  },
+  "Quy Nhon University": {
+    "Information Systems and Management": 3.125,
+    "Management Science and Operations Research": 6.86984126984127,
+    "Statistics, Probability and Uncertainty": 1.8801587301587301
+  },
+  "National Council for Science and Technology Policy": {
+    "Information Systems and Management": 0.3333333333333333
+  },
+  "Saigon University": {
+    "Information Systems and Management": 4.460185185185185,
+    "Management Science and Operations Research": 7.022222222222221,
+    "Statistics, Probability and Uncertainty": 0.38997821350762524
+  },
+  "Hung Yen University of Technology and Education": {
+    "Information Systems and Management": 0.5694444444444445,
+    "Management Science and Operations Research": 4.1253306878306875,
+    "Statistics, Probability and Uncertainty": 0.7055555555555555
+  },
+  "Hanoi University of Civil Engineering": {
+    "Information Systems and Management": 0.5277777777777777,
+    "Management Science and Operations Research": 20.050000000000004,
+    "Statistics, Probability and Uncertainty": 7.197619047619047
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Information Systems and Management": 0.1111111111111111,
+    "Management Science and Operations Research": 0.6666666666666665
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Information Systems and Management": 0.34559386973180073,
+    "Management Science and Operations Research": 0.5944444444444447,
+    "Statistics, Probability and Uncertainty": 1.3272980850567058
+  },
+  "Hanoi School Of Public Health": {
+    "Information Systems and Management": 1.1777777777777776,
+    "Management Science and Operations Research": 0.35238095238095235
+  },
+  "Hanoi Architectural University": {
+    "Information Systems and Management": 0.611111111111111,
+    "Management Science and Operations Research": 10.749999999999996,
+    "Statistics, Probability and Uncertainty": 3.352380952380952
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Information Systems and Management": 3.250000000000001,
+    "Management Science and Operations Research": 6.476190476190473,
+    "Statistics, Probability and Uncertainty": 0.15555555555555556
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Information Systems and Management": 0.08333333333333333,
+    "Management Science and Operations Research": 0.08333333333333333
+  },
+  "Hung Vuong Hospital": {
+    "Information Systems and Management": 0.13015873015873014,
+    "Management Science and Operations Research": 0.4825396825396825,
+    "Statistics, Probability and Uncertainty": 0.537037037037037
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Information Systems and Management": 1.1944444444444442,
+    "Management Science and Operations Research": 1.0833333333333333,
+    "Statistics, Probability and Uncertainty": 0.4444444444444444
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Information Systems and Management": 2.5138888888888884,
+    "Management Science and Operations Research": 0.1,
+    "Statistics, Probability and Uncertainty": 1.9944444444444442
+  },
+  "Academy Of Finance": {
+    "Information Systems and Management": 5.133333333333332,
+    "Management Science and Operations Research": 15.244841269841272
+  },
+  "Saigon Technology University": {
+    "Information Systems and Management": 1.9444444444444446,
+    "Management Science and Operations Research": 0.5846560846560847
+  },
+  "The State Bank of Vietnam": {
+    "Information Systems and Management": 19.91666666666665,
+    "Management Science and Operations Research": 22.343253968253975,
+    "Statistics, Probability and Uncertainty": 0.7916666666666666
+  },
+  "Dalat University": {
+    "Information Systems and Management": 9.263888888888891,
+    "Management Science and Operations Research": 10.825,
+    "Statistics, Probability and Uncertainty": 1.0666666666666664
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Information Systems and Management": 2.541666666666667,
+    "Management Science and Operations Research": 0.5111111111111111,
+    "Statistics, Probability and Uncertainty": 0.41666666666666663
+  },
+  "Tân Tạo University": {
+    "Information Systems and Management": 6.821693121693119,
+    "Management Science and Operations Research": 7.047619047619046,
+    "Statistics, Probability and Uncertainty": 2.2125356125356124
+  },
+  "Hanoi Open University": {
+    "Information Systems and Management": 3.166666666666666,
+    "Management Science and Operations Research": 8.652777777777777,
+    "Statistics, Probability and Uncertainty": 0.5833333333333333
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Information Systems and Management": 0.2962962962962963,
+    "Management Science and Operations Research": 1.2685185185185186,
+    "Statistics, Probability and Uncertainty": 0.41683006535947703
+  },
+  "Van Lang University": {
+    "Information Systems and Management": 7.615277777777777,
+    "Management Science and Operations Research": 24.997619047619025,
+    "Statistics, Probability and Uncertainty": 4.542460317460315
+  },
+  "University of Hai Duong": {
+    "Information Systems and Management": 0.8333333333333333,
+    "Management Science and Operations Research": 0.9666666666666666
+  },
+  "Hanoi University": {
+    "Information Systems and Management": 2.441666666666667,
+    "Management Science and Operations Research": 20.10535714285714,
+    "Statistics, Probability and Uncertainty": 6.352777777777778
+  },
+  "Duy Tan University": {
+    "Information Systems and Management": 12.123544973544968,
+    "Management Science and Operations Research": 16.98492063492062,
+    "Statistics, Probability and Uncertainty": 7.768351229380638
+  },
+  "Thai Nguyen National General Hospital": {
+    "Information Systems and Management": 0.7499999999999999,
+    "Management Science and Operations Research": 3.4907407407407405,
+    "Statistics, Probability and Uncertainty": 0.3333333333333333
+  },
+  "University of Khanh Hoa": {
+    "Information Systems and Management": 1.4166666666666667,
+    "Management Science and Operations Research": 0.6222222222222221,
+    "Statistics, Probability and Uncertainty": 0.49999999999999994
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Information Systems and Management": 4.330555555555556,
+    "Management Science and Operations Research": 4.677272727272726,
+    "Statistics, Probability and Uncertainty": 1.4173520923520924
+  },
+  "Vietnam National University of Forestry": {
+    "Information Systems and Management": 0.23333333333333334,
+    "Management Science and Operations Research": 0.4444444444444444,
+    "Statistics, Probability and Uncertainty": 0.3944444444444444
+  },
+  "Hanoi National University of Education": {
+    "Information Systems and Management": 5.744444444444441,
+    "Management Science and Operations Research": 9.638888888888884,
+    "Statistics, Probability and Uncertainty": 2.731481481481482
+  },
+  "Vietnam Sweden hospital": {
+    "Information Systems and Management": 0.16666666666666666,
+    "Management Science and Operations Research": 0.9444444444444446
+  },
+  "Institute of Transport Science and Technology": {
+    "Information Systems and Management": 0.08333333333333333,
+    "Management Science and Operations Research": 0.08333333333333333
+  },
+  "University of Labor and Social Affairs": {
+    "Information Systems and Management": 6.666666666666665,
+    "Management Science and Operations Research": 8.520634920634917,
+    "Statistics, Probability and Uncertainty": 0.19444444444444442
+  },
+  "Thuyloi University": {
+    "Information Systems and Management": 3.528174603174603,
+    "Management Science and Operations Research": 7.309193121693121,
+    "Statistics, Probability and Uncertainty": 4.593650793650792
+  },
+  "Nha Trang University": {
+    "Information Systems and Management": 4.909523809523809,
+    "Management Science and Operations Research": 7.140873015873013,
+    "Statistics, Probability and Uncertainty": 2.1314814814814813
+  },
+  "Hanoi University of Pharmacy": {
+    "Information Systems and Management": 0.35,
+    "Management Science and Operations Research": 0.4583333333333333,
+    "Statistics, Probability and Uncertainty": 0.08333333333333333
+  },
+  "Hai Phong University": {
+    "Information Systems and Management": 3.063888888888889,
+    "Management Science and Operations Research": 1.765873015873016,
+    "Statistics, Probability and Uncertainty": 0.20833333333333331
+  },
+  "Eastern International University": {
+    "Information Systems and Management": 4.222222222222221,
+    "Management Science and Operations Research": 4.108333333333335
+  },
+  "Ministry of Education and Training": {
+    "Information Systems and Management": 1.598148148148148,
+    "Management Science and Operations Research": 2.780158730158731,
+    "Statistics, Probability and Uncertainty": 1.4166666666666665
+  },
+  "Trung Vuong University": {
+    "Information Systems and Management": 0.17777777777777776,
+    "Management Science and Operations Research": 1.7333333333333334
+  },
+  "Thai Nguyen University": {
+    "Information Systems and Management": 15.776719576719556,
+    "Management Science and Operations Research": 21.281216931216914,
+    "Statistics, Probability and Uncertainty": 3.1416666666666684
+  },
+  "Văn Hiến University": {
+    "Information Systems and Management": 3.566666666666667,
+    "Management Science and Operations Research": 1.7194444444444439
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Information Systems and Management": 0.32870370370370366,
+    "Management Science and Operations Research": 1.8111111111111111,
+    "Statistics, Probability and Uncertainty": 0.4259259259259259
+  },
+  "Ministry of Health": {
+    "Information Systems and Management": 0.22628753452730999,
+    "Management Science and Operations Research": 0.48611111111111105,
+    "Statistics, Probability and Uncertainty": 0.6297619047619046
+  },
+  "Tra Vinh University": {
+    "Information Systems and Management": 3.6222222222222227,
+    "Management Science and Operations Research": 8.296296296296298,
+    "Statistics, Probability and Uncertainty": 0.10512820512820513
+  },
+  "Vinh Long University of Technology Education": {
+    "Information Systems and Management": 0.5111111111111111,
+    "Management Science and Operations Research": 3.125
+  },
+  "Hanoi University of Industry": {
+    "Information Systems and Management": 7.049933862433858,
+    "Management Science and Operations Research": 50.538492063492214,
+    "Statistics, Probability and Uncertainty": 0.9059523809523808
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Information Systems and Management": 6.392063492063485,
+    "Management Science and Operations Research": 2.4527777777777775,
+    "Statistics, Probability and Uncertainty": 0.16666666666666666
+  },
+  "Ho Chi Minh City University of Law": {
+    "Information Systems and Management": 2.375,
+    "Management Science and Operations Research": 4.150793650793651,
+    "Statistics, Probability and Uncertainty": 0.31666666666666665
+  },
+  "Hanoi University of Business and Technology": {
+    "Information Systems and Management": 1.0944444444444443,
+    "Management Science and Operations Research": 2.7559523809523805
+  },
+  "An Giang University": {
+    "Information Systems and Management": 2.2222222222222223,
+    "Management Science and Operations Research": 2.791666666666667,
+    "Statistics, Probability and Uncertainty": 1.1111111111111112
+  },
+  "Hanoi Medical University": {
+    "Information Systems and Management": 0.07989417989417989,
+    "Management Science and Operations Research": 1.8597883597883609,
+    "Statistics, Probability and Uncertainty": 1.494327069870548
+  },
+  "Institute for Computational Science and Technology": {
+    "Information Systems and Management": 0.05555555555555555,
+    "Management Science and Operations Research": 1.0916666666666668,
+    "Statistics, Probability and Uncertainty": 0.5277777777777778
+  },
+  "Viet Duc Hospital": {
+    "Information Systems and Management": 0.1111111111111111,
+    "Management Science and Operations Research": 0.19444444444444442
+  },
+  "Baria Vungtau University": {
+    "Information Systems and Management": 0.45555555555555555
+  },
+  "Ministry of Science and Technology": {
+    "Information Systems and Management": 0.41666666666666663,
+    "Management Science and Operations Research": 0.7853174603174602,
+    "Statistics, Probability and Uncertainty": 0.375
+  },
+  "Pham Van Dong University": {
+    "Information Systems and Management": 0.3722222222222222,
+    "Management Science and Operations Research": 0.861111111111111,
+    "Statistics, Probability and Uncertainty": 0.3333333333333333
+  },
+  "Hong Bang International University": {
+    "Information Systems and Management": 1.9214285714285715,
+    "Management Science and Operations Research": 6.619841269841268,
+    "Statistics, Probability and Uncertainty": 0.4444444444444444
+  },
+  "Le Quy Don Technical University": {
+    "Information Systems and Management": 0.36111111111111116,
+    "Management Science and Operations Research": 8.134126984126977,
+    "Statistics, Probability and Uncertainty": 3.3670634920634916
+  },
+  "University Of Transport Technology": {
+    "Information Systems and Management": 2.5333333333333345,
+    "Management Science and Operations Research": 5.436904761904757,
+    "Statistics, Probability and Uncertainty": 1.4166666666666667
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Information Systems and Management": 0.4476190476190476,
+    "Management Science and Operations Research": 12.748082010582005,
+    "Statistics, Probability and Uncertainty": 1.7416666666666667
+  },
+  "Bình Dương University": {
+    "Information Systems and Management": 3.579232804232805,
+    "Management Science and Operations Research": 4.105555555555554,
+    "Statistics, Probability and Uncertainty": 0.047619047619047616
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Information Systems and Management": 2.763888888888889,
+    "Management Science and Operations Research": 1.5319444444444446,
+    "Statistics, Probability and Uncertainty": 0.4444444444444444
+  },
+  "Tien Giang General Hospital": {
+    "Information Systems and Management": 1.511111111111111,
+    "Management Science and Operations Research": 9.147222222222219
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Information Systems and Management": 2.466666666666667,
+    "Management Science and Operations Research": 2.912578162578163,
+    "Statistics, Probability and Uncertainty": 0.1111111111111111
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Information Systems and Management": 3.6249999999999996,
+    "Management Science and Operations Research": 5.208730158730156,
+    "Statistics, Probability and Uncertainty": 0.06666666666666667
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Information Systems and Management": 2.016666666666667,
+    "Management Science and Operations Research": 2.1527777777777777,
+    "Statistics, Probability and Uncertainty": 1.2555555555555553
+  },
+  "Hanoi Law University": {
+    "Information Systems and Management": 0.8333333333333333,
+    "Management Science and Operations Research": 0.9999999999999999
+  },
+  "Vietnam Aviation Academy": {
+    "Information Systems and Management": 0.7916666666666666,
+    "Management Science and Operations Research": 0.1111111111111111
+  },
+  "Vietnam National University of Agriculture": {
+    "Information Systems and Management": 0.7291666666666666,
+    "Management Science and Operations Research": 13.15026455026454,
+    "Statistics, Probability and Uncertainty": 0.49027777777777776
+  },
+  "Tay Bac University": {
+    "Information Systems and Management": 0.9944444444444444,
+    "Management Science and Operations Research": 2.402777777777778,
+    "Statistics, Probability and Uncertainty": 0.16666666666666666
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Information Systems and Management": 2.388888888888889,
+    "Management Science and Operations Research": 1.1666666666666665
+  },
+  "Dong Thap University": {
+    "Information Systems and Management": 2.888359788359787,
+    "Management Science and Operations Research": 4.277777777777778,
+    "Statistics, Probability and Uncertainty": 1.7777777777777777
+  },
+  "Ho Chi Minh City University of Culture": {
+    "Information Systems and Management": 1.1666666666666665
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Information Systems and Management": 0.5,
+    "Management Science and Operations Research": 1.0,
+    "Statistics, Probability and Uncertainty": 1.0
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Information Systems and Management": 0.1111111111111111,
+    "Management Science and Operations Research": 0.5694444444444444
+  },
+  "Danang Architecture University": {
+    "Information Systems and Management": 0.4,
+    "Management Science and Operations Research": 0.7194444444444444,
+    "Statistics, Probability and Uncertainty": 0.3333333333333333
+  },
+  "National Academy of Public Administration": {
+    "Information Systems and Management": 0.6499999999999999,
+    "Management Science and Operations Research": 0.6000000000000001
+  },
+  "Cat Tien National Park": {
+    "Information Systems and Management": 0.7148148148148147,
+    "Management Science and Operations Research": 1.847222222222222
+  },
+  "Hanoi University of Mining and Geology": {
+    "Information Systems and Management": 0.2777777777777778,
+    "Management Science and Operations Research": 2.5199074074074073,
+    "Statistics, Probability and Uncertainty": 1.5638888888888889
+  },
+  "Bạch Mai Hospital": {
+    "Information Systems and Management": 0.3333333333333333,
+    "Management Science and Operations Research": 0.38888888888888884
+  },
+  "British University Vietnam": {
+    "Information Systems and Management": 1.0,
+    "Management Science and Operations Research": 0.9861111111111112,
+    "Statistics, Probability and Uncertainty": 0.5
+  },
+  "Hai Phong University of Management and Technology": {
+    "Information Systems and Management": 0.39444444444444443,
+    "Management Science and Operations Research": 1.688888888888889,
+    "Statistics, Probability and Uncertainty": 0.3333333333333333
+  },
+  "Thai Nguyen University of Information and Communication Technology": {
+    "Information Systems and Management": 0.6666666666666666
+  },
+  "Institute of Mathematics": {
+    "Information Systems and Management": 0.125,
+    "Management Science and Operations Research": 12.661111111111108,
+    "Statistics, Probability and Uncertainty": 7.9694444444444414
+  },
+  "International Center for Tropical Agriculture": {
+    "Information Systems and Management": 0.16666666666666666,
+    "Management Science and Operations Research": 0.2202380952380952
+  },
+  "Vietnam University of Fine Arts": {
+    "Information Systems and Management": 0.41666666666666663,
+    "Management Science and Operations Research": 0.08333333333333333
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Information Systems and Management": 0.75,
+    "Management Science and Operations Research": 0.6916666666666665
+  },
+  "Hanoi Medical University Hospital": {
+    "Information Systems and Management": 0.022222222222222223
+  },
+  "Nam Dinh University of Nursing": {
+    "Information Systems and Management": 0.23333333333333334,
+    "Management Science and Operations Research": 1.1527777777777777,
+    "Statistics, Probability and Uncertainty": 0.16666666666666666
+  },
+  "Academy of Cryptography Techniques": {
+    "Information Systems and Management": 0.8333333333333333,
+    "Management Science and Operations Research": 1.2017195767195767
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Information Systems and Management": 0.1388888888888889,
+    "Management Science and Operations Research": 3.458333333333332,
+    "Statistics, Probability and Uncertainty": 0.6011904761904762
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Information Systems and Management": 0.1111111111111111,
+    "Management Science and Operations Research": 0.1923076923076923,
+    "Statistics, Probability and Uncertainty": 0.3583333333333333
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Information Systems and Management": 0.8888888888888888,
+    "Management Science and Operations Research": 3.3888888888888893
+  },
+  "Anova Corp (Vietnam)": {
+    "Information Systems and Management": 0.44999999999999996,
+    "Management Science and Operations Research": 1.967063492063492,
+    "Statistics, Probability and Uncertainty": 0.06666666666666667
+  },
+  "Academy of Policy and Development": {
+    "Information Systems and Management": 0.6444444444444444,
+    "Management Science and Operations Research": 0.8722222222222222
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Information Systems and Management": 0.47619047619047616,
+    "Management Science and Operations Research": 0.5
+  },
+  "Da Nang Hospital": {
+    "Information Systems and Management": 0.06666666666666667,
+    "Management Science and Operations Research": 0.3492063492063492,
+    "Statistics, Probability and Uncertainty": 0.25
+  },
+  "CARE International in Vietnam": {
+    "Information Systems and Management": 0.1111111111111111
+  },
+  "Hue University of Education": {
+    "Information Systems and Management": 0.08333333333333333,
+    "Management Science and Operations Research": 0.08333333333333333,
+    "Statistics, Probability and Uncertainty": 0.2222222222222222
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Information Systems and Management": 0.08333333333333333,
+    "Statistics, Probability and Uncertainty": 0.02564102564102564
+  },
+  "Viet Nam National Academy of Music": {
+    "Information Systems and Management": 0.16666666666666666
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Information Systems and Management": 0.08333333333333333,
+    "Management Science and Operations Research": 0.7777777777777777,
+    "Statistics, Probability and Uncertainty": 0.7999999999999999
+  },
+  "Oxford University Clinical Research Unit": {
+    "Information Systems and Management": 0.02631578947368421,
+    "Management Science and Operations Research": 0.6709235209235213,
+    "Statistics, Probability and Uncertainty": 0.6247665732959848
+  },
+  "Cho Ray Hospital": {
+    "Information Systems and Management": 0.08333333333333333,
+    "Management Science and Operations Research": 0.06666666666666667,
+    "Statistics, Probability and Uncertainty": 1.0221560846560847
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Information Systems and Management": 0.1111111111111111,
+    "Management Science and Operations Research": 0.23333333333333334,
+    "Statistics, Probability and Uncertainty": 1.1666666666666665
+  },
+  "Quảng Bình University": {
+    "Information Systems and Management": 0.4444444444444444,
+    "Management Science and Operations Research": 2.611111111111111
+  },
+  "Vinmec International Hospital": {
+    "Information Systems and Management": 0.5,
+    "Statistics, Probability and Uncertainty": 0.8809523809523809
+  },
+  "Học viện Tư pháp": {
+    "Information Systems and Management": 0.5,
+    "Management Science and Operations Research": 0.6777777777777778
+  },
+  "Khanh Hoa General Hospital": {
+    "Information Systems and Management": 0.16666666666666666,
+    "Management Science and Operations Research": 0.008130081300813009,
+    "Statistics, Probability and Uncertainty": 0.8333333333333334
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Management Science and Operations Research": 1.722222222222222,
+    "Statistics, Probability and Uncertainty": 0.08333333333333333
+  },
+  "PetroVietnam University": {
+    "Management Science and Operations Research": 0.16666666666666666
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Management Science and Operations Research": 3.5,
+    "Statistics, Probability and Uncertainty": 3.5
+  },
+  "Hanoi Pedagogical University 2": {
+    "Management Science and Operations Research": 4.022222222222222
+  },
+  "Vietnam Military Medical University": {
+    "Management Science and Operations Research": 2.441666666666667,
+    "Statistics, Probability and Uncertainty": 0.1527777777777778
+  },
+  "Field Crops Research Institute": {
+    "Management Science and Operations Research": 1.0,
+    "Statistics, Probability and Uncertainty": 0.7777777777777777
+  },
+  "National Institute of Veterinary Research": {
+    "Management Science and Operations Research": 0.75
+  },
+  "Agricultural Genetics Institute": {
+    "Management Science and Operations Research": 0.7777777777777779
+  },
+  "Van Xuan University of Technology": {
+    "Management Science and Operations Research": 0.16666666666666666
+  },
+  "Research Institute for Aquaculture No1": {
+    "Management Science and Operations Research": 0.5059523809523809
+  },
+  "Ministry of Justice": {
+    "Management Science and Operations Research": 0.16666666666666666
+  },
+  "Viet Nam Government": {
+    "Management Science and Operations Research": 0.5
+  },
+  "Center for Environment and Community Assets Development": {
+    "Management Science and Operations Research": 0.5632275132275132
+  },
+  "Hue Central Hospital": {
+    "Management Science and Operations Research": 0.06666666666666667
+  },
+  "Ministry of Information and Communications": {
+    "Management Science and Operations Research": 0.05555555555555555
+  },
+  "Health Strategy and Policy Institute": {
+    "Management Science and Operations Research": 0.375
+  },
+  "Institute for Reproductive and Family Health": {
+    "Management Science and Operations Research": 0.03333333333333333
+  },
+  "Institute of Population, Health and Development": {
+    "Management Science and Operations Research": 0.49999999999999994
+  },
+  "Children's Hospital 1": {
+    "Management Science and Operations Research": 0.03333333333333333,
+    "Statistics, Probability and Uncertainty": 0.06547619047619047
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Management Science and Operations Research": 0.06666666666666667,
+    "Statistics, Probability and Uncertainty": 0.0625
+  },
+  "Hiep Phuoc Power (Vietnam)": {
+    "Management Science and Operations Research": 0.9388888888888889
+  },
+  "Forest Industry Research Institute": {
+    "Management Science and Operations Research": 0.46153846153846145
+  },
+  "University of Economics - Technology for Industries": {
+    "Management Science and Operations Research": 0.05555555555555555
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Management Science and Operations Research": 1.0277777777777777
+  },
+  "University Medical Center HCMC": {
+    "Management Science and Operations Research": 0.1111111111111111,
+    "Statistics, Probability and Uncertainty": 0.8611111111111113
+  },
+  "Viet Tri University of Industry": {
+    "Management Science and Operations Research": 1.0833333333333333
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Management Science and Operations Research": 0.75
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Management Science and Operations Research": 0.4047619047619047,
+    "Statistics, Probability and Uncertainty": 3.3339743589743582
+  },
+  "My Duc Hospital": {
+    "Management Science and Operations Research": 0.6666666666666666
+  },
+  "Vietnam National Children's Hospital": {
+    "Management Science and Operations Research": 0.3333333333333333,
+    "Statistics, Probability and Uncertainty": 1.0976190476190477
+  },
+  "Ministry of Foreign Affairs": {
+    "Management Science and Operations Research": 0.2222222222222222
+  },
+  "Vinh Medical University": {
+    "Management Science and Operations Research": 0.16666666666666666
+  },
+  "National Institute of Nutrition": {
+    "Statistics, Probability and Uncertainty": 0.2222222222222222
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Statistics, Probability and Uncertainty": 0.09523809523809523
+  },
+  "Hung Vuong University": {
+    "Statistics, Probability and Uncertainty": 0.25
+  },
+  "Thanhtay University": {
+    "Statistics, Probability and Uncertainty": 0.2857142857142857
+  },
+  "Hanoi Lung Hospital": {
+    "Statistics, Probability and Uncertainty": 0.1
+  },
+  "Institute of Materials Science": {
+    "Statistics, Probability and Uncertainty": 0.3333333333333333
+  },
+  "Children's Hospital 2": {
+    "Statistics, Probability and Uncertainty": 0.09541033678964714
+  },
+  "Vietnam National Institute of Culture and Arts Studies": {
+    "Statistics, Probability and Uncertainty": 0.16666666666666666
+  }
+}

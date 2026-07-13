@@ -1,0 +1,2008 @@
+{
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Artificial Intelligence": 68.8889550264551,
+    "Computational Theory and Mathematics": 18.01196581196582,
+    "Computer Graphics and Computer-Aided Design": 1.411111111111111,
+    "Computer Networks and Communications": 36.61488095238104,
+    "Computer Science Applications": 6.208333333333335,
+    "Computer Vision and Pattern Recognition": 80.22107244607251,
+    "Hardware and Architecture": 4.515079365079364,
+    "Human-Computer Interaction": 16.181481481481473,
+    "Information Systems": 28.553872053872077,
+    "Signal Processing": 12.919444444444439,
+    "Software": 1.125
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Artificial Intelligence": 990.1668637337954,
+    "Computational Theory and Mathematics": 172.92223808517718,
+    "Computer Graphics and Computer-Aided Design": 14.432010582010573,
+    "Computer Networks and Communications": 299.9203834564096,
+    "Computer Science Applications": 36.20416666666677,
+    "Computer Vision and Pattern Recognition": 715.2283511733312,
+    "Hardware and Architecture": 36.52294428080517,
+    "Human-Computer Interaction": 42.11498015873022,
+    "Information Systems": 343.97905871597754,
+    "Signal Processing": 174.39588744588605,
+    "Software": 14.82147525676937
+  },
+  "Le Quy Don Technical University": {
+    "Artificial Intelligence": 154.39378512569272,
+    "Computational Theory and Mathematics": 32.27222222222221,
+    "Computer Graphics and Computer-Aided Design": 1.5833333333333333,
+    "Computer Networks and Communications": 109.79338624338642,
+    "Computer Science Applications": 0.6555555555555554,
+    "Computer Vision and Pattern Recognition": 105.9743015999596,
+    "Hardware and Architecture": 14.267063492063484,
+    "Human-Computer Interaction": 3.0825396825396827,
+    "Information Systems": 27.89543650793651,
+    "Signal Processing": 40.70000000000004,
+    "Software": 3.4305555555555554
+  },
+  "Hanoi University of Science and Technology": {
+    "Artificial Intelligence": 426.71879226437585,
+    "Computational Theory and Mathematics": 155.1255411255415,
+    "Computer Graphics and Computer-Aided Design": 6.432142857142852,
+    "Computer Networks and Communications": 339.1262325637278,
+    "Computer Science Applications": 16.34920634920634,
+    "Computer Vision and Pattern Recognition": 399.0636717911642,
+    "Hardware and Architecture": 19.78888888888888,
+    "Human-Computer Interaction": 38.287296962297084,
+    "Information Systems": 139.04571535821506,
+    "Signal Processing": 96.79303150553163,
+    "Software": 16.42142857142856
+  },
+  "Ho Chi Minh City University of Science": {
+    "Artificial Intelligence": 143.0747967772965,
+    "Computational Theory and Mathematics": 30.571164021163998,
+    "Computer Graphics and Computer-Aided Design": 1.3392857142857144,
+    "Computer Networks and Communications": 37.827182539682546,
+    "Computer Science Applications": 2.2777777777777786,
+    "Computer Vision and Pattern Recognition": 114.13340101709552,
+    "Hardware and Architecture": 5.464682539682537,
+    "Human-Computer Interaction": 8.46407846539425,
+    "Information Systems": 40.51507936507947,
+    "Signal Processing": 30.5710678210678,
+    "Software": 2.6333333333333346
+  },
+  "Vietnam National University, Hanoi": {
+    "Artificial Intelligence": 240.85916860916709,
+    "Computational Theory and Mathematics": 68.91509740259787,
+    "Computer Graphics and Computer-Aided Design": 4.716666666666668,
+    "Computer Networks and Communications": 73.55323655812815,
+    "Computer Science Applications": 21.214826839826824,
+    "Computer Vision and Pattern Recognition": 108.81367521367525,
+    "Hardware and Architecture": 10.964550264550253,
+    "Human-Computer Interaction": 16.085714285714282,
+    "Information Systems": 99.00070346320362,
+    "Signal Processing": 32.30494227994231,
+    "Software": 13.87539682539682
+  },
+  "Tân Tạo University": {
+    "Artificial Intelligence": 72.37996632996644,
+    "Computational Theory and Mathematics": 12.88888888888889,
+    "Computer Graphics and Computer-Aided Design": 3.7499999999999996,
+    "Computer Networks and Communications": 33.89027777777779,
+    "Computer Science Applications": 2.983333333333333,
+    "Computer Vision and Pattern Recognition": 30.892063492063503,
+    "Hardware and Architecture": 3.518055555555555,
+    "Human-Computer Interaction": 3.4982142857142877,
+    "Information Systems": 106.08611111111117,
+    "Signal Processing": 4.7444444444444445,
+    "Software": 3.034722222222222
+  },
+  "VNU University of Science": {
+    "Artificial Intelligence": 157.89647385022403,
+    "Computational Theory and Mathematics": 36.089682539682606,
+    "Computer Graphics and Computer-Aided Design": 2.6777777777777776,
+    "Computer Networks and Communications": 51.72162698412718,
+    "Computer Science Applications": 7.53174603174603,
+    "Computer Vision and Pattern Recognition": 70.19677128427152,
+    "Hardware and Architecture": 7.333333333333332,
+    "Human-Computer Interaction": 4.211111111111112,
+    "Information Systems": 53.00476190476213,
+    "Signal Processing": 23.63055555555557,
+    "Software": 19.80277777777778
+  },
+  "Hai Phong University of Management and Technology": {
+    "Artificial Intelligence": 9.228571428571426,
+    "Computational Theory and Mathematics": 4.774999999999999,
+    "Computer Networks and Communications": 14.701984126984113,
+    "Computer Science Applications": 0.16666666666666666,
+    "Computer Vision and Pattern Recognition": 7.3438492063492005,
+    "Hardware and Architecture": 0.6833333333333332,
+    "Human-Computer Interaction": 0.3611111111111111,
+    "Information Systems": 9.966666666666669,
+    "Signal Processing": 0.6777777777777778,
+    "Software": 0.2361111111111111
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Artificial Intelligence": 101.1556373451113,
+    "Computational Theory and Mathematics": 75.80632099382132,
+    "Computer Graphics and Computer-Aided Design": 2.1972222222222224,
+    "Computer Networks and Communications": 33.99392001244946,
+    "Computer Science Applications": 0.41666666666666663,
+    "Computer Vision and Pattern Recognition": 54.84559792059814,
+    "Hardware and Architecture": 1.8481792717086836,
+    "Human-Computer Interaction": 2.874206349206349,
+    "Information Systems": 18.396978021978,
+    "Signal Processing": 16.83518518518517,
+    "Software": 1.2388888888888887
+  },
+  "Research Institute for Aquaculture No1": {
+    "Artificial Intelligence": 0.4696969696969697,
+    "Computer Networks and Communications": 0.8333333333333333,
+    "Information Systems": 0.8333333333333333,
+    "Software": 0.3333333333333333
+  },
+  "Institute for Computational Science and Technology": {
+    "Artificial Intelligence": 2.3285714285714287,
+    "Computational Theory and Mathematics": 10.678683353683349,
+    "Computer Graphics and Computer-Aided Design": 0.08333333333333333,
+    "Computer Networks and Communications": 0.5666666666666667,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 1.2777777777777777,
+    "Hardware and Architecture": 0.09523809523809523,
+    "Human-Computer Interaction": 0.1111111111111111,
+    "Information Systems": 0.16666666666666666
+  },
+  "Electric Power University": {
+    "Artificial Intelligence": 107.65178571428585,
+    "Computational Theory and Mathematics": 25.375,
+    "Computer Graphics and Computer-Aided Design": 2.25,
+    "Computer Networks and Communications": 42.7205206830208,
+    "Computer Science Applications": 3.355555555555556,
+    "Computer Vision and Pattern Recognition": 61.86322751322768,
+    "Hardware and Architecture": 3.3059523809523794,
+    "Human-Computer Interaction": 5.925925925925927,
+    "Information Systems": 83.31944444444443,
+    "Signal Processing": 14.506349206349196,
+    "Software": 0.6666666666666667
+  },
+  "Hanoi University of Mining and Geology": {
+    "Artificial Intelligence": 41.2670093795095,
+    "Computational Theory and Mathematics": 5.982783882783884,
+    "Computer Graphics and Computer-Aided Design": 0.6666666666666666,
+    "Computer Networks and Communications": 7.427777777777775,
+    "Computer Science Applications": 0.16666666666666666,
+    "Computer Vision and Pattern Recognition": 7.534126984126979,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Human-Computer Interaction": 0.35,
+    "Information Systems": 5.716666666666664,
+    "Signal Processing": 2.7833333333333337,
+    "Software": 1.527777777777778
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Artificial Intelligence": 217.12152176527064,
+    "Computational Theory and Mathematics": 41.04365079365086,
+    "Computer Graphics and Computer-Aided Design": 2.6319444444444446,
+    "Computer Networks and Communications": 119.0236111111111,
+    "Computer Science Applications": 11.352777777777764,
+    "Computer Vision and Pattern Recognition": 146.8744708994708,
+    "Hardware and Architecture": 20.58611111111111,
+    "Human-Computer Interaction": 8.512433862433861,
+    "Information Systems": 94.84746873496887,
+    "Signal Processing": 73.69656084656107,
+    "Software": 8.14166666666666
+  },
+  "Can Tho University": {
+    "Artificial Intelligence": 162.10253126503076,
+    "Computational Theory and Mathematics": 58.84570614570634,
+    "Computer Graphics and Computer-Aided Design": 5.294444444444444,
+    "Computer Networks and Communications": 35.07366332497913,
+    "Computer Science Applications": 34.69801587301595,
+    "Computer Vision and Pattern Recognition": 127.41904761904787,
+    "Hardware and Architecture": 2.392857142857142,
+    "Human-Computer Interaction": 5.184920634920631,
+    "Information Systems": 113.30884393384432,
+    "Signal Processing": 24.364682539682562,
+    "Software": 1.1388888888888888
+  },
+  "Hanoi National University of Education": {
+    "Artificial Intelligence": 46.983994708994835,
+    "Computational Theory and Mathematics": 70.31259018759033,
+    "Computer Graphics and Computer-Aided Design": 1.0833333333333333,
+    "Computer Networks and Communications": 32.78247354497353,
+    "Computer Science Applications": 14.345129870129862,
+    "Computer Vision and Pattern Recognition": 12.747883597883591,
+    "Hardware and Architecture": 2.2076719576719577,
+    "Human-Computer Interaction": 2.6611111111111114,
+    "Information Systems": 59.405423280423484,
+    "Signal Processing": 6.716269841269841,
+    "Software": 3.250000000000001
+  },
+  "Ton Duc Thang University": {
+    "Artificial Intelligence": 203.42803099678062,
+    "Computational Theory and Mathematics": 121.06602934102965,
+    "Computer Graphics and Computer-Aided Design": 2.5777777777777784,
+    "Computer Networks and Communications": 99.1959535834534,
+    "Computer Science Applications": 5.921825396825395,
+    "Computer Vision and Pattern Recognition": 64.47469336219363,
+    "Hardware and Architecture": 5.190079365079362,
+    "Human-Computer Interaction": 3.453042328042329,
+    "Information Systems": 66.1356661856665,
+    "Signal Processing": 26.457906445406476,
+    "Software": 1.4115079365079366
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Artificial Intelligence": 70.2951756174586,
+    "Computational Theory and Mathematics": 20.622222222222213,
+    "Computer Graphics and Computer-Aided Design": 0.5,
+    "Computer Networks and Communications": 6.905050505050504,
+    "Computer Science Applications": 8.865079365079357,
+    "Computer Vision and Pattern Recognition": 24.301699226699228,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Human-Computer Interaction": 7.977777777777773,
+    "Information Systems": 103.4030423280427,
+    "Signal Processing": 4.597703222703222,
+    "Software": 0.41666666666666663
+  },
+  "Hue University": {
+    "Artificial Intelligence": 58.63922327672341,
+    "Computational Theory and Mathematics": 27.76657000407007,
+    "Computer Graphics and Computer-Aided Design": 0.7222222222222221,
+    "Computer Networks and Communications": 30.907936507936494,
+    "Computer Science Applications": 5.511111111111109,
+    "Computer Vision and Pattern Recognition": 30.14999999999999,
+    "Hardware and Architecture": 1.861111111111111,
+    "Human-Computer Interaction": 2.85,
+    "Information Systems": 45.935845629331624,
+    "Signal Processing": 11.5361111111111
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Artificial Intelligence": 79.23857623857643,
+    "Computational Theory and Mathematics": 18.511706349206335,
+    "Computer Graphics and Computer-Aided Design": 1.0547619047619046,
+    "Computer Networks and Communications": 122.35509259259217,
+    "Computer Science Applications": 0.8777777777777777,
+    "Computer Vision and Pattern Recognition": 31.919456469456485,
+    "Hardware and Architecture": 2.121428571428572,
+    "Human-Computer Interaction": 2.308080808080809,
+    "Information Systems": 40.175396825396916,
+    "Signal Processing": 29.27435666185671,
+    "Software": 1.8402777777777781
+  },
+  "Hanoi University": {
+    "Artificial Intelligence": 50.475093823059034,
+    "Computational Theory and Mathematics": 26.66150793650794,
+    "Computer Graphics and Computer-Aided Design": 1.6666666666666665,
+    "Computer Networks and Communications": 36.249404761904856,
+    "Computer Science Applications": 4.964577950043068,
+    "Computer Vision and Pattern Recognition": 21.337301587301564,
+    "Hardware and Architecture": 1.2333333333333332,
+    "Human-Computer Interaction": 1.9940476190476188,
+    "Information Systems": 29.419312169312168,
+    "Signal Processing": 11.057936507936496,
+    "Software": 2.194444444444445
+  },
+  "University of Transport and Communications": {
+    "Artificial Intelligence": 34.39563492063495,
+    "Computational Theory and Mathematics": 20.33472222222223,
+    "Computer Graphics and Computer-Aided Design": 0.8333333333333333,
+    "Computer Networks and Communications": 15.500396825396823,
+    "Computer Science Applications": 0.4714285714285714,
+    "Computer Vision and Pattern Recognition": 35.515489417989436,
+    "Hardware and Architecture": 0.5277777777777778,
+    "Human-Computer Interaction": 1.706481481481482,
+    "Information Systems": 10.405952380952384,
+    "Signal Processing": 7.7305555555555525,
+    "Software": 0.08333333333333333
+  },
+  "Thai Nguyen University": {
+    "Artificial Intelligence": 105.56072029822026,
+    "Computational Theory and Mathematics": 79.2078042328042,
+    "Computer Graphics and Computer-Aided Design": 3.816666666666667,
+    "Computer Networks and Communications": 51.69358465608483,
+    "Computer Science Applications": 20.07222222222221,
+    "Computer Vision and Pattern Recognition": 59.42460317460356,
+    "Hardware and Architecture": 1.29484126984127,
+    "Human-Computer Interaction": 8.25925925925925,
+    "Information Systems": 74.87913533834602,
+    "Signal Processing": 17.999735449735446,
+    "Software": 2.4972222222222213
+  },
+  "Agricultural Genetics Institute": {
+    "Artificial Intelligence": 0.6531746031746034,
+    "Computational Theory and Mathematics": 0.8111111111111113,
+    "Computer Networks and Communications": 0.1875,
+    "Information Systems": 0.2847222222222222
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Artificial Intelligence": 11.156746031746026,
+    "Computational Theory and Mathematics": 3.8603174603174604,
+    "Computer Networks and Communications": 3.2948412698412697,
+    "Computer Science Applications": 0.8055555555555556,
+    "Computer Vision and Pattern Recognition": 0.5753968253968254,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Information Systems": 4.204761904761905,
+    "Signal Processing": 0.2841269841269841
+  },
+  "Institute of Mathematics": {
+    "Artificial Intelligence": 22.249603174603173,
+    "Computational Theory and Mathematics": 223.59534632034644,
+    "Computer Graphics and Computer-Aided Design": 8.164682539682536,
+    "Computer Networks and Communications": 21.322222222222216,
+    "Computer Science Applications": 0.5753968253968254,
+    "Computer Vision and Pattern Recognition": 8.583333333333327,
+    "Hardware and Architecture": 0.041666666666666664,
+    "Information Systems": 1.461111111111111,
+    "Signal Processing": 2.902777777777778,
+    "Software": 0.3333333333333333
+  },
+  "General Department of Preventive Medicine": {
+    "Artificial Intelligence": 12.992195767195769,
+    "Computational Theory and Mathematics": 2.928571428571429,
+    "Computer Networks and Communications": 2.183333333333333,
+    "Computer Vision and Pattern Recognition": 1.2972222222222223,
+    "Human-Computer Interaction": 1.6986772486772492,
+    "Information Systems": 3.580687830687831,
+    "Signal Processing": 1.0833333333333333,
+    "Software": 0.39999999999999997
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Artificial Intelligence": 95.89424603174609,
+    "Computational Theory and Mathematics": 19.754894179894173,
+    "Computer Graphics and Computer-Aided Design": 0.41666666666666663,
+    "Computer Networks and Communications": 64.88806471306494,
+    "Computer Science Applications": 10.31746031746033,
+    "Computer Vision and Pattern Recognition": 44.686111111111146,
+    "Hardware and Architecture": 3.055555555555555,
+    "Human-Computer Interaction": 4.10277777777778,
+    "Information Systems": 40.81584249084248,
+    "Signal Processing": 15.115873015873007,
+    "Software": 0.7888888888888888
+  },
+  "Ho Chi Minh City University of Education": {
+    "Artificial Intelligence": 18.27896825396824,
+    "Computational Theory and Mathematics": 15.536507936507924,
+    "Computer Graphics and Computer-Aided Design": 0.611111111111111,
+    "Computer Networks and Communications": 4.282539682539681,
+    "Computer Science Applications": 7.56046176046176,
+    "Computer Vision and Pattern Recognition": 13.089499389499386,
+    "Human-Computer Interaction": 3.500000000000001,
+    "Information Systems": 27.79246031746031,
+    "Signal Processing": 2.055555555555556
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Artificial Intelligence": 2.8888888888888893,
+    "Computational Theory and Mathematics": 5.202777777777778,
+    "Computer Graphics and Computer-Aided Design": 2.0,
+    "Computer Networks and Communications": 0.4,
+    "Computer Vision and Pattern Recognition": 0.9125,
+    "Information Systems": 1.0
+  },
+  "RMIT Vietnam": {
+    "Artificial Intelligence": 29.824165764790763,
+    "Computational Theory and Mathematics": 0.6111111111111112,
+    "Computer Graphics and Computer-Aided Design": 1.3444444444444446,
+    "Computer Networks and Communications": 9.978283535636475,
+    "Computer Science Applications": 13.184920634920621,
+    "Computer Vision and Pattern Recognition": 18.079894179894175,
+    "Hardware and Architecture": 2.7166666666666655,
+    "Human-Computer Interaction": 5.834920634920633,
+    "Information Systems": 51.925707559009446,
+    "Signal Processing": 4.647782446311857,
+    "Software": 0.08333333333333333
+  },
+  "Vietnam Military Medical University": {
+    "Artificial Intelligence": 10.82341269841269,
+    "Computational Theory and Mathematics": 3.6913961038961043,
+    "Computer Graphics and Computer-Aided Design": 0.5,
+    "Computer Networks and Communications": 2.714285714285714,
+    "Computer Vision and Pattern Recognition": 5.133639971139971,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Human-Computer Interaction": 0.6002886002886003,
+    "Information Systems": 4.175396825396825,
+    "Signal Processing": 1.1281746031746032
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Artificial Intelligence": 5.931444773550035,
+    "Computational Theory and Mathematics": 2.0555555555555554,
+    "Computer Networks and Communications": 1.8161111111111115,
+    "Computer Science Applications": 0.4,
+    "Computer Vision and Pattern Recognition": 3.6928571428571435,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 1.708333333333333,
+    "Signal Processing": 0.4444444444444444
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Artificial Intelligence": 56.71649230399239,
+    "Computational Theory and Mathematics": 23.475823713323713,
+    "Computer Graphics and Computer-Aided Design": 0.3333333333333333,
+    "Computer Networks and Communications": 22.880399230399227,
+    "Computer Science Applications": 4.9373015873015875,
+    "Computer Vision and Pattern Recognition": 21.252062289562293,
+    "Hardware and Architecture": 1.6964285714285716,
+    "Human-Computer Interaction": 0.8194444444444444,
+    "Information Systems": 32.93988095238096,
+    "Signal Processing": 9.24722222222222,
+    "Software": 0.125
+  },
+  "Hanoi Pedagogical University 2": {
+    "Artificial Intelligence": 7.371428571428569,
+    "Computational Theory and Mathematics": 35.98928571428573,
+    "Computer Graphics and Computer-Aided Design": 0.1111111111111111,
+    "Computer Networks and Communications": 4.361111111111111,
+    "Computer Science Applications": 1.2095238095238094,
+    "Computer Vision and Pattern Recognition": 2.1500000000000004,
+    "Human-Computer Interaction": 0.5666666666666667,
+    "Information Systems": 12.247222222222224,
+    "Signal Processing": 0.625,
+    "Software": 0.16666666666666666
+  },
+  "The State Bank of Vietnam": {
+    "Artificial Intelligence": 17.32196969696969,
+    "Computational Theory and Mathematics": 1.3888888888888888,
+    "Computer Graphics and Computer-Aided Design": 0.25,
+    "Computer Networks and Communications": 2.413888888888889,
+    "Computer Science Applications": 3.0813492063492065,
+    "Computer Vision and Pattern Recognition": 1.9646825396825398,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 30.077777777777776,
+    "Signal Processing": 1.1277777777777778
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Artificial Intelligence": 21.476058201058226,
+    "Computational Theory and Mathematics": 4.552777777777777,
+    "Computer Networks and Communications": 14.141666666666662,
+    "Computer Science Applications": 1.4333333333333333,
+    "Computer Vision and Pattern Recognition": 12.129365079365067,
+    "Human-Computer Interaction": 1.4638888888888888,
+    "Information Systems": 10.879365079365076,
+    "Signal Processing": 4.591666666666669
+  },
+  "Dalat University": {
+    "Artificial Intelligence": 41.43416242626772,
+    "Computational Theory and Mathematics": 26.48544973544971,
+    "Computer Graphics and Computer-Aided Design": 0.3333333333333333,
+    "Computer Networks and Communications": 14.960912698412695,
+    "Computer Science Applications": 5.3999999999999995,
+    "Computer Vision and Pattern Recognition": 9.528306878306871,
+    "Hardware and Architecture": 0.06666666666666667,
+    "Human-Computer Interaction": 3.864583333333334,
+    "Information Systems": 40.83958333333334,
+    "Signal Processing": 9.088888888888885
+  },
+  "Nam Dinh University of Nursing": {
+    "Artificial Intelligence": 5.224206349206346,
+    "Computational Theory and Mathematics": 2.5416666666666665,
+    "Computer Networks and Communications": 1.3214285714285714,
+    "Computer Science Applications": 0.05555555555555555,
+    "Computer Vision and Pattern Recognition": 1.2222222222222223,
+    "Hardware and Architecture": 0.19444444444444442,
+    "Human-Computer Interaction": 0.16666666666666666,
+    "Information Systems": 1.3055555555555554,
+    "Signal Processing": 0.3333333333333333,
+    "Software": 0.1111111111111111
+  },
+  "Vinh University": {
+    "Artificial Intelligence": 31.386090937571208,
+    "Computational Theory and Mathematics": 23.83968253968257,
+    "Computer Graphics and Computer-Aided Design": 2.1527777777777777,
+    "Computer Networks and Communications": 12.444047619047614,
+    "Computer Science Applications": 3.2249999999999996,
+    "Computer Vision and Pattern Recognition": 9.640873015873007,
+    "Hardware and Architecture": 0.2777777777777778,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 21.83809523809524,
+    "Signal Processing": 5.644444444444444,
+    "Software": 0.7222222222222222
+  },
+  "Hung Yen University of Technology and Education": {
+    "Artificial Intelligence": 38.113112437957724,
+    "Computational Theory and Mathematics": 6.912037037037031,
+    "Computer Graphics and Computer-Aided Design": 0.25,
+    "Computer Networks and Communications": 30.45793650793653,
+    "Computer Science Applications": 1.638095238095238,
+    "Computer Vision and Pattern Recognition": 22.765625665470846,
+    "Hardware and Architecture": 0.75,
+    "Human-Computer Interaction": 0.5770622895622896,
+    "Information Systems": 8.058477633477624,
+    "Signal Processing": 3.7315656565656563,
+    "Software": 1.2083333333333335
+  },
+  "University Of Transport Technology": {
+    "Artificial Intelligence": 9.390079365079362,
+    "Computational Theory and Mathematics": 2.358333333333333,
+    "Computer Graphics and Computer-Aided Design": 0.08333333333333333,
+    "Computer Networks and Communications": 3.3944444444444453,
+    "Computer Science Applications": 1.0416666666666665,
+    "Computer Vision and Pattern Recognition": 4.117063492063492,
+    "Information Systems": 3.4425925925925926,
+    "Signal Processing": 1.0833333333333335,
+    "Software": 0.7083333333333334
+  },
+  "Ho Chi Minh City Open University": {
+    "Artificial Intelligence": 55.15198412698429,
+    "Computational Theory and Mathematics": 12.086111111111101,
+    "Computer Graphics and Computer-Aided Design": 0.25,
+    "Computer Networks and Communications": 7.26071428571428,
+    "Computer Science Applications": 6.866666666666666,
+    "Computer Vision and Pattern Recognition": 43.31699735449748,
+    "Hardware and Architecture": 0.23703703703703705,
+    "Human-Computer Interaction": 3.0736111111111097,
+    "Information Systems": 45.23573833573835,
+    "Signal Processing": 6.197751322751316
+  },
+  "Ministry of Health": {
+    "Artificial Intelligence": 3.339444444444444,
+    "Computational Theory and Mathematics": 0.29865392273994423,
+    "Computer Networks and Communications": 0.7,
+    "Computer Science Applications": 0.09523809523809523,
+    "Computer Vision and Pattern Recognition": 1.238095238095238,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Information Systems": 1.8908529092739594,
+    "Signal Processing": 0.5555555555555555
+  },
+  "Hanoi University of Civil Engineering": {
+    "Artificial Intelligence": 7.3257936507936465,
+    "Computational Theory and Mathematics": 9.719444444444445,
+    "Computer Networks and Communications": 5.670085470085469,
+    "Computer Science Applications": 0.7619047619047618,
+    "Computer Vision and Pattern Recognition": 2.3537878787878785,
+    "Hardware and Architecture": 1.47008547008547,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 3.0785714285714305,
+    "Signal Processing": 1.4619047619047618,
+    "Software": 0.3611111111111111
+  },
+  "Tra Vinh University": {
+    "Artificial Intelligence": 23.226984126984156,
+    "Computational Theory and Mathematics": 1.9121693121693117,
+    "Computer Networks and Communications": 2.555555555555556,
+    "Computer Science Applications": 5.166666666666666,
+    "Computer Vision and Pattern Recognition": 27.834259259259277,
+    "Hardware and Architecture": 0.1111111111111111,
+    "Human-Computer Interaction": 0.7453703703703705,
+    "Information Systems": 32.285714285714285,
+    "Signal Processing": 1.5583333333333336,
+    "Software": 0.4444444444444444
+  },
+  "Hoa Sen University": {
+    "Artificial Intelligence": 15.00873015873016,
+    "Computational Theory and Mathematics": 1.9870370370370365,
+    "Computer Graphics and Computer-Aided Design": 0.25,
+    "Computer Networks and Communications": 3.3111111111111122,
+    "Computer Science Applications": 1.5833333333333335,
+    "Computer Vision and Pattern Recognition": 1.1666666666666667,
+    "Information Systems": 14.263888888888891,
+    "Signal Processing": 1.8944444444444448,
+    "Software": 0.6111111111111112
+  },
+  "Quảng Bình University": {
+    "Artificial Intelligence": 8.181349206349203,
+    "Computational Theory and Mathematics": 15.555555555555552,
+    "Computer Graphics and Computer-Aided Design": 0.125,
+    "Computer Networks and Communications": 1.1444444444444444,
+    "Computer Science Applications": 0.5694444444444444,
+    "Computer Vision and Pattern Recognition": 5.702777777777775,
+    "Hardware and Architecture": 0.2,
+    "Human-Computer Interaction": 0.1,
+    "Information Systems": 4.763888888888889,
+    "Signal Processing": 1.611111111111111
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Artificial Intelligence": 33.08558201058202,
+    "Computational Theory and Mathematics": 9.71388888888888,
+    "Computer Graphics and Computer-Aided Design": 0.36666666666666664,
+    "Computer Networks and Communications": 7.924206349206348,
+    "Computer Science Applications": 6.041666666666667,
+    "Computer Vision and Pattern Recognition": 9.081944444444442,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Human-Computer Interaction": 0.8777777777777779,
+    "Information Systems": 24.252591390091407,
+    "Signal Processing": 4.399470899470897
+  },
+  "Hanoi School Of Public Health": {
+    "Artificial Intelligence": 1.2125,
+    "Computational Theory and Mathematics": 0.38611111111111107,
+    "Computer Networks and Communications": 0.08333333333333333,
+    "Computer Science Applications": 0.07142857142857142,
+    "Computer Vision and Pattern Recognition": 0.16666666666666666,
+    "Information Systems": 0.48579782790309106,
+    "Signal Processing": 0.16666666666666666
+  },
+  "Thuyloi University": {
+    "Artificial Intelligence": 29.832581770081795,
+    "Computational Theory and Mathematics": 15.695725108225082,
+    "Computer Graphics and Computer-Aided Design": 1.25,
+    "Computer Networks and Communications": 6.6503968253968235,
+    "Computer Science Applications": 1.8789682539682537,
+    "Computer Vision and Pattern Recognition": 25.274735449735456,
+    "Human-Computer Interaction": 0.6481481481481481,
+    "Information Systems": 7.517460317460315,
+    "Signal Processing": 3.403787878787879,
+    "Software": 0.16666666666666666
+  },
+  "Academy Of Finance": {
+    "Artificial Intelligence": 8.058333333333332,
+    "Computational Theory and Mathematics": 5.966666666666665,
+    "Computer Networks and Communications": 1.8420634920634922,
+    "Computer Science Applications": 0.30000000000000004,
+    "Computer Vision and Pattern Recognition": 0.5972222222222222,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Information Systems": 12.889682539682532,
+    "Signal Processing": 0.6916666666666667,
+    "Software": 0.8
+  },
+  "Saigon University": {
+    "Artificial Intelligence": 37.39627525252529,
+    "Computational Theory and Mathematics": 17.363492063492057,
+    "Computer Graphics and Computer-Aided Design": 1.7499999999999998,
+    "Computer Networks and Communications": 13.449206349206337,
+    "Computer Science Applications": 3.341666666666666,
+    "Computer Vision and Pattern Recognition": 7.425595238095239,
+    "Hardware and Architecture": 0.7142857142857142,
+    "Human-Computer Interaction": 1.7777777777777777,
+    "Information Systems": 18.05873015873015,
+    "Signal Processing": 5.833333333333332
+  },
+  "Vietnam Maritime University": {
+    "Artificial Intelligence": 10.272896131490752,
+    "Computational Theory and Mathematics": 4.705555555555556,
+    "Computer Graphics and Computer-Aided Design": 0.08333333333333333,
+    "Computer Networks and Communications": 3.4519841269841285,
+    "Computer Vision and Pattern Recognition": 14.036202686202673,
+    "Human-Computer Interaction": 1.3749999999999998,
+    "Information Systems": 4.664682539682541,
+    "Signal Processing": 2.182539682539683,
+    "Software": 0.2777777777777778
+  },
+  "University of Languages and International Studies": {
+    "Artificial Intelligence": 116.26329365079351,
+    "Computational Theory and Mathematics": 4.983333333333333,
+    "Computer Graphics and Computer-Aided Design": 6.183333333333334,
+    "Computer Networks and Communications": 11.061111111111114,
+    "Computer Science Applications": 8.594444444444445,
+    "Computer Vision and Pattern Recognition": 6.492261904761905,
+    "Hardware and Architecture": 0.8333333333333333,
+    "Human-Computer Interaction": 11.627777777777775,
+    "Information Systems": 145.35039682539667,
+    "Signal Processing": 2.5166666666666666,
+    "Software": 0.75
+  },
+  "Vietnam National University of Agriculture": {
+    "Artificial Intelligence": 8.398452694648345,
+    "Computational Theory and Mathematics": 3.880555555555555,
+    "Computer Graphics and Computer-Aided Design": 0.027777777777777776,
+    "Computer Networks and Communications": 1.1694444444444447,
+    "Computer Science Applications": 0.31666666666666665,
+    "Computer Vision and Pattern Recognition": 6.222883597883596,
+    "Human-Computer Interaction": 0.49074074074074076,
+    "Information Systems": 3.466666666666667,
+    "Signal Processing": 1.5
+  },
+  "Saigon Technology University": {
+    "Artificial Intelligence": 3.6642857142857146,
+    "Computational Theory and Mathematics": 1.25,
+    "Computer Graphics and Computer-Aided Design": 0.7499999999999999,
+    "Computer Networks and Communications": 1.4999999999999998,
+    "Computer Science Applications": 0.16666666666666666,
+    "Computer Vision and Pattern Recognition": 3.3869047619047623,
+    "Human-Computer Interaction": 0.39444444444444443,
+    "Information Systems": 3.9452380952380954,
+    "Signal Processing": 0.7976190476190477
+  },
+  "University of Da Nang": {
+    "Artificial Intelligence": 104.64351805601822,
+    "Computational Theory and Mathematics": 28.51139306599834,
+    "Computer Graphics and Computer-Aided Design": 3.4444444444444446,
+    "Computer Networks and Communications": 54.31636002886024,
+    "Computer Science Applications": 7.465277777777773,
+    "Computer Vision and Pattern Recognition": 67.51112914862946,
+    "Hardware and Architecture": 4.810858585858587,
+    "Human-Computer Interaction": 7.815873015873009,
+    "Information Systems": 70.25622895622911,
+    "Signal Processing": 18.672240259740256,
+    "Software": 13.92222222222221
+  },
+  "Hue Central Hospital": {
+    "Artificial Intelligence": 1.1073232323232325,
+    "Computational Theory and Mathematics": 0.13095238095238093,
+    "Computer Networks and Communications": 0.8333333333333334,
+    "Computer Science Applications": 0.15555555555555556,
+    "Computer Vision and Pattern Recognition": 0.7166666666666668,
+    "Hardware and Architecture": 1.0,
+    "Information Systems": 1.8916666666666666,
+    "Signal Processing": 0.08333333333333333
+  },
+  "Ho Chi Minh City International University": {
+    "Artificial Intelligence": 14.141964285714272,
+    "Computational Theory and Mathematics": 10.755128205128207,
+    "Computer Graphics and Computer-Aided Design": 2.272222222222222,
+    "Computer Networks and Communications": 8.897222222222219,
+    "Computer Science Applications": 2.1936507936507934,
+    "Computer Vision and Pattern Recognition": 20.811309523809527,
+    "Human-Computer Interaction": 2.3174603174603177,
+    "Information Systems": 5.713888888888885,
+    "Signal Processing": 3.1196428571428583,
+    "Software": 0.16666666666666666
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Artificial Intelligence": 9.272619047619036,
+    "Computational Theory and Mathematics": 0.4666666666666666,
+    "Computer Networks and Communications": 1.5,
+    "Computer Science Applications": 1.600793650793651,
+    "Computer Vision and Pattern Recognition": 2.2045093795093793,
+    "Hardware and Architecture": 0.08333333333333333,
+    "Human-Computer Interaction": 1.4444444444444446,
+    "Information Systems": 10.541666666666668,
+    "Signal Processing": 1.1749999999999998,
+    "Software": 0.13333333333333333
+  },
+  "Duy Tan University": {
+    "Artificial Intelligence": 91.58768398268433,
+    "Computational Theory and Mathematics": 46.22262459762482,
+    "Computer Graphics and Computer-Aided Design": 1.26984126984127,
+    "Computer Networks and Communications": 93.68265993266017,
+    "Computer Science Applications": 6.220382395382394,
+    "Computer Vision and Pattern Recognition": 39.77535612535629,
+    "Hardware and Architecture": 1.0176046176046176,
+    "Human-Computer Interaction": 7.767551892551885,
+    "Information Systems": 42.58814287564297,
+    "Signal Processing": 11.27698412698412,
+    "Software": 2.7753968253968258
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Artificial Intelligence": 3.527777777777778,
+    "Computer Networks and Communications": 0.46428571428571425,
+    "Computer Science Applications": 1.4444444444444444,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 4.305555555555556,
+    "Signal Processing": 0.25
+  },
+  "Viet Nam Government": {
+    "Artificial Intelligence": 4.002777777777777,
+    "Computational Theory and Mathematics": 0.3333333333333333,
+    "Computer Networks and Communications": 1.742063492063492,
+    "Computer Science Applications": 0.25,
+    "Computer Vision and Pattern Recognition": 0.5,
+    "Information Systems": 0.9753968253968255,
+    "Signal Processing": 0.5753968253968254
+  },
+  "Ministry of Science and Technology": {
+    "Artificial Intelligence": 1.898809523809524,
+    "Computational Theory and Mathematics": 0.4563492063492064,
+    "Computer Networks and Communications": 0.75,
+    "Computer Vision and Pattern Recognition": 1.3666666666666667,
+    "Hardware and Architecture": 0.07142857142857142,
+    "Human-Computer Interaction": 0.20965608465608462,
+    "Information Systems": 0.5783128908128908,
+    "Signal Processing": 0.5416666666666666
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Artificial Intelligence": 20.555952380952377,
+    "Computational Theory and Mathematics": 2.2722222222222226,
+    "Computer Graphics and Computer-Aided Design": 0.05555555555555555,
+    "Computer Networks and Communications": 2.9083333333333328,
+    "Computer Science Applications": 1.9920634920634925,
+    "Computer Vision and Pattern Recognition": 5.613005050505052,
+    "Hardware and Architecture": 0.23333333333333334,
+    "Human-Computer Interaction": 1.6083333333333332,
+    "Information Systems": 16.058730158730157,
+    "Signal Processing": 4.936507936507938,
+    "Software": 0.3333333333333333
+  },
+  "Vietnamese-German University": {
+    "Artificial Intelligence": 17.957012085137066,
+    "Computational Theory and Mathematics": 7.847619047619046,
+    "Computer Graphics and Computer-Aided Design": 0.7625,
+    "Computer Networks and Communications": 16.841666666666658,
+    "Computer Science Applications": 1.722222222222222,
+    "Computer Vision and Pattern Recognition": 17.039087301587276,
+    "Hardware and Architecture": 2.9250000000000007,
+    "Human-Computer Interaction": 1.9452380952380957,
+    "Information Systems": 5.108333333333331,
+    "Signal Processing": 4.505555555555555,
+    "Software": 0.5
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Artificial Intelligence": 0.35,
+    "Computational Theory and Mathematics": 3.656593406593407,
+    "Information Systems": 1.7900793650793632,
+    "Signal Processing": 0.3333333333333333
+  },
+  "Bạch Mai Hospital": {
+    "Artificial Intelligence": 2.477668919774182,
+    "Computational Theory and Mathematics": 1.5257936507936511,
+    "Computer Networks and Communications": 0.3333333333333333,
+    "Computer Vision and Pattern Recognition": 1.3325396825396825,
+    "Information Systems": 0.06666666666666667,
+    "Signal Processing": 0.25
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Artificial Intelligence": 17.517147667147672,
+    "Computational Theory and Mathematics": 0.030303030303030304,
+    "Computer Networks and Communications": 0.25,
+    "Hardware and Architecture": 0.1111111111111111,
+    "Information Systems": 0.7222222222222221
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Artificial Intelligence": 1.9333333333333327,
+    "Computational Theory and Mathematics": 1.0454545454545454,
+    "Computer Networks and Communications": 0.625,
+    "Computer Vision and Pattern Recognition": 1.0,
+    "Information Systems": 0.375
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Artificial Intelligence": 4.926467051467051,
+    "Computational Theory and Mathematics": 0.8642857142857143,
+    "Computer Networks and Communications": 0.8242063492063492,
+    "Computer Science Applications": 0.047619047619047616,
+    "Computer Vision and Pattern Recognition": 1.7361111111111114,
+    "Hardware and Architecture": 0.26666666666666666,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 1.09484126984127,
+    "Signal Processing": 0.5,
+    "Software": 0.08333333333333333
+  },
+  "Dong Thap University": {
+    "Artificial Intelligence": 11.9262987012987,
+    "Computational Theory and Mathematics": 21.050396825396824,
+    "Computer Networks and Communications": 3.825396825396825,
+    "Computer Science Applications": 6.819047619047616,
+    "Computer Vision and Pattern Recognition": 2.4944444444444445,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 18.839947089947092,
+    "Signal Processing": 0.19444444444444445
+  },
+  "Hue University of Education": {
+    "Artificial Intelligence": 10.78358585858586,
+    "Computational Theory and Mathematics": 4.688888888888886,
+    "Computer Graphics and Computer-Aided Design": 0.3333333333333333,
+    "Computer Networks and Communications": 1.1236111111111113,
+    "Computer Science Applications": 0.6666666666666666,
+    "Computer Vision and Pattern Recognition": 0.8333333333333334,
+    "Information Systems": 1.1736111111111112
+  },
+  "National Economics University": {
+    "Artificial Intelligence": 36.42947330447332,
+    "Computational Theory and Mathematics": 17.85555555555554,
+    "Computer Graphics and Computer-Aided Design": 0.47777777777777775,
+    "Computer Networks and Communications": 2.9052910052910055,
+    "Computer Science Applications": 8.224747474747463,
+    "Computer Vision and Pattern Recognition": 5.934379509379509,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Human-Computer Interaction": 1.9696969696969695,
+    "Information Systems": 54.53704906204934,
+    "Signal Processing": 0.5380952380952381,
+    "Software": 0.3333333333333333
+  },
+  "Hai Phong University": {
+    "Artificial Intelligence": 13.403451178451164,
+    "Computational Theory and Mathematics": 3.6791666666666667,
+    "Computer Graphics and Computer-Aided Design": 0.9166666666666667,
+    "Computer Networks and Communications": 5.997222222222222,
+    "Computer Science Applications": 0.30833333333333335,
+    "Computer Vision and Pattern Recognition": 4.330555555555555,
+    "Hardware and Architecture": 0.9583333333333333,
+    "Human-Computer Interaction": 0.40555555555555556,
+    "Information Systems": 11.122222222222216,
+    "Signal Processing": 1.0416666666666665,
+    "Software": 0.4111111111111111
+  },
+  "Hanoi University of Pharmacy": {
+    "Artificial Intelligence": 1.8303571428571428,
+    "Computational Theory and Mathematics": 12.289599289599273,
+    "Computer Networks and Communications": 0.6666666666666666,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 0.5151515151515151,
+    "Information Systems": 2.8525252525252522
+  },
+  "Thai Nguyen National General Hospital": {
+    "Artificial Intelligence": 7.0361111111111105,
+    "Computational Theory and Mathematics": 1.6574074074074072,
+    "Computer Networks and Communications": 1.25,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 2.949074074074074,
+    "Information Systems": 3.7333333333333334,
+    "Signal Processing": 0.16666666666666666
+  },
+  "Fulbright University Vietnam": {
+    "Artificial Intelligence": 4.323809523809525,
+    "Computational Theory and Mathematics": 0.738095238095238,
+    "Computer Networks and Communications": 1.5833333333333335,
+    "Computer Science Applications": 0.3333333333333333,
+    "Computer Vision and Pattern Recognition": 3.1666666666666665,
+    "Hardware and Architecture": 0.7272727272727272,
+    "Human-Computer Interaction": 0.375,
+    "Information Systems": 3.305555555555556,
+    "Signal Processing": 0.07142857142857142,
+    "Software": 0.05555555555555555
+  },
+  "Lac Hong University": {
+    "Artificial Intelligence": 30.484294871794884,
+    "Computational Theory and Mathematics": 3.85595238095238,
+    "Computer Graphics and Computer-Aided Design": 0.5,
+    "Computer Networks and Communications": 13.18690476190475,
+    "Computer Science Applications": 5.550000000000001,
+    "Computer Vision and Pattern Recognition": 9.483531746031737,
+    "Hardware and Architecture": 0.4666666666666667,
+    "Human-Computer Interaction": 1.275,
+    "Information Systems": 26.518055555555545,
+    "Signal Processing": 3.7257936507936513,
+    "Software": 0.8333333333333333
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Artificial Intelligence": 12.146825396825387,
+    "Computational Theory and Mathematics": 3.29484126984127,
+    "Computer Graphics and Computer-Aided Design": 0.11666666666666667,
+    "Computer Networks and Communications": 3.0880952380952387,
+    "Computer Science Applications": 1.111111111111111,
+    "Computer Vision and Pattern Recognition": 5.839682539682539,
+    "Hardware and Architecture": 0.9250000000000002,
+    "Human-Computer Interaction": 1.3499999999999996,
+    "Information Systems": 7.564087301587301,
+    "Signal Processing": 1.6710317460317459
+  },
+  "Quy Nhon University": {
+    "Artificial Intelligence": 30.589285714285705,
+    "Computational Theory and Mathematics": 26.517989417989398,
+    "Computer Graphics and Computer-Aided Design": 7.86111111111111,
+    "Computer Networks and Communications": 13.89351851851851,
+    "Computer Science Applications": 0.047619047619047616,
+    "Computer Vision and Pattern Recognition": 8.3031746031746,
+    "Hardware and Architecture": 2.2777777777777777,
+    "Information Systems": 40.0837301587302,
+    "Signal Processing": 2.5142857142857142,
+    "Software": 0.1111111111111111
+  },
+  "Tien Giang General Hospital": {
+    "Artificial Intelligence": 4.105555555555556,
+    "Computational Theory and Mathematics": 4.91388888888889,
+    "Computer Graphics and Computer-Aided Design": 0.30000000000000004,
+    "Computer Networks and Communications": 0.5666666666666667,
+    "Computer Science Applications": 0.2,
+    "Computer Vision and Pattern Recognition": 5.552711640211639,
+    "Information Systems": 3.8416666666666663,
+    "Signal Processing": 0.7833333333333332
+  },
+  "Thang Long University": {
+    "Artificial Intelligence": 71.10004031915803,
+    "Computational Theory and Mathematics": 37.02896825396826,
+    "Computer Graphics and Computer-Aided Design": 6.783333333333333,
+    "Computer Networks and Communications": 17.222222222222225,
+    "Computer Science Applications": 1.3333333333333333,
+    "Computer Vision and Pattern Recognition": 10.980555555555553,
+    "Hardware and Architecture": 3.083333333333333,
+    "Human-Computer Interaction": 0.39999999999999997,
+    "Information Systems": 72.60555555555563,
+    "Signal Processing": 7.019444444444443,
+    "Software": 1.6666666666666665
+  },
+  "FPT University": {
+    "Artificial Intelligence": 245.2049583722358,
+    "Computational Theory and Mathematics": 35.268253968253944,
+    "Computer Graphics and Computer-Aided Design": 5.215277777777776,
+    "Computer Networks and Communications": 79.61174772939526,
+    "Computer Science Applications": 57.25634920634932,
+    "Computer Vision and Pattern Recognition": 167.14700046685292,
+    "Hardware and Architecture": 4.957539682539683,
+    "Human-Computer Interaction": 15.206944444444423,
+    "Information Systems": 197.84858298019958,
+    "Signal Processing": 53.33879162776247,
+    "Software": 5.4571428571428555
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Artificial Intelligence": 4.72777777777778,
+    "Computational Theory and Mathematics": 2.5,
+    "Computer Graphics and Computer-Aided Design": 0.5952380952380951,
+    "Computer Networks and Communications": 3.666666666666666,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 3.8452380952380953,
+    "Hardware and Architecture": 0.4444444444444444,
+    "Human-Computer Interaction": 0.2222222222222222,
+    "Information Systems": 4.722222222222221,
+    "Signal Processing": 1.2777777777777777
+  },
+  "Hanoi University of Industry": {
+    "Artificial Intelligence": 49.955687830688085,
+    "Computational Theory and Mathematics": 31.155952380952368,
+    "Computer Graphics and Computer-Aided Design": 0.6666666666666666,
+    "Computer Networks and Communications": 27.9181216931217,
+    "Computer Science Applications": 4.0928571428571425,
+    "Computer Vision and Pattern Recognition": 30.55138888888889,
+    "Hardware and Architecture": 0.825,
+    "Human-Computer Interaction": 2.438888888888888,
+    "Information Systems": 18.198015873015866,
+    "Signal Processing": 6.98637566137566,
+    "Software": 0.125
+  },
+  "Tay Bac University": {
+    "Artificial Intelligence": 10.311111111111101,
+    "Computational Theory and Mathematics": 4.111507936507937,
+    "Computer Networks and Communications": 1.8654761904761907,
+    "Computer Science Applications": 0.19444444444444442,
+    "Computer Vision and Pattern Recognition": 3.5126022126022125,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Human-Computer Interaction": 0.7222222222222221,
+    "Information Systems": 16.34642857142856,
+    "Signal Processing": 1.0678571428571428
+  },
+  "Nha Trang University": {
+    "Artificial Intelligence": 17.358333333333324,
+    "Computational Theory and Mathematics": 13.901190476190473,
+    "Computer Networks and Communications": 11.27480158730158,
+    "Computer Science Applications": 0.6,
+    "Computer Vision and Pattern Recognition": 8.349999999999998,
+    "Hardware and Architecture": 0.4642857142857142,
+    "Human-Computer Interaction": 1.130952380952381,
+    "Information Systems": 9.161111111111106,
+    "Signal Processing": 3.6785714285714293
+  },
+  "Hung Vuong University": {
+    "Artificial Intelligence": 1.6703703703703703,
+    "Computational Theory and Mathematics": 0.2361111111111111,
+    "Computer Science Applications": 0.14285714285714285,
+    "Computer Vision and Pattern Recognition": 0.8222222222222222,
+    "Human-Computer Interaction": 0.41666666666666663,
+    "Information Systems": 0.41666666666666663,
+    "Software": 0.25
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Artificial Intelligence": 0.7333333333333333,
+    "Computational Theory and Mathematics": 0.16666666666666666,
+    "Computer Networks and Communications": 2.1666666666666665,
+    "Computer Science Applications": 0.5833333333333333,
+    "Computer Vision and Pattern Recognition": 0.13333333333333333,
+    "Hardware and Architecture": 0.5,
+    "Information Systems": 0.16666666666666666
+  },
+  "Institute of Transport Science and Technology": {
+    "Artificial Intelligence": 4.538888888888889,
+    "Computer Networks and Communications": 2.9444444444444446,
+    "Computer Vision and Pattern Recognition": 2.944444444444444,
+    "Information Systems": 0.1388888888888889,
+    "Signal Processing": 1.6666666666666665
+  },
+  "Field Crops Research Institute": {
+    "Artificial Intelligence": 2.087719298245614,
+    "Computational Theory and Mathematics": 0.4758771929824561,
+    "Computer Science Applications": 0.125,
+    "Computer Vision and Pattern Recognition": 1.0,
+    "Information Systems": 1.1953216374269005
+  },
+  "Bình Dương University": {
+    "Artificial Intelligence": 23.335654160654162,
+    "Computational Theory and Mathematics": 5.423148148148148,
+    "Computer Graphics and Computer-Aided Design": 1.8333333333333333,
+    "Computer Networks and Communications": 5.946428571428571,
+    "Computer Science Applications": 1.8142857142857143,
+    "Computer Vision and Pattern Recognition": 6.210353535353535,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Human-Computer Interaction": 0.8333333333333333,
+    "Information Systems": 13.811507936507939,
+    "Signal Processing": 1.3055555555555558
+  },
+  "Hanoi Open University": {
+    "Artificial Intelligence": 44.916005291005334,
+    "Computational Theory and Mathematics": 12.070370370370368,
+    "Computer Graphics and Computer-Aided Design": 1.3333333333333333,
+    "Computer Networks and Communications": 13.799999999999995,
+    "Computer Science Applications": 1.4833333333333334,
+    "Computer Vision and Pattern Recognition": 20.83928571428573,
+    "Hardware and Architecture": 2.5692640692640696,
+    "Human-Computer Interaction": 1.4166666666666665,
+    "Information Systems": 51.51746031746036,
+    "Signal Processing": 3.4948412698412694,
+    "Software": 0.3333333333333333
+  },
+  "Foreign Trade University": {
+    "Artificial Intelligence": 28.61210317460317,
+    "Computational Theory and Mathematics": 2.833333333333333,
+    "Computer Graphics and Computer-Aided Design": 1.3333333333333333,
+    "Computer Networks and Communications": 8.249999999999996,
+    "Computer Science Applications": 7.4416666666666655,
+    "Computer Vision and Pattern Recognition": 3.1865079365079363,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Human-Computer Interaction": 1.277777777777778,
+    "Information Systems": 43.46964285714295,
+    "Signal Processing": 1.6944444444444444
+  },
+  "Ministry of Justice": {
+    "Artificial Intelligence": 0.16666666666666666
+  },
+  "University of Hai Duong": {
+    "Artificial Intelligence": 2.6111111111111107,
+    "Computational Theory and Mathematics": 0.625,
+    "Computer Networks and Communications": 1.3958333333333333,
+    "Computer Science Applications": 0.1,
+    "Computer Vision and Pattern Recognition": 1.0580808080808082,
+    "Human-Computer Interaction": 0.1111111111111111,
+    "Information Systems": 1.5222222222222221
+  },
+  "An Giang University": {
+    "Artificial Intelligence": 7.3452380952380905,
+    "Computational Theory and Mathematics": 4.769444444444444,
+    "Computer Networks and Communications": 4.257936507936507,
+    "Computer Science Applications": 2.725,
+    "Computer Vision and Pattern Recognition": 1.0444444444444443,
+    "Information Systems": 9.383333333333333,
+    "Signal Processing": 0.13095238095238093
+  },
+  "Institute of Materials Science": {
+    "Artificial Intelligence": 3.5091269841269845,
+    "Computational Theory and Mathematics": 0.2777777777777778,
+    "Computer Networks and Communications": 1.9861111111111107,
+    "Computer Vision and Pattern Recognition": 0.3333333333333333,
+    "Hardware and Architecture": 0.5,
+    "Human-Computer Interaction": 0.2222222222222222,
+    "Information Systems": 0.4333333333333333,
+    "Signal Processing": 0.1111111111111111
+  },
+  "Vin, University": {
+    "Artificial Intelligence": 71.68015410515426,
+    "Computational Theory and Mathematics": 6.551010101010099,
+    "Computer Graphics and Computer-Aided Design": 2.7638888888888893,
+    "Computer Networks and Communications": 8.046825396825396,
+    "Computer Science Applications": 2.251984126984127,
+    "Computer Vision and Pattern Recognition": 44.83989898989915,
+    "Hardware and Architecture": 0.6666666666666667,
+    "Human-Computer Interaction": 1.7666666666666666,
+    "Information Systems": 11.444047619047613,
+    "Signal Processing": 7.412698412698404
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Artificial Intelligence": 1.1040517961570595,
+    "Computational Theory and Mathematics": 1.1967171717171718,
+    "Computer Networks and Communications": 0.41666666666666663,
+    "Computer Science Applications": 0.1111111111111111,
+    "Computer Vision and Pattern Recognition": 0.24722222222222223,
+    "Information Systems": 2.710185185185184,
+    "Signal Processing": 0.5277777777777778,
+    "Software": 0.19444444444444442
+  },
+  "Academy of Cryptography Techniques": {
+    "Artificial Intelligence": 68.85138888888909,
+    "Computational Theory and Mathematics": 3.655952380952381,
+    "Computer Networks and Communications": 22.788227513227497,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 29.32440476190476,
+    "Hardware and Architecture": 3.964814814814815,
+    "Human-Computer Interaction": 0.06666666666666667,
+    "Information Systems": 18.62116402116402,
+    "Signal Processing": 9.437698412698406,
+    "Software": 1.497222222222222
+  },
+  "Vietnam National Children's Hospital": {
+    "Artificial Intelligence": 1.993128766658178,
+    "Computational Theory and Mathematics": 0.39999999999999997,
+    "Computer Vision and Pattern Recognition": 0.8303030303030303,
+    "Information Systems": 0.7333333333333333,
+    "Signal Processing": 0.5
+  },
+  "Hiep Phuoc Power (Vietnam)": {
+    "Artificial Intelligence": 1.097222222222222,
+    "Computer Vision and Pattern Recognition": 0.08333333333333333,
+    "Information Systems": 0.2
+  },
+  "International Center for Tropical Agriculture": {
+    "Artificial Intelligence": 3.3291423001949307,
+    "Computational Theory and Mathematics": 0.11842105263157894,
+    "Computer Science Applications": 0.2777777777777778,
+    "Computer Vision and Pattern Recognition": 0.08333333333333333,
+    "Information Systems": 1.4795321637426901,
+    "Signal Processing": 0.5099999999999999
+  },
+  "Pham Van Dong University": {
+    "Artificial Intelligence": 4.147222222222222,
+    "Computational Theory and Mathematics": 0.9722222222222223,
+    "Computer Networks and Communications": 2.947222222222222,
+    "Computer Vision and Pattern Recognition": 3.394444444444445,
+    "Hardware and Architecture": 0.4444444444444444,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 4.270039682539683,
+    "Signal Processing": 0.5555555555555556
+  },
+  "University Medical Center HCMC": {
+    "Artificial Intelligence": 3.290800557467224,
+    "Computational Theory and Mathematics": 0.03333333333333333,
+    "Computer Networks and Communications": 1.3333333333333333,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 1.078968253968254
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Artificial Intelligence": 6.199913733609384,
+    "Computational Theory and Mathematics": 3.671031746031746,
+    "Computer Networks and Communications": 0.9305555555555555,
+    "Computer Science Applications": 2.833333333333333,
+    "Computer Vision and Pattern Recognition": 3.183333333333333,
+    "Information Systems": 4.271825396825397,
+    "Signal Processing": 0.42777777777777776
+  },
+  "University of Finance - Marketing": {
+    "Artificial Intelligence": 14.077777777777763,
+    "Computational Theory and Mathematics": 1.4861111111111114,
+    "Computer Networks and Communications": 0.4305555555555555,
+    "Computer Science Applications": 0.8333333333333333,
+    "Computer Vision and Pattern Recognition": 1.138888888888889,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 23.218650793650784,
+    "Signal Processing": 1.0833333333333333
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Artificial Intelligence": 12.22440476190476,
+    "Computational Theory and Mathematics": 2.169047619047619,
+    "Computer Networks and Communications": 2.6469696969696974,
+    "Computer Science Applications": 2.233730158730159,
+    "Computer Vision and Pattern Recognition": 6.153451178451176,
+    "Hardware and Architecture": 0.06666666666666667,
+    "Human-Computer Interaction": 0.6507936507936507,
+    "Information Systems": 10.117460317460317,
+    "Signal Processing": 1.9817460317460318,
+    "Software": 0.5
+  },
+  "Bac Ha International University": {
+    "Artificial Intelligence": 1.4388888888888889,
+    "Computer Networks and Communications": 1.3916666666666666,
+    "Computer Vision and Pattern Recognition": 0.16666666666666666,
+    "Information Systems": 0.7,
+    "Signal Processing": 0.18888888888888888
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Artificial Intelligence": 5.683333333333334,
+    "Computational Theory and Mathematics": 2.136111111111111,
+    "Computer Networks and Communications": 2.263888888888889,
+    "Computer Science Applications": 2.662698412698412,
+    "Computer Vision and Pattern Recognition": 1.2055555555555555,
+    "Human-Computer Interaction": 0.3888888888888889,
+    "Information Systems": 9.678703703703704,
+    "Software": 0.2
+  },
+  "Thuongmai University": {
+    "Artificial Intelligence": 30.711574074074058,
+    "Computational Theory and Mathematics": 5.211111111111111,
+    "Computer Networks and Communications": 1.8305555555555555,
+    "Computer Science Applications": 5.7111111111111095,
+    "Computer Vision and Pattern Recognition": 3.0402777777777787,
+    "Hardware and Architecture": 0.05555555555555555,
+    "Human-Computer Interaction": 1.7611111111111108,
+    "Information Systems": 27.415079365079347,
+    "Signal Processing": 1.0,
+    "Software": 0.45833333333333326
+  },
+  "Hanoi Lung Hospital": {
+    "Artificial Intelligence": 2.096825396825396,
+    "Computational Theory and Mathematics": 0.027777777777777776,
+    "Computer Networks and Communications": 0.125,
+    "Information Systems": 0.3939393939393939,
+    "Signal Processing": 0.031746031746031744
+  },
+  "Forest Industry Research Institute": {
+    "Artificial Intelligence": 2.958333333333333,
+    "Computational Theory and Mathematics": 0.6666666666666666,
+    "Computer Vision and Pattern Recognition": 0.2305555555555555
+  },
+  "PetroVietnam University": {
+    "Artificial Intelligence": 1.7781746031746033,
+    "Computational Theory and Mathematics": 1.2777777777777777,
+    "Computer Networks and Communications": 0.08333333333333333,
+    "Computer Vision and Pattern Recognition": 0.8642857142857144,
+    "Human-Computer Interaction": 0.3333333333333333
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Artificial Intelligence": 2.041137566137566,
+    "Computational Theory and Mathematics": 0.037037037037037035,
+    "Computer Graphics and Computer-Aided Design": 0.30000000000000004,
+    "Computer Networks and Communications": 0.3333333333333333,
+    "Computer Vision and Pattern Recognition": 0.6333333333333333,
+    "Information Systems": 1.8333333333333333
+  },
+  "Vinh Long University of Technology Education": {
+    "Artificial Intelligence": 10.418650793650789,
+    "Computational Theory and Mathematics": 1.6242063492063494,
+    "Computer Graphics and Computer-Aided Design": 0.25,
+    "Computer Networks and Communications": 2.949206349206349,
+    "Computer Science Applications": 1.2222222222222223,
+    "Computer Vision and Pattern Recognition": 9.16944444444444,
+    "Human-Computer Interaction": 0.7222222222222221,
+    "Information Systems": 9.944841269841264,
+    "Signal Processing": 1.5555555555555554
+  },
+  "Viet Tri University of Industry": {
+    "Artificial Intelligence": 3.4287698412698417,
+    "Computational Theory and Mathematics": 0.9753968253968255,
+    "Computer Networks and Communications": 2.225,
+    "Computer Vision and Pattern Recognition": 1.1527777777777777,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 0.39999999999999997,
+    "Signal Processing": 1.402777777777778
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Artificial Intelligence": 6.235191499321931,
+    "Computational Theory and Mathematics": 16.779412035333035,
+    "Computer Networks and Communications": 0.3466666666666667,
+    "Computer Vision and Pattern Recognition": 1.5697751322751325,
+    "Human-Computer Interaction": 0.7,
+    "Information Systems": 1.0738095238095238,
+    "Signal Processing": 0.39444444444444443
+  },
+  "Hanoi Medical University": {
+    "Artificial Intelligence": 5.2784813334813325,
+    "Computational Theory and Mathematics": 1.2608345358345356,
+    "Computer Graphics and Computer-Aided Design": 0.047619047619047616,
+    "Computer Networks and Communications": 0.625,
+    "Computer Science Applications": 0.6190476190476191,
+    "Computer Vision and Pattern Recognition": 2.68430735930736,
+    "Hardware and Architecture": 0.1111111111111111,
+    "Human-Computer Interaction": 0.21363636363636365,
+    "Information Systems": 1.4807833978886609
+  },
+  "Vinmec International Hospital": {
+    "Artificial Intelligence": 0.8063797313797315,
+    "Computational Theory and Mathematics": 0.8333333333333333,
+    "Computer Vision and Pattern Recognition": 0.24444444444444444,
+    "Signal Processing": 0.047619047619047616
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Artificial Intelligence": 1.788888888888889,
+    "Computational Theory and Mathematics": 2.6619047619047613,
+    "Computer Networks and Communications": 0.16666666666666666,
+    "Computer Science Applications": 0.06666666666666667,
+    "Computer Vision and Pattern Recognition": 0.8055555555555556,
+    "Information Systems": 3.604100529100529
+  },
+  "Văn Hiến University": {
+    "Artificial Intelligence": 10.447619047619046,
+    "Computational Theory and Mathematics": 2.3444444444444446,
+    "Computer Graphics and Computer-Aided Design": 0.3333333333333333,
+    "Computer Networks and Communications": 2.891666666666667,
+    "Computer Science Applications": 1.35,
+    "Computer Vision and Pattern Recognition": 5.469841269841268,
+    "Human-Computer Interaction": 0.05555555555555555,
+    "Information Systems": 10.015873015873016,
+    "Signal Processing": 2.0833333333333335
+  },
+  "Anova Corp (Vietnam)": {
+    "Artificial Intelligence": 2.441305916305916,
+    "Computational Theory and Mathematics": 0.6842948717948718,
+    "Computer Graphics and Computer-Aided Design": 0.1111111111111111,
+    "Computer Networks and Communications": 1.0333333333333332,
+    "Computer Science Applications": 0.25,
+    "Computer Vision and Pattern Recognition": 1.1876984126984127,
+    "Information Systems": 2.4333333333333327,
+    "Signal Processing": 0.19444444444444442
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Artificial Intelligence": 2.5253885003884995,
+    "Computational Theory and Mathematics": 0.02666666666666667,
+    "Computer Networks and Communications": 0.26666666666666666,
+    "Computer Science Applications": 0.0625,
+    "Computer Vision and Pattern Recognition": 1.3063492063492068,
+    "Hardware and Architecture": 0.26666666666666666,
+    "Human-Computer Interaction": 0.5333333333333333,
+    "Information Systems": 2.6388888888888893,
+    "Signal Processing": 0.5694444444444444
+  },
+  "Phu Yen University": {
+    "Artificial Intelligence": 4.5249999999999995,
+    "Computational Theory and Mathematics": 2.402777777777778,
+    "Computer Networks and Communications": 0.9277777777777777,
+    "Computer Science Applications": 0.4861111111111111,
+    "Computer Vision and Pattern Recognition": 0.1,
+    "Hardware and Architecture": 0.8333333333333333,
+    "Information Systems": 2.402777777777778
+  },
+  "Van Lang University": {
+    "Artificial Intelligence": 46.94247835497847,
+    "Computational Theory and Mathematics": 9.855555555555542,
+    "Computer Graphics and Computer-Aided Design": 3.2277777777777783,
+    "Computer Networks and Communications": 17.786904761904772,
+    "Computer Science Applications": 9.102777777777776,
+    "Computer Vision and Pattern Recognition": 16.6445226070226,
+    "Hardware and Architecture": 0.25,
+    "Human-Computer Interaction": 3.455555555555556,
+    "Information Systems": 38.1497710622711,
+    "Signal Processing": 4.782287157287158,
+    "Software": 1.111111111111111
+  },
+  "Cat Tien National Park": {
+    "Artificial Intelligence": 2.519444444444444,
+    "Computational Theory and Mathematics": 0.8333333333333333,
+    "Computer Networks and Communications": 0.5277777777777778,
+    "Computer Science Applications": 0.537037037037037,
+    "Computer Vision and Pattern Recognition": 1.7941919191919196,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 3.4074074074074066,
+    "Signal Processing": 0.2222222222222222
+  },
+  "Hong Bang International University": {
+    "Artificial Intelligence": 9.59097222222222,
+    "Computational Theory and Mathematics": 2.4888888888888894,
+    "Computer Graphics and Computer-Aided Design": 0.38888888888888884,
+    "Computer Networks and Communications": 3.944444444444445,
+    "Computer Science Applications": 1.5,
+    "Computer Vision and Pattern Recognition": 0.5472222222222222,
+    "Hardware and Architecture": 0.5,
+    "Information Systems": 5.394444444444447,
+    "Signal Processing": 1.1111111111111112,
+    "Software": 0.16666666666666666
+  },
+  "Ministry of Education and Training": {
+    "Artificial Intelligence": 1.9186507936507937,
+    "Computational Theory and Mathematics": 0.6333333333333333,
+    "Computer Graphics and Computer-Aided Design": 0.2222222222222222,
+    "Computer Networks and Communications": 1.65,
+    "Computer Science Applications": 0.3332251082251082,
+    "Computer Vision and Pattern Recognition": 2.818650793650794,
+    "Hardware and Architecture": 0.4444444444444444,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 3.863516113516113,
+    "Signal Processing": 0.625
+  },
+  "Cho Ray Hospital": {
+    "Artificial Intelligence": 1.013451083799921,
+    "Computational Theory and Mathematics": 2.0932720057720062,
+    "Computer Vision and Pattern Recognition": 0.05555555555555555,
+    "Human-Computer Interaction": 1.0,
+    "Information Systems": 0.05594405594405594,
+    "Signal Processing": 0.12169312169312169
+  },
+  "University of Khanh Hoa": {
+    "Artificial Intelligence": 3.7142857142857144,
+    "Computational Theory and Mathematics": 10.255555555555555,
+    "Computer Networks and Communications": 3.250000000000001,
+    "Computer Science Applications": 0.1111111111111111,
+    "Computer Vision and Pattern Recognition": 2.3958333333333335,
+    "Hardware and Architecture": 0.5,
+    "Human-Computer Interaction": 0.16666666666666666,
+    "Information Systems": 5.111111111111111,
+    "Signal Processing": 0.7222222222222222
+  },
+  "Ho Chi Minh University of Banking": {
+    "Artificial Intelligence": 22.482539682539684,
+    "Computational Theory and Mathematics": 9.830555555555552,
+    "Computer Networks and Communications": 3.016666666666666,
+    "Computer Science Applications": 1.8888888888888888,
+    "Computer Vision and Pattern Recognition": 3.3500000000000005,
+    "Hardware and Architecture": 0.25,
+    "Human-Computer Interaction": 1.6944444444444449,
+    "Information Systems": 26.802910052910054,
+    "Signal Processing": 1.5296296296296297,
+    "Software": 0.2777777777777778
+  },
+  "Vietnam National University of Forestry": {
+    "Artificial Intelligence": 1.353654970760234,
+    "Computational Theory and Mathematics": 0.05555555555555555,
+    "Computer Graphics and Computer-Aided Design": 0.05555555555555555,
+    "Computer Networks and Communications": 0.2976190476190476,
+    "Computer Vision and Pattern Recognition": 1.1523439523439523,
+    "Human-Computer Interaction": 0.5,
+    "Information Systems": 1.0222222222222221,
+    "Signal Processing": 0.65
+  },
+  "Eastern International University": {
+    "Artificial Intelligence": 15.924206349206338,
+    "Computational Theory and Mathematics": 0.3714285714285714,
+    "Computer Networks and Communications": 10.234920634920632,
+    "Computer Science Applications": 2.191666666666667,
+    "Computer Vision and Pattern Recognition": 13.976948051948037,
+    "Hardware and Architecture": 0.376984126984127,
+    "Human-Computer Interaction": 1.0333333333333334,
+    "Information Systems": 11.096825396825391,
+    "Signal Processing": 1.816666666666667,
+    "Software": 1.1547619047619047
+  },
+  "Oxford University Clinical Research Unit": {
+    "Artificial Intelligence": 1.2066315327184893,
+    "Computational Theory and Mathematics": 2.1504179621806716,
+    "Computer Networks and Communications": 0.22285714285714286,
+    "Computer Vision and Pattern Recognition": 0.6159188034188035,
+    "Human-Computer Interaction": 0.1111111111111111,
+    "Information Systems": 0.9111111111111108,
+    "Signal Processing": 0.16917293233082706,
+    "Software": 0.1111111111111111
+  },
+  "Hồng Đức University": {
+    "Artificial Intelligence": 12.11904761904761,
+    "Computational Theory and Mathematics": 15.483333333333334,
+    "Computer Graphics and Computer-Aided Design": 0.3333333333333333,
+    "Computer Networks and Communications": 4.48536922015183,
+    "Computer Science Applications": 0.6833333333333332,
+    "Computer Vision and Pattern Recognition": 18.138888888888903,
+    "Human-Computer Interaction": 0.05555555555555555,
+    "Information Systems": 6.625,
+    "Signal Processing": 0.95
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Artificial Intelligence": 1.35,
+    "Computational Theory and Mathematics": 1.0833333333333333,
+    "Computer Networks and Communications": 0.16666666666666666,
+    "Computer Science Applications": 0.16666666666666666,
+    "Computer Vision and Pattern Recognition": 0.2222222222222222,
+    "Information Systems": 0.1
+  },
+  "Thai Nguyen University of Information and Communication Technology": {
+    "Artificial Intelligence": 1.93968253968254,
+    "Computational Theory and Mathematics": 0.34523809523809523,
+    "Computer Networks and Communications": 1.9555555555555555,
+    "Computer Vision and Pattern Recognition": 0.7055555555555555,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Human-Computer Interaction": 0.1111111111111111,
+    "Information Systems": 1.8174603174603177,
+    "Signal Processing": 0.1
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Artificial Intelligence": 0.44999999999999996,
+    "Computational Theory and Mathematics": 0.15873015873015872,
+    "Computer Vision and Pattern Recognition": 0.1111111111111111,
+    "Information Systems": 0.43333333333333335,
+    "Signal Processing": 0.16666666666666666
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Artificial Intelligence": 4.434523809523809,
+    "Computational Theory and Mathematics": 0.5833333333333333,
+    "Computer Graphics and Computer-Aided Design": 0.4,
+    "Computer Networks and Communications": 2.75,
+    "Computer Science Applications": 1.1666666666666665,
+    "Computer Vision and Pattern Recognition": 0.7777777777777777,
+    "Human-Computer Interaction": 1.5,
+    "Information Systems": 18.761111111111113
+  },
+  "Hospital for Tropical Diseases": {
+    "Artificial Intelligence": 1.8419312169312168,
+    "Computational Theory and Mathematics": 2.905999066293184,
+    "Computer Networks and Communications": 0.6944973544973542,
+    "Computer Science Applications": 0.06666666666666667,
+    "Computer Vision and Pattern Recognition": 1.75,
+    "Information Systems": 1.3206349206349204
+  },
+  "Phenikaa (Vietnam)": {
+    "Artificial Intelligence": 4.238425925925926,
+    "Computational Theory and Mathematics": 0.9285714285714286,
+    "Computer Networks and Communications": 5.603174603174601,
+    "Computer Science Applications": 0.06666666666666667,
+    "Computer Vision and Pattern Recognition": 7.440476190476186,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Information Systems": 1.0999999999999999,
+    "Signal Processing": 0.7777777777777777
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Artificial Intelligence": 2.5666666666666664,
+    "Computational Theory and Mathematics": 0.34444444444444444,
+    "Computer Networks and Communications": 0.2361111111111111,
+    "Computer Science Applications": 5.84476911976912,
+    "Computer Vision and Pattern Recognition": 0.47222222222222215,
+    "Information Systems": 9.254888167388161,
+    "Signal Processing": 0.08333333333333333
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Artificial Intelligence": 7.173412698412701,
+    "Computational Theory and Mathematics": 2.5054029304029304,
+    "Computer Graphics and Computer-Aided Design": 0.1111111111111111,
+    "Computer Networks and Communications": 2.304761904761905,
+    "Computer Science Applications": 1.9166666666666672,
+    "Computer Vision and Pattern Recognition": 1.3400793650793652,
+    "Hardware and Architecture": 0.3333333333333333,
+    "Human-Computer Interaction": 0.125,
+    "Information Systems": 7.704761904761903,
+    "Signal Processing": 0.5583333333333333
+  },
+  "Ministry of Information and Communications": {
+    "Artificial Intelligence": 0.125,
+    "Computer Networks and Communications": 0.9630952380952381,
+    "Information Systems": 0.125,
+    "Signal Processing": 0.041666666666666664
+  },
+  "Danang Architecture University": {
+    "Artificial Intelligence": 2.1353174603174603,
+    "Computer Networks and Communications": 1.4027777777777777,
+    "Computer Science Applications": 0.08333333333333333,
+    "Computer Vision and Pattern Recognition": 0.21666666666666667,
+    "Information Systems": 0.2222222222222222,
+    "Signal Processing": 0.20555555555555555
+  },
+  "International Centre for Interdisciplinary Science and Education": {
+    "Artificial Intelligence": 1.2527777777777778,
+    "Computer Networks and Communications": 0.25
+  },
+  "Institute of Biomedical Physics": {
+    "Artificial Intelligence": 1.5,
+    "Computer Vision and Pattern Recognition": 0.3333333333333333
+  },
+  "Phenikaa University": {
+    "Artificial Intelligence": 59.676581289081405,
+    "Computational Theory and Mathematics": 15.323524623524618,
+    "Computer Graphics and Computer-Aided Design": 1.7638888888888888,
+    "Computer Networks and Communications": 37.580753968254044,
+    "Computer Science Applications": 5.266161616161616,
+    "Computer Vision and Pattern Recognition": 24.099775132275127,
+    "Hardware and Architecture": 0.5333333333333333,
+    "Human-Computer Interaction": 6.015476190476188,
+    "Information Systems": 18.989905002404996,
+    "Signal Processing": 3.440476190476191,
+    "Software": 1.277777777777778
+  },
+  "Thanh Hoa Department of Health": {
+    "Artificial Intelligence": 0.1111111111111111,
+    "Information Systems": 0.1111111111111111
+  },
+  "Trung Vuong University": {
+    "Artificial Intelligence": 3.5256410256410255,
+    "Computational Theory and Mathematics": 2.2222222222222223,
+    "Computer Graphics and Computer-Aided Design": 0.8,
+    "Computer Networks and Communications": 0.5833333333333333,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 1.0833333333333333,
+    "Information Systems": 1.4444444444444444,
+    "Signal Processing": 0.5
+  },
+  "Baria Vungtau University": {
+    "Artificial Intelligence": 2.716666666666667,
+    "Computer Graphics and Computer-Aided Design": 1.0,
+    "Computer Networks and Communications": 0.16666666666666666,
+    "Computer Science Applications": 1.5000000000000002,
+    "Computer Vision and Pattern Recognition": 2.1166666666666667,
+    "Human-Computer Interaction": 1.3333333333333333,
+    "Information Systems": 4.446464646464646,
+    "Signal Processing": 0.6666666666666666
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Artificial Intelligence": 0.7670634920634921,
+    "Computer Networks and Communications": 0.047619047619047616,
+    "Computer Vision and Pattern Recognition": 0.5083333333333333,
+    "Signal Processing": 0.4642857142857143
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Artificial Intelligence": 0.25,
+    "Computational Theory and Mathematics": 2.416666666666667,
+    "Computer Graphics and Computer-Aided Design": 0.08333333333333333,
+    "Computer Networks and Communications": 0.25,
+    "Computer Vision and Pattern Recognition": 0.4742063492063492,
+    "Hardware and Architecture": 0.1111111111111111,
+    "Information Systems": 0.2916666666666667
+  },
+  "National Academy of Public Administration": {
+    "Artificial Intelligence": 1.3753968253968254,
+    "Computational Theory and Mathematics": 0.4444444444444444,
+    "Computer Networks and Communications": 0.3761904761904762,
+    "Computer Science Applications": 0.5,
+    "Computer Vision and Pattern Recognition": 0.1111111111111111,
+    "Information Systems": 4.107936507936508,
+    "Signal Processing": 0.1
+  },
+  "National Center for Technological Progress": {
+    "Artificial Intelligence": 0.42499999999999993,
+    "Computer Networks and Communications": 0.6500000000000001,
+    "Computer Vision and Pattern Recognition": 2.085714285714286,
+    "Signal Processing": 0.6666666666666665
+  },
+  "Hanoi Procuratorate University": {
+    "Artificial Intelligence": 0.08333333333333333,
+    "Information Systems": 0.08333333333333333,
+    "Signal Processing": 0.08333333333333333
+  },
+  "Ho Chi Minh City University of Law": {
+    "Artificial Intelligence": 6.691666666666667,
+    "Computational Theory and Mathematics": 1.0,
+    "Computer Networks and Communications": 0.5,
+    "Information Systems": 7.194444444444444
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Artificial Intelligence": 1.3305555555555557,
+    "Computer Vision and Pattern Recognition": 0.6000000000000001,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 0.06666666666666667
+  },
+  "Hanoi Medical University Hospital": {
+    "Artificial Intelligence": 0.6490075861211292,
+    "Computational Theory and Mathematics": 0.12222222222222222,
+    "Computer Vision and Pattern Recognition": 0.4805555555555555
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Artificial Intelligence": 4.406481481481481,
+    "Computer Networks and Communications": 0.16666666666666669,
+    "Computer Science Applications": 0.6666666666666666,
+    "Computer Vision and Pattern Recognition": 0.25277777777777777,
+    "Human-Computer Interaction": 0.6666666666666666,
+    "Information Systems": 6.248148148148147
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Artificial Intelligence": 0.2583333333333333,
+    "Computational Theory and Mathematics": 0.041666666666666664,
+    "Computer Networks and Communications": 0.3333333333333333,
+    "Computer Vision and Pattern Recognition": 0.3
+  },
+  "University of Labor and Social Affairs": {
+    "Artificial Intelligence": 6.369444444444446,
+    "Computer Graphics and Computer-Aided Design": 1.0,
+    "Computer Networks and Communications": 1.0,
+    "Computer Science Applications": 0.8333333333333333,
+    "Computer Vision and Pattern Recognition": 0.6277777777777777,
+    "Human-Computer Interaction": 0.3333333333333333,
+    "Information Systems": 9.75,
+    "Signal Processing": 0.1111111111111111
+  },
+  "Viet Duc Hospital": {
+    "Artificial Intelligence": 1.1789321789321792,
+    "Computational Theory and Mathematics": 0.041666666666666664,
+    "Computer Networks and Communications": 0.5,
+    "Computer Vision and Pattern Recognition": 1.0166666666666666,
+    "Information Systems": 0.12037037037037035
+  },
+  "British University Vietnam": {
+    "Artificial Intelligence": 7.705753968253964,
+    "Computational Theory and Mathematics": 1.4555555555555555,
+    "Computer Graphics and Computer-Aided Design": 0.3333333333333333,
+    "Computer Networks and Communications": 7.791666666666666,
+    "Computer Science Applications": 3.249404761904762,
+    "Computer Vision and Pattern Recognition": 1.0476190476190474,
+    "Hardware and Architecture": 0.06666666666666667,
+    "Human-Computer Interaction": 1.0166666666666666,
+    "Information Systems": 11.298015873015874,
+    "Signal Processing": 2.3402777777777777
+  },
+  "Health Strategy and Policy Institute": {
+    "Artificial Intelligence": 0.9701178451178452,
+    "Information Systems": 0.5256410256410257
+  },
+  "Vietnam Aviation Academy": {
+    "Artificial Intelligence": 0.08333333333333333
+  },
+  "Học viện Tư pháp": {
+    "Artificial Intelligence": 0.2777777777777778,
+    "Computational Theory and Mathematics": 1.5555555555555558,
+    "Computer Networks and Communications": 2.111111111111111,
+    "Computer Vision and Pattern Recognition": 0.1111111111111111,
+    "Information Systems": 2.0
+  },
+  "Hanoi Architectural University": {
+    "Artificial Intelligence": 3.303174603174602,
+    "Computational Theory and Mathematics": 6.597619047619049,
+    "Computer Graphics and Computer-Aided Design": 0.9166666666666665,
+    "Computer Networks and Communications": 2.4161375661375657,
+    "Computer Science Applications": 0.375,
+    "Computer Vision and Pattern Recognition": 6.589814814814815,
+    "Hardware and Architecture": 0.19907407407407407,
+    "Human-Computer Interaction": 1.0,
+    "Information Systems": 0.7546296296296295,
+    "Signal Processing": 1.5055555555555555
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Artificial Intelligence": 0.06666666666666667,
+    "Computational Theory and Mathematics": 0.027777777777777776,
+    "Information Systems": 0.19305555555555554
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Artificial Intelligence": 0.7333333333333333,
+    "Computational Theory and Mathematics": 0.1111111111111111
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Artificial Intelligence": 0.75,
+    "Signal Processing": 0.08333333333333333
+  },
+  "Hanoi University of Business and Technology": {
+    "Artificial Intelligence": 1.5027777777777778,
+    "Computational Theory and Mathematics": 0.2111111111111111,
+    "Computer Networks and Communications": 1.4583333333333333,
+    "Computer Science Applications": 0.41666666666666663,
+    "Computer Vision and Pattern Recognition": 0.4916666666666667,
+    "Information Systems": 0.8222222222222221,
+    "Signal Processing": 0.39166666666666666
+  },
+  "Saigon International University": {
+    "Artificial Intelligence": 3.3499999999999988,
+    "Computational Theory and Mathematics": 0.3833333333333333,
+    "Computer Networks and Communications": 1.4166666666666667,
+    "Computer Science Applications": 0.3333333333333333,
+    "Computer Vision and Pattern Recognition": 6.649999999999997,
+    "Hardware and Architecture": 0.16666666666666666,
+    "Information Systems": 1.8051587301587304,
+    "Signal Processing": 2.8222222222222224
+  },
+  "National Institute of Nutrition": {
+    "Artificial Intelligence": 0.3722222222222222,
+    "Computational Theory and Mathematics": 1.5155194805194805,
+    "Computer Networks and Communications": 0.08333333333333333,
+    "Computer Vision and Pattern Recognition": 1.1111111111111112,
+    "Human-Computer Interaction": 0.16666666666666669,
+    "Information Systems": 0.5303030303030303
+  },
+  "Hanoi University of Culture": {
+    "Artificial Intelligence": 1.5,
+    "Computer Science Applications": 0.16666666666666666,
+    "Computer Vision and Pattern Recognition": 0.41666666666666663,
+    "Information Systems": 3.5500000000000003
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Artificial Intelligence": 0.4722222222222223,
+    "Computer Vision and Pattern Recognition": 0.3333333333333333,
+    "Information Systems": 0.021739130434782608
+  },
+  "Hung Vuong Hospital": {
+    "Artificial Intelligence": 1.2013708513708514,
+    "Computational Theory and Mathematics": 0.611111111111111,
+    "Computer Networks and Communications": 0.05555555555555555,
+    "Computer Science Applications": 0.6666666666666666,
+    "Computer Vision and Pattern Recognition": 0.6166666666666665,
+    "Information Systems": 0.48888888888888893,
+    "Software": 0.3333333333333333
+  },
+  "Viet Nam National Academy of Music": {
+    "Artificial Intelligence": 1.125,
+    "Computer Networks and Communications": 0.5,
+    "Hardware and Architecture": 0.5,
+    "Information Systems": 0.375
+  },
+  "National Institute of Animal Sciences": {
+    "Artificial Intelligence": 0.125,
+    "Computer Networks and Communications": 0.125
+  },
+  "Children's Hospital 1": {
+    "Artificial Intelligence": 0.11464646464646464,
+    "Computer Vision and Pattern Recognition": 0.027777777777777776
+  },
+  "East Asia University of Technology": {
+    "Artificial Intelligence": 1.555555555555556,
+    "Computer Science Applications": 0.25,
+    "Computer Vision and Pattern Recognition": 0.6722222222222222,
+    "Human-Computer Interaction": 0.08333333333333333,
+    "Information Systems": 0.6,
+    "Signal Processing": 0.08333333333333333
+  },
+  "Vietnam University of Fine Arts": {
+    "Artificial Intelligence": 0.19444444444444442,
+    "Computer Graphics and Computer-Aided Design": 0.16666666666666666,
+    "Computer Networks and Communications": 0.05555555555555555,
+    "Human-Computer Interaction": 0.1111111111111111,
+    "Information Systems": 0.05555555555555555
+  },
+  "Hanoi Law University": {
+    "Artificial Intelligence": 3.3138888888888896,
+    "Computational Theory and Mathematics": 0.08333333333333333,
+    "Computer Networks and Communications": 0.1111111111111111,
+    "Computer Science Applications": 1.1666666666666665,
+    "Computer Vision and Pattern Recognition": 0.26666666666666666,
+    "Hardware and Architecture": 0.1111111111111111,
+    "Information Systems": 11.866666666666669,
+    "Signal Processing": 0.16666666666666666
+  },
+  "Vinh Phuc Department of Health": {
+    "Artificial Intelligence": 0.09343434343434343,
+    "Computer Vision and Pattern Recognition": 0.037037037037037035
+  },
+  "Center for Health Consultation and Community Development": {
+    "Artificial Intelligence": 0.16666666666666666,
+    "Computer Science Applications": 0.25,
+    "Information Systems": 0.19444444444444442
+  },
+  "Khanh Hoa General Hospital": {
+    "Artificial Intelligence": 0.696969696969697,
+    "Computational Theory and Mathematics": 0.12222222222222222,
+    "Computer Networks and Communications": 0.06666666666666667,
+    "Computer Science Applications": 0.7333333333333333,
+    "Computer Vision and Pattern Recognition": 1.8166666666666667,
+    "Information Systems": 0.14285714285714285
+  },
+  "Institute of Population, Health and Development": {
+    "Artificial Intelligence": 0.041666666666666664,
+    "Computer Networks and Communications": 0.1,
+    "Computer Vision and Pattern Recognition": 0.8250000000000001,
+    "Human-Computer Interaction": 0.16666666666666666,
+    "Information Systems": 1.1606060606060606,
+    "Signal Processing": 0.06060606060606061
+  },
+  "Children's Hospital 2": {
+    "Artificial Intelligence": 0.2,
+    "Computational Theory and Mathematics": 0.1736111111111111
+  },
+  "Academy of Policy and Development": {
+    "Artificial Intelligence": 0.8611111111111112,
+    "Computational Theory and Mathematics": 0.3888888888888889,
+    "Computer Science Applications": 0.2,
+    "Computer Vision and Pattern Recognition": 0.05555555555555555,
+    "Information Systems": 0.85
+  },
+  "My Duc Hospital": {
+    "Artificial Intelligence": 0.5
+  },
+  "Institute for Studies of Society, Economy and Environment": {
+    "Artificial Intelligence": 0.06666666666666667
+  },
+  "National Institute of Veterinary Research": {
+    "Artificial Intelligence": 0.125,
+    "Computational Theory and Mathematics": 0.030303030303030304,
+    "Computer Vision and Pattern Recognition": 0.041666666666666664
+  },
+  "Da Nang Hospital": {
+    "Artificial Intelligence": 1.5,
+    "Computational Theory and Mathematics": 0.5888888888888888,
+    "Computer Networks and Communications": 0.41666666666666663,
+    "Computer Science Applications": 0.08333333333333333,
+    "Computer Vision and Pattern Recognition": 0.20833333333333331,
+    "Information Systems": 0.611111111111111,
+    "Signal Processing": 0.06666666666666667
+  },
+  "Vietnam Sweden hospital": {
+    "Artificial Intelligence": 0.17777777777777776,
+    "Computational Theory and Mathematics": 0.38888888888888884,
+    "Computer Vision and Pattern Recognition": 0.06666666666666667,
+    "Information Systems": 0.16666666666666666
+  },
+  "Vinh Medical University": {
+    "Artificial Intelligence": 0.13333333333333333,
+    "Computational Theory and Mathematics": 0.2,
+    "Computer Vision and Pattern Recognition": 0.2222222222222222,
+    "Information Systems": 2.083333333333333
+  },
+  "Microfinance and Community Development Institute": {
+    "Artificial Intelligence": 0.09523809523809523
+  },
+  "Da Nang University of Economics": {
+    "Artificial Intelligence": 0.375,
+    "Computer Networks and Communications": 2.3333333333333335,
+    "Information Systems": 0.5833333333333333
+  },
+  "CARE International in Vietnam": {
+    "Artificial Intelligence": 0.4851190476190476,
+    "Computer Science Applications": 0.06666666666666667,
+    "Computer Vision and Pattern Recognition": 0.05555555555555555,
+    "Information Systems": 0.10802005012531328
+  },
+  "The American University of Vietnam": {
+    "Artificial Intelligence": 0.05555555555555555,
+    "Computer Networks and Communications": 0.05555555555555555,
+    "Computer Vision and Pattern Recognition": 0.05555555555555555,
+    "Information Systems": 0.3333333333333333
+  },
+  "Ministry of Foreign Affairs": {
+    "Artificial Intelligence": 0.125,
+    "Computer Networks and Communications": 0.125,
+    "Information Systems": 0.027777777777777776
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Computational Theory and Mathematics": 3.8757807007807,
+    "Computer Vision and Pattern Recognition": 2.1279761904761902
+  },
+  "Dong Thap Hospital": {
+    "Computational Theory and Mathematics": 0.07142857142857142,
+    "Information Systems": 0.6666666666666666
+  },
+  "Ho Chi Minh City University of Fine Arts": {
+    "Computational Theory and Mathematics": 0.5,
+    "Computer Graphics and Computer-Aided Design": 1.1666666666666665,
+    "Human-Computer Interaction": 0.16666666666666666,
+    "Information Systems": 0.23333333333333334
+  },
+  "Van Xuan University of Technology": {
+    "Computational Theory and Mathematics": 0.3333333333333333
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Computer Networks and Communications": 0.5,
+    "Information Systems": 0.020833333333333332
+  },
+  "National Council for Science and Technology Policy": {
+    "Computer Networks and Communications": 0.05555555555555555,
+    "Computer Vision and Pattern Recognition": 0.15277777777777776
+  },
+  "Vietnam International Education Cooperation Department": {
+    "Computer Networks and Communications": 0.3333333333333333
+  },
+  "University of Economics - Technology for Industries": {
+    "Computer Vision and Pattern Recognition": 0.25
+  },
+  "CMC University": {
+    "Human-Computer Interaction": 0.08333333333333333
+  },
+  "Thanhtay University": {
+    "Information Systems": 0.023809523809523808
+  },
+  "Ministry of Labour, Invalids and Social Affairs": {
+    "Information Systems": 0.3333333333333333
+  },
+  "Ho Chi Minh City University of Culture": {
+    "Information Systems": 1.25
+  },
+  "Institut Pasteur de Nha Trang": {
+    "Information Systems": 0.022222222222222223
+  },
+  "Center for Environment and Community Assets Development": {
+    "Information Systems": 0.030303030303030304
+  },
+  "Dai Nam University": {
+    "Information Systems": 1.0
+  },
+  "Ministry Of Health": {
+    "Information Systems": 0.2
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ranking": [
+    {
+      "university": "General Department of Preventive Medicine",
+      "totalContribution": 2.0654761904761902
+    },
+    {
+      "university": "Hospital for Tropical Diseases",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Thai Binh University of Medicine and Pharmacy",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Hanoi Open University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Oxford University Clinical Research Unit",
+      "totalContribution": 0.16666666666666666
+    }
+  ],
+  "authorsByUniversity": {
+    "General Department of Preventive Medicine": [
+      {
+        "author": "RaviR Kasliwal",
+        "contribution": 0.680392156862745,
+        "percent": 0.32941176470588235
+      },
+      {
+        "author": "Gregory A. Poland",
+        "contribution": 0.3401960784313725,
+        "percent": 0.16470588235294117
+      },
+      {
+        "author": "Linda Van Horn",
+        "contribution": 0.3401960784313725,
+        "percent": 0.16470588235294117
+      },
+      {
+        "author": "Ferrán Sanz",
+        "contribution": 0.17009803921568625,
+        "percent": 0.08235294117647059
+      },
+      {
+        "author": "M. [=Marcel M.] Levi",
+        "contribution": 0.17009803921568625,
+        "percent": 0.08235294117647059
+      },
+      {
+        "author": "William J. Winslade",
+        "contribution": 0.08504901960784313,
+        "percent": 0.041176470588235294
+      },
+      {
+        "author": "Karin P. M. van Galen",
+        "contribution": 0.08504901960784313,
+        "percent": 0.041176470588235294
+      },
+      {
+        "author": "Brent A. Bauer",
+        "contribution": 0.04859943977591036,
+        "percent": 0.023529411764705882
+      },
+      {
+        "author": "Dietlind L. Wahner‐Roedler",
+        "contribution": 0.04859943977591036,
+        "percent": 0.023529411764705882
+      },
+      {
+        "author": "Peter L. Elkin",
+        "contribution": 0.04859943977591036,
+        "percent": 0.023529411764705882
+      },
+      {
+        "author": "Paul Dexter",
+        "contribution": 0.04859943977591036,
+        "percent": 0.023529411764705882
+      }
+    ],
+    "Hospital for Tropical Diseases": [
+      {
+        "author": "R. N. Chaudhuri",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "J Van den Ende",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Thai Binh University of Medicine and Pharmacy": [
+      {
+        "author": "Pham Thi My Hanh",
+        "contribution": 0.2222222222222222,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Pham Van Trong",
+        "contribution": 0.2222222222222222,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Thi My Hanh Pham",
+        "contribution": 0.2222222222222222,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Oxford University Clinical Research Unit": [
+      {
+        "author": "Reena Vohora",
+        "contribution": 0.16666666666666666,
+        "percent": 1.0
+      }
+    ],
+    "Hanoi Open University": [
+      {
+        "author": "John Rees Moore",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

@@ -1,0 +1,1389 @@
+{
+  "Hanoi National University of Education": {
+    "Algebra and Number Theory": 24.20013227513228,
+    "Applied Mathematics": 189.19980158730175,
+    "Computational Mathematics": 0.4583333333333333,
+    "Discrete Mathematics and Combinatorics": 5.694444444444443,
+    "Geometry and Topology": 122.2223544973548,
+    "Mathematical Physics": 51.28888888888902,
+    "Modeling and Simulation": 15.449747474747461,
+    "Numerical Analysis": 18.275793650793645,
+    "Statistics and Probability": 12.116666666666662,
+    "Theoretical Computer Science": 1.1203703703703705
+  },
+  "Institute of Mathematics": {
+    "Algebra and Number Theory": 101.45925925925955,
+    "Applied Mathematics": 128.58194444444484,
+    "Computational Mathematics": 1.0,
+    "Discrete Mathematics and Combinatorics": 15.34999999999999,
+    "Geometry and Topology": 152.1893097643101,
+    "Mathematical Physics": 93.81666666666685,
+    "Modeling and Simulation": 19.187499999999982,
+    "Numerical Analysis": 112.28888888888926,
+    "Statistics and Probability": 14.944444444444438,
+    "Theoretical Computer Science": 3.1920875420875423
+  },
+  "Vietnam National University, Hanoi": {
+    "Algebra and Number Theory": 11.991666666666662,
+    "Applied Mathematics": 56.733333333333405,
+    "Computational Mathematics": 4.512962962962961,
+    "Discrete Mathematics and Combinatorics": 14.113888888888882,
+    "Geometry and Topology": 45.37845117845122,
+    "Mathematical Physics": 42.94166666666668,
+    "Modeling and Simulation": 9.141600529100526,
+    "Numerical Analysis": 35.70555555555551,
+    "Statistics and Probability": 13.075198412698407,
+    "Theoretical Computer Science": 0.8
+  },
+  "Hue University": {
+    "Algebra and Number Theory": 20.974999999999998,
+    "Applied Mathematics": 10.022619047619044,
+    "Computational Mathematics": 0.6666666666666666,
+    "Discrete Mathematics and Combinatorics": 9.999999999999998,
+    "Geometry and Topology": 24.513888888888896,
+    "Mathematical Physics": 15.055555555555552,
+    "Modeling and Simulation": 2.6888888888888887,
+    "Numerical Analysis": 5.027777777777776,
+    "Statistics and Probability": 4.438888888888886,
+    "Theoretical Computer Science": 0.2777777777777778
+  },
+  "University of Da Nang": {
+    "Algebra and Number Theory": 12.849999999999996,
+    "Applied Mathematics": 12.788888888888884,
+    "Computational Mathematics": 0.6666666666666667,
+    "Discrete Mathematics and Combinatorics": 0.5833333333333333,
+    "Geometry and Topology": 17.655555555555555,
+    "Mathematical Physics": 10.083333333333323,
+    "Modeling and Simulation": 0.8456349206349206,
+    "Numerical Analysis": 7.4027777777777795,
+    "Statistics and Probability": 5.689285714285714,
+    "Theoretical Computer Science": 0.5
+  },
+  "Hanoi Pedagogical University 2": {
+    "Algebra and Number Theory": 7.236111111111112,
+    "Applied Mathematics": 31.16666666666668,
+    "Discrete Mathematics and Combinatorics": 0.6111111111111112,
+    "Geometry and Topology": 15.116666666666656,
+    "Mathematical Physics": 13.794841269841262,
+    "Modeling and Simulation": 5.733333333333335,
+    "Numerical Analysis": 18.80277777777776,
+    "Statistics and Probability": 3.5916666666666686,
+    "Theoretical Computer Science": 1.3333333333333333
+  },
+  "Ho Chi Minh City University of Education": {
+    "Algebra and Number Theory": 8.458333333333332,
+    "Applied Mathematics": 38.18412698412705,
+    "Discrete Mathematics and Combinatorics": 0.5916666666666667,
+    "Geometry and Topology": 9.527777777777777,
+    "Mathematical Physics": 28.177380952380947,
+    "Modeling and Simulation": 2.211507936507936,
+    "Numerical Analysis": 6.523611111111105,
+    "Statistics and Probability": 0.8027777777777778,
+    "Theoretical Computer Science": 0.16666666666666666
+  },
+  "Vinh University": {
+    "Algebra and Number Theory": 6.208333333333331,
+    "Applied Mathematics": 25.347222222222236,
+    "Discrete Mathematics and Combinatorics": 1.7777777777777775,
+    "Geometry and Topology": 23.08333333333333,
+    "Mathematical Physics": 17.375000000000004,
+    "Modeling and Simulation": 3.9999999999999987,
+    "Numerical Analysis": 8.527777777777773,
+    "Statistics and Probability": 12.430555555555557
+  },
+  "Hai Phong University of Management and Technology": {
+    "Algebra and Number Theory": 0.3333333333333333,
+    "Applied Mathematics": 1.0833333333333333,
+    "Geometry and Topology": 1.8888888888888888,
+    "Mathematical Physics": 1.111111111111111,
+    "Modeling and Simulation": 0.1388888888888889,
+    "Numerical Analysis": 2.944444444444445,
+    "Statistics and Probability": 0.06666666666666667
+  },
+  "Foreign Trade University": {
+    "Algebra and Number Theory": 1.2222222222222223,
+    "Applied Mathematics": 3.277777777777778,
+    "Geometry and Topology": 1.3888888888888888,
+    "Mathematical Physics": 1.1944444444444446,
+    "Modeling and Simulation": 0.4738095238095238,
+    "Numerical Analysis": 0.2222222222222222,
+    "Statistics and Probability": 0.3333333333333333
+  },
+  "Thai Nguyen University": {
+    "Algebra and Number Theory": 21.513888888888886,
+    "Applied Mathematics": 45.47420634920636,
+    "Computational Mathematics": 0.5,
+    "Discrete Mathematics and Combinatorics": 1.4166666666666667,
+    "Geometry and Topology": 45.9305555555556,
+    "Mathematical Physics": 18.552777777777763,
+    "Modeling and Simulation": 10.914285714285711,
+    "Numerical Analysis": 42.68333333333341,
+    "Statistics and Probability": 6.693300653594769,
+    "Theoretical Computer Science": 0.9999999999999999
+  },
+  "Saigon University": {
+    "Algebra and Number Theory": 2.111111111111111,
+    "Applied Mathematics": 11.158333333333333,
+    "Discrete Mathematics and Combinatorics": 0.5833333333333333,
+    "Geometry and Topology": 10.316666666666668,
+    "Mathematical Physics": 13.986111111111107,
+    "Modeling and Simulation": 3.4166666666666674,
+    "Numerical Analysis": 9.222222222222223,
+    "Statistics and Probability": 2.1388888888888884,
+    "Theoretical Computer Science": 0.8333333333333333
+  },
+  "Hanoi University": {
+    "Algebra and Number Theory": 6.416666666666666,
+    "Applied Mathematics": 24.23611111111111,
+    "Discrete Mathematics and Combinatorics": 1.0,
+    "Geometry and Topology": 7.972222222222221,
+    "Mathematical Physics": 11.805555555555552,
+    "Modeling and Simulation": 3.430459450917626,
+    "Numerical Analysis": 9.823189762796503,
+    "Statistics and Probability": 2.0833333333333335
+  },
+  "Ho Chi Minh City University of Science": {
+    "Algebra and Number Theory": 5.305555555555554,
+    "Applied Mathematics": 13.005952380952369,
+    "Computational Mathematics": 0.4722222222222222,
+    "Discrete Mathematics and Combinatorics": 5.388888888888886,
+    "Geometry and Topology": 6.47222222222222,
+    "Mathematical Physics": 11.324494949494945,
+    "Modeling and Simulation": 3.1349206349206353,
+    "Numerical Analysis": 6.138888888888886,
+    "Statistics and Probability": 6.08767806267806
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Algebra and Number Theory": 8.413888888888888,
+    "Applied Mathematics": 32.63333333333335,
+    "Discrete Mathematics and Combinatorics": 3.291666666666666,
+    "Geometry and Topology": 24.763888888888914,
+    "Mathematical Physics": 27.583333333333343,
+    "Modeling and Simulation": 12.869485144485132,
+    "Numerical Analysis": 28.080555555555563,
+    "Statistics and Probability": 5.0667735042735025,
+    "Theoretical Computer Science": 0.9166666666666665
+  },
+  "Nha Trang University": {
+    "Algebra and Number Theory": 0.6666666666666666,
+    "Applied Mathematics": 4.569444444444445,
+    "Computational Mathematics": 0.16666666666666666,
+    "Discrete Mathematics and Combinatorics": 0.8333333333333333,
+    "Geometry and Topology": 4.999999999999999,
+    "Mathematical Physics": 3.611111111111112,
+    "Modeling and Simulation": 0.7476190476190476,
+    "Numerical Analysis": 7.874999999999992,
+    "Statistics and Probability": 1.1666666666666665
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Algebra and Number Theory": 36.53531746031747,
+    "Applied Mathematics": 112.22658730158744,
+    "Computational Mathematics": 3.452777777777776,
+    "Discrete Mathematics and Combinatorics": 26.23611111111111,
+    "Geometry and Topology": 37.8623015873016,
+    "Mathematical Physics": 67.36706349206368,
+    "Modeling and Simulation": 26.455733074115408,
+    "Numerical Analysis": 61.68928571428591,
+    "Statistics and Probability": 31.870851370851376,
+    "Theoretical Computer Science": 0.6666666666666666
+  },
+  "FPT University": {
+    "Algebra and Number Theory": 19.87222222222222,
+    "Applied Mathematics": 32.35555555555555,
+    "Computational Mathematics": 0.8333333333333333,
+    "Discrete Mathematics and Combinatorics": 6.094444444444443,
+    "Geometry and Topology": 31.451587301587296,
+    "Mathematical Physics": 23.047222222222217,
+    "Modeling and Simulation": 22.838888888888885,
+    "Numerical Analysis": 10.944841269841268,
+    "Statistics and Probability": 3.350000000000001,
+    "Theoretical Computer Science": 2.6666666666666665
+  },
+  "Quy Nhon University": {
+    "Algebra and Number Theory": 9.027777777777777,
+    "Applied Mathematics": 43.14444444444447,
+    "Discrete Mathematics and Combinatorics": 1.9999999999999998,
+    "Geometry and Topology": 25.697222222222212,
+    "Mathematical Physics": 20.947222222222205,
+    "Modeling and Simulation": 3.2555555555555555,
+    "Numerical Analysis": 9.891666666666659,
+    "Statistics and Probability": 4.28888888888889
+  },
+  "Hue University of Education": {
+    "Algebra and Number Theory": 8.61111111111111,
+    "Applied Mathematics": 6.727777777777777,
+    "Discrete Mathematics and Combinatorics": 1.6111111111111114,
+    "Geometry and Topology": 11.449999999999994,
+    "Mathematical Physics": 1.777777777777778,
+    "Modeling and Simulation": 0.004761904761904762,
+    "Numerical Analysis": 0.3333333333333333,
+    "Statistics and Probability": 0.4214285714285714
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Algebra and Number Theory": 1.25,
+    "Applied Mathematics": 1.0833333333333333,
+    "Geometry and Topology": 0.8499999999999999,
+    "Mathematical Physics": 0.9166666666666666,
+    "Modeling and Simulation": 1.8620661745661744,
+    "Numerical Analysis": 0.08333333333333333,
+    "Statistics and Probability": 2.611111111111111,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "Vietnam Institute for Advanced Study in Mathematics": {
+    "Algebra and Number Theory": 1.1111111111111112,
+    "Applied Mathematics": 0.5,
+    "Discrete Mathematics and Combinatorics": 0.1111111111111111,
+    "Geometry and Topology": 1.2777777777777777,
+    "Mathematical Physics": 0.6666666666666666,
+    "Modeling and Simulation": 0.1111111111111111,
+    "Numerical Analysis": 0.25,
+    "Statistics and Probability": 0.36111111111111105
+  },
+  "Dong Thap University": {
+    "Algebra and Number Theory": 3.1388888888888893,
+    "Applied Mathematics": 13.51666666666667,
+    "Discrete Mathematics and Combinatorics": 0.75,
+    "Geometry and Topology": 42.28611111111117,
+    "Mathematical Physics": 3.9722222222222228,
+    "Modeling and Simulation": 1.1944444444444444,
+    "Numerical Analysis": 6.788888888888888,
+    "Statistics and Probability": 1.527777777777778
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Algebra and Number Theory": 1.7500000000000002,
+    "Applied Mathematics": 2.5277777777777777,
+    "Discrete Mathematics and Combinatorics": 0.7749999999999999,
+    "Geometry and Topology": 1.5833333333333335,
+    "Mathematical Physics": 1.5,
+    "Modeling and Simulation": 2.1833333333333336,
+    "Numerical Analysis": 0.75,
+    "Statistics and Probability": 0.41666666666666663
+  },
+  "Dalat University": {
+    "Algebra and Number Theory": 2.305555555555556,
+    "Applied Mathematics": 18.00277777777777,
+    "Computational Mathematics": 0.2777777777777778,
+    "Discrete Mathematics and Combinatorics": 0.9166666666666667,
+    "Geometry and Topology": 15.997222222222218,
+    "Mathematical Physics": 11.249999999999993,
+    "Modeling and Simulation": 8.267063492063487,
+    "Numerical Analysis": 8.238888888888884,
+    "Statistics and Probability": 2.275
+  },
+  "Hanoi University of Science and Technology": {
+    "Algebra and Number Theory": 17.13293650793651,
+    "Applied Mathematics": 62.06388888888897,
+    "Computational Mathematics": 0.47777777777777786,
+    "Discrete Mathematics and Combinatorics": 7.861111111111111,
+    "Geometry and Topology": 28.199603174603183,
+    "Mathematical Physics": 33.16031746031747,
+    "Modeling and Simulation": 8.305952380952377,
+    "Numerical Analysis": 33.17222222222226,
+    "Statistics and Probability": 5.967063492063492,
+    "Theoretical Computer Science": 1.6666666666666667
+  },
+  "Hue Central Hospital": {
+    "Algebra and Number Theory": 0.25,
+    "Geometry and Topology": 0.3611111111111111,
+    "Modeling and Simulation": 0.09476817042606515,
+    "Numerical Analysis": 0.08333333333333333,
+    "Theoretical Computer Science": 0.1111111111111111
+  },
+  "Ton Duc Thang University": {
+    "Algebra and Number Theory": 17.599999999999994,
+    "Applied Mathematics": 86.88492063492082,
+    "Computational Mathematics": 0.1111111111111111,
+    "Discrete Mathematics and Combinatorics": 6.194444444444443,
+    "Geometry and Topology": 70.3904761904764,
+    "Mathematical Physics": 43.33518518518519,
+    "Modeling and Simulation": 72.16972101972144,
+    "Numerical Analysis": 46.190873015873116,
+    "Statistics and Probability": 44.02592592592591
+  },
+  "Duy Tan University": {
+    "Algebra and Number Theory": 0.9444444444444445,
+    "Applied Mathematics": 31.64960317460317,
+    "Discrete Mathematics and Combinatorics": 0.41666666666666663,
+    "Geometry and Topology": 7.904365079365071,
+    "Mathematical Physics": 20.31468253968255,
+    "Modeling and Simulation": 18.99950467692404,
+    "Numerical Analysis": 13.461111111111105,
+    "Statistics and Probability": 5.564634439634439,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "VNU University of Science": {
+    "Algebra and Number Theory": 3.6944444444444446,
+    "Applied Mathematics": 29.591666666666665,
+    "Computational Mathematics": 2.094444444444445,
+    "Discrete Mathematics and Combinatorics": 3.1388888888888884,
+    "Geometry and Topology": 15.188888888888886,
+    "Mathematical Physics": 14.308333333333323,
+    "Modeling and Simulation": 3.1166666666666667,
+    "Numerical Analysis": 13.180555555555552,
+    "Statistics and Probability": 6.161111111111107,
+    "Theoretical Computer Science": 5.0
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Algebra and Number Theory": 1.8888888888888888,
+    "Applied Mathematics": 0.41666666666666663,
+    "Geometry and Topology": 4.25,
+    "Mathematical Physics": 2.4444444444444446,
+    "Modeling and Simulation": 0.248015873015873,
+    "Statistics and Probability": 0.8095238095238096
+  },
+  "Hồng Đức University": {
+    "Algebra and Number Theory": 5.138888888888888,
+    "Applied Mathematics": 10.375,
+    "Computational Mathematics": 0.16666666666666666,
+    "Discrete Mathematics and Combinatorics": 0.5416666666666666,
+    "Geometry and Topology": 16.291666666666668,
+    "Mathematical Physics": 3.194444444444445,
+    "Modeling and Simulation": 0.6846153846153846,
+    "Numerical Analysis": 4.902777777777777,
+    "Statistics and Probability": 2.708333333333333
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Algebra and Number Theory": 1.8611111111111114,
+    "Applied Mathematics": 3.3194444444444446,
+    "Discrete Mathematics and Combinatorics": 2.0833333333333335,
+    "Geometry and Topology": 0.4444444444444444,
+    "Mathematical Physics": 3.386111111111111,
+    "Modeling and Simulation": 0.41666666666666663,
+    "Numerical Analysis": 1.3555555555555556
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Algebra and Number Theory": 3.041666666666667,
+    "Computational Mathematics": 0.25,
+    "Discrete Mathematics and Combinatorics": 0.25,
+    "Geometry and Topology": 2.5833333333333335,
+    "Mathematical Physics": 0.2777777777777778,
+    "Modeling and Simulation": 0.38888888888888884,
+    "Numerical Analysis": 1.138888888888889,
+    "Statistics and Probability": 0.19444444444444442
+  },
+  "National Economics University": {
+    "Algebra and Number Theory": 0.8333333333333333,
+    "Applied Mathematics": 0.4666666666666666,
+    "Geometry and Topology": 4.655555555555555,
+    "Mathematical Physics": 3.016666666666667,
+    "Modeling and Simulation": 2.6071428571428568,
+    "Numerical Analysis": 9.274999999999999,
+    "Statistics and Probability": 2.1244444444444444
+  },
+  "Phu Yen University": {
+    "Algebra and Number Theory": 0.9999999999999999,
+    "Applied Mathematics": 5.958333333333334,
+    "Geometry and Topology": 2.7222222222222223,
+    "Mathematical Physics": 4.888888888888888,
+    "Modeling and Simulation": 0.2361111111111111,
+    "Numerical Analysis": 0.7777777777777777,
+    "Statistics and Probability": 0.041666666666666664
+  },
+  "An Giang University": {
+    "Algebra and Number Theory": 0.3888888888888889,
+    "Applied Mathematics": 3.5,
+    "Discrete Mathematics and Combinatorics": 0.8194444444444444,
+    "Geometry and Topology": 2.8472222222222223,
+    "Mathematical Physics": 0.6666666666666666,
+    "Modeling and Simulation": 0.5,
+    "Numerical Analysis": 2.894444444444445,
+    "Statistics and Probability": 1.6111111111111114
+  },
+  "Hanoi University of Pharmacy": {
+    "Algebra and Number Theory": 0.3333333333333333,
+    "Applied Mathematics": 0.6666666666666666,
+    "Geometry and Topology": 0.24074074074074073,
+    "Modeling and Simulation": 0.5056776556776557,
+    "Statistics and Probability": 0.9999999999999999,
+    "Theoretical Computer Science": 0.16666666666666666
+  },
+  "Lac Hong University": {
+    "Algebra and Number Theory": 5.33888888888889,
+    "Applied Mathematics": 2.8611111111111107,
+    "Discrete Mathematics and Combinatorics": 1.1944444444444444,
+    "Geometry and Topology": 3.5472222222222225,
+    "Mathematical Physics": 1.4166666666666665,
+    "Modeling and Simulation": 0.7361111111111112,
+    "Numerical Analysis": 1.6944444444444444,
+    "Statistics and Probability": 3.0988562091503264
+  },
+  "Cat Tien National Park": {
+    "Algebra and Number Theory": 0.3333333333333333,
+    "Applied Mathematics": 1.833333333333333,
+    "Discrete Mathematics and Combinatorics": 0.3333333333333333,
+    "Geometry and Topology": 1.4166666666666665,
+    "Mathematical Physics": 0.16666666666666666,
+    "Modeling and Simulation": 0.26127450980392153,
+    "Numerical Analysis": 0.3333333333333333,
+    "Statistics and Probability": 0.5,
+    "Theoretical Computer Science": 1.3333333333333335
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Algebra and Number Theory": 0.6666666666666666,
+    "Applied Mathematics": 8.777777777777775,
+    "Computational Mathematics": 0.6111111111111112,
+    "Discrete Mathematics and Combinatorics": 0.4027777777777778,
+    "Geometry and Topology": 3.0138888888888893,
+    "Mathematical Physics": 3.0000000000000004,
+    "Modeling and Simulation": 2.033080808080808,
+    "Numerical Analysis": 3.5666666666666664,
+    "Statistics and Probability": 1.347222222222222,
+    "Theoretical Computer Science": 0.16666666666666666
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Algebra and Number Theory": 2.708333333333333,
+    "Applied Mathematics": 18.108333333333334,
+    "Computational Mathematics": 0.05555555555555555,
+    "Discrete Mathematics and Combinatorics": 1.25,
+    "Geometry and Topology": 5.0555555555555545,
+    "Mathematical Physics": 10.749999999999996,
+    "Modeling and Simulation": 13.261111111111104,
+    "Numerical Analysis": 4.283333333333334,
+    "Statistics and Probability": 2.2888888888888888,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "Tân Tạo University": {
+    "Algebra and Number Theory": 1.5,
+    "Applied Mathematics": 11.638888888888888,
+    "Geometry and Topology": 5.7261904761904745,
+    "Mathematical Physics": 3.833333333333334,
+    "Modeling and Simulation": 3.6666666666666683,
+    "Numerical Analysis": 5.1388888888888875,
+    "Statistics and Probability": 1.7916666666666667,
+    "Theoretical Computer Science": 0.8333333333333333
+  },
+  "Hai Phong University": {
+    "Algebra and Number Theory": 1.2222222222222223,
+    "Applied Mathematics": 5.75,
+    "Discrete Mathematics and Combinatorics": 1.2222222222222223,
+    "Geometry and Topology": 2.8492063492063484,
+    "Mathematical Physics": 1.9166666666666667,
+    "Modeling and Simulation": 0.3333333333333333,
+    "Numerical Analysis": 2.472222222222222,
+    "Statistics and Probability": 1.2916666666666665
+  },
+  "Can Tho University": {
+    "Algebra and Number Theory": 3.1666666666666665,
+    "Applied Mathematics": 19.97499999999999,
+    "Discrete Mathematics and Combinatorics": 0.2615079365079365,
+    "Geometry and Topology": 15.540079365079354,
+    "Mathematical Physics": 8.336111111111112,
+    "Modeling and Simulation": 3.3504329004328985,
+    "Numerical Analysis": 25.951984126984126,
+    "Statistics and Probability": 15.918073593073585,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "Thang Long University": {
+    "Algebra and Number Theory": 8.717592592592595,
+    "Applied Mathematics": 43.05555555555557,
+    "Discrete Mathematics and Combinatorics": 0.8333333333333333,
+    "Geometry and Topology": 23.56481481481483,
+    "Mathematical Physics": 16.930555555555543,
+    "Modeling and Simulation": 7.745370370370367,
+    "Numerical Analysis": 11.49999999999999,
+    "Statistics and Probability": 4.663888888888888,
+    "Theoretical Computer Science": 2.8703703703703702
+  },
+  "Hanoi Open University": {
+    "Algebra and Number Theory": 2.5,
+    "Applied Mathematics": 6.499999999999998,
+    "Discrete Mathematics and Combinatorics": 1.4999999999999998,
+    "Geometry and Topology": 8.666666666666666,
+    "Mathematical Physics": 6.416666666666667,
+    "Modeling and Simulation": 1.5,
+    "Numerical Analysis": 3.8333333333333335,
+    "Statistics and Probability": 0.3333333333333333
+  },
+  "Van Lang University": {
+    "Algebra and Number Theory": 0.5277777777777778,
+    "Applied Mathematics": 15.061111111111096,
+    "Geometry and Topology": 2.5944444444444446,
+    "Mathematical Physics": 12.888888888888877,
+    "Modeling and Simulation": 11.386111111111102,
+    "Numerical Analysis": 3.466666666666666,
+    "Statistics and Probability": 6.201587301587301
+  },
+  "Hung Yen University of Technology and Education": {
+    "Algebra and Number Theory": 0.75,
+    "Applied Mathematics": 3.788888888888889,
+    "Discrete Mathematics and Combinatorics": 0.5833333333333333,
+    "Geometry and Topology": 1.8611111111111114,
+    "Mathematical Physics": 0.8055555555555556,
+    "Modeling and Simulation": 1.5277777777777777,
+    "Numerical Analysis": 0.611111111111111,
+    "Statistics and Probability": 1.0777777777777777
+  },
+  "University of Languages and International Studies": {
+    "Algebra and Number Theory": 0.5,
+    "Applied Mathematics": 0.8583333333333334,
+    "Geometry and Topology": 0.5,
+    "Mathematical Physics": 0.16666666666666666,
+    "Modeling and Simulation": 3.4166666666666665,
+    "Numerical Analysis": 0.16666666666666666,
+    "Statistics and Probability": 0.9583333333333334,
+    "Theoretical Computer Science": 1.0
+  },
+  "Baria Vungtau University": {
+    "Algebra and Number Theory": 1.25,
+    "Applied Mathematics": 0.16666666666666666,
+    "Geometry and Topology": 1.25
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Algebra and Number Theory": 2.8055555555555554,
+    "Applied Mathematics": 6.48611111111111,
+    "Discrete Mathematics and Combinatorics": 1.1666666666666667,
+    "Geometry and Topology": 5.722222222222223,
+    "Mathematical Physics": 8.388888888888888,
+    "Modeling and Simulation": 2.766666666666668,
+    "Numerical Analysis": 3.1388888888888897,
+    "Statistics and Probability": 2.7500000000000004,
+    "Theoretical Computer Science": 1.4444444444444446
+  },
+  "Ho Chi Minh City University of Fine Arts": {
+    "Algebra and Number Theory": 0.5
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Algebra and Number Theory": 0.29166666666666663,
+    "Applied Mathematics": 3.844444444444445,
+    "Discrete Mathematics and Combinatorics": 0.2222222222222222,
+    "Geometry and Topology": 0.625,
+    "Mathematical Physics": 2.2333333333333334,
+    "Modeling and Simulation": 1.520731120731121,
+    "Numerical Analysis": 1.661111111111111,
+    "Statistics and Probability": 0.9166666666666667,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "Ho Chi Minh University of Banking": {
+    "Algebra and Number Theory": 0.6666666666666666,
+    "Applied Mathematics": 16.502777777777773,
+    "Geometry and Topology": 2.472222222222222,
+    "Mathematical Physics": 4.916666666666666,
+    "Modeling and Simulation": 10.594444444444441,
+    "Numerical Analysis": 3.2722222222222217,
+    "Statistics and Probability": 8.083333333333334
+  },
+  "Le Quy Don Technical University": {
+    "Algebra and Number Theory": 0.5,
+    "Applied Mathematics": 8.87083333333333,
+    "Discrete Mathematics and Combinatorics": 0.3333333333333333,
+    "Geometry and Topology": 4.155555555555557,
+    "Mathematical Physics": 4.333333333333331,
+    "Modeling and Simulation": 5.118055555555554,
+    "Numerical Analysis": 9.922222222222217,
+    "Statistics and Probability": 5.761111111111113
+  },
+  "Pham Van Dong University": {
+    "Algebra and Number Theory": 0.41666666666666663,
+    "Applied Mathematics": 2.194444444444444,
+    "Geometry and Topology": 1.0555555555555556,
+    "Mathematical Physics": 1.027777777777778,
+    "Theoretical Computer Science": 0.05555555555555555
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Algebra and Number Theory": 0.8333333333333333,
+    "Applied Mathematics": 0.08333333333333333,
+    "Discrete Mathematics and Combinatorics": 0.5,
+    "Geometry and Topology": 0.3333333333333333,
+    "Modeling and Simulation": 0.0044444444444444444,
+    "Numerical Analysis": 0.3333333333333333,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Algebra and Number Theory": 0.1111111111111111,
+    "Applied Mathematics": 1.8055555555555558,
+    "Computational Mathematics": 0.6666666666666666,
+    "Geometry and Topology": 3.563888888888889,
+    "Mathematical Physics": 0.5753968253968254,
+    "Modeling and Simulation": 2.083333333333334,
+    "Numerical Analysis": 9.944444444444438,
+    "Statistics and Probability": 1.0694444444444444
+  },
+  "Hung Vuong University": {
+    "Algebra and Number Theory": 1.5416666666666667,
+    "Applied Mathematics": 1.4444444444444444,
+    "Geometry and Topology": 1.4166666666666667,
+    "Mathematical Physics": 1.1111111111111112,
+    "Modeling and Simulation": 0.2777777777777778
+  },
+  "Học viện Tư pháp": {
+    "Algebra and Number Theory": 0.1111111111111111,
+    "Applied Mathematics": 0.7222222222222223,
+    "Geometry and Topology": 1.625,
+    "Numerical Analysis": 0.3333333333333333,
+    "Statistics and Probability": 0.5
+  },
+  "Vinh Long University of Technology Education": {
+    "Algebra and Number Theory": 2.5,
+    "Discrete Mathematics and Combinatorics": 0.16666666666666666,
+    "Geometry and Topology": 1.3333333333333333,
+    "Numerical Analysis": 0.08333333333333333,
+    "Statistics and Probability": 0.5
+  },
+  "The State Bank of Vietnam": {
+    "Algebra and Number Theory": 0.25,
+    "Applied Mathematics": 1.7083333333333333,
+    "Discrete Mathematics and Combinatorics": 0.25,
+    "Geometry and Topology": 1.4444444444444444,
+    "Mathematical Physics": 0.1111111111111111,
+    "Modeling and Simulation": 0.3333333333333333,
+    "Numerical Analysis": 0.1111111111111111,
+    "Statistics and Probability": 2.0
+  },
+  "Hoa Sen University": {
+    "Algebra and Number Theory": 0.06666666666666667,
+    "Applied Mathematics": 1.1944444444444446,
+    "Discrete Mathematics and Combinatorics": 0.39999999999999997,
+    "Geometry and Topology": 0.17777777777777776,
+    "Mathematical Physics": 1.6805555555555556,
+    "Modeling and Simulation": 0.3333333333333333,
+    "Numerical Analysis": 1.1111111111111112,
+    "Statistics and Probability": 0.25
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Algebra and Number Theory": 0.8999999999999999,
+    "Applied Mathematics": 1.1861111111111111,
+    "Discrete Mathematics and Combinatorics": 1.1722222222222223,
+    "Geometry and Topology": 1.9277777777777778,
+    "Mathematical Physics": 0.47777777777777775,
+    "Modeling and Simulation": 0.6111111111111112,
+    "Statistics and Probability": 0.29166666666666663
+  },
+  "Thuongmai University": {
+    "Algebra and Number Theory": 0.3333333333333333,
+    "Applied Mathematics": 2.6805555555555562,
+    "Discrete Mathematics and Combinatorics": 0.5,
+    "Geometry and Topology": 1.927777777777778,
+    "Mathematical Physics": 2.013888888888889,
+    "Modeling and Simulation": 0.41666666666666663,
+    "Numerical Analysis": 0.9444444444444443,
+    "Statistics and Probability": 2.0003968253968254,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "Hong Bang International University": {
+    "Algebra and Number Theory": 0.5416666666666666,
+    "Applied Mathematics": 1.2777777777777777,
+    "Geometry and Topology": 0.5277777777777777,
+    "Mathematical Physics": 0.3333333333333333,
+    "Modeling and Simulation": 0.7777777777777777,
+    "Numerical Analysis": 0.5,
+    "Statistics and Probability": 0.7444444444444445
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Algebra and Number Theory": 3.1111111111111116,
+    "Applied Mathematics": 2.708333333333333,
+    "Discrete Mathematics and Combinatorics": 0.25,
+    "Geometry and Topology": 1.9166666666666667,
+    "Mathematical Physics": 2.267676767676768,
+    "Modeling and Simulation": 0.19444444444444442,
+    "Numerical Analysis": 1.0833333333333335,
+    "Statistics and Probability": 0.5
+  },
+  "University of Transport and Communications": {
+    "Algebra and Number Theory": 0.8611111111111112,
+    "Applied Mathematics": 16.70833333333333,
+    "Discrete Mathematics and Combinatorics": 0.3611111111111111,
+    "Geometry and Topology": 3.861111111111111,
+    "Mathematical Physics": 7.222222222222222,
+    "Modeling and Simulation": 0.9166666666666669,
+    "Numerical Analysis": 15.138888888888882,
+    "Statistics and Probability": 3.636111111111111
+  },
+  "University of Khanh Hoa": {
+    "Algebra and Number Theory": 4.0,
+    "Applied Mathematics": 4.76111111111111,
+    "Computational Mathematics": 0.6666666666666666,
+    "Geometry and Topology": 20.263888888888893,
+    "Mathematical Physics": 21.616919191919187,
+    "Modeling and Simulation": 1.1,
+    "Numerical Analysis": 2.7194444444444446,
+    "Statistics and Probability": 0.28888888888888886,
+    "Theoretical Computer Science": 1.3333333333333333
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Algebra and Number Theory": 1.4444444444444444,
+    "Applied Mathematics": 1.236111111111111,
+    "Discrete Mathematics and Combinatorics": 0.5,
+    "Geometry and Topology": 1.4444444444444444,
+    "Mathematical Physics": 0.6666666666666666,
+    "Modeling and Simulation": 0.3333333333333333,
+    "Numerical Analysis": 0.3333333333333333,
+    "Statistics and Probability": 1.0138888888888888,
+    "Theoretical Computer Science": 0.16666666666666666
+  },
+  "Tay Bac University": {
+    "Algebra and Number Theory": 1.3333333333333333,
+    "Applied Mathematics": 18.12698412698413,
+    "Computational Mathematics": 0.125,
+    "Geometry and Topology": 9.964285714285712,
+    "Mathematical Physics": 3.611111111111111,
+    "Modeling and Simulation": 0.6111111111111112,
+    "Numerical Analysis": 2.083333333333333,
+    "Statistics and Probability": 0.6142857142857143
+  },
+  "University of Hai Duong": {
+    "Algebra and Number Theory": 0.75,
+    "Applied Mathematics": 5.36111111111111,
+    "Geometry and Topology": 1.1666666666666665,
+    "Mathematical Physics": 0.7777777777777778,
+    "Modeling and Simulation": 0.32914242620124967,
+    "Numerical Analysis": 0.736111111111111,
+    "Statistics and Probability": 0.014285714285714287
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Algebra and Number Theory": 1.1666666666666665,
+    "Applied Mathematics": 0.5,
+    "Geometry and Topology": 1.5555555555555554,
+    "Mathematical Physics": 0.3333333333333333,
+    "Modeling and Simulation": 0.06666666666666667,
+    "Statistics and Probability": 0.08333333333333333
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Algebra and Number Theory": 0.769047619047619,
+    "Applied Mathematics": 5.4138888888888905,
+    "Geometry and Topology": 4.5097883597883595,
+    "Mathematical Physics": 1.3611111111111112,
+    "Modeling and Simulation": 0.5416666666666666,
+    "Numerical Analysis": 0.6666666666666666,
+    "Statistics and Probability": 1.6666666666666667,
+    "Theoretical Computer Science": 1.3333333333333333
+  },
+  "Ministry of Education and Training": {
+    "Algebra and Number Theory": 0.49999999999999994,
+    "Applied Mathematics": 1.375,
+    "Discrete Mathematics and Combinatorics": 0.75,
+    "Geometry and Topology": 0.75,
+    "Mathematical Physics": 0.8194444444444444,
+    "Modeling and Simulation": 0.15,
+    "Numerical Analysis": 0.28888888888888886
+  },
+  "University of Finance - Marketing": {
+    "Algebra and Number Theory": 0.08333333333333333,
+    "Applied Mathematics": 8.124999999999998,
+    "Discrete Mathematics and Combinatorics": 0.08333333333333333,
+    "Geometry and Topology": 0.8055555555555555,
+    "Mathematical Physics": 5.6916666666666655,
+    "Modeling and Simulation": 3.205555555555556,
+    "Numerical Analysis": 1.3333333333333335,
+    "Statistics and Probability": 6.194444444444443
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Algebra and Number Theory": 0.3333333333333333,
+    "Applied Mathematics": 0.5333333333333333,
+    "Geometry and Topology": 0.16666666666666666,
+    "Modeling and Simulation": 0.31322751322751324,
+    "Numerical Analysis": 1.3333333333333333,
+    "Statistics and Probability": 0.12063492063492062
+  },
+  "Bình Dương University": {
+    "Algebra and Number Theory": 0.16666666666666666,
+    "Applied Mathematics": 4.138888888888889,
+    "Discrete Mathematics and Combinatorics": 0.2222222222222222,
+    "Geometry and Topology": 1.25,
+    "Mathematical Physics": 0.2111111111111111,
+    "Modeling and Simulation": 3.816666666666667,
+    "Numerical Analysis": 1.4,
+    "Statistics and Probability": 1.388888888888889
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Algebra and Number Theory": 0.08333333333333333,
+    "Applied Mathematics": 0.6111111111111112,
+    "Discrete Mathematics and Combinatorics": 0.08333333333333333,
+    "Geometry and Topology": 0.16666666666666666,
+    "Mathematical Physics": 0.9444444444444444,
+    "Modeling and Simulation": 1.0,
+    "Numerical Analysis": 0.5,
+    "Statistics and Probability": 0.3333333333333333
+  },
+  "Ho Chi Minh City International University": {
+    "Applied Mathematics": 8.680555555555554,
+    "Computational Mathematics": 0.1111111111111111,
+    "Geometry and Topology": 2.583333333333333,
+    "Mathematical Physics": 1.4444444444444444,
+    "Modeling and Simulation": 0.16666666666666666,
+    "Numerical Analysis": 5.583333333333331,
+    "Statistics and Probability": 1.2936507936507937
+  },
+  "Quảng Bình University": {
+    "Applied Mathematics": 22.544444444444462,
+    "Geometry and Topology": 0.7,
+    "Mathematical Physics": 7.016666666666665,
+    "Modeling and Simulation": 0.38888888888888884,
+    "Numerical Analysis": 1.5944444444444446,
+    "Statistics and Probability": 0.225
+  },
+  "Electric Power University": {
+    "Applied Mathematics": 38.51666666666669,
+    "Computational Mathematics": 0.16666666666666666,
+    "Discrete Mathematics and Combinatorics": 0.4666666666666666,
+    "Geometry and Topology": 11.402777777777777,
+    "Mathematical Physics": 13.263888888888884,
+    "Modeling and Simulation": 3.5250000000000004,
+    "Numerical Analysis": 8.613888888888889,
+    "Statistics and Probability": 1.638888888888889
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Applied Mathematics": 34.366666666666674,
+    "Geometry and Topology": 1.3,
+    "Mathematical Physics": 17.880555555555542,
+    "Modeling and Simulation": 10.367328042328035,
+    "Numerical Analysis": 6.805555555555554,
+    "Statistics and Probability": 7.533333333333327
+  },
+  "Hanoi University of Civil Engineering": {
+    "Applied Mathematics": 8.361111111111112,
+    "Discrete Mathematics and Combinatorics": 0.3888888888888889,
+    "Geometry and Topology": 6.344444444444444,
+    "Mathematical Physics": 1.8194444444444444,
+    "Modeling and Simulation": 0.7666666666666666,
+    "Numerical Analysis": 0.8888888888888888,
+    "Statistics and Probability": 0.31666666666666665
+  },
+  "Academy of Cryptography Techniques": {
+    "Applied Mathematics": 1.6777777777777776,
+    "Geometry and Topology": 0.2777777777777778,
+    "Mathematical Physics": 0.6499999999999999,
+    "Modeling and Simulation": 0.05555555555555555,
+    "Numerical Analysis": 0.3333333333333333
+  },
+  "PetroVietnam University": {
+    "Applied Mathematics": 2.138888888888889,
+    "Discrete Mathematics and Combinatorics": 0.0625,
+    "Geometry and Topology": 0.6944444444444445,
+    "Mathematical Physics": 0.08333333333333333,
+    "Modeling and Simulation": 0.3194444444444444,
+    "Numerical Analysis": 1.4166666666666665
+  },
+  "Thuyloi University": {
+    "Applied Mathematics": 11.474999999999993,
+    "Geometry and Topology": 1.3499999999999999,
+    "Mathematical Physics": 5.999999999999999,
+    "Modeling and Simulation": 6.014529914529914,
+    "Numerical Analysis": 1.6944444444444446,
+    "Statistics and Probability": 0.1875
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Applied Mathematics": 3.4305555555555554,
+    "Discrete Mathematics and Combinatorics": 0.16666666666666666,
+    "Geometry and Topology": 0.4444444444444444,
+    "Mathematical Physics": 0.7222222222222223,
+    "Modeling and Simulation": 2.1712962962962963,
+    "Numerical Analysis": 1.5,
+    "Statistics and Probability": 0.25
+  },
+  "Hung Vuong Hospital": {
+    "Applied Mathematics": 0.3333333333333333,
+    "Modeling and Simulation": 0.13333333333333333,
+    "Numerical Analysis": 0.1111111111111111,
+    "Statistics and Probability": 0.5473856209150326
+  },
+  "Hanoi University of Mining and Geology": {
+    "Applied Mathematics": 1.5000000000000004,
+    "Discrete Mathematics and Combinatorics": 0.08333333333333333,
+    "Geometry and Topology": 1.1166666666666667,
+    "Mathematical Physics": 0.5,
+    "Modeling and Simulation": 2.1777777777777776,
+    "Numerical Analysis": 2.194444444444444,
+    "Statistics and Probability": 1.2944444444444443
+  },
+  "Văn Hiến University": {
+    "Applied Mathematics": 1.3055555555555556,
+    "Geometry and Topology": 0.1111111111111111,
+    "Mathematical Physics": 1.9277777777777778,
+    "Modeling and Simulation": 0.8333333333333333,
+    "Numerical Analysis": 0.47222222222222215,
+    "Statistics and Probability": 0.7361111111111112
+  },
+  "Vietnam Maritime University": {
+    "Applied Mathematics": 0.6666666666666666,
+    "Discrete Mathematics and Combinatorics": 0.35,
+    "Geometry and Topology": 0.16666666666666666,
+    "Mathematical Physics": 0.25,
+    "Modeling and Simulation": 0.5,
+    "Numerical Analysis": 0.1111111111111111
+  },
+  "Viet Tri University of Industry": {
+    "Applied Mathematics": 0.5,
+    "Modeling and Simulation": 0.25555555555555554,
+    "Statistics and Probability": 0.125
+  },
+  "Hanoi Architectural University": {
+    "Applied Mathematics": 8.361111111111109,
+    "Discrete Mathematics and Combinatorics": 0.5555555555555556,
+    "Geometry and Topology": 3.388888888888889,
+    "Mathematical Physics": 1.5416666666666665,
+    "Modeling and Simulation": 1.4555555555555557,
+    "Numerical Analysis": 1.2222222222222223,
+    "Statistics and Probability": 0.41666666666666663
+  },
+  "Tra Vinh University": {
+    "Applied Mathematics": 1.2222222222222223,
+    "Mathematical Physics": 0.1111111111111111,
+    "Modeling and Simulation": 0.38888888888888884,
+    "Numerical Analysis": 0.461111111111111,
+    "Statistics and Probability": 0.4444444444444444
+  },
+  "Hanoi University of Industry": {
+    "Applied Mathematics": 4.722222222222223,
+    "Geometry and Topology": 0.8333333333333333,
+    "Mathematical Physics": 2.091666666666667,
+    "Modeling and Simulation": 1.6555555555555554,
+    "Numerical Analysis": 4.883333333333333,
+    "Statistics and Probability": 0.8617521367521368
+  },
+  "Vietnam National University of Forestry": {
+    "Applied Mathematics": 0.16666666666666666,
+    "Mathematical Physics": 0.16666666666666666
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Applied Mathematics": 0.4444444444444444,
+    "Computational Mathematics": 0.041666666666666664,
+    "Geometry and Topology": 0.25,
+    "Mathematical Physics": 0.7222222222222222,
+    "Modeling and Simulation": 6.811807680200121,
+    "Numerical Analysis": 0.1111111111111111,
+    "Statistics and Probability": 1.916750208855472
+  },
+  "Tien Giang General Hospital": {
+    "Applied Mathematics": 1.5138888888888888,
+    "Geometry and Topology": 0.6666666666666666,
+    "Mathematical Physics": 1.2777777777777777,
+    "Modeling and Simulation": 0.03333333333333333,
+    "Numerical Analysis": 1.277777777777778,
+    "Statistics and Probability": 0.18095238095238095
+  },
+  "Trung Vuong University": {
+    "Applied Mathematics": 0.41666666666666663,
+    "Geometry and Topology": 0.8888888888888888,
+    "Mathematical Physics": 0.16666666666666666,
+    "Modeling and Simulation": 0.16666666666666666,
+    "Numerical Analysis": 0.1111111111111111,
+    "Statistics and Probability": 1.1944444444444444
+  },
+  "Vietnam Military Medical University": {
+    "Applied Mathematics": 0.3611111111111111,
+    "Geometry and Topology": 0.3611111111111111,
+    "Modeling and Simulation": 0.24948292448292447,
+    "Numerical Analysis": 0.3888888888888889,
+    "Statistics and Probability": 0.31666666666666665
+  },
+  "Institute for Computational Science and Technology": {
+    "Applied Mathematics": 1.7361111111111114,
+    "Computational Mathematics": 0.16666666666666666,
+    "Geometry and Topology": 2.026851851851852,
+    "Mathematical Physics": 3.4222222222222225,
+    "Modeling and Simulation": 1.9722222222222223,
+    "Numerical Analysis": 3.4027777777777786,
+    "Statistics and Probability": 0.6361111111111111,
+    "Theoretical Computer Science": 1.0555555555555554
+  },
+  "Van Xuan University of Technology": {
+    "Applied Mathematics": 0.3333333333333333,
+    "Mathematical Physics": 0.3333333333333333,
+    "Modeling and Simulation": 0.3333333333333333
+  },
+  "University Of Transport Technology": {
+    "Applied Mathematics": 4.027777777777778,
+    "Computational Mathematics": 0.08333333333333333,
+    "Geometry and Topology": 2.791666666666667,
+    "Mathematical Physics": 1.2055555555555557,
+    "Modeling and Simulation": 0.5,
+    "Numerical Analysis": 0.5555555555555556,
+    "Statistics and Probability": 0.9861111111111112
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Applied Mathematics": 1.0603174603174603,
+    "Geometry and Topology": 0.36666666666666664,
+    "Mathematical Physics": 0.6416666666666666,
+    "Modeling and Simulation": 1.5328282828282827,
+    "Numerical Analysis": 0.8,
+    "Statistics and Probability": 0.4333333333333333
+  },
+  "Thai Nguyen National General Hospital": {
+    "Applied Mathematics": 1.7222222222222223,
+    "Geometry and Topology": 0.5416666666666667,
+    "Mathematical Physics": 0.2222222222222222,
+    "Modeling and Simulation": 0.5555555555555556,
+    "Numerical Analysis": 0.25
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Applied Mathematics": 1.0,
+    "Geometry and Topology": 0.08333333333333333,
+    "Mathematical Physics": 0.3333333333333333,
+    "Modeling and Simulation": 0.030303030303030304,
+    "Numerical Analysis": 0.08333333333333333
+  },
+  "RMIT Vietnam": {
+    "Applied Mathematics": 0.5,
+    "Mathematical Physics": 0.08333333333333333,
+    "Modeling and Simulation": 1.022113997113997,
+    "Numerical Analysis": 0.1111111111111111,
+    "Statistics and Probability": 0.7777777777777777
+  },
+  "Vinh Phuc Department of Health": {
+    "Applied Mathematics": 0.08333333333333333,
+    "Geometry and Topology": 0.08333333333333333,
+    "Mathematical Physics": 0.08333333333333333
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Applied Mathematics": 0.41666666666666663,
+    "Mathematical Physics": 0.7333333333333333,
+    "Modeling and Simulation": 0.23888888888888887,
+    "Statistics and Probability": 0.1111111111111111
+  },
+  "Academy Of Finance": {
+    "Applied Mathematics": 7.222222222222222,
+    "Discrete Mathematics and Combinatorics": 0.3333333333333333,
+    "Geometry and Topology": 1.0,
+    "Mathematical Physics": 2.888888888888889,
+    "Modeling and Simulation": 1.8888888888888888,
+    "Numerical Analysis": 2.305555555555556,
+    "Statistics and Probability": 1.3555555555555558
+  },
+  "Ho Chi Minh City Open University": {
+    "Applied Mathematics": 0.9833333333333333,
+    "Mathematical Physics": 0.48611111111111105,
+    "Modeling and Simulation": 3.5416666666666656,
+    "Numerical Analysis": 1.1444444444444446,
+    "Statistics and Probability": 0.9583333333333333
+  },
+  "Saigon Technology University": {
+    "Applied Mathematics": 0.6666666666666667,
+    "Modeling and Simulation": 0.3333333333333333
+  },
+  "Phenikaa University": {
+    "Applied Mathematics": 4.180555555555555,
+    "Discrete Mathematics and Combinatorics": 0.5,
+    "Geometry and Topology": 3.65,
+    "Mathematical Physics": 4.833730158730157,
+    "Modeling and Simulation": 3.5974747474747475,
+    "Numerical Analysis": 1.2055555555555555,
+    "Statistics and Probability": 2.354256854256854,
+    "Theoretical Computer Science": 0.6666666666666666
+  },
+  "Vietnamese-German University": {
+    "Applied Mathematics": 3.4722222222222223,
+    "Discrete Mathematics and Combinatorics": 0.6666666666666666,
+    "Mathematical Physics": 1.6388888888888888,
+    "Modeling and Simulation": 0.25,
+    "Numerical Analysis": 0.7916666666666666
+  },
+  "Hanoi Medical University": {
+    "Applied Mathematics": 2.6499999999999986,
+    "Modeling and Simulation": 5.324808276860602,
+    "Numerical Analysis": 0.25,
+    "Statistics and Probability": 1.978367003367002
+  },
+  "Eastern International University": {
+    "Applied Mathematics": 0.2777777777777778,
+    "Geometry and Topology": 0.7722222222222221,
+    "Modeling and Simulation": 0.1111111111111111,
+    "Statistics and Probability": 0.8277777777777777
+  },
+  "Ho Chi Minh City University of Law": {
+    "Applied Mathematics": 0.3611111111111111,
+    "Mathematical Physics": 0.25
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Applied Mathematics": 0.6333333333333333,
+    "Discrete Mathematics and Combinatorics": 0.25,
+    "Geometry and Topology": 0.05555555555555555,
+    "Mathematical Physics": 0.05555555555555555,
+    "Modeling and Simulation": 2.788888888888889,
+    "Numerical Analysis": 0.861111111111111,
+    "Statistics and Probability": 0.7444444444444445,
+    "Theoretical Computer Science": 0.1111111111111111
+  },
+  "Institute of Materials Science": {
+    "Applied Mathematics": 0.16666666666666666,
+    "Mathematical Physics": 0.6666666666666666,
+    "Modeling and Simulation": 0.6666666666666666,
+    "Statistics and Probability": 1.0
+  },
+  "Hanoi University of Business and Technology": {
+    "Applied Mathematics": 0.16666666666666666,
+    "Modeling and Simulation": 0.26666666666666666
+  },
+  "Ministry of Science and Technology": {
+    "Applied Mathematics": 0.16666666666666666,
+    "Mathematical Physics": 0.1111111111111111,
+    "Modeling and Simulation": 0.3130550492392597
+  },
+  "Nam Dinh University of Nursing": {
+    "Applied Mathematics": 1.0,
+    "Mathematical Physics": 0.3333333333333333,
+    "Modeling and Simulation": 1.0294117647058822,
+    "Numerical Analysis": 1.6666666666666665
+  },
+  "Vietnam Sweden hospital": {
+    "Applied Mathematics": 0.5,
+    "Geometry and Topology": 0.3,
+    "Statistics and Probability": 0.12222222222222222
+  },
+  "Da Nang Hospital": {
+    "Applied Mathematics": 0.08333333333333333,
+    "Geometry and Topology": 1.3055555555555558,
+    "Mathematical Physics": 0.7777777777777777,
+    "Modeling and Simulation": 0.12499999999999999
+  },
+  "Academy of Policy and Development": {
+    "Applied Mathematics": 0.08333333333333333,
+    "Modeling and Simulation": 0.19444444444444442,
+    "Statistics and Probability": 0.3611111111111111
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Applied Mathematics": 1.6666666666666667,
+    "Geometry and Topology": 0.8333333333333333,
+    "Mathematical Physics": 1.3333333333333333,
+    "Modeling and Simulation": 0.5917210808515158,
+    "Numerical Analysis": 0.49999999999999994,
+    "Statistics and Probability": 0.3
+  },
+  "Bac Ha International University": {
+    "Applied Mathematics": 0.25,
+    "Modeling and Simulation": 0.25
+  },
+  "Bạch Mai Hospital": {
+    "Applied Mathematics": 0.3333333333333333,
+    "Geometry and Topology": 0.3333333333333333,
+    "Mathematical Physics": 0.3333333333333333,
+    "Modeling and Simulation": 1.072366522366522,
+    "Statistics and Probability": 0.8174603174603172
+  },
+  "Vin, University": {
+    "Applied Mathematics": 0.5833333333333334,
+    "Computational Mathematics": 2.6666666666666665,
+    "Discrete Mathematics and Combinatorics": 0.3333333333333333,
+    "Geometry and Topology": 1.2666666666666666,
+    "Mathematical Physics": 0.5,
+    "Modeling and Simulation": 1.3825396825396825,
+    "Numerical Analysis": 1.2944444444444445,
+    "Statistics and Probability": 4.0888888888888895
+  },
+  "General Department of Preventive Medicine": {
+    "Applied Mathematics": 0.3333333333333333,
+    "Computational Mathematics": 0.16666666666666666,
+    "Discrete Mathematics and Combinatorics": 0.3333333333333333,
+    "Geometry and Topology": 0.3333333333333333,
+    "Modeling and Simulation": 4.022218804587223,
+    "Statistics and Probability": 9.756878306878301
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Applied Mathematics": 0.16666666666666666,
+    "Geometry and Topology": 0.5,
+    "Mathematical Physics": 0.5555555555555556,
+    "Modeling and Simulation": 0.451521164021164,
+    "Numerical Analysis": 0.3472222222222222,
+    "Statistics and Probability": 0.1665266106442577
+  },
+  "National Institute of Veterinary Research": {
+    "Applied Mathematics": 1.5,
+    "Geometry and Topology": 0.05555555555555555,
+    "Mathematical Physics": 0.05555555555555555,
+    "Modeling and Simulation": 0.14559907248586493,
+    "Statistics and Probability": 0.06666666666666667,
+    "Theoretical Computer Science": 0.05555555555555555
+  },
+  "Hanoi School Of Public Health": {
+    "Applied Mathematics": 0.06666666666666667,
+    "Geometry and Topology": 0.06666666666666667,
+    "Modeling and Simulation": 1.3244829244829246,
+    "Numerical Analysis": 0.08333333333333333,
+    "Statistics and Probability": 0.2833333333333333
+  },
+  "Vietnam National University of Agriculture": {
+    "Computational Mathematics": 0.16666666666666666,
+    "Mathematical Physics": 0.6666666666666666,
+    "Modeling and Simulation": 0.5805555555555555,
+    "Numerical Analysis": 0.525,
+    "Statistics and Probability": 2.955555555555556
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Geometry and Topology": 0.16666666666666666
+  },
+  "Phenikaa (Vietnam)": {
+    "Geometry and Topology": 0.16666666666666666,
+    "Mathematical Physics": 0.38333333333333336,
+    "Modeling and Simulation": 0.09722222222222221
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Geometry and Topology": 0.047619047619047616,
+    "Modeling and Simulation": 9.33113232632711,
+    "Statistics and Probability": 2.230314347961407
+  },
+  "International Center for Tropical Agriculture": {
+    "Geometry and Topology": 0.28095238095238095,
+    "Modeling and Simulation": 0.3892543859649122,
+    "Statistics and Probability": 0.44272445820433437
+  },
+  "Research Institute for Aquaculture No1": {
+    "Geometry and Topology": 0.3333333333333333,
+    "Mathematical Physics": 0.3333333333333333
+  },
+  "Oxford University Clinical Research Unit": {
+    "Geometry and Topology": 0.047619047619047616,
+    "Modeling and Simulation": 6.324626986821824,
+    "Statistics and Probability": 1.8758771929824563
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Geometry and Topology": 0.3333333333333333,
+    "Modeling and Simulation": 0.24074074074074073
+  },
+  "My Duc Hospital": {
+    "Geometry and Topology": 0.1111111111111111
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Geometry and Topology": 0.037037037037037035,
+    "Modeling and Simulation": 1.0845238095238094
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Geometry and Topology": 0.037037037037037035
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Geometry and Topology": 0.2222222222222222
+  },
+  "Hanoi Academy of Theater and Cinema": {
+    "Mathematical Physics": 0.16666666666666666
+  },
+  "National Council for Science and Technology Policy": {
+    "Mathematical Physics": 0.15277777777777776
+  },
+  "Viet Nam Government": {
+    "Mathematical Physics": 0.3333333333333333,
+    "Statistics and Probability": 0.25
+  },
+  "Hospital for Tropical Diseases": {
+    "Modeling and Simulation": 5.105896245026673,
+    "Statistics and Probability": 0.9702380952380951
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Modeling and Simulation": 2.6650700262929345,
+    "Statistics and Probability": 0.7777777777777778
+  },
+  "Ministry of Health": {
+    "Modeling and Simulation": 2.2021696373286965,
+    "Statistics and Probability": 0.47795815295815297
+  },
+  "Viet Duc Hospital": {
+    "Modeling and Simulation": 0.1938325563325563,
+    "Statistics and Probability": 0.047619047619047616,
+    "Theoretical Computer Science": 0.3333333333333333
+  },
+  "National Institute of Animal Sciences": {
+    "Modeling and Simulation": 0.041666666666666664
+  },
+  "Children's Hospital 2": {
+    "Modeling and Simulation": 0.24216524216524216,
+    "Statistics and Probability": 0.008771929824561403
+  },
+  "Children's Hospital 1": {
+    "Modeling and Simulation": 0.8893387314439947
+  },
+  "Health Strategy and Policy Institute": {
+    "Modeling and Simulation": 0.6692147034252298,
+    "Statistics and Probability": 0.12727272727272726
+  },
+  "Ministry Of Health": {
+    "Modeling and Simulation": 0.06666666666666667
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Modeling and Simulation": 0.027777777777777776
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Modeling and Simulation": 0.1897222222222222
+  },
+  "Hanoi Lung Hospital": {
+    "Modeling and Simulation": 0.23164983164983163,
+    "Statistics and Probability": 0.19259259259259257
+  },
+  "National Center for Technological Progress": {
+    "Modeling and Simulation": 0.2777777777777778
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Modeling and Simulation": 0.8333333333333333,
+    "Statistics and Probability": 1.0
+  },
+  "Cho Ray Hospital": {
+    "Modeling and Simulation": 1.2907347282347281,
+    "Statistics and Probability": 0.8166666666666667
+  },
+  "Khanh Hoa General Hospital": {
+    "Modeling and Simulation": 0.7555555555555555,
+    "Statistics and Probability": 0.06666666666666667
+  },
+  "Vinh Medical University": {
+    "Modeling and Simulation": 0.06666666666666667,
+    "Statistics and Probability": 0.06666666666666667
+  },
+  "Center for Promotion of Advancement of Society": {
+    "Modeling and Simulation": 0.08333333333333333
+  },
+  "Saigon International University": {
+    "Modeling and Simulation": 0.2222222222222222,
+    "Statistics and Probability": 0.1111111111111111
+  },
+  "University Medical Center HCMC": {
+    "Modeling and Simulation": 0.7637566137566137,
+    "Statistics and Probability": 0.16666666666666666
+  },
+  "Institut Pasteur de Nha Trang": {
+    "Modeling and Simulation": 0.022222222222222223
+  },
+  "Vietnam National Children's Hospital": {
+    "Modeling and Simulation": 0.7226430976430974,
+    "Statistics and Probability": 0.05555555555555555
+  },
+  "Hanoi Medical University Hospital": {
+    "Modeling and Simulation": 0.027777777777777776,
+    "Statistics and Probability": 0.09090909090909091
+  },
+  "Center for Health Consultation and Community Development": {
+    "Modeling and Simulation": 0.037037037037037035
+  },
+  "Dong Thap Hospital": {
+    "Modeling and Simulation": 0.05555555555555555
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Modeling and Simulation": 0.0625,
+    "Statistics and Probability": 0.0392156862745098
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Modeling and Simulation": 0.4666666666666667
+  },
+  "Field Crops Research Institute": {
+    "Modeling and Simulation": 0.017543859649122806,
+    "Statistics and Probability": 2.2850877192982457
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Modeling and Simulation": 0.21980676328502416,
+    "Statistics and Probability": 0.09301075268817206
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Modeling and Simulation": 0.13333333333333333
+  },
+  "Vinmec International Hospital": {
+    "Modeling and Simulation": 0.023809523809523808,
+    "Statistics and Probability": 0.5555555555555556
+  },
+  "National Institute of Nutrition": {
+    "Modeling and Simulation": 0.05555555555555555
+  },
+  "Thai Nguyen University of Information and Communication Technology": {
+    "Numerical Analysis": 0.25
+  },
+  "British University Vietnam": {
+    "Numerical Analysis": 0.06666666666666667,
+    "Statistics and Probability": 0.3333333333333333
+  },
+  "Fulbright University Vietnam": {
+    "Numerical Analysis": 0.16666666666666666
+  },
+  "Danang Architecture University": {
+    "Statistics and Probability": 0.3333333333333333
+  },
+  "The American University of Vietnam": {
+    "Statistics and Probability": 0.3333333333333333
+  },
+  "Anova Corp (Vietnam)": {
+    "Statistics and Probability": 0.225
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "ranking": [
+    {
+      "university": "Foreign Trade University",
+      "totalContribution": 5.266666666666666
+    },
+    {
+      "university": "Vietnam National University Ho Chi Minh City",
+      "totalContribution": 1.0
+    },
+    {
+      "university": "University of Languages and International Studies",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Thang Long University",
+      "totalContribution": 0.6666666666666666
+    },
+    {
+      "university": "Health Strategy and Policy Institute",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Vinh University",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Hue University of Education",
+      "totalContribution": 0.5
+    },
+    {
+      "university": "Ho Chi Minh City University of Social Sciences and Humanities",
+      "totalContribution": 0.375
+    },
+    {
+      "university": "Dalat University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Institute of Materials Science",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Le Quy Don Technical University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "General Department of Preventive Medicine",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Trung Vuong University",
+      "totalContribution": 0.3333333333333333
+    },
+    {
+      "university": "Văn Hiến University",
+      "totalContribution": 0.125
+    },
+    {
+      "university": "University of Da Nang",
+      "totalContribution": 0.1111111111111111
+    },
+    {
+      "university": "Academy Of Finance",
+      "totalContribution": 0.041666666666666664
+    }
+  ],
+  "authorsByUniversity": {
+    "University of Languages and International Studies": [
+      {
+        "author": "Jacek Olesiejko",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Bojun He",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Health Strategy and Policy Institute": [
+      {
+        "author": "Danilo Romei",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Dalat University": [
+      {
+        "author": "Andrea Comboni",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Institute of Materials Science": [
+      {
+        "author": "Thomas Hunkeler",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Thang Long University": [
+      {
+        "author": "Li Sheng",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      },
+      {
+        "author": "Peter Mason",
+        "contribution": 0.3333333333333333,
+        "percent": 0.5
+      }
+    ],
+    "Le Quy Don Technical University": [
+      {
+        "author": "Silvère Menegaldo",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Foreign Trade University": [
+      {
+        "author": "Catherine Gravet",
+        "contribution": 3.054943132108486,
+        "percent": 0.5800524934383202
+      },
+      {
+        "author": "Thierry Fauvaux",
+        "contribution": 0.48381452318460183,
+        "percent": 0.09186351706036745
+      },
+      {
+        "author": "John Denton",
+        "contribution": 0.4146981627296587,
+        "percent": 0.07874015748031496
+      },
+      {
+        "author": "Maria Cristina Panzera",
+        "contribution": 0.4146981627296587,
+        "percent": 0.07874015748031496
+      },
+      {
+        "author": "Katherine Rondou",
+        "contribution": 0.4146981627296587,
+        "percent": 0.07874015748031496
+      },
+      {
+        "author": "Randall K. Johnson",
+        "contribution": 0.4146981627296587,
+        "percent": 0.07874015748031496
+      },
+      {
+        "author": "Béatrice Costa",
+        "contribution": 0.06911636045494311,
+        "percent": 0.013123359580052492
+      }
+    ],
+    "General Department of Preventive Medicine": [
+      {
+        "author": "Claude Le Borgne",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "University of Da Nang": [
+      {
+        "author": "Truong Cong Quynh",
+        "contribution": 0.1111111111111111,
+        "percent": 1.0
+      }
+    ],
+    "Ho Chi Minh City University of Social Sciences and Humanities": [
+      {
+        "author": "Đặng Văn Thắng",
+        "contribution": 0.125,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Vo Thi Anh Tuyet",
+        "contribution": 0.125,
+        "percent": 0.3333333333333333
+      },
+      {
+        "author": "Võ Thị Huỳnh Như",
+        "contribution": 0.125,
+        "percent": 0.3333333333333333
+      }
+    ],
+    "Văn Hiến University": [
+      {
+        "author": "Dao Vinh Hop",
+        "contribution": 0.125,
+        "percent": 1.0
+      }
+    ],
+    "Academy Of Finance": [
+      {
+        "author": "Władysław Duczko",
+        "contribution": 0.041666666666666664,
+        "percent": 1.0
+      }
+    ],
+    "Vinh University": [
+      {
+        "author": "Persson, Inès",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ],
+    "Trung Vuong University": [
+      {
+        "author": "Queret-Podesta, Adrien",
+        "contribution": 0.3333333333333333,
+        "percent": 1.0
+      }
+    ],
+    "Vietnam National University Ho Chi Minh City": [
+      {
+        "author": "Dao Phu Quoc",
+        "contribution": 1.0,
+        "percent": 1.0
+      }
+    ],
+    "Hue University of Education": [
+      {
+        "author": "Sarah. Tullis",
+        "contribution": 0.5,
+        "percent": 1.0
+      }
+    ]
+  },
+  "totalPapers": 303622
+}

@@ -1,0 +1,238 @@
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      window.FontAwesomeConfig = {
+        autoReplaceSvg: 'nest'
+      };
+    </script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"
+      crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&amp;family=Poppins:wght@300;400;600&amp;display=swap"
+      rel="stylesheet">
+    <style>
+      ::-webkit-scrollbar
+      {
+        display: none;
+      }
+
+      body
+      {
+        font-family: 'Poppins', sans-serif;
+        background-color: #000000;
+      }
+
+      .font-orbitron
+      {
+        font-family: 'Orbitron', sans-serif;
+      }
+
+      .text-glow
+      {
+        text-shadow: 0 0 8px rgba(255, 255, 255, 0.3), 0 0 20px rgba(236, 72, 153, 0.4);
+      }
+
+      .bg-stars
+      {
+        background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+        background-color: #01000a;
+      }
+
+      .card-bg
+      {
+        background-color: rgba(26, 26, 41, 0.7);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+      }
+    </style>
+    <style data-grapesjs-styles="true">
+      *
+      {
+        box-sizing: border-box;
+      }
+
+      body
+      {
+        margin: 0;
+      }
+
+      ::-webkit-scrollbar
+      {
+        display: none;
+      }
+
+      body
+      {
+        font-family: Poppins, sans-serif;
+        background-color: rgb(0, 0, 0);
+      }
+
+      .font-orbitron
+      {
+        font-family: Orbitron, sans-serif;
+      }
+
+      .text-glow
+      {
+        text-shadow: rgba(255, 255, 255, 0.3) 0px 0px 8px, rgba(236, 72, 153, 0.4) 0px 0px 20px;
+      }
+
+      .card-bg
+      {
+        background-color: rgba(26, 26, 41, 0.7);
+        backdrop-filter: blur(10px);
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-top-color: rgba(255, 255, 255, 0.1);
+        border-right-color: rgba(255, 255, 255, 0.1);
+        border-bottom-color: rgba(255, 255, 255, 0.1);
+        border-left-color: rgba(255, 255, 255, 0.1);
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+      }
+    </style>
+  </head>
+
+  <body class="bg-stars text-gray-200 overflow-hidden">
+    <div id="main-container"
+      class="relative w-full h-[100vh] flex flex-col items-center justify-center p-4">
+      <header id="header"
+        class="absolute top-0 left-0 right-0 z-30 p-6 flex justify-between items-center">
+        <div id="logo-container" class="flex items-center gap-4">
+          <div class="w-12 h-12"><img
+              src="https://storage.googleapis.com/uxpilot-auth.appspot.com/30410dfc30-f283edf134d1ce185408.png"
+              alt="futuristic blue and white starfox logo, glowing neon, on black background"
+              class="w-full h-full object-contain"></div>
+          <h1
+            class="font-orbitron text-3xl font-bold tracking-widest text-white text-glow uppercase">
+            METRIXA</h1>
+        </div>
+        <nav id="main-nav"><a href="#"
+            class="px-6 py-2 text-sm font-semibold text-white bg-pink-600/80 rounded-full hover:bg-pink-500 transition-all duration-300 backdrop-blur-sm border border-pink-500/50 flex items-center gap-2">
+            Ranking Page <i class="fa-solid fa-arrow-right-long"></i></a></nav>
+      </header>
+      <main id="content-wrapper"
+        class="w-full h-full flex items-center justify-center pt-24 pb-20">
+        <div id="plot-section"
+          class="relative w-full h-full flex items-center justify-center">
+          <div id="title-block"
+            class="absolute top-8 left-1/2 -translate-x-1/2 text-center z-10 pointer-events-none">
+            <h2
+              class="text-6xl md:text-8xl font-black font-orbitron uppercase bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-transparent bg-clip-text text-glow">
+              METRIXA
+            </h2>
+            <p
+              class="mt-2 text-sm md:text-base text-gray-400 font-light tracking-wider">
+              Machine-Enhanced Transparent Institutional Index &amp; Analytics
+            </p>
+          </div>
+          <aside id="filters-sidebar"
+            class="absolute left-4 top-1/2 -translate-y-1/2 z-20 w-64">
+            <div class="card-bg rounded-2xl p-4 space-y-4">
+              <div id="main-fields-filter" class="space-y-3">
+                <h3 class="text-sm font-semibold text-gray-400 px-2">Main Fields
+                </h3>
+                <div class="grid grid-cols-2 gap-2 text-center"><button
+                    class="bg-gray-700/50 hover:bg-gray-600/50 text-xs font-medium py-3 px-2 rounded-lg transition-colors">All</button><button
+                    class="bg-gray-900/50 hover:bg-gray-800/50 text-xs font-medium py-3 px-2 rounded-lg transition-colors">Physical
+                    Sciences and Engineering</button><button
+                    class="bg-gray-900/50 hover:bg-gray-800/50 text-xs font-medium py-3 px-2 rounded-lg transition-colors">Health
+                    Sciences</button><button
+                    class="bg-gray-900/50 hover:bg-gray-800/50 text-xs font-medium py-3 px-2 rounded-lg transition-colors">Social
+                    Sciences and Humanities</button><button
+                    class="bg-gray-900/50 hover:bg-gray-800/50 text-xs font-medium py-3 px-2 rounded-lg transition-colors">Life
+                    Sciences</button></div>
+              </div>
+              <div id="sub-fields-list"
+                class="space-y-1 max-h-80 overflow-y-auto pr-2"><a href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors bg-blue-500/20"><span
+                    class="flex items-center gap-2 text-sm font-medium text-blue-300"><i
+                      class="fa-solid fa-square fa-xs text-blue-400"></i>
+                    Computer Scie...</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">1622</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-orange-400"></i>
+                    Economics</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">1001</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-teal-400"></i>
+                    Engineering</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">3538</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-red-400"></i>
+                    Medicine</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">7459</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-purple-400"></i>
+                    Mathematics</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">2824</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-indigo-400"></i>
+                    Physics</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">906</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-green-400"></i>
+                    Environmental ...</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">1333</span></a><a
+                  href="#"
+                  class="flex justify-between items-center p-2 rounded-md hover:bg-white/10 transition-colors"><span
+                    class="flex items-center gap-2 text-sm"><i
+                      class="fa-solid fa-square fa-xs text-yellow-400"></i>
+                    Chemistry</span><span
+                    class="text-xs text-gray-400 bg-gray-700 px-2 py-0.5 rounded-full">1486</span></a>
+              </div>
+            </div>
+          </aside>
+          <div id="plot-container" class="w-full h-full">
+            <div class="w-full h-full flex items-center justify-center"></div>
+          </div>
+        </div>
+      </main>
+      <footer id="footer"
+        class="absolute bottom-0 left-1/2 -translate-x-1/2 z-30 p-4">
+        <div id="controls-bar"
+          class="card-bg flex items-center gap-4 px-6 py-3 rounded-full">
+          <p class="text-xs text-gray-400">Drag to rotate</p>
+          <div class="h-4 w-px bg-gray-600"></div>
+          <p class="text-xs text-gray-400">Scroll to zoom</p>
+          <div class="h-4 w-px bg-gray-600"></div>
+          <p class="text-xs text-gray-400">Click to select</p>
+          <div class="h-4 w-px bg-gray-600"></div><button
+            class="text-xs font-semibold text-white hover:text-blue-400 transition-colors">Reset</button><button
+            class="text-xs font-semibold px-4 py-1.5 bg-red-600 hover:bg-red-500 rounded-full transition-colors">Stop</button>
+        </div>
+      </footer>
+    </div>
+  </body>
+
+</html>

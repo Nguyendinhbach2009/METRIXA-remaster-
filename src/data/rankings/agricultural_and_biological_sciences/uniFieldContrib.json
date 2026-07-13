@@ -1,0 +1,2043 @@
+{
+  "Oxford University Clinical Research Unit": {
+    "Agronomy and Crop Science": 9.673353147252142,
+    "Animal Science and Zoology": 5.3921376592666705,
+    "Ecology, Evolution, Behavior and Systematics": 0.9174603174603174,
+    "Food Science": 22.772735925038507,
+    "General Agricultural and Biological Sciences": 0.22727272727272727,
+    "Insect Science": 5.151083749181571,
+    "Plant Science": 3.2571814938921526
+  },
+  "Institut Pasteur in Ho Chi Minh City": {
+    "Agronomy and Crop Science": 2.2206318578222604,
+    "Animal Science and Zoology": 0.9528470028470023,
+    "Ecology, Evolution, Behavior and Systematics": 0.866346153846154,
+    "Food Science": 1.3761011934924978,
+    "Forestry": 0.33333333333333337,
+    "Insect Science": 0.8326388888888889,
+    "Plant Science": 1.4904761904761905
+  },
+  "National Institute of Veterinary Research": {
+    "Agronomy and Crop Science": 19.858693766020135,
+    "Animal Science and Zoology": 18.547456998219612,
+    "Aquatic Science": 0.6944444444444446,
+    "Ecology, Evolution, Behavior and Systematics": 8.280301223830632,
+    "Food Science": 9.687203566915514,
+    "Forestry": 0.16666666666666666,
+    "General Agricultural and Biological Sciences": 0.9166666666666666,
+    "Insect Science": 0.316705069124424,
+    "Plant Science": 3.851716314874205,
+    "Soil Science": 0.5307539682539683
+  },
+  "National Institute Of Hygiene And Epidemiology": {
+    "Agronomy and Crop Science": 9.533815572646244,
+    "Animal Science and Zoology": 13.144505565118163,
+    "Aquatic Science": 0.43333333333333335,
+    "Ecology, Evolution, Behavior and Systematics": 6.558713454301687,
+    "Food Science": 21.73008827985089,
+    "Forestry": 0.027777777777777776,
+    "General Agricultural and Biological Sciences": 1.9166666666666663,
+    "Insect Science": 5.515123504156504,
+    "Plant Science": 20.976198037642117,
+    "Soil Science": 0.6388888888888888
+  },
+  "Ministry of Health": {
+    "Agronomy and Crop Science": 1.2320922968049406,
+    "Animal Science and Zoology": 1.664762470487108,
+    "Aquatic Science": 0.974242424242424,
+    "Ecology, Evolution, Behavior and Systematics": 0.9470729706023824,
+    "Food Science": 4.493861555875717,
+    "General Agricultural and Biological Sciences": 0.8333333333333333,
+    "Insect Science": 1.4226190476190477,
+    "Plant Science": 3.006298331298331,
+    "Soil Science": 0.6666666666666667
+  },
+  "Field Crops Research Institute": {
+    "Agronomy and Crop Science": 259.6981047003326,
+    "Animal Science and Zoology": 2.4027777777777777,
+    "Aquatic Science": 2.666666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 46.59932373182378,
+    "Food Science": 31.917081529581537,
+    "Forestry": 8.10092592592592,
+    "General Agricultural and Biological Sciences": 30.03252719502718,
+    "Horticulture": 2.2952380952380955,
+    "Insect Science": 18.23992537313432,
+    "Plant Science": 605.5954237905132,
+    "Soil Science": 97.1906824591858
+  },
+  "National Institute of Animal Sciences": {
+    "Agronomy and Crop Science": 16.07976081652551,
+    "Animal Science and Zoology": 26.453900887407645,
+    "Aquatic Science": 0.375,
+    "Ecology, Evolution, Behavior and Systematics": 7.639407351907352,
+    "Food Science": 3.4115186038573135,
+    "Forestry": 1.248015873015873,
+    "General Agricultural and Biological Sciences": 0.6098725348725348,
+    "Insect Science": 1.674283154121864,
+    "Plant Science": 3.136640211640212,
+    "Soil Science": 0.5499999999999999
+  },
+  "Hue University": {
+    "Agronomy and Crop Science": 11.406628556628542,
+    "Animal Science and Zoology": 27.92706275206286,
+    "Aquatic Science": 25.44790163540169,
+    "Ecology, Evolution, Behavior and Systematics": 41.579396018212044,
+    "Food Science": 47.9980939382257,
+    "Forestry": 3.959361471861474,
+    "General Agricultural and Biological Sciences": 20.448495948495918,
+    "Horticulture": 1.1865079365079367,
+    "Insect Science": 7.646642246642241,
+    "Plant Science": 118.87198116211253,
+    "Soil Science": 25.17793410293407
+  },
+  "Institute of Vaccine and Medical Biologicals": {
+    "Agronomy and Crop Science": 1.0211360398860398,
+    "Animal Science and Zoology": 0.6584756805433498,
+    "Aquatic Science": 0.047619047619047616,
+    "Ecology, Evolution, Behavior and Systematics": 0.25,
+    "Food Science": 0.4190476190476189,
+    "Insect Science": 0.6226892314211557,
+    "Plant Science": 0.5112811791383219
+  },
+  "Vietnam Academy of Social Sciences": {
+    "Agronomy and Crop Science": 0.8666666666666666,
+    "Animal Science and Zoology": 0.38095238095238093,
+    "Aquatic Science": 0.5,
+    "Ecology, Evolution, Behavior and Systematics": 8.045226070226066,
+    "Food Science": 1.5362103174603177,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 3.989145658263305,
+    "Insect Science": 0.3888888888888889,
+    "Plant Science": 4.595690733558381,
+    "Soil Science": 7.405687830687828
+  },
+  "Vietnam Academy of Science and Technology": {
+    "Agronomy and Crop Science": 6.143173166702575,
+    "Animal Science and Zoology": 20.772138037715283,
+    "Aquatic Science": 112.52298804137098,
+    "Ecology, Evolution, Behavior and Systematics": 275.7045523951711,
+    "Food Science": 117.32020472456568,
+    "Forestry": 4.497886753769104,
+    "General Agricultural and Biological Sciences": 2.387527831645479,
+    "Horticulture": 5.033814333814328,
+    "Insect Science": 68.42957763484137,
+    "Plant Science": 438.0344091365997,
+    "Soil Science": 9.60836339586339
+  },
+  "Vietnam Academy of Agricultural Sciences": {
+    "Agronomy and Crop Science": 2.2563725490196074,
+    "Animal Science and Zoology": 1.7690476190476188,
+    "Aquatic Science": 0.6314814814814815,
+    "Ecology, Evolution, Behavior and Systematics": 11.788870757201996,
+    "Food Science": 2.2116994116994113,
+    "Forestry": 0.587037037037037,
+    "General Agricultural and Biological Sciences": 2.8634787917396634,
+    "Horticulture": 0.990873015873016,
+    "Insect Science": 9.57470599046685,
+    "Plant Science": 41.40787834626418,
+    "Soil Science": 5.005125041469579
+  },
+  "Agricultural Genetics Institute": {
+    "Agronomy and Crop Science": 1.928306878306878,
+    "Animal Science and Zoology": 1.4970238095238089,
+    "Aquatic Science": 0.23737373737373738,
+    "Ecology, Evolution, Behavior and Systematics": 5.077470677470675,
+    "Food Science": 3.5424712814418675,
+    "Forestry": 0.0091324200913242,
+    "General Agricultural and Biological Sciences": 1.3025062656641602,
+    "Horticulture": 0.15827130958709906,
+    "Insect Science": 3.9260101010101014,
+    "Plant Science": 71.65711298484898,
+    "Soil Science": 2.6349067112225013
+  },
+  "Nong Lam University Ho Chi Minh City": {
+    "Agronomy and Crop Science": 16.424433899433886,
+    "Animal Science and Zoology": 28.51047979797979,
+    "Aquatic Science": 25.839417989418006,
+    "Ecology, Evolution, Behavior and Systematics": 32.22542292227657,
+    "Food Science": 82.25998613959159,
+    "Forestry": 2.241666666666666,
+    "General Agricultural and Biological Sciences": 6.240048840048836,
+    "Horticulture": 2.6005411255411244,
+    "Insect Science": 18.34128724589255,
+    "Plant Science": 96.95887399637414,
+    "Soil Science": 12.09908424908424
+  },
+  "International Center for Tropical Agriculture": {
+    "Agronomy and Crop Science": 3.091712454212453,
+    "Animal Science and Zoology": 1.192099567099567,
+    "Aquatic Science": 12.692676767676764,
+    "Ecology, Evolution, Behavior and Systematics": 29.560761553261653,
+    "Food Science": 10.221275946275938,
+    "Forestry": 4.01170634920635,
+    "General Agricultural and Biological Sciences": 16.34376744481786,
+    "Horticulture": 1.7080808080808083,
+    "Insect Science": 9.835308411395363,
+    "Plant Science": 51.35834171603746,
+    "Soil Science": 7.169782369047067
+  },
+  "Vietnam National University of Agriculture": {
+    "Agronomy and Crop Science": 36.93050412550429,
+    "Animal Science and Zoology": 40.94179514657474,
+    "Aquatic Science": 10.599586198115613,
+    "Ecology, Evolution, Behavior and Systematics": 42.83043113204896,
+    "Food Science": 29.102732866548717,
+    "Forestry": 2.655026455026455,
+    "General Agricultural and Biological Sciences": 15.353914603914587,
+    "Horticulture": 1.6351851851851853,
+    "Insect Science": 14.491666033771294,
+    "Plant Science": 118.35729843246625,
+    "Soil Science": 19.67565231609349
+  },
+  "Thuyloi University": {
+    "Agronomy and Crop Science": 8.497619047619045,
+    "Animal Science and Zoology": 0.2957671957671958,
+    "Aquatic Science": 3.5509259259259256,
+    "Ecology, Evolution, Behavior and Systematics": 13.922246272246268,
+    "Food Science": 6.702068302068301,
+    "Forestry": 0.986111111111111,
+    "General Agricultural and Biological Sciences": 1.5860449735449735,
+    "Horticulture": 0.045454545454545456,
+    "Insect Science": 2.361928811928812,
+    "Plant Science": 62.66517857142877,
+    "Soil Science": 42.34906204906213
+  },
+  "Can Tho University": {
+    "Agronomy and Crop Science": 24.882061980591423,
+    "Animal Science and Zoology": 46.14125583022658,
+    "Aquatic Science": 163.12200577200468,
+    "Ecology, Evolution, Behavior and Systematics": 105.1926037068733,
+    "Food Science": 125.53551986512537,
+    "Forestry": 5.499206349206345,
+    "General Agricultural and Biological Sciences": 34.381583694083744,
+    "Horticulture": 1.6638888888888888,
+    "Insect Science": 29.68758024383033,
+    "Plant Science": 315.1550103417558,
+    "Soil Science": 54.99456086562887
+  },
+  "Nha Trang University": {
+    "Agronomy and Crop Science": 3.414285714285715,
+    "Animal Science and Zoology": 21.01971144324084,
+    "Aquatic Science": 100.13724053724067,
+    "Ecology, Evolution, Behavior and Systematics": 7.227669552669549,
+    "Food Science": 39.91139971139976,
+    "Forestry": 1.411111111111111,
+    "General Agricultural and Biological Sciences": 4.672222222222221,
+    "Insect Science": 5.400793650793649,
+    "Plant Science": 19.17370129870129,
+    "Soil Science": 2.4515873015873018
+  },
+  "Institute of Population, Health and Development": {
+    "Agronomy and Crop Science": 0.29761904761904756,
+    "Animal Science and Zoology": 0.2222222222222222,
+    "Ecology, Evolution, Behavior and Systematics": 1.6327561327561328,
+    "Food Science": 0.11958874458874458,
+    "General Agricultural and Biological Sciences": 0.1111111111111111,
+    "Insect Science": 0.4222222222222223,
+    "Plant Science": 1.3691919191919193,
+    "Soil Science": 0.5
+  },
+  "Research Institute for Aquaculture No1": {
+    "Agronomy and Crop Science": 0.2328042328042328,
+    "Animal Science and Zoology": 2.2261795122089243,
+    "Aquatic Science": 43.303589466089555,
+    "Ecology, Evolution, Behavior and Systematics": 5.944877344877341,
+    "Food Science": 1.6051587301587298,
+    "General Agricultural and Biological Sciences": 0.7891414141414143,
+    "Insect Science": 3.610454822954822,
+    "Plant Science": 4.5005133904327455,
+    "Soil Science": 0.16666666666666666
+  },
+  "Hue University of Agriculture and Forestry": {
+    "Agronomy and Crop Science": 8.285383597883602,
+    "Animal Science and Zoology": 12.305555555555545,
+    "Aquatic Science": 10.4517316017316,
+    "Ecology, Evolution, Behavior and Systematics": 13.04639293455083,
+    "Food Science": 10.596476671476665,
+    "Forestry": 3.1888888888888896,
+    "General Agricultural and Biological Sciences": 7.405555555555554,
+    "Horticulture": 0.06734006734006734,
+    "Insect Science": 4.286080586080584,
+    "Plant Science": 29.02122414622417,
+    "Soil Science": 6.064153439153433
+  },
+  "Children's Hospital 2": {
+    "Agronomy and Crop Science": 1.218963769718413,
+    "Animal Science and Zoology": 0.49918236069131205,
+    "Food Science": 0.6495296011681995,
+    "Plant Science": 0.15656565656565657
+  },
+  "Children's Hospital 1": {
+    "Agronomy and Crop Science": 1.2872126942270967,
+    "Animal Science and Zoology": 0.4067976847489567,
+    "Food Science": 1.9459346946127651,
+    "Insect Science": 0.16666666666666666,
+    "Plant Science": 1.0
+  },
+  "Hospital for Tropical Diseases": {
+    "Agronomy and Crop Science": 2.5160809742784083,
+    "Animal Science and Zoology": 4.325275734270792,
+    "Aquatic Science": 0.7142857142857142,
+    "Ecology, Evolution, Behavior and Systematics": 12.350962694712692,
+    "Food Science": 15.306853336866121,
+    "Forestry": 1.4,
+    "General Agricultural and Biological Sciences": 1.0357142857142856,
+    "Insect Science": 7.639001317247884,
+    "Plant Science": 22.32081085966893,
+    "Soil Science": 0.5833333333333333
+  },
+  "Hanoi Medical University": {
+    "Agronomy and Crop Science": 1.424769815530685,
+    "Animal Science and Zoology": 0.6948347373347373,
+    "Aquatic Science": 0.7441919191919191,
+    "Ecology, Evolution, Behavior and Systematics": 2.3361111111111104,
+    "Food Science": 6.712747437747433,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Horticulture": 0.037037037037037035,
+    "Insect Science": 2.6051587301587293,
+    "Plant Science": 16.117484598734592,
+    "Soil Science": 0.33333333333333337
+  },
+  "Ministry of Agriculture and Rural Development": {
+    "Agronomy and Crop Science": 5.921943783340837,
+    "Animal Science and Zoology": 2.1316632441632444,
+    "Aquatic Science": 3.225808913308914,
+    "Ecology, Evolution, Behavior and Systematics": 10.173642955273381,
+    "Food Science": 1.1230991230991232,
+    "Forestry": 0.4952380952380952,
+    "General Agricultural and Biological Sciences": 3.324016563146998,
+    "Horticulture": 0.08333333333333333,
+    "Insect Science": 1.9916361416361419,
+    "Plant Science": 6.482278135807543,
+    "Soil Science": 4.3277777777777775
+  },
+  "General Department of Preventive Medicine": {
+    "Agronomy and Crop Science": 8.707539682539679,
+    "Animal Science and Zoology": 9.152260702260696,
+    "Aquatic Science": 0.5416666666666666,
+    "Ecology, Evolution, Behavior and Systematics": 5.36230158730159,
+    "Food Science": 15.069841269841259,
+    "Forestry": 0.8999999999999999,
+    "General Agricultural and Biological Sciences": 1.2453703703703705,
+    "Insect Science": 4.113624338624338,
+    "Plant Science": 12.658897876003127,
+    "Soil Science": 0.5
+  },
+  "Hanoi University": {
+    "Agronomy and Crop Science": 2.186111111111111,
+    "Animal Science and Zoology": 0.5249999999999999,
+    "Aquatic Science": 1.8166666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 2.2448412698412703,
+    "Food Science": 11.530886243386245,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 0.5472222222222222,
+    "Horticulture": 0.05555555555555555,
+    "Insect Science": 2.8125,
+    "Plant Science": 10.005381192881188,
+    "Soil Science": 1.2047619047619051
+  },
+  "Khanh Hoa General Hospital": {
+    "Agronomy and Crop Science": 0.1186868686868687,
+    "Aquatic Science": 0.08095238095238094,
+    "Ecology, Evolution, Behavior and Systematics": 0.16666666666666666,
+    "Food Science": 1.438847837985769,
+    "Plant Science": 1.5002645502645504
+  },
+  "Thai Binh University of Medicine and Pharmacy": {
+    "Agronomy and Crop Science": 0.18055555555555555,
+    "Animal Science and Zoology": 0.05458089668615984,
+    "Ecology, Evolution, Behavior and Systematics": 1.837121212121212,
+    "Food Science": 2.8537878787878794,
+    "Insect Science": 0.08333333333333333,
+    "Plant Science": 2.717644392644392
+  },
+  "Thai Nguyen University": {
+    "Agronomy and Crop Science": 2.4244738921209508,
+    "Animal Science and Zoology": 2.5295126170126165,
+    "Aquatic Science": 3.686050986050987,
+    "Ecology, Evolution, Behavior and Systematics": 21.827380952380956,
+    "Food Science": 15.147527277790445,
+    "Forestry": 0.8992521367521369,
+    "General Agricultural and Biological Sciences": 9.321207169736574,
+    "Horticulture": 1.7305555555555556,
+    "Insect Science": 3.756679894179893,
+    "Plant Science": 94.0271333513985,
+    "Soil Science": 4.255368814192344
+  },
+  "Center for Promotion of Advancement of Society": {
+    "Agronomy and Crop Science": 0.16666666666666666
+  },
+  "An Giang University": {
+    "Agronomy and Crop Science": 2.8312289562289563,
+    "Animal Science and Zoology": 1.9902777777777771,
+    "Aquatic Science": 5.341630591630588,
+    "Ecology, Evolution, Behavior and Systematics": 12.386112542141946,
+    "Food Science": 10.847910096439502,
+    "Forestry": 0.5833333333333334,
+    "General Agricultural and Biological Sciences": 2.772881562881563,
+    "Horticulture": 0.06666666666666667,
+    "Insect Science": 1.169444444444445,
+    "Plant Science": 36.290463702963784,
+    "Soil Science": 8.545749158249155
+  },
+  "Duy Tan University": {
+    "Agronomy and Crop Science": 0.8039682539682539,
+    "Animal Science and Zoology": 1.651322751322751,
+    "Aquatic Science": 7.724158249158242,
+    "Ecology, Evolution, Behavior and Systematics": 26.38549737299734,
+    "Food Science": 23.85162398141936,
+    "Forestry": 1.1386363636363634,
+    "General Agricultural and Biological Sciences": 2.436111111111112,
+    "Insect Science": 11.350878750878756,
+    "Plant Science": 49.267891035215946,
+    "Soil Science": 6.072330447330445
+  },
+  "Vietnam National Children's Hospital": {
+    "Agronomy and Crop Science": 0.3273809523809524,
+    "Animal Science and Zoology": 1.9270152505446623,
+    "Ecology, Evolution, Behavior and Systematics": 2.041666666666667,
+    "Food Science": 2.1428571428571423,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 0.5,
+    "Horticulture": 0.26666666666666666,
+    "Insect Science": 0.8518518518518515,
+    "Plant Science": 3.6227513227513226,
+    "Soil Science": 0.3333333333333333
+  },
+  "Hội Gastroenterology Việt Nam": {
+    "Agronomy and Crop Science": 0.7527978074454835,
+    "Animal Science and Zoology": 0.022727272727272728,
+    "Aquatic Science": 0.06944444444444445,
+    "Ecology, Evolution, Behavior and Systematics": 2.684832451499119,
+    "Food Science": 0.047619047619047616,
+    "Forestry": 0.3214285714285714,
+    "General Agricultural and Biological Sciences": 0.25,
+    "Horticulture": 0.25,
+    "Insect Science": 0.6111111111111112,
+    "Plant Science": 0.5694444444444444,
+    "Soil Science": 0.5555555555555556
+  },
+  "Vietnam National University, Hanoi": {
+    "Agronomy and Crop Science": 2.4092712842712842,
+    "Animal Science and Zoology": 4.688276293423351,
+    "Aquatic Science": 7.870646483146476,
+    "Ecology, Evolution, Behavior and Systematics": 37.77809383203901,
+    "Food Science": 28.812533762533793,
+    "Forestry": 1.769588744588745,
+    "General Agricultural and Biological Sciences": 11.829173876232696,
+    "Horticulture": 1.051936026936027,
+    "Insect Science": 11.982010582010565,
+    "Plant Science": 87.7004310316201,
+    "Soil Science": 21.10268620268621
+  },
+  "Hanoi School Of Public Health": {
+    "Agronomy and Crop Science": 1.776434676434677,
+    "Animal Science and Zoology": 0.4031746031746032,
+    "Ecology, Evolution, Behavior and Systematics": 0.1388888888888889,
+    "Food Science": 4.938528138528139,
+    "General Agricultural and Biological Sciences": 0.26666666666666666,
+    "Plant Science": 1.3755862193362194
+  },
+  "Thai Nguyen University of Agriculture and Forestry": {
+    "Agronomy and Crop Science": 3.328306878306878,
+    "Animal Science and Zoology": 5.110846560846556,
+    "Aquatic Science": 0.9473484848484848,
+    "Ecology, Evolution, Behavior and Systematics": 12.308730158730151,
+    "Food Science": 7.568874643874642,
+    "Forestry": 0.7999999999999999,
+    "General Agricultural and Biological Sciences": 6.5527777777777745,
+    "Horticulture": 0.4025252525252525,
+    "Insect Science": 5.691493691493694,
+    "Plant Science": 33.60462369874148,
+    "Soil Science": 4.634027777777776
+  },
+  "Vinh University": {
+    "Agronomy and Crop Science": 1.3195767195767194,
+    "Animal Science and Zoology": 2.195918367346939,
+    "Aquatic Science": 10.521717171717171,
+    "Ecology, Evolution, Behavior and Systematics": 14.190768256797666,
+    "Food Science": 41.831240981241194,
+    "Forestry": 1.4500000000000004,
+    "General Agricultural and Biological Sciences": 1.9472222222222226,
+    "Horticulture": 1.4008190883190885,
+    "Insect Science": 4.55727513227513,
+    "Plant Science": 52.76747634174142,
+    "Soil Science": 2.7361111111111094
+  },
+  "Cat Tien National Park": {
+    "Agronomy and Crop Science": 0.5919700356157976,
+    "Animal Science and Zoology": 2.3452380952380953,
+    "Aquatic Science": 3.741402116402117,
+    "Ecology, Evolution, Behavior and Systematics": 25.26388157486752,
+    "Food Science": 3.609076571576571,
+    "Forestry": 0.7658730158730158,
+    "General Agricultural and Biological Sciences": 1.3052910052910056,
+    "Horticulture": 0.15873015873015872,
+    "Insect Science": 3.5492317867317857,
+    "Plant Science": 13.431275260687018,
+    "Soil Science": 2.6137362637362638
+  },
+  "Hung Vuong Hospital": {
+    "Agronomy and Crop Science": 0.0673076923076923,
+    "Animal Science and Zoology": 0.06666666666666667,
+    "Aquatic Science": 0.21666666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 2.089814814814815,
+    "Food Science": 0.5986111111111112,
+    "Insect Science": 0.16666666666666666,
+    "Plant Science": 1.1794823232323235
+  },
+  "Tien Giang General Hospital": {
+    "Agronomy and Crop Science": 0.3857142857142857,
+    "Animal Science and Zoology": 0.591041366041366,
+    "Aquatic Science": 1.0542592592592592,
+    "Ecology, Evolution, Behavior and Systematics": 1.8340424925951244,
+    "Food Science": 4.285108083637496,
+    "Forestry": 0.041666666666666664,
+    "General Agricultural and Biological Sciences": 0.5,
+    "Horticulture": 0.2,
+    "Insect Science": 0.9987173773938481,
+    "Plant Science": 12.288419913419906,
+    "Soil Science": 2.876785714285714
+  },
+  "Institute of Mathematics": {
+    "Agronomy and Crop Science": 0.41666666666666663,
+    "Animal Science and Zoology": 0.47738095238095224,
+    "Aquatic Science": 3.128968253968254,
+    "Ecology, Evolution, Behavior and Systematics": 2.4694444444444437,
+    "Food Science": 3.524327986827988,
+    "Forestry": 0.1111111111111111,
+    "Horticulture": 0.05555555555555555,
+    "Insect Science": 1.5235042735042736,
+    "Plant Science": 12.732589170089177,
+    "Soil Science": 0.45555555555555555
+  },
+  "Industrial University of Ho Chi Minh City": {
+    "Agronomy and Crop Science": 0.2636363636363636,
+    "Animal Science and Zoology": 6.497751322751321,
+    "Aquatic Science": 6.18982683982684,
+    "Ecology, Evolution, Behavior and Systematics": 12.443602693602665,
+    "Food Science": 67.1865934990939,
+    "Forestry": 2.0277777777777777,
+    "General Agricultural and Biological Sciences": 5.444444444444444,
+    "Horticulture": 0.3333333333333333,
+    "Insect Science": 10.235846560846555,
+    "Plant Science": 87.97564703814712,
+    "Soil Science": 5.61509139009139
+  },
+  "Vietnam National University Ho Chi Minh City": {
+    "Agronomy and Crop Science": 8.5922514619883,
+    "Animal Science and Zoology": 17.62990177463861,
+    "Aquatic Science": 37.9399054944268,
+    "Ecology, Evolution, Behavior and Systematics": 53.11352198820368,
+    "Food Science": 173.19366608981497,
+    "Forestry": 3.1418650793650795,
+    "General Agricultural and Biological Sciences": 16.681746031746023,
+    "Horticulture": 1.7096560846560844,
+    "Insect Science": 25.284950697450743,
+    "Plant Science": 304.84831067192397,
+    "Soil Science": 37.548899711399756
+  },
+  "Hanoi Open University": {
+    "Agronomy and Crop Science": 4.411255411255411,
+    "Animal Science and Zoology": 3.333333333333334,
+    "Aquatic Science": 3.4292929292929286,
+    "Ecology, Evolution, Behavior and Systematics": 7.013888888888889,
+    "Food Science": 10.695145595145593,
+    "Forestry": 2.4642857142857144,
+    "General Agricultural and Biological Sciences": 1.833333333333333,
+    "Insect Science": 3.0277777777777777,
+    "Plant Science": 32.52209965959967,
+    "Soil Science": 0.8333333333333333
+  },
+  "Viet Nam University Of Traditional Medicine": {
+    "Agronomy and Crop Science": 0.30000000000000004,
+    "Animal Science and Zoology": 0.5,
+    "Ecology, Evolution, Behavior and Systematics": 1.501984126984127,
+    "Food Science": 2.1327320827320824,
+    "Forestry": 0.13333333333333333,
+    "General Agricultural and Biological Sciences": 0.05555555555555555,
+    "Insect Science": 0.5314814814814814,
+    "Plant Science": 9.210052910052907,
+    "Soil Science": 0.4611111111111111
+  },
+  "National Institute of Nutrition": {
+    "Agronomy and Crop Science": 0.1111111111111111,
+    "Animal Science and Zoology": 1.388888888888889,
+    "Aquatic Science": 0.8333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 3.039321789321789,
+    "Food Science": 11.444967532467535,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 0.9285714285714287,
+    "Insect Science": 0.5970899470899471,
+    "Plant Science": 24.067852718939722,
+    "Soil Science": 0.8529158040027603
+  },
+  "Center for Creative Initiatives in Health and Population": {
+    "Agronomy and Crop Science": 0.277960927960928,
+    "Animal Science and Zoology": 0.06666666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 0.16666666666666666,
+    "Food Science": 0.10476190476190475,
+    "General Agricultural and Biological Sciences": 1.1111111111111112,
+    "Insect Science": 0.08630952380952381,
+    "Plant Science": 1.4625,
+    "Soil Science": 0.16666666666666666
+  },
+  "Institute for Computational Science and Technology": {
+    "Agronomy and Crop Science": 0.10683760683760682,
+    "Animal Science and Zoology": 0.2777777777777778,
+    "Aquatic Science": 0.44999999999999996,
+    "Ecology, Evolution, Behavior and Systematics": 0.24761904761904763,
+    "Food Science": 1.4749338624338624,
+    "Forestry": 0.3333333333333333,
+    "Insect Science": 0.9999999999999999,
+    "Plant Science": 3.1105158730158733,
+    "Soil Science": 0.17592592592592593
+  },
+  "University of Languages and International Studies": {
+    "Agronomy and Crop Science": 0.3333333333333333,
+    "Aquatic Science": 0.018518518518518517,
+    "Ecology, Evolution, Behavior and Systematics": 0.3333333333333333,
+    "Food Science": 2.5527777777777776,
+    "General Agricultural and Biological Sciences": 0.3333333333333333,
+    "Insect Science": 0.6,
+    "Plant Science": 3.8491582491582497
+  },
+  "Vietnam National University of Forestry": {
+    "Agronomy and Crop Science": 0.38716931216931216,
+    "Animal Science and Zoology": 0.9999999999999999,
+    "Aquatic Science": 0.662037037037037,
+    "Ecology, Evolution, Behavior and Systematics": 20.848369377536045,
+    "Food Science": 4.913492063492063,
+    "Forestry": 6.899544817927165,
+    "General Agricultural and Biological Sciences": 1.4087301587301586,
+    "Horticulture": 0.5,
+    "Insect Science": 4.097532560032561,
+    "Plant Science": 23.263736263736273,
+    "Soil Science": 8.326016113516108
+  },
+  "Ton Duc Thang University": {
+    "Agronomy and Crop Science": 2.8769841269841265,
+    "Animal Science and Zoology": 6.822919672919673,
+    "Aquatic Science": 8.41911375661375,
+    "Ecology, Evolution, Behavior and Systematics": 13.255705868205872,
+    "Food Science": 27.870796006825522,
+    "Forestry": 0.5381410256410256,
+    "General Agricultural and Biological Sciences": 6.646031746031744,
+    "Horticulture": 0.1111111111111111,
+    "Insect Science": 5.499999999999994,
+    "Plant Science": 64.0614993802498,
+    "Soil Science": 7.8503667628667575
+  },
+  "Phu Yen University": {
+    "Agronomy and Crop Science": 0.41666666666666663,
+    "Animal Science and Zoology": 1.0,
+    "Aquatic Science": 0.6061507936507936,
+    "Ecology, Evolution, Behavior and Systematics": 3.8777116402116407,
+    "Food Science": 2.0277777777777777,
+    "Forestry": 0.5833333333333334,
+    "General Agricultural and Biological Sciences": 1.1111111111111112,
+    "Insect Science": 0.8981481481481481,
+    "Plant Science": 5.622306397306396,
+    "Soil Science": 0.5
+  },
+  "VNU University of Science": {
+    "Agronomy and Crop Science": 4.756944444444444,
+    "Animal Science and Zoology": 4.669576719576718,
+    "Aquatic Science": 7.580494505494503,
+    "Ecology, Evolution, Behavior and Systematics": 20.09674783277723,
+    "Food Science": 12.720503516091744,
+    "Forestry": 0.9388888888888889,
+    "General Agricultural and Biological Sciences": 2.1547008547008546,
+    "Horticulture": 0.162037037037037,
+    "Insect Science": 3.93968253968254,
+    "Plant Science": 31.05093808696759,
+    "Soil Science": 6.152716727716728
+  },
+  "Foreign Trade University": {
+    "Agronomy and Crop Science": 1.3174603174603177,
+    "Animal Science and Zoology": 1.380952380952381,
+    "Aquatic Science": 0.5,
+    "Ecology, Evolution, Behavior and Systematics": 2.527777777777778,
+    "Food Science": 5.505555555555555,
+    "Forestry": 0.38095238095238093,
+    "General Agricultural and Biological Sciences": 9.897306397306401,
+    "Insect Science": 0.3333333333333333,
+    "Plant Science": 5.077645502645502,
+    "Soil Science": 2.214285714285714
+  },
+  "Dong Thap Hospital": {
+    "Agronomy and Crop Science": 0.014492753623188406,
+    "Animal Science and Zoology": 0.13664258685930514,
+    "Ecology, Evolution, Behavior and Systematics": 0.08333333333333333,
+    "Food Science": 2.598777192306603,
+    "General Agricultural and Biological Sciences": 0.08333333333333333,
+    "Plant Science": 0.16666666666666666
+  },
+  "Hai phong University Of Medicine and Pharmacy": {
+    "Agronomy and Crop Science": 0.6112554112554113,
+    "Animal Science and Zoology": 1.3981481481481481,
+    "Aquatic Science": 1.1406204906204906,
+    "Ecology, Evolution, Behavior and Systematics": 1.8888888888888888,
+    "Food Science": 4.1864898989898975,
+    "Forestry": 0.21428571428571427,
+    "General Agricultural and Biological Sciences": 0.38095238095238093,
+    "Insect Science": 1.1309523809523812,
+    "Plant Science": 4.2837391774891795,
+    "Soil Science": 0.14814814814814814
+  },
+  "Forest Industry Research Institute": {
+    "Agronomy and Crop Science": 0.41666666666666663,
+    "Ecology, Evolution, Behavior and Systematics": 22.761504593290336,
+    "Food Science": 1.9514189514189515,
+    "Forestry": 6.25172345650588,
+    "General Agricultural and Biological Sciences": 0.8080808080808081,
+    "Horticulture": 0.486002886002886,
+    "Insect Science": 10.16521775159705,
+    "Plant Science": 25.92204240673944,
+    "Soil Science": 5.746957671957669
+  },
+  "Tân Tạo University": {
+    "Agronomy and Crop Science": 6.611111111111111,
+    "Animal Science and Zoology": 5.98738512949039,
+    "Aquatic Science": 4.927777777777775,
+    "Ecology, Evolution, Behavior and Systematics": 12.029325396825405,
+    "Food Science": 13.355018130018125,
+    "Forestry": 2.64484126984127,
+    "General Agricultural and Biological Sciences": 7.078373015873016,
+    "Insect Science": 3.7907268170426063,
+    "Plant Science": 41.798759111259166,
+    "Soil Science": 6.415079365079364
+  },
+  "Thang Long University": {
+    "Agronomy and Crop Science": 0.5,
+    "Animal Science and Zoology": 3.0190583925878043,
+    "Aquatic Science": 3.1160968660968664,
+    "Ecology, Evolution, Behavior and Systematics": 5.555555555555554,
+    "Food Science": 6.33143274853801,
+    "General Agricultural and Biological Sciences": 1.9416666666666669,
+    "Insect Science": 5.312169312169312,
+    "Plant Science": 21.87999777999779,
+    "Soil Science": 2.7698412698412698
+  },
+  "Institute for Nuclear Science and Technology": {
+    "Agronomy and Crop Science": 0.41428571428571426,
+    "Animal Science and Zoology": 0.6642857142857143,
+    "Aquatic Science": 0.6944444444444444,
+    "Ecology, Evolution, Behavior and Systematics": 5.062468374446551,
+    "Food Science": 8.330505605505602,
+    "Forestry": 0.06666666666666667,
+    "General Agricultural and Biological Sciences": 0.5833333333333333,
+    "Insect Science": 0.6639490139490138,
+    "Plant Science": 13.985080947059116,
+    "Soil Science": 0.5333333333333334
+  },
+  "Ho Chi Minh City University of Science": {
+    "Agronomy and Crop Science": 0.8311965811965811,
+    "Animal Science and Zoology": 2.3638024013024013,
+    "Aquatic Science": 3.308333333333335,
+    "Ecology, Evolution, Behavior and Systematics": 10.872881285381276,
+    "Food Science": 17.38938931438931,
+    "Forestry": 1.4444444444444446,
+    "General Agricultural and Biological Sciences": 2.1309523809523814,
+    "Horticulture": 1.2037037037037035,
+    "Insect Science": 3.9686507936507955,
+    "Plant Science": 70.11521164021174,
+    "Soil Science": 5.8953703703703715
+  },
+  "Văn Hiến University": {
+    "Agronomy and Crop Science": 0.3333333333333333,
+    "Aquatic Science": 0.29894179894179895,
+    "Ecology, Evolution, Behavior and Systematics": 1.2284632034632035,
+    "Food Science": 3.7638888888888906,
+    "General Agricultural and Biological Sciences": 0.1,
+    "Insect Science": 0.02564102564102564,
+    "Plant Science": 7.059042809042808,
+    "Soil Science": 0.8291666666666666
+  },
+  "University of Da Nang": {
+    "Agronomy and Crop Science": 0.8333333333333334,
+    "Animal Science and Zoology": 1.1325822325822323,
+    "Aquatic Science": 4.599759499759496,
+    "Ecology, Evolution, Behavior and Systematics": 7.462195767195763,
+    "Food Science": 17.36259018759017,
+    "Forestry": 0.4722222222222222,
+    "General Agricultural and Biological Sciences": 2.802777777777777,
+    "Insect Science": 3.236507936507936,
+    "Plant Science": 35.22055907055916,
+    "Soil Science": 9.193710918710908
+  },
+  "Health Strategy and Policy Institute": {
+    "Agronomy and Crop Science": 0.1288156288156288,
+    "Animal Science and Zoology": 2.1388888888888884,
+    "Aquatic Science": 0.05555555555555555,
+    "Ecology, Evolution, Behavior and Systematics": 1.380952380952381,
+    "Food Science": 0.3677248677248678,
+    "General Agricultural and Biological Sciences": 1.5444444444444445,
+    "Insect Science": 0.08333333333333333,
+    "Plant Science": 0.44583333333333336,
+    "Soil Science": 2.5444444444444443
+  },
+  "Trường ĐH Nguyễn Tất Thành": {
+    "Agronomy and Crop Science": 1.4165584415584418,
+    "Animal Science and Zoology": 6.318530543530538,
+    "Aquatic Science": 11.703391053391037,
+    "Ecology, Evolution, Behavior and Systematics": 18.5961099086099,
+    "Food Science": 100.43753931253991,
+    "Forestry": 4.053174603174606,
+    "General Agricultural and Biological Sciences": 3.0853174603174605,
+    "Horticulture": 0.33333333333333337,
+    "Insect Science": 7.714652477152475,
+    "Plant Science": 102.71237059962597,
+    "Soil Science": 5.88733766233766
+  },
+  "Dalat University": {
+    "Agronomy and Crop Science": 1.9555555555555555,
+    "Animal Science and Zoology": 1.5,
+    "Aquatic Science": 1.9608585858585859,
+    "Ecology, Evolution, Behavior and Systematics": 26.364316529512603,
+    "Food Science": 22.29651505901507,
+    "Forestry": 1.0333333333333332,
+    "General Agricultural and Biological Sciences": 3.110714285714286,
+    "Insect Science": 3.5087542087542087,
+    "Plant Science": 45.49959819592191,
+    "Soil Science": 2.324401154401153
+  },
+  "Saigon University": {
+    "Agronomy and Crop Science": 1.0,
+    "Animal Science and Zoology": 0.5388888888888889,
+    "Aquatic Science": 0.9703703703703703,
+    "Ecology, Evolution, Behavior and Systematics": 1.8360449735449735,
+    "Food Science": 3.312896825396825,
+    "Forestry": 1.2222222222222219,
+    "General Agricultural and Biological Sciences": 0.047619047619047616,
+    "Insect Science": 0.39761904761904765,
+    "Plant Science": 7.398334073334072,
+    "Soil Science": 0.31111111111111106
+  },
+  "Hanoi University of Natural Resources and Environment": {
+    "Agronomy and Crop Science": 0.2833333333333333,
+    "Animal Science and Zoology": 0.08333333333333333,
+    "Aquatic Science": 1.4747474747474745,
+    "Ecology, Evolution, Behavior and Systematics": 8.292929292929296,
+    "Food Science": 1.551963776963777,
+    "Forestry": 0.16666666666666666,
+    "General Agricultural and Biological Sciences": 2.1269841269841265,
+    "Horticulture": 0.05555555555555555,
+    "Insect Science": 1.2235449735449735,
+    "Plant Science": 7.0538067025567015,
+    "Soil Science": 6.8896392006686105
+  },
+  "Quảng Bình University": {
+    "Agronomy and Crop Science": 1.5277777777777777,
+    "Animal Science and Zoology": 0.1037037037037037,
+    "Aquatic Science": 1.7333333333333334,
+    "Ecology, Evolution, Behavior and Systematics": 1.252651515151515,
+    "Food Science": 0.7865079365079366,
+    "General Agricultural and Biological Sciences": 0.6666666666666667,
+    "Insect Science": 0.4888888888888889,
+    "Plant Science": 0.3642857142857142,
+    "Soil Science": 1.5694444444444444
+  },
+  "Academy Of Finance": {
+    "Agronomy and Crop Science": 0.3214285714285714,
+    "Animal Science and Zoology": 0.125,
+    "Ecology, Evolution, Behavior and Systematics": 0.6865079365079365,
+    "Food Science": 0.738095238095238,
+    "General Agricultural and Biological Sciences": 3.208333333333334,
+    "Insect Science": 0.19047619047619047,
+    "Plant Science": 2.3563492063492064,
+    "Soil Science": 1.7694444444444448
+  },
+  "Hội Tim mạch học Việt Nam": {
+    "Agronomy and Crop Science": 0.06666666666666667,
+    "Animal Science and Zoology": 0.06666666666666667
+  },
+  "Institute of Marine Geology and Geophysics": {
+    "Agronomy and Crop Science": 0.3214285714285714,
+    "Animal Science and Zoology": 0.7380952380952382,
+    "Aquatic Science": 18.32102721352725,
+    "Ecology, Evolution, Behavior and Systematics": 6.926731601731595,
+    "Food Science": 4.097269397269396,
+    "General Agricultural and Biological Sciences": 1.630952380952381,
+    "Insect Science": 0.3571428571428571,
+    "Plant Science": 11.051105376105378,
+    "Soil Science": 2.258201058201058
+  },
+  "Ho Chi Minh City University of Technology and Engineering": {
+    "Agronomy and Crop Science": 0.42222222222222217,
+    "Animal Science and Zoology": 1.7247474747474751,
+    "Aquatic Science": 3.7569444444444446,
+    "Ecology, Evolution, Behavior and Systematics": 3.7220695970695967,
+    "Food Science": 28.894553730583144,
+    "Forestry": 0.5083333333333333,
+    "General Agricultural and Biological Sciences": 1.380952380952381,
+    "Insect Science": 0.8888888888888888,
+    "Plant Science": 22.99179894179893,
+    "Soil Science": 2.1736111111111116
+  },
+  "Hanoi National University of Education": {
+    "Agronomy and Crop Science": 0.40873015873015867,
+    "Animal Science and Zoology": 1.158333333333333,
+    "Aquatic Science": 15.65889665889663,
+    "Ecology, Evolution, Behavior and Systematics": 18.467947330447334,
+    "Food Science": 10.283645983645972,
+    "Forestry": 0.4928355957767723,
+    "General Agricultural and Biological Sciences": 1.8841269841269843,
+    "Horticulture": 0.36026936026936024,
+    "Insect Science": 11.760449735449722,
+    "Plant Science": 30.785254560254568,
+    "Soil Science": 2.0972222222222228
+  },
+  "Vietnam Military Medical University": {
+    "Agronomy and Crop Science": 0.12169312169312169,
+    "Animal Science and Zoology": 1.0623239566096705,
+    "Aquatic Science": 0.40252525252525256,
+    "Ecology, Evolution, Behavior and Systematics": 1.3756038647342994,
+    "Food Science": 5.612567987567982,
+    "Forestry": 0.2,
+    "General Agricultural and Biological Sciences": 0.5634920634920635,
+    "Insect Science": 1.716402116402116,
+    "Plant Science": 12.669574671360364,
+    "Soil Science": 0.25
+  },
+  "Hung Vuong University": {
+    "Agronomy and Crop Science": 0.24603174603174602,
+    "Aquatic Science": 0.3277777777777777,
+    "Ecology, Evolution, Behavior and Systematics": 0.8481481481481481,
+    "Food Science": 3.6777777777777785,
+    "Forestry": 0.6666666666666666,
+    "Horticulture": 0.18181818181818182,
+    "Insect Science": 0.06666666666666667,
+    "Plant Science": 5.569913419913423,
+    "Soil Science": 0.20833333333333331
+  },
+  "Ministry of Science and Technology": {
+    "Agronomy and Crop Science": 0.5067460317460317,
+    "Animal Science and Zoology": 0.851948051948052,
+    "Aquatic Science": 0.6250000000000001,
+    "Ecology, Evolution, Behavior and Systematics": 1.8600529100529102,
+    "Food Science": 2.1452020202020203,
+    "Forestry": 0.058823529411764705,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Insect Science": 1.0334126984126983,
+    "Plant Science": 7.616203703703692,
+    "Soil Science": 0.6751443001443003
+  },
+  "Vietnam International Education Cooperation Department": {
+    "Agronomy and Crop Science": 0.02564102564102564,
+    "Ecology, Evolution, Behavior and Systematics": 0.0625,
+    "Insect Science": 0.0625
+  },
+  "Hồng Đức University": {
+    "Agronomy and Crop Science": 1.119607843137255,
+    "Animal Science and Zoology": 0.20634920634920634,
+    "Aquatic Science": 1.3534798534798538,
+    "Ecology, Evolution, Behavior and Systematics": 5.394312169312168,
+    "Food Science": 11.137313612313612,
+    "Forestry": 0.3055555555555555,
+    "General Agricultural and Biological Sciences": 1.7222222222222223,
+    "Insect Science": 0.7416666666666667,
+    "Plant Science": 20.157244716068227,
+    "Soil Science": 2.604808590102708
+  },
+  "Bình Dương University": {
+    "Agronomy and Crop Science": 0.15,
+    "Animal Science and Zoology": 2.7749999999999995,
+    "Aquatic Science": 1.6089743589743593,
+    "Ecology, Evolution, Behavior and Systematics": 4.944191919191918,
+    "Food Science": 5.098292448292449,
+    "Forestry": 0.06666666666666667,
+    "General Agricultural and Biological Sciences": 0.8333333333333335,
+    "Insect Science": 0.7166666666666667,
+    "Plant Science": 8.318151755651751,
+    "Soil Science": 1.1388888888888888
+  },
+  "Phenikaa University": {
+    "Agronomy and Crop Science": 0.7807997557997558,
+    "Animal Science and Zoology": 1.117123617123617,
+    "Aquatic Science": 0.0625,
+    "Ecology, Evolution, Behavior and Systematics": 2.0303030303030303,
+    "Food Science": 10.571889221889224,
+    "General Agricultural and Biological Sciences": 1.2333333333333334,
+    "Insect Science": 2.474747474747475,
+    "Plant Science": 10.89755198505197,
+    "Soil Science": 1.6814814814814818
+  },
+  "Viet Duc Hospital": {
+    "Agronomy and Crop Science": 0.8239064856711921,
+    "Ecology, Evolution, Behavior and Systematics": 0.047619047619047616,
+    "Food Science": 0.13400673400673402,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Plant Science": 0.2914141414141414
+  },
+  "FPT University": {
+    "Agronomy and Crop Science": 0.5833333333333333,
+    "Animal Science and Zoology": 0.75,
+    "Aquatic Science": 2.5888888888888886,
+    "Ecology, Evolution, Behavior and Systematics": 5.555026455026456,
+    "Food Science": 10.090079365079358,
+    "Forestry": 1.25,
+    "General Agricultural and Biological Sciences": 4.2708909370199715,
+    "Insect Science": 4.028835978835979,
+    "Plant Science": 45.78869047619058,
+    "Soil Science": 1.9666666666666668
+  },
+  "University of Medicine and Pharmacy at Ho Chi Minh City": {
+    "Agronomy and Crop Science": 0.4615995115995116,
+    "Animal Science and Zoology": 2.037433862433862,
+    "Aquatic Science": 0.8165140415140414,
+    "Ecology, Evolution, Behavior and Systematics": 5.739273689273682,
+    "Food Science": 14.213984428883784,
+    "Forestry": 0.037037037037037035,
+    "General Agricultural and Biological Sciences": 0.7142857142857144,
+    "Horticulture": 0.14351851851851852,
+    "Insect Science": 3.7707792207792186,
+    "Plant Science": 23.8504985754986,
+    "Soil Science": 0.008333333333333333
+  },
+  "Phenikaa (Vietnam)": {
+    "Agronomy and Crop Science": 0.24861111111111112,
+    "Animal Science and Zoology": 0.19999999999999998,
+    "Aquatic Science": 0.20833333333333331,
+    "Ecology, Evolution, Behavior and Systematics": 0.20833333333333331,
+    "Food Science": 0.5434163059163059,
+    "Forestry": 0.16666666666666666,
+    "General Agricultural and Biological Sciences": 0.26666666666666666,
+    "Insect Science": 0.041666666666666664,
+    "Plant Science": 1.283730158730159
+  },
+  "Hue Central Hospital": {
+    "Agronomy and Crop Science": 0.045454545454545456,
+    "Animal Science and Zoology": 0.2082875574472213,
+    "Ecology, Evolution, Behavior and Systematics": 1.164463776963777,
+    "Food Science": 0.49716839992702055,
+    "Insect Science": 0.662037037037037,
+    "Plant Science": 2.0982855768570055
+  },
+  "Pham Ngoc Thach University of Medicine": {
+    "Agronomy and Crop Science": 0.4484511008704557,
+    "Animal Science and Zoology": 1.1466666666666667,
+    "Aquatic Science": 1.6111111111111107,
+    "Ecology, Evolution, Behavior and Systematics": 2.7472222222222227,
+    "Food Science": 2.265692007797272,
+    "Forestry": 0.027777777777777776,
+    "Insect Science": 0.3138888888888889,
+    "Plant Science": 3.400132275132273,
+    "Soil Science": 0.05555555555555555
+  },
+  "Vin, University": {
+    "Agronomy and Crop Science": 0.25770308123249297,
+    "Animal Science and Zoology": 0.5174603174603175,
+    "Aquatic Science": 0.020833333333333332,
+    "Ecology, Evolution, Behavior and Systematics": 1.8,
+    "Food Science": 2.180555555555556,
+    "General Agricultural and Biological Sciences": 0.23333333333333334,
+    "Insect Science": 0.8333333333333333,
+    "Plant Science": 3.049801587301587,
+    "Soil Science": 0.39999999999999997
+  },
+  "Tra Vinh University": {
+    "Agronomy and Crop Science": 2.3300925925925933,
+    "Animal Science and Zoology": 11.834457671957658,
+    "Aquatic Science": 12.706529581529573,
+    "Ecology, Evolution, Behavior and Systematics": 8.51607142857142,
+    "Food Science": 15.075529100529081,
+    "Forestry": 0.9464285714285714,
+    "General Agricultural and Biological Sciences": 6.665211640211635,
+    "Insect Science": 3.613888888888889,
+    "Plant Science": 25.941997354497392,
+    "Soil Science": 8.422619047619046
+  },
+  "University of Science and Technology - The University of Da Nang": {
+    "Agronomy and Crop Science": 0.2777777777777778,
+    "Animal Science and Zoology": 0.041666666666666664,
+    "Aquatic Science": 0.7638888888888888,
+    "Ecology, Evolution, Behavior and Systematics": 0.8156746031746033,
+    "Food Science": 2.682299182299182,
+    "General Agricultural and Biological Sciences": 0.2361111111111111,
+    "Insect Science": 0.19166666666666665,
+    "Plant Science": 5.006018518518519,
+    "Soil Science": 1.2611111111111108
+  },
+  "Hai Phong University of Management and Technology": {
+    "Agronomy and Crop Science": 0.3333333333333333,
+    "Animal Science and Zoology": 0.16666666666666666,
+    "Aquatic Science": 0.4444444444444444,
+    "Ecology, Evolution, Behavior and Systematics": 0.07142857142857142,
+    "Food Science": 0.11428571428571428,
+    "Insect Science": 0.5555555555555555,
+    "Plant Science": 1.2722222222222221
+  },
+  "Saigon International University": {
+    "Agronomy and Crop Science": 0.3333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 2.0,
+    "Food Science": 0.16666666666666666,
+    "General Agricultural and Biological Sciences": 0.41666666666666663,
+    "Insect Science": 0.5,
+    "Plant Science": 1.0
+  },
+  "Posts and Telecommunications Institute of Technology - Ho Chi Minh City": {
+    "Agronomy and Crop Science": 0.6666666666666666,
+    "Animal Science and Zoology": 0.9444444444444443,
+    "Aquatic Science": 3.6922077922077925,
+    "Ecology, Evolution, Behavior and Systematics": 14.220923520923524,
+    "Food Science": 5.861904761904758,
+    "Forestry": 0.9285714285714285,
+    "General Agricultural and Biological Sciences": 0.1527777777777778,
+    "Insect Science": 1.5648148148148142,
+    "Plant Science": 21.376154401154416,
+    "Soil Science": 1.114285714285714
+  },
+  "Da Nang University of Economics": {
+    "Agronomy and Crop Science": 0.13333333333333333,
+    "Animal Science and Zoology": 0.13333333333333333,
+    "Aquatic Science": 0.027777777777777776,
+    "Ecology, Evolution, Behavior and Systematics": 0.3333333333333333,
+    "Food Science": 0.1111111111111111,
+    "General Agricultural and Biological Sciences": 0.25,
+    "Plant Science": 0.08333333333333333,
+    "Soil Science": 0.5
+  },
+  "Tay Bac University": {
+    "Agronomy and Crop Science": 0.40156406406406403,
+    "Animal Science and Zoology": 0.9833333333333332,
+    "Aquatic Science": 7.372366522366523,
+    "Ecology, Evolution, Behavior and Systematics": 16.087648000147986,
+    "Food Science": 2.878258145363409,
+    "Forestry": 1.0333333333333334,
+    "General Agricultural and Biological Sciences": 1.1916666666666664,
+    "Horticulture": 0.12962962962962962,
+    "Insect Science": 5.321275946275943,
+    "Plant Science": 16.783577533577525,
+    "Soil Science": 2.219444444444444
+  },
+  "University of Finance - Marketing": {
+    "Agronomy and Crop Science": 0.25,
+    "Ecology, Evolution, Behavior and Systematics": 0.8333333333333333,
+    "Food Science": 2.4166666666666665,
+    "General Agricultural and Biological Sciences": 2.7027777777777784,
+    "Plant Science": 2.5,
+    "Soil Science": 1.2916666666666667
+  },
+  "Ho Chi Minh City Open University": {
+    "Agronomy and Crop Science": 1.2847222222222223,
+    "Animal Science and Zoology": 2.3166666666666678,
+    "Aquatic Science": 1.4555555555555555,
+    "Ecology, Evolution, Behavior and Systematics": 5.305194805194804,
+    "Food Science": 8.989682539682537,
+    "Forestry": 0.8333333333333333,
+    "General Agricultural and Biological Sciences": 3.2531746031746036,
+    "Horticulture": 2.0,
+    "Insect Science": 4.204497354497355,
+    "Plant Science": 28.060569985569984,
+    "Soil Science": 6.597222222222222
+  },
+  "National Institute of Malariology, Parasitology and Entomology": {
+    "Agronomy and Crop Science": 0.33333333333333337,
+    "Animal Science and Zoology": 0.4533694791047731,
+    "Ecology, Evolution, Behavior and Systematics": 0.7961760461760463,
+    "Food Science": 0.16666666666666666,
+    "Insect Science": 1.2908730158730162,
+    "Plant Science": 2.5805555555555566
+  },
+  "Van Lang University": {
+    "Agronomy and Crop Science": 0.3333333333333333,
+    "Animal Science and Zoology": 0.7245948495948497,
+    "Aquatic Science": 2.661036648536648,
+    "Ecology, Evolution, Behavior and Systematics": 5.559669497169493,
+    "Food Science": 15.9889467014467,
+    "Forestry": 0.07539682539682539,
+    "General Agricultural and Biological Sciences": 1.56468253968254,
+    "Insect Science": 0.7439153439153439,
+    "Plant Science": 19.94138546638544,
+    "Soil Science": 3.321672077922078
+  },
+  "Diplomatic Academy of Vietnam": {
+    "Agronomy and Crop Science": 0.03333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 0.888888888888889,
+    "Food Science": 0.5833333333333333,
+    "General Agricultural and Biological Sciences": 0.345679012345679,
+    "Plant Science": 0.3055555555555555,
+    "Soil Science": 0.7777777777777777
+  },
+  "University of Transport and Communications": {
+    "Agronomy and Crop Science": 0.047619047619047616,
+    "Aquatic Science": 0.41666666666666663,
+    "Ecology, Evolution, Behavior and Systematics": 0.9761904761904762,
+    "Food Science": 1.5297619047619047,
+    "Plant Science": 5.484431771931772,
+    "Soil Science": 2.4481481481481495
+  },
+  "Hanoi Pedagogical University 2": {
+    "Agronomy and Crop Science": 0.1922268907563025,
+    "Aquatic Science": 0.5,
+    "Ecology, Evolution, Behavior and Systematics": 8.22595552595552,
+    "Food Science": 3.8753186628186613,
+    "Forestry": 0.5,
+    "Horticulture": 0.5723905723905724,
+    "Insect Science": 0.7805555555555556,
+    "Plant Science": 16.11177071838834
+  },
+  "Quy Nhon University": {
+    "Agronomy and Crop Science": 0.18518518518518517,
+    "Animal Science and Zoology": 1.3358585858585859,
+    "Aquatic Science": 1.8425925925925926,
+    "Ecology, Evolution, Behavior and Systematics": 5.356613756613754,
+    "Food Science": 5.741269841269842,
+    "Forestry": 0.9880952380952384,
+    "General Agricultural and Biological Sciences": 0.6333333333333333,
+    "Horticulture": 0.018518518518518517,
+    "Insect Science": 1.296784696784697,
+    "Plant Science": 13.289541939541934,
+    "Soil Science": 1.913095238095238
+  },
+  "Le Hong Phong High School for the Gifted": {
+    "Agronomy and Crop Science": 0.06666666666666667,
+    "Animal Science and Zoology": 0.24285714285714283,
+    "Aquatic Science": 0.7833333333333332,
+    "Ecology, Evolution, Behavior and Systematics": 0.27146464646464646,
+    "Food Science": 2.885449735449735,
+    "General Agricultural and Biological Sciences": 0.9305555555555556,
+    "Insect Science": 0.9027777777777777,
+    "Plant Science": 6.104365079365073,
+    "Soil Science": 0.625
+  },
+  "Thai Nguyen National General Hospital": {
+    "Agronomy and Crop Science": 1.7952380952380953,
+    "Animal Science and Zoology": 1.1666666666666665,
+    "Aquatic Science": 4.62063492063492,
+    "Ecology, Evolution, Behavior and Systematics": 11.191402116402106,
+    "Food Science": 4.876587301587299,
+    "Forestry": 1.4499999999999997,
+    "General Agricultural and Biological Sciences": 0.08333333333333333,
+    "Insect Science": 1.1777777777777776,
+    "Plant Science": 17.018145743145734,
+    "Soil Science": 1.2750000000000001
+  },
+  "Trung Vuong University": {
+    "Agronomy and Crop Science": 0.25,
+    "Animal Science and Zoology": 1.0499999999999998,
+    "Aquatic Science": 5.016666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 9.094336219336222,
+    "Food Science": 2.673809523809523,
+    "Forestry": 0.6587301587301588,
+    "Insect Science": 1.8492063492063495,
+    "Plant Science": 9.146825396825388,
+    "Soil Science": 1.361111111111111
+  },
+  "Hanoi University of Science and Technology": {
+    "Agronomy and Crop Science": 0.5208333333333333,
+    "Animal Science and Zoology": 4.71781829281829,
+    "Aquatic Science": 5.043480130980126,
+    "Ecology, Evolution, Behavior and Systematics": 8.53612914862914,
+    "Food Science": 55.71833242293793,
+    "Forestry": 2.013888888888889,
+    "General Agricultural and Biological Sciences": 0.8297979797979798,
+    "Horticulture": 0.6666666666666666,
+    "Insect Science": 8.228121878121867,
+    "Plant Science": 62.3904442779446,
+    "Soil Science": 1.362037037037037
+  },
+  "Institute of Materials Science": {
+    "Agronomy and Crop Science": 0.75,
+    "Animal Science and Zoology": 0.055944055944055944,
+    "Aquatic Science": 0.125,
+    "Ecology, Evolution, Behavior and Systematics": 0.07142857142857142,
+    "Food Science": 0.6931818181818179,
+    "General Agricultural and Biological Sciences": 0.03333333333333333,
+    "Insect Science": 0.6476190476190478,
+    "Plant Science": 1.5636964886964888,
+    "Soil Science": 0.03333333333333333
+  },
+  "Nam Dinh University of Nursing": {
+    "Agronomy and Crop Science": 0.20833333333333331,
+    "Animal Science and Zoology": 0.06143790849673203,
+    "Aquatic Science": 0.13333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 1.2277777777777776,
+    "Food Science": 1.4805555555555558,
+    "General Agricultural and Biological Sciences": 0.08333333333333333,
+    "Plant Science": 1.1222222222222222
+  },
+  "University of Economics Ho Chi Minh City": {
+    "Agronomy and Crop Science": 0.16666666666666666,
+    "Aquatic Science": 1.55,
+    "Ecology, Evolution, Behavior and Systematics": 11.17857142857142,
+    "Food Science": 11.464146278748945,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 12.579563492063484,
+    "Horticulture": 0.2222222222222222,
+    "Insect Science": 0.5,
+    "Plant Science": 11.983991832805032,
+    "Soil Science": 13.835582010582005
+  },
+  "VNU Central Institute for Natural Resources and Environmental Studies": {
+    "Agronomy and Crop Science": 0.08333333333333333,
+    "Aquatic Science": 0.34814814814814815,
+    "Ecology, Evolution, Behavior and Systematics": 1.752813852813853,
+    "Food Science": 0.24338624338624337,
+    "General Agricultural and Biological Sciences": 0.43989898989898985,
+    "Insect Science": 0.2444444444444444,
+    "Plant Science": 1.8241002461590694,
+    "Soil Science": 0.8279220779220778
+  },
+  "Hai Phong University": {
+    "Agronomy and Crop Science": 0.25,
+    "Animal Science and Zoology": 0.42857142857142855,
+    "Aquatic Science": 0.782738095238095,
+    "Ecology, Evolution, Behavior and Systematics": 3.8079365079365064,
+    "Food Science": 1.9611111111111104,
+    "Forestry": 0.022222222222222223,
+    "General Agricultural and Biological Sciences": 0.3888888888888889,
+    "Insect Science": 0.047619047619047616,
+    "Plant Science": 3.5629148629148646,
+    "Soil Science": 0.0196078431372549
+  },
+  "Dong Thap University": {
+    "Agronomy and Crop Science": 0.16666666666666666,
+    "Animal Science and Zoology": 0.826923076923077,
+    "Aquatic Science": 1.8583333333333334,
+    "Ecology, Evolution, Behavior and Systematics": 11.252777777777775,
+    "Food Science": 2.5437525437525434,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Insect Science": 5.319444444444442,
+    "Plant Science": 11.733068783068775,
+    "Soil Science": 2.4999999999999996
+  },
+  "Học viện Tư pháp": {
+    "Agronomy and Crop Science": 0.08333333333333333,
+    "Aquatic Science": 0.19444444444444442,
+    "Ecology, Evolution, Behavior and Systematics": 4.536111111111111,
+    "Food Science": 1.3333333333333333,
+    "Insect Science": 1.0,
+    "Plant Science": 0.7887709137709137
+  },
+  "HCMC Hospital of Dermato Venereology": {
+    "Agronomy and Crop Science": 0.05555555555555555,
+    "Animal Science and Zoology": 0.041666666666666664,
+    "Ecology, Evolution, Behavior and Systematics": 0.5,
+    "Food Science": 0.02564102564102564,
+    "Plant Science": 0.6995726495726495
+  },
+  "Ho Chi Minh City University of Transport": {
+    "Agronomy and Crop Science": 0.1111111111111111,
+    "Aquatic Science": 0.3333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 0.4365079365079365,
+    "Food Science": 1.0553751803751803,
+    "Forestry": 0.6111111111111112,
+    "General Agricultural and Biological Sciences": 0.3888888888888889,
+    "Plant Science": 2.651984126984125,
+    "Soil Science": 0.4444444444444444
+  },
+  "Hung Yen University of Technology and Education": {
+    "Agronomy and Crop Science": 0.29166666666666663,
+    "Animal Science and Zoology": 0.6679894179894178,
+    "Aquatic Science": 0.030303030303030304,
+    "Ecology, Evolution, Behavior and Systematics": 5.658730158730154,
+    "Food Science": 2.6460906053011293,
+    "General Agricultural and Biological Sciences": 0.7083333333333333,
+    "Insect Science": 1.6574074074074074,
+    "Plant Science": 6.354995467495468,
+    "Soil Science": 0.045454545454545456
+  },
+  "Ho Chi Minh City International University": {
+    "Agronomy and Crop Science": 0.2777777777777778,
+    "Animal Science and Zoology": 1.7444444444444438,
+    "Aquatic Science": 0.9388888888888889,
+    "Ecology, Evolution, Behavior and Systematics": 0.9999999999999999,
+    "Food Science": 5.036243386243385,
+    "Forestry": 0.027777777777777776,
+    "Insect Science": 1.0454545454545454,
+    "Plant Science": 13.439165464165454,
+    "Soil Science": 0.03333333333333333
+  },
+  "Hanoi University of Pharmacy": {
+    "Agronomy and Crop Science": 0.2,
+    "Animal Science and Zoology": 1.3978943571048834,
+    "Aquatic Science": 0.9378306878306878,
+    "Ecology, Evolution, Behavior and Systematics": 3.837690087690087,
+    "Food Science": 16.241185666185668,
+    "Forestry": 1.2722222222222224,
+    "General Agricultural and Biological Sciences": 0.41666666666666663,
+    "Insect Science": 1.84484126984127,
+    "Plant Science": 18.243872331372334,
+    "Soil Science": 0.5
+  },
+  "Vietnam Sweden hospital": {
+    "Agronomy and Crop Science": 0.020833333333333332,
+    "Animal Science and Zoology": 0.725,
+    "Aquatic Science": 0.6944444444444443,
+    "Ecology, Evolution, Behavior and Systematics": 3.1222222222222222,
+    "Food Science": 0.28888888888888886,
+    "Forestry": 1.0,
+    "Insect Science": 1.0297619047619047,
+    "Plant Science": 1.3029100529100528
+  },
+  "National Economics University": {
+    "Agronomy and Crop Science": 0.03571428571428571,
+    "Animal Science and Zoology": 0.06666666666666667,
+    "Aquatic Science": 0.375,
+    "Ecology, Evolution, Behavior and Systematics": 9.476587301587294,
+    "Food Science": 7.9357323232323225,
+    "Forestry": 0.1111111111111111,
+    "General Agricultural and Biological Sciences": 16.39847041847041,
+    "Insect Science": 0.5,
+    "Plant Science": 10.742676767676764,
+    "Soil Science": 16.435317460317446
+  },
+  "Vinh Long University of Technology Education": {
+    "Agronomy and Crop Science": 0.0196078431372549,
+    "Animal Science and Zoology": 2.5787037037037037,
+    "Aquatic Science": 2.2611111111111115,
+    "Ecology, Evolution, Behavior and Systematics": 4.380952380952381,
+    "Food Science": 8.377922077922072,
+    "Insect Science": 0.8928571428571427,
+    "Plant Science": 16.502525252525245,
+    "Soil Science": 0.3888888888888889
+  },
+  "Anova Corp (Vietnam)": {
+    "Agronomy and Crop Science": 0.16666666666666666,
+    "Animal Science and Zoology": 0.47751322751322745,
+    "Aquatic Science": 0.3926587301587302,
+    "Ecology, Evolution, Behavior and Systematics": 0.23333333333333334,
+    "Food Science": 0.9930555555555556,
+    "Insect Science": 0.4444444444444444,
+    "Plant Science": 0.8440656565656565
+  },
+  "Ho Chi Minh City University of Technology": {
+    "Agronomy and Crop Science": 0.08333333333333333,
+    "Animal Science and Zoology": 4.375925925925928,
+    "Aquatic Science": 2.996230158730158,
+    "Ecology, Evolution, Behavior and Systematics": 4.938275613275611,
+    "Food Science": 39.00383089133105,
+    "Forestry": 0.492063492063492,
+    "General Agricultural and Biological Sciences": 1.434920634920635,
+    "Horticulture": 0.16666666666666666,
+    "Insect Science": 4.789285714285709,
+    "Plant Science": 33.992399729899766,
+    "Soil Science": 4.396861471861474
+  },
+  "Pham Ngoc Thach Hospital": {
+    "Animal Science and Zoology": 0.12222222222222222,
+    "Aquatic Science": 0.16666666666666666,
+    "Ecology, Evolution, Behavior and Systematics": 0.16666666666666666,
+    "Food Science": 0.13333333333333333,
+    "Horticulture": 0.08333333333333333,
+    "Insect Science": 0.08333333333333333,
+    "Plant Science": 0.16666666666666666
+  },
+  "Ho Chi Minh City University of Industry and Trade": {
+    "Animal Science and Zoology": 3.2087962962962964,
+    "Aquatic Science": 6.4852813852813815,
+    "Ecology, Evolution, Behavior and Systematics": 5.2520502645502685,
+    "Food Science": 32.447730972731016,
+    "Forestry": 0.26190476190476186,
+    "General Agricultural and Biological Sciences": 0.2361111111111111,
+    "Horticulture": 0.4074074074074074,
+    "Insect Science": 2.1619058229352346,
+    "Plant Science": 27.40888335520687,
+    "Soil Science": 0.6666666666666666
+  },
+  "Vietnam Atomic Energy Instiute": {
+    "Animal Science and Zoology": 0.3333333333333333,
+    "Aquatic Science": 1.6775132275132272,
+    "Ecology, Evolution, Behavior and Systematics": 0.3833333333333333,
+    "Food Science": 3.1157826378414626,
+    "Insect Science": 0.6666666666666667,
+    "Plant Science": 6.550739538239531,
+    "Soil Science": 2.2142857142857135
+  },
+  "National Institute for Control of Vaccines and Biologicals": {
+    "Animal Science and Zoology": 0.5706080411962764,
+    "Plant Science": 0.09523809523809523
+  },
+  "Bac Ha International University": {
+    "Animal Science and Zoology": 0.09523809523809523,
+    "Food Science": 0.14285714285714285
+  },
+  "Bạch Mai Hospital": {
+    "Animal Science and Zoology": 0.8293650793650791,
+    "Aquatic Science": 0.2777777777777778,
+    "Ecology, Evolution, Behavior and Systematics": 0.2777777777777778,
+    "Food Science": 0.29353054353054353,
+    "Insect Science": 0.25595238095238093,
+    "Plant Science": 1.4475986975986976
+  },
+  "Vietnamese - German Center of Excellence in Medical Research": {
+    "Animal Science and Zoology": 0.24999999999999997,
+    "Aquatic Science": 0.3333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 3.0246031746031736,
+    "Food Science": 0.5674603174603174,
+    "Forestry": 0.041666666666666664,
+    "General Agricultural and Biological Sciences": 0.027777777777777776,
+    "Insect Science": 0.38888888888888884,
+    "Plant Science": 1.027777777777778
+  },
+  "Le Quy Don Technical University": {
+    "Animal Science and Zoology": 0.08333333333333333,
+    "Aquatic Science": 0.9861111111111112,
+    "Ecology, Evolution, Behavior and Systematics": 1.1055555555555554,
+    "Food Science": 2.5944444444444446,
+    "Forestry": 0.3333333333333333,
+    "Insect Science": 1.3333333333333333,
+    "Plant Science": 4.352056277056275,
+    "Soil Science": 1.9027777777777777
+  },
+  "Institute for Reproductive and Family Health": {
+    "Animal Science and Zoology": 0.03571428571428571,
+    "Food Science": 0.17261904761904762
+  },
+  "Thuongmai University": {
+    "Animal Science and Zoology": 0.7944444444444445,
+    "Aquatic Science": 3.629166666666666,
+    "Ecology, Evolution, Behavior and Systematics": 7.39722222222222,
+    "Food Science": 5.407154882154878,
+    "General Agricultural and Biological Sciences": 2.805555555555556,
+    "Horticulture": 0.1111111111111111,
+    "Insect Science": 0.3333333333333333,
+    "Plant Science": 5.005880230880229,
+    "Soil Science": 1.666666666666667
+  },
+  "Hung Vuong University of Ho Chi Minh City": {
+    "Animal Science and Zoology": 0.6625,
+    "Aquatic Science": 0.5673400673400673,
+    "Ecology, Evolution, Behavior and Systematics": 3.076052188552189,
+    "Food Science": 2.2908249158249157,
+    "Forestry": 0.08333333333333333,
+    "General Agricultural and Biological Sciences": 0.1111111111111111,
+    "Horticulture": 0.7601851851851849,
+    "Insect Science": 0.06666666666666667,
+    "Plant Science": 11.541714766714763,
+    "Soil Science": 0.32499999999999996
+  },
+  "Ministry of Education and Training": {
+    "Animal Science and Zoology": 0.39999999999999997,
+    "Aquatic Science": 0.2222222222222222,
+    "Ecology, Evolution, Behavior and Systematics": 0.31388888888888883,
+    "Food Science": 0.17777777777777776,
+    "General Agricultural and Biological Sciences": 0.5,
+    "Insect Science": 0.9166666666666666,
+    "Plant Science": 2.1002899877899877,
+    "Soil Science": 1.3375
+  },
+  "Hue University of Education": {
+    "Animal Science and Zoology": 0.24999999999999997,
+    "Aquatic Science": 0.44166666666666665,
+    "Ecology, Evolution, Behavior and Systematics": 0.8199074074074073,
+    "Food Science": 3.1511904761904757,
+    "Forestry": 0.19047619047619047,
+    "Insect Science": 0.8222222222222223,
+    "Plant Science": 3.699007936507937,
+    "Soil Science": 0.05555555555555555
+  },
+  "Ho Chi Minh City University of Education": {
+    "Animal Science and Zoology": 1.0476190476190477,
+    "Aquatic Science": 5.977272727272726,
+    "Ecology, Evolution, Behavior and Systematics": 12.023027898027902,
+    "Food Science": 3.193650793650794,
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 0.3333333333333333,
+    "Horticulture": 0.16666666666666666,
+    "Insect Science": 2.1612942612942616,
+    "Plant Science": 20.438419913419903,
+    "Soil Science": 0.31666666666666665
+  },
+  "Lac Hong University": {
+    "Animal Science and Zoology": 0.3055555555555556,
+    "Aquatic Science": 1.719179894179894,
+    "Ecology, Evolution, Behavior and Systematics": 5.871236171236167,
+    "Food Science": 5.756903744403744,
+    "Forestry": 0.12037037037037035,
+    "General Agricultural and Biological Sciences": 1.958496732026144,
+    "Insect Science": 0.8537037037037036,
+    "Plant Science": 10.721030644192398,
+    "Soil Science": 1.511453470277
+  },
+  "University Medical Center HCMC": {
+    "Animal Science and Zoology": 0.2151360544217687,
+    "Food Science": 0.23885836385836384,
+    "Insect Science": 0.3583333333333333,
+    "Plant Science": 0.43735827664399096
+  },
+  "National Center for Technological Progress": {
+    "Animal Science and Zoology": 0.49999999999999994,
+    "Aquatic Science": 0.08333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 0.037037037037037035,
+    "Food Science": 3.787301587301586,
+    "Forestry": 0.2777777777777778,
+    "Plant Science": 7.8783730158730085
+  },
+  "Hanoi University of Industry": {
+    "Animal Science and Zoology": 0.6936304436304437,
+    "Aquatic Science": 0.6296296296296297,
+    "Ecology, Evolution, Behavior and Systematics": 1.721464646464646,
+    "Food Science": 7.7591480887533475,
+    "Forestry": 0.16666666666666666,
+    "General Agricultural and Biological Sciences": 2.0694444444444438,
+    "Insect Science": 1.0694444444444446,
+    "Plant Science": 19.02499306249305,
+    "Soil Science": 0.1111111111111111
+  },
+  "Cho Ray Hospital": {
+    "Animal Science and Zoology": 0.16666666666666666,
+    "Ecology, Evolution, Behavior and Systematics": 0.24786324786324784,
+    "Food Science": 0.1693121693121693,
+    "Insect Science": 0.3611111111111111,
+    "Plant Science": 1.2455345379258422
+  },
+  "University of Labor and Social Affairs": {
+    "Animal Science and Zoology": 0.25,
+    "Ecology, Evolution, Behavior and Systematics": 0.33611111111111114,
+    "Food Science": 2.055555555555556,
+    "General Agricultural and Biological Sciences": 1.5833333333333335,
+    "Plant Science": 0.825,
+    "Soil Science": 0.6666666666666667
+  },
+  "Vietnam Posts and Telecommunications Group (Vietnam)": {
+    "Animal Science and Zoology": 0.25,
+    "Ecology, Evolution, Behavior and Systematics": 0.5662698412698413,
+    "Food Science": 0.20595238095238091,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Insect Science": 0.16984126984126985,
+    "Plant Science": 4.483333333333332
+  },
+  "RMIT Vietnam": {
+    "Animal Science and Zoology": 0.6369047619047619,
+    "Aquatic Science": 0.7178571428571427,
+    "Ecology, Evolution, Behavior and Systematics": 1.0682539682539682,
+    "Food Science": 14.206349206349195,
+    "General Agricultural and Biological Sciences": 2.8623015873015873,
+    "Insect Science": 0.45833333333333326,
+    "Plant Science": 6.219444444444441,
+    "Soil Science": 4.498015873015873
+  },
+  "Saigon Technology University": {
+    "Animal Science and Zoology": 0.9166666666666667,
+    "Aquatic Science": 0.5952380952380952,
+    "Ecology, Evolution, Behavior and Systematics": 0.5303030303030303,
+    "Food Science": 4.672069597069595,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Insect Science": 0.125,
+    "Plant Science": 2.977657527657528,
+    "Soil Science": 0.3333333333333333
+  },
+  "University of Khanh Hoa": {
+    "Animal Science and Zoology": 1.875,
+    "Aquatic Science": 2.594973544973546,
+    "Ecology, Evolution, Behavior and Systematics": 8.199999999999998,
+    "Food Science": 3.521548188653451,
+    "Forestry": 0.13333333333333333,
+    "Insect Science": 0.6702244116037219,
+    "Plant Science": 5.679629629629633,
+    "Soil Science": 0.16666666666666666
+  },
+  "Hanoi University of Civil Engineering": {
+    "Animal Science and Zoology": 0.3333333333333333,
+    "Aquatic Science": 0.6666666666666666,
+    "Ecology, Evolution, Behavior and Systematics": 0.8809523809523809,
+    "Food Science": 1.4930555555555554,
+    "General Agricultural and Biological Sciences": 3.9722222222222223,
+    "Plant Science": 3.988528138528139,
+    "Soil Science": 1.3404882154882156
+  },
+  "Electric Power University": {
+    "Animal Science and Zoology": 0.7337301587301588,
+    "Aquatic Science": 0.16666666666666666,
+    "Ecology, Evolution, Behavior and Systematics": 0.1875,
+    "Food Science": 3.952380952380951,
+    "General Agricultural and Biological Sciences": 0.41666666666666663,
+    "Insect Science": 1.8888888888888893,
+    "Plant Science": 10.676388888888887,
+    "Soil Science": 1.2333333333333332
+  },
+  "Da Nang Hospital": {
+    "Animal Science and Zoology": 0.10128495842781557,
+    "Ecology, Evolution, Behavior and Systematics": 0.5426587301587301,
+    "Food Science": 0.8333333333333333,
+    "Insect Science": 0.08333333333333333,
+    "Plant Science": 0.17535903250188964,
+    "Soil Science": 0.08333333333333333
+  },
+  "Vinmec International Hospital": {
+    "Animal Science and Zoology": 0.049009009009009015,
+    "Ecology, Evolution, Behavior and Systematics": 1.0,
+    "Food Science": 0.325,
+    "Insect Science": 0.1111111111111111,
+    "Plant Science": 1.013437950937951,
+    "Soil Science": 0.26666666666666666
+  },
+  "Hong Bang International University": {
+    "Animal Science and Zoology": 0.1111111111111111,
+    "Aquatic Science": 0.6680911680911681,
+    "Ecology, Evolution, Behavior and Systematics": 0.6373015873015873,
+    "Food Science": 4.174747474747472,
+    "Forestry": 0.4944444444444444,
+    "General Agricultural and Biological Sciences": 0.41666666666666663,
+    "Insect Science": 0.44761904761904764,
+    "Plant Science": 5.375294612794611,
+    "Soil Science": 0.1111111111111111
+  },
+  "Baria Vungtau University": {
+    "Animal Science and Zoology": 0.1111111111111111,
+    "Aquatic Science": 1.152777777777778,
+    "Ecology, Evolution, Behavior and Systematics": 1.4583333333333335,
+    "Food Science": 0.8453703703703703,
+    "Forestry": 0.3333333333333333,
+    "Horticulture": 0.8333333333333333,
+    "Insect Science": 0.9037037037037037,
+    "Plant Science": 1.489436026936027
+  },
+  "Viet Tri University of Industry": {
+    "Aquatic Science": 0.047619047619047616,
+    "Ecology, Evolution, Behavior and Systematics": 0.16125541125541124,
+    "Food Science": 1.9305555555555556,
+    "Horticulture": 0.045454545454545456,
+    "Insect Science": 0.06666666666666667,
+    "Plant Science": 2.1120670995671,
+    "Soil Science": 0.11428571428571427
+  },
+  "Hanoi Architectural University": {
+    "Aquatic Science": 0.3166666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 1.3333333333333333,
+    "Food Science": 0.5,
+    "General Agricultural and Biological Sciences": 0.6666666666666666,
+    "Insect Science": 0.25,
+    "Plant Science": 9.07916666666666,
+    "Soil Science": 0.73015873015873
+  },
+  "Hanoi University of Mining and Geology": {
+    "Aquatic Science": 0.38333333333333336,
+    "Ecology, Evolution, Behavior and Systematics": 1.6316498316498314,
+    "Food Science": 4.928373015873014,
+    "General Agricultural and Biological Sciences": 0.6666666666666666,
+    "Insect Science": 0.1,
+    "Plant Science": 3.6483780108780115,
+    "Soil Science": 2.429100529100529
+  },
+  "My Duc Hospital": {
+    "Aquatic Science": 0.25,
+    "Ecology, Evolution, Behavior and Systematics": 0.4603174603174603
+  },
+  "Vinh Medical University": {
+    "Aquatic Science": 0.06666666666666667,
+    "Ecology, Evolution, Behavior and Systematics": 0.09259259259259259,
+    "Food Science": 0.158994708994709,
+    "Insect Science": 0.07037037037037036,
+    "Plant Science": 0.575,
+    "Soil Science": 0.15
+  },
+  "Vietnamese-German University": {
+    "Aquatic Science": 0.10833333333333334,
+    "Ecology, Evolution, Behavior and Systematics": 0.17640692640692637,
+    "Food Science": 0.7976190476190477,
+    "General Agricultural and Biological Sciences": 1.7083333333333333,
+    "Insect Science": 0.125,
+    "Plant Science": 3.3239112739112753,
+    "Soil Science": 1.7707983193277315
+  },
+  "Ho Chi Minh City University of Foreign Languages and Information Technology": {
+    "Aquatic Science": 0.08333333333333333,
+    "Ecology, Evolution, Behavior and Systematics": 0.2222222222222222,
+    "Food Science": 0.2444444444444444,
+    "General Agricultural and Biological Sciences": 0.38888888888888884,
+    "Insect Science": 0.08333333333333333,
+    "Plant Science": 0.31666666666666665
+  },
+  "Ho Chi Minh City University of Law": {
+    "Aquatic Science": 0.1111111111111111,
+    "Food Science": 0.6111111111111112,
+    "General Agricultural and Biological Sciences": 0.9285714285714286,
+    "Insect Science": 0.3333333333333333,
+    "Plant Science": 0.2222222222222222,
+    "Soil Science": 2.5
+  },
+  "Hanoi University of Business and Technology": {
+    "Aquatic Science": 0.28703703703703703,
+    "Ecology, Evolution, Behavior and Systematics": 0.43333333333333335,
+    "General Agricultural and Biological Sciences": 0.125,
+    "Plant Science": 0.4303030303030303,
+    "Soil Science": 0.16666666666666666
+  },
+  "University Of Transport Technology": {
+    "Aquatic Science": 0.15,
+    "Ecology, Evolution, Behavior and Systematics": 0.3333333333333333,
+    "Food Science": 0.3055555555555556,
+    "Forestry": 0.08333333333333333,
+    "Insect Science": 0.06666666666666667,
+    "Plant Science": 2.5550925925925925,
+    "Soil Science": 1.12531265031265
+  },
+  "Academy of Cryptography Techniques": {
+    "Aquatic Science": 0.08333333333333333,
+    "Soil Science": 0.5
+  },
+  "Vietnam Maritime University": {
+    "Aquatic Science": 0.041666666666666664,
+    "Ecology, Evolution, Behavior and Systematics": 0.16666666666666666,
+    "Food Science": 0.37037037037037035,
+    "Horticulture": 0.5,
+    "Insect Science": 0.3333333333333333,
+    "Soil Science": 0.2444444444444444
+  },
+  "Ho Chi Minh City University of Architecture": {
+    "Ecology, Evolution, Behavior and Systematics": 0.3958333333333333,
+    "Food Science": 0.06666666666666667,
+    "Plant Science": 3.5666666666666673,
+    "Soil Science": 0.5
+  },
+  "Ministry of Foreign Affairs": {
+    "Ecology, Evolution, Behavior and Systematics": 0.1111111111111111,
+    "General Agricultural and Biological Sciences": 0.08333333333333333
+  },
+  "Pham Van Dong University": {
+    "Ecology, Evolution, Behavior and Systematics": 1.6069444444444443,
+    "Food Science": 0.41666666666666663,
+    "Forestry": 0.06666666666666667,
+    "General Agricultural and Biological Sciences": 0.16666666666666666,
+    "Plant Science": 1.7236111111111112,
+    "Soil Science": 0.20833333333333331
+  },
+  "CARE International in Vietnam": {
+    "Ecology, Evolution, Behavior and Systematics": 0.1
+  },
+  "Centre for Social Research and Development": {
+    "Ecology, Evolution, Behavior and Systematics": 0.05555555555555555,
+    "Soil Science": 0.1111111111111111
+  },
+  "National Academy of Public Administration": {
+    "Ecology, Evolution, Behavior and Systematics": 0.9087301587301587,
+    "Food Science": 0.712121212121212,
+    "General Agricultural and Biological Sciences": 1.1333333333333333,
+    "Insect Science": 0.05555555555555555,
+    "Plant Science": 2.725185925185925,
+    "Soil Science": 0.3333333333333333
+  },
+  "Center for Health Consultation and Community Development": {
+    "Ecology, Evolution, Behavior and Systematics": 0.25,
+    "Food Science": 2.7846560846560853,
+    "General Agricultural and Biological Sciences": 0.05555555555555555,
+    "Horticulture": 0.08333333333333333,
+    "Plant Science": 2.592989417989418
+  },
+  "Hanoi Law University": {
+    "Ecology, Evolution, Behavior and Systematics": 1.0,
+    "General Agricultural and Biological Sciences": 2.3333333333333335,
+    "Insect Science": 0.6666666666666666,
+    "Plant Science": 0.25,
+    "Soil Science": 2.666666666666666
+  },
+  "Vinh Phuc Department of Health": {
+    "Ecology, Evolution, Behavior and Systematics": 0.10833333333333334,
+    "Plant Science": 0.15,
+    "Soil Science": 0.08333333333333333
+  },
+  "Green Innovation and Development Centre": {
+    "Ecology, Evolution, Behavior and Systematics": 0.25,
+    "Food Science": 0.2,
+    "Insect Science": 0.25
+  },
+  "Hoa Sen University": {
+    "Ecology, Evolution, Behavior and Systematics": 0.41666666666666663,
+    "Food Science": 0.18888888888888888,
+    "General Agricultural and Biological Sciences": 0.49999999999999994,
+    "Insect Science": 0.6666666666666666,
+    "Plant Science": 10.31845238095238,
+    "Soil Science": 1.0833333333333333
+  },
+  "University of Hai Duong": {
+    "Ecology, Evolution, Behavior and Systematics": 0.7445887445887445,
+    "Food Science": 2.8870370370370373,
+    "General Agricultural and Biological Sciences": 0.13095238095238093,
+    "Plant Science": 2.8481240981240976,
+    "Soil Science": 0.08333333333333333
+  },
+  "Pan, Nature": {
+    "Ecology, Evolution, Behavior and Systematics": 0.09523809523809523
+  },
+  "National Library of Vietnam": {
+    "Ecology, Evolution, Behavior and Systematics": 1.5366161616161609,
+    "Food Science": 2.254894179894179,
+    "Forestry": 0.12777777777777777,
+    "Horticulture": 0.05,
+    "Plant Science": 9.831671106671093
+  },
+  "Thanhtay University": {
+    "Ecology, Evolution, Behavior and Systematics": 0.08333333333333333
+  },
+  "Vietnam University of Fine Arts": {
+    "Ecology, Evolution, Behavior and Systematics": 0.041666666666666664,
+    "General Agricultural and Biological Sciences": 0.08333333333333333
+  },
+  "The State Bank of Vietnam": {
+    "Ecology, Evolution, Behavior and Systematics": 2.540909090909091,
+    "Food Science": 0.625,
+    "Forestry": 0.08333333333333333,
+    "General Agricultural and Biological Sciences": 1.9777777777777779,
+    "Plant Science": 0.25757575757575757,
+    "Soil Science": 2.1527777777777777
+  },
+  "The Vietnam National Institute of Educational Sciences": {
+    "Ecology, Evolution, Behavior and Systematics": 0.08333333333333333,
+    "Food Science": 0.027777777777777776,
+    "General Agricultural and Biological Sciences": 0.08333333333333333,
+    "Plant Science": 0.625
+  },
+  "Institute for Studies of Society, Economy and Environment": {
+    "Ecology, Evolution, Behavior and Systematics": 0.5,
+    "Food Science": 0.08333333333333333,
+    "Plant Science": 0.0625,
+    "Soil Science": 0.4444444444444444
+  },
+  "Ho Chi Minh National Academy of Politics": {
+    "Ecology, Evolution, Behavior and Systematics": 0.7333333333333333,
+    "Food Science": 0.3531746031746032,
+    "General Agricultural and Biological Sciences": 1.1388888888888888,
+    "Plant Science": 0.6111111111111112,
+    "Soil Science": 1.1666666666666665
+  },
+  "Academy of Policy and Development": {
+    "Ecology, Evolution, Behavior and Systematics": 0.4,
+    "General Agricultural and Biological Sciences": 0.30000000000000004,
+    "Soil Science": 0.08333333333333333
+  },
+  "Applied Biotechnology Institute": {
+    "Ecology, Evolution, Behavior and Systematics": 0.03333333333333333,
+    "Plant Science": 0.03333333333333333
+  },
+  "Dalat Nuclear Research Institute": {
+    "Ecology, Evolution, Behavior and Systematics": 0.047619047619047616,
+    "Plant Science": 0.030303030303030304
+  },
+  "Viet Nam National Academy of Music": {
+    "Ecology, Evolution, Behavior and Systematics": 0.16666666666666666,
+    "Insect Science": 0.16666666666666666,
+    "Plant Science": 0.07142857142857142
+  },
+  "Fulbright University Vietnam": {
+    "Ecology, Evolution, Behavior and Systematics": 0.3125,
+    "General Agricultural and Biological Sciences": 0.125,
+    "Insect Science": 0.16666666666666666,
+    "Plant Science": 0.5,
+    "Soil Science": 0.7777777777777778
+  },
+  "Eastern International University": {
+    "Ecology, Evolution, Behavior and Systematics": 0.7916666666666666,
+    "Food Science": 0.41666666666666663,
+    "Plant Science": 2.625000000000001,
+    "Soil Science": 0.9583333333333333
+  },
+  "Dai Nam University": {
+    "Ecology, Evolution, Behavior and Systematics": 0.38888888888888884,
+    "Plant Science": 0.08333333333333333
+  },
+  "National Council for Science and Technology Policy": {
+    "Ecology, Evolution, Behavior and Systematics": 0.125,
+    "Food Science": 0.16666666666666666
+  },
+  "Viet Nam Government": {
+    "Ecology, Evolution, Behavior and Systematics": 0.125,
+    "Plant Science": 0.125,
+    "Soil Science": 0.125
+  },
+  "Ho Chi Minh City University of Social Sciences and Humanities": {
+    "Ecology, Evolution, Behavior and Systematics": 0.2222222222222222,
+    "Food Science": 1.4333333333333331,
+    "Forestry": 0.16666666666666666,
+    "General Agricultural and Biological Sciences": 0.9166666666666665,
+    "Plant Science": 0.26666666666666666,
+    "Soil Science": 0.3888888888888889
+  },
+  "Ho Chi Minh University of Banking": {
+    "Ecology, Evolution, Behavior and Systematics": 0.3333333333333333,
+    "Food Science": 0.7749999999999999,
+    "General Agricultural and Biological Sciences": 1.3027777777777776,
+    "Plant Science": 0.8999999999999999,
+    "Soil Science": 1.0416666666666667
+  },
+  "Ministry Of Health": {
+    "Food Science": 0.07809728833825219,
+    "Plant Science": 0.0045045045045045045
+  },
+  "General Clinic Phương Nam": {
+    "Food Science": 0.16666666666666666,
+    "Plant Science": 0.02564102564102564
+  },
+  "Hanoi Medical University Hospital": {
+    "Food Science": 0.24122174122174123,
+    "Plant Science": 0.27354497354497354
+  },
+  "PetroVietnam University": {
+    "Food Science": 0.125,
+    "Plant Science": 0.2222222222222222
+  },
+  "Institut Pasteur de Nha Trang": {
+    "Food Science": 0.07142857142857142,
+    "Plant Science": 0.2962962962962963
+  },
+  "University of Economics - Technology for Industries": {
+    "Food Science": 0.16666666666666666
+  },
+  "British University Vietnam": {
+    "Food Science": 1.0
+  },
+  "An Binh Hospital": {
+    "Food Science": 0.047619047619047616,
+    "Plant Science": 0.047619047619047616
+  },
+  "Ministry of science and Technology": {
+    "Food Science": 0.1111111111111111,
+    "Plant Science": 0.1111111111111111
+  },
+  "Thanh Hoa Department of Health": {
+    "Food Science": 0.05555555555555555,
+    "Plant Science": 0.05555555555555555
+  },
+  "Vietnam Aviation Academy": {
+    "Food Science": 0.1
+  },
+  "Hanoi Lung Hospital": {
+    "Food Science": 0.1111111111111111,
+    "Plant Science": 0.1111111111111111
+  },
+  "Institute of Transport Science and Technology": {
+    "Forestry": 0.3333333333333333,
+    "General Agricultural and Biological Sciences": 0.125,
+    "Plant Science": 0.38888888888888884
+  },
+  "Hiep Phuoc Power (Vietnam)": {
+    "Forestry": 0.1111111111111111
+  },
+  "Van Xuan University of Technology": {
+    "General Agricultural and Biological Sciences": 0.16666666666666666
+  },
+  "Microfinance and Community Development Institute": {
+    "General Agricultural and Biological Sciences": 0.3333333333333333,
+    "Plant Science": 1.0,
+    "Soil Science": 0.16666666666666666
+  },
+  "Ho Chi Minh City University of Fine Arts": {
+    "General Agricultural and Biological Sciences": 0.08333333333333333
+  },
+  "Ministry of Agriculture and Rural development": {
+    "Plant Science": 0.023809523809523808
+  },
+  "Ministry of Justice": {
+    "Plant Science": 0.08333333333333333
+  },
+  "Danang Architecture University": {
+    "Plant Science": 0.2111111111111111
+  },
+  "Ministry of Labour, Invalids and Social Affairs": {
+    "Plant Science": 0.05555555555555555,
+    "Soil Science": 0.047619047619047616
+  },
+  "International Centre for Interdisciplinary Science and Education": {
+    "Plant Science": 0.07142857142857142
+  },
+  "Bệnh viện Phổi Trung ương": {
+    "Plant Science": 0.16666666666666666
+  },
+  "The American University of Vietnam": {
+    "Plant Science": 0.08333333333333333
+  }
+}
