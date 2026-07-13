@@ -121,10 +121,14 @@ export function useFieldData(selectedFields) {
           });
 
           const deselectedFields = allSubfields.filter(f => !selectedFields.includes(f));
+          const deselectedDataResults = await Promise.all(
+            deselectedFields.map(async (field) => {
+              const fieldData = await getFieldData(field);
+              return { field, fieldData };
+            })
+          );
 
-          for (const field of deselectedFields) {
-            const fieldData = await getFieldData(field);
-            
+          for (const { field, fieldData } of deselectedDataResults) {
             // Subtract total contribution
             fieldData.ranking.forEach(uniData => {
               if (baseRanking[uniData.university] !== undefined) {
@@ -152,9 +156,14 @@ export function useFieldData(selectedFields) {
           }
         } else {
           // Start from empty and add selected fields
-          for (const field of selectedFields) {
-            const fieldData = await getFieldData(field);
-            
+          const selectedDataResults = await Promise.all(
+            selectedFields.map(async (field) => {
+              const fieldData = await getFieldData(field);
+              return { field, fieldData };
+            })
+          );
+
+          for (const { field, fieldData } of selectedDataResults) {
             // Add total contribution
             fieldData.ranking.forEach(uniData => {
               baseRanking[uniData.university] = (baseRanking[uniData.university] || 0) + (uniData.totalContribution || 0);
