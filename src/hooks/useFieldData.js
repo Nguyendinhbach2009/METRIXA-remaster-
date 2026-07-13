@@ -90,12 +90,12 @@ export function useFieldData(selectedFields) {
       setLoading(true);
       try {
         if (isNowAllSelected) {
-          const module = await import(/* @vite-ignore */ '../data/rankings/overall_rankings.json');
-          const overall = module.default.ranking || [];
+          const overallData = await loadJsonData('rankings/overall_rankings');
+          const overall = overallData.ranking || [];
           setRanking(overall);
           setFieldRankCache(new Map(overall.map((uni, idx) => [uni.university, idx + 1])));
-          setAuthorsByUniversity(module.default.authorsByUniversity || {});
-          setUniFieldContrib(module.default.uniFieldContrib || {});
+          setAuthorsByUniversity(overallData.authorsByUniversity || {});
+          setUniFieldContrib(overallData.uniFieldContrib || {});
           setLoading(false);
           return;
         }
