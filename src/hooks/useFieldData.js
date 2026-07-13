@@ -251,7 +251,7 @@ export function useMainfieldRankings(selectedFields) {
 
         const rankingResults = await Promise.all(Object.keys(fieldsByMainField).map(async (mainField) => {
           try {
-            const mainFieldFileName = mainField.replace(' ', '_').replace('/', '_').replace('&', 'and').toLowerCase();
+            const mainFieldFileName = getFieldFileName(mainField);
             const module = await import(/* @vite-ignore */ '../data/' + mainFieldFileName + '.json');
             return { mainField, data: module.default };
           } catch (err) {
