@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node copy-data.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -16,8 +16,7 @@
     "lucide-react": "^0.554.0",
     "prop-types": "^15.8.1",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "vite-plugin-static-copy": "^4.1.1"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
