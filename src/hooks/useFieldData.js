@@ -4,6 +4,19 @@ import fieldsData from '../data/fields.json';
 
 const subfieldsMap = fieldsData.subfieldsMap || {};
 
+async function loadJsonData(path) {
+  if (import.meta.env.DEV) {
+    const module = await import(/* @vite-ignore */ `../data/${path}.json`);
+    return module.default;
+  } else {
+    const response = await fetch(`${import.meta.env.BASE_URL}data/${path}.json`);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch ${path}.json: ${response.statusText}`);
+    }
+    return await response.json();
+  }
+}
+
 const getAllSubfields = () => {
   const all = [];
   fieldsData.mainFields.forEach(mf => {
@@ -38,8 +51,8 @@ export function useFieldData(selectedFields) {
     
     const fieldFileName = getFieldFileName(field);
     try {
-      const module = await import(/* @vite-ignore */ '../data/rankings/' + getMainFieldFolder(mainField) + '/' + fieldFileName + '.json');
-      const result = { ranking: module.default.ranking || [], authors: module.default.authorsByUniversity || {} };
+      const data = await loadJsonData('rankings/' + getMainFieldFolder(mainField) + '/' + fieldFileName);
+      const result = { ranking: data.ranking || [], authors: data.authorsByUniversity || {} };
       fieldDataCache.current.set(cacheKey, result);
       return result;
     } catch (err) {
@@ -94,17 +107,17 @@ export function useFieldData(selectedFields) {
 
         if (selectedFields.length > allSubfields.length / 2) {
           // Optimization: Start from overall and subtract deselected fields
-          const overallModule = await import(/* @vite-ignore */ '../data/rankings/overall_rankings.json');
-          const overallRanking = overallModule.default.ranking || [];
+          const overallData = await loadJsonData('rankings/overall_rankings');
+          const overallRanking = overallData.ranking || [];
           
           overallRanking.forEach(uni => {
             baseRanking[uni.university] = uni.totalContribution || 0;
             baseAuthors[uni.university] = {};
-            const overallUniAuthors = overallModule.default.authorsByUniversity[uni.university] || [];
+            const overallUniAuthors = overallData.authorsByUniversity[uni.university] || [];
             overallUniAuthors.forEach(a => {
               baseAuthors[uni.university][a.author] = a.contribution || 0;
             });
-            baseFieldContrib[uni.university] = { ...overallModule.default.uniFieldContrib[uni.university] };
+            baseFieldContrib[uni.university] = { ...overallData.uniFieldContrib[uni.university] };
           });
 
           const deselectedFields = allSubfields.filter(f => !selectedFields.includes(f));
@@ -219,8 +232,8 @@ export function useOverallRanking() {
   useEffect(() => {
     const loadOverallRanking = async () => {
       try {
-        const module = await import(/* @vite-ignore */ '../data/rankings/overall_rankings.json');
-        setOverallRanking(module.default.ranking || []);
+        const data = await loadJsonData('rankings/overall_rankings');
+        setOverallRanking(data.ranking || []);
       } catch (error) {
         console.error('Error loading overall ranking data:', error);
         setOverallRanking([]);
@@ -252,8 +265,8 @@ export function useMainfieldRankings(selectedFields) {
         const rankingResults = await Promise.all(Object.keys(fieldsByMainField).map(async (mainField) => {
           try {
             const mainFieldFileName = getFieldFileName(mainField);
-            const module = await import(/* @vite-ignore */ '../data/' + mainFieldFileName + '.json');
-            return { mainField, data: module.default };
+            const data = await loadJsonData(mainFieldFileName);
+            return { mainField, data };
           } catch (err) {
             return { mainField, data: null };
           }
